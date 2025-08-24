@@ -1,51 +1,22 @@
-import puppeteer from "puppeteer-core";
-import chromium from "@sparticuz/chromium";
+import fs from 'fs';
+import path from 'path';
 
-export default async function handler(req, res) {
+export default function handler(req, res) {
   const { id } = req.query;
+  if (!id) return res.status(400).json({ error: 'Missing team id' });
 
-  if (!id) return res.status(400).json({ error: "Missing team id" });
+  const filePath = path.join(process.cwd(), 'data', `team_${id}.json`);
 
   try {
-    const browser = await puppeteer.launch({
-      args: chromium.args,
-      defaultViewport: chromium.defaultViewport,
-      executablePath: await chromium.executablePath(),
-      headless: chromium.headless,
-    });
+    if (!fs.existsSync(filePath)) {
+      return res.status(404).json({ error: 'Team JSON not found' });
+    }
 
-    const page = await browser.newPage();
-    await page.setUserAgent(
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/115.0 Safari/537.36"
-    );
+    const rawData = fs.readFileSync(filePath, 'utf-8');
+    const data = JSON.parse(rawData);
 
-    // Récupère l'équipe
-    const teamInfo = await page.evaluate(async (teamId) => {
-      const res = await fetch(`https://www.sofascore.com/api/v1/team/${teamId}`);
-      const data = await res.json();
-      return { name: data.team?.name || `Team_${teamId}`, raw: data };
-    }, id);
-
-    console.log("Données brutes de l'équipe:", JSON.stringify(teamInfo.raw, null, 2));
-
-    // Récupère les derniers événements
-    const events = await page.evaluate(async (teamId) => {
-      const res = await fetch(`https://www.sofascore.com/api/v1/team/${teamId}/events/last/0`);
-      const data = await res.json();
-      return data.events || [];
-    }, id);
-
-    console.log("Données brutes des événements:", JSON.stringify(events, null, 2));
-
-    await browser.close();
-
-    res.status(200).json({
-      teamId: id,
-      teamName: teamInfo.name,
-      matches: events, // pour l'instant on renvoie brut pour debug
-    });
+    res.status(200).json(data);
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ error: "Failed to fetch team stats", details: err.message });
+    res.status(500).json({ error: 'Failed to read JSON', details: err.message });
   }
 }
