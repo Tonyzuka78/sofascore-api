@@ -1,10 +1,9 @@
 {
   "name": "sofascore-api",
   "version": "1.0.0",
-  "description": "API proxy vers Sofascore",
-  "main": "api/index.js",
   "type": "module",
   "dependencies": {
-    "node-fetch": "^3.3.2"
+    "puppeteer-core": "^21.3.8",
+    "@sparticuz/chromium": "138.0.2"
   }
 }
