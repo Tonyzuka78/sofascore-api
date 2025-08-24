@@ -2,6 +2,11 @@ import fs from 'fs';
 import path from 'path';
 
 
+ // CORS
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
 export default function handler(req, res) {
   const { id } = req.query;
   if (!id) return res.status(400).json({ error: 'Missing team id' });
