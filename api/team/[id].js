@@ -29,8 +29,9 @@ export default async function handler(req, res) {
     }, id);
 
     const ONE_YEAR_AGO = Date.now() - 365 * 24 * 60 * 60 * 1000;
-    let pageNum = 0;
-    let done = false;
+let pageNum = 0;
+let done = false;
+const MAX_PAGES = 1; // ← on limite à 1 page / 1 match
     const matchesJSON = [];
 
     while (!done) {
@@ -124,6 +125,7 @@ export default async function handler(req, res) {
 
       if (recentMatchesInPage === 0) done = true;
       else pageNum++;
+  	if (pageNum >= MAX_PAGES) done = true; // ← stoppe après 1 page
     }
 
     await browser.close();
