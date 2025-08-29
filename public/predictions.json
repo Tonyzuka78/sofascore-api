@@ -1,5 +1,48 @@
 [
   {
+    "matchId": 13443608,
+    "date": "29/08/2025 13:00",
+    "league": "Liga de Primera",
+    "season": "2025",
+    "homeTeam": "Everton de Viña del Mar",
+    "awayTeam": "Deportes La Serena",
+    "homeProb": 0.51,
+    "drawProb": 0.25,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.5727272727272728,
+    "expectedAwayGoals": 1,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.13
+      },
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.68,
+    "under15Prob": 0.32,
+    "over25Prob": 0.42,
+    "under25Prob": 0.58,
+    "homeGoalsForTotal": 21,
+    "homeGoalsAgainstTotal": 30,
+    "homeAvgGoalsFor": 1.05,
+    "homeAvgGoalsAgainst": 1.5,
+    "homeMatchesSample": 20,
+    "awayGoalsForTotal": 24,
+    "awayGoalsAgainstTotal": 38,
+    "awayAvgGoalsFor": 1.14,
+    "awayAvgGoalsAgainst": 1.81,
+    "awayMatchesSample": 21,
+    "homeSeasonUsed": "2025",
+    "awaySeasonUsed": "2025"
+  },
+  {
     "matchId": 13522611,
     "date": "29/08/2025 13:00",
     "league": "Chinese Super League",
@@ -7,9 +50,9 @@
     "homeTeam": "Qingdao Hainiu",
     "awayTeam": "Henan FC Jiuzu Dukang",
     "homeProb": 0.48,
-    "drawProb": -0.05,
-    "awayProb": 0.57,
-    "expectedHomeGoals": 1.4727272727272727,
+    "drawProb": 0.25,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.5727272727272728,
     "expectedAwayGoals": 1.1272727272727272,
     "scoreScenarios": [
       {
@@ -21,14 +64,14 @@
         "prob": 0.09
       },
       {
-        "score": "0-1",
+        "score": "2-1",
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.78,
-    "under15Prob": 0.22,
-    "over25Prob": 0.56,
-    "under25Prob": 0.44,
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.57,
+    "under25Prob": 0.43,
     "homeGoalsForTotal": 20,
     "homeGoalsAgainstTotal": 34,
     "homeAvgGoalsFor": 0.91,
@@ -49,10 +92,10 @@
     "season": "25/26",
     "homeTeam": "PFK Montana 1921",
     "awayTeam": "FK Dobrudzha Dobrich",
-    "homeProb": 0.72,
-    "drawProb": -0.05,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.2666666666666666,
+    "homeProb": 0.57,
+    "drawProb": 0.28,
+    "awayProb": 0.14,
+    "expectedHomeGoals": 1.3666666666666667,
     "expectedAwayGoals": 0.5333333333333333,
     "scoreScenarios": [
       {
@@ -61,17 +104,17 @@
       },
       {
         "score": "0-0",
-        "prob": 0.16
+        "prob": 0.15
       },
       {
         "score": "1-1",
         "prob": 0.12
       }
     ],
-    "over15Prob": 0.55,
-    "under15Prob": 0.45,
-    "over25Prob": 0.28,
-    "under25Prob": 0.72,
+    "over15Prob": 0.57,
+    "under15Prob": 0.43,
+    "over25Prob": 0.3,
+    "under25Prob": 0.7,
     "homeGoalsForTotal": 4,
     "homeGoalsAgainstTotal": 11,
     "homeAvgGoalsFor": 0.67,
@@ -92,10 +135,10 @@
     "season": "25/26",
     "homeTeam": "Al-Hilal",
     "awayTeam": "Al-Riyadh",
-    "homeProb": 0.96,
-    "drawProb": -0.05,
-    "awayProb": 0.09,
-    "expectedHomeGoals": 2.5875,
+    "homeProb": 0.71,
+    "drawProb": 0.16,
+    "awayProb": 0.13,
+    "expectedHomeGoals": 2.6875,
     "expectedAwayGoals": 1.0499999999999998,
     "scoreScenarios": [
       {
@@ -135,29 +178,29 @@
     "season": "25/26",
     "homeTeam": "Botev Vratsa",
     "awayTeam": "Cherno More Varna",
-    "homeProb": 0.43,
-    "drawProb": -0.05,
-    "awayProb": 0.62,
-    "expectedHomeGoals": 0.26666666666666666,
+    "homeProb": 0.13,
+    "drawProb": 0.36,
+    "awayProb": 0.51,
+    "expectedHomeGoals": 0.3666666666666667,
     "expectedAwayGoals": 1,
     "scoreScenarios": [
       {
         "score": "0-1",
-        "prob": 0.23
+        "prob": 0.22
       },
       {
         "score": "0-0",
-        "prob": 0.19
+        "prob": 0.17
       },
       {
         "score": "0-2",
-        "prob": 0.14
+        "prob": 0.13
       }
     ],
-    "over15Prob": 0.5,
-    "under15Prob": 0.5,
-    "over25Prob": 0.23,
-    "under25Prob": 0.77,
+    "over15Prob": 0.52,
+    "under15Prob": 0.48,
+    "over25Prob": 0.25,
+    "under25Prob": 0.75,
     "homeGoalsForTotal": 5,
     "homeGoalsAgainstTotal": 4,
     "homeAvgGoalsFor": 0.83,
@@ -178,10 +221,10 @@
     "season": "25/26",
     "homeTeam": "Elche",
     "awayTeam": "Levante UD",
-    "homeProb": 0.69,
-    "drawProb": -0.05,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 1.4,
+    "homeProb": 0.49,
+    "drawProb": 0.26,
+    "awayProb": 0.25,
+    "expectedHomeGoals": 1.5,
     "expectedAwayGoals": 1,
     "scoreScenarios": [
       {
@@ -194,13 +237,13 @@
       },
       {
         "score": "0-1",
-        "prob": 0.1
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.7,
-    "under15Prob": 0.3,
-    "over25Prob": 0.44,
-    "under25Prob": 0.56,
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.46,
+    "under25Prob": 0.54,
     "homeGoalsForTotal": 2,
     "homeGoalsAgainstTotal": 2,
     "homeAvgGoalsFor": 1,
@@ -221,29 +264,29 @@
     "season": "25/26",
     "homeTeam": "Real Sociedad B",
     "awayTeam": "Almería",
-    "homeProb": 0.47,
-    "drawProb": -0.05,
-    "awayProb": 0.58,
-    "expectedHomeGoals": 0.6,
+    "homeProb": 0.33,
+    "drawProb": 0.4,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 0.7,
     "expectedAwayGoals": 0.6,
     "scoreScenarios": [
       {
         "score": "0-1",
-        "prob": 0.21
-      },
-      {
-        "score": "0-0",
         "prob": 0.2
       },
       {
-        "score": "0-2",
+        "score": "0-0",
+        "prob": 0.18
+      },
+      {
+        "score": "1-1",
         "prob": 0.12
       }
     ],
-    "over15Prob": 0.49,
-    "under15Prob": 0.51,
-    "over25Prob": 0.22,
-    "under25Prob": 0.78,
+    "over15Prob": 0.51,
+    "under15Prob": 0.49,
+    "over25Prob": 0.24,
+    "under25Prob": 0.76,
     "homeGoalsForTotal": 1,
     "homeGoalsAgainstTotal": 1,
     "homeAvgGoalsFor": 0.5,
@@ -264,10 +307,10 @@
     "season": "25/26",
     "homeTeam": "Al-Shabab",
     "awayTeam": "Al-Khaleej",
-    "homeProb": 0.82,
-    "drawProb": -0.05,
-    "awayProb": 0.23,
-    "expectedHomeGoals": 2.0999999999999996,
+    "homeProb": 0.61,
+    "drawProb": 0.2,
+    "awayProb": 0.19,
+    "expectedHomeGoals": 2.1999999999999997,
     "expectedAwayGoals": 1.1625,
     "scoreScenarios": [
       {
@@ -283,10 +326,10 @@
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
-    "over25Prob": 0.62,
-    "under25Prob": 0.38,
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.63,
+    "under25Prob": 0.37,
     "homeGoalsForTotal": 65,
     "homeGoalsAgainstTotal": 40,
     "homeAvgGoalsFor": 1.97,
@@ -307,10 +350,10 @@
     "season": "25/26",
     "homeTeam": "Al-Taawoun",
     "awayTeam": "Al-Nassr",
-    "homeProb": 0.33,
-    "drawProb": -0.05,
-    "awayProb": 0.72,
-    "expectedHomeGoals": 1.3624999999999998,
+    "homeProb": 0.28,
+    "drawProb": 0.22,
+    "awayProb": 0.5,
+    "expectedHomeGoals": 1.4625,
     "expectedAwayGoals": 1.9874999999999998,
     "scoreScenarios": [
       {
@@ -322,14 +365,14 @@
         "prob": 0.08
       },
       {
-        "score": "1-3",
+        "score": "2-2",
         "prob": 0.07
       }
     ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.68,
-    "under25Prob": 0.32,
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.69,
+    "under25Prob": 0.31,
     "homeGoalsForTotal": 39,
     "homeGoalsAgainstTotal": 39,
     "homeAvgGoalsFor": 1.18,
@@ -350,10 +393,10 @@
     "season": "25/26",
     "homeTeam": "Salford City",
     "awayTeam": "Cheltenham Town",
-    "homeProb": 0.86,
-    "drawProb": -0.05,
-    "awayProb": 0.19,
-    "expectedHomeGoals": 2.1,
+    "homeProb": 0.69,
+    "drawProb": 0.19,
+    "awayProb": 0.12,
+    "expectedHomeGoals": 2.2,
     "expectedAwayGoals": 0.8,
     "scoreScenarios": [
       {
@@ -369,10 +412,10 @@
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.42,
-    "under25Prob": 0.58,
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.43,
+    "under25Prob": 0.57,
     "homeGoalsForTotal": 6,
     "homeGoalsAgainstTotal": 6,
     "homeAvgGoalsFor": 1.2,
@@ -393,10 +436,10 @@
     "season": "2025",
     "homeTeam": "Deportes Magallanes",
     "awayTeam": "Unión San Felipe",
-    "homeProb": 0.63,
-    "drawProb": -0.05,
-    "awayProb": 0.42,
-    "expectedHomeGoals": 1.2945454545454544,
+    "homeProb": 0.46,
+    "drawProb": 0.27,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.3945454545454545,
     "expectedAwayGoals": 0.9872727272727273,
     "scoreScenarios": [
       {
@@ -412,10 +455,10 @@
         "prob": 0.12
       }
     ],
-    "over15Prob": 0.61,
-    "under15Prob": 0.39,
-    "over25Prob": 0.34,
-    "under25Prob": 0.66,
+    "over15Prob": 0.63,
+    "under15Prob": 0.37,
+    "over25Prob": 0.36,
+    "under25Prob": 0.64,
     "homeGoalsForTotal": 17,
     "homeGoalsAgainstTotal": 27,
     "homeAvgGoalsFor": 0.77,
@@ -436,10 +479,10 @@
     "season": "25/26",
     "homeTeam": "FK Septemvri Sofia",
     "awayTeam": "Lokomotiv Sofia",
-    "homeProb": 0.4,
-    "drawProb": -0.05,
-    "awayProb": 0.65,
-    "expectedHomeGoals": 1.1333333333333333,
+    "homeProb": 0.37,
+    "drawProb": 0.27,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 1.2333333333333334,
     "expectedAwayGoals": 1.2,
     "scoreScenarios": [
       {
@@ -452,13 +495,13 @@
       },
       {
         "score": "0-1",
-        "prob": 0.12
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0.63,
-    "under15Prob": 0.37,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64,
+    "over15Prob": 0.65,
+    "under15Prob": 0.35,
+    "over25Prob": 0.38,
+    "under25Prob": 0.62,
     "homeGoalsForTotal": 6,
     "homeGoalsAgainstTotal": 15,
     "homeAvgGoalsFor": 1,
@@ -479,10 +522,10 @@
     "season": "25/26",
     "homeTeam": "Leicester City",
     "awayTeam": "Birmingham City",
-    "homeProb": 0.51,
-    "drawProb": -0.05,
-    "awayProb": 0.54,
-    "expectedHomeGoals": 1.6,
+    "homeProb": 0.41,
+    "drawProb": 0.23,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.7000000000000002,
     "expectedAwayGoals": 1.6,
     "scoreScenarios": [
       {
@@ -490,18 +533,18 @@
         "prob": 0.11
       },
       {
-        "score": "1-2",
-        "prob": 0.08
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "2-1",
+        "score": "1-2",
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.79,
-    "under15Prob": 0.21,
-    "over25Prob": 0.57,
-    "under25Prob": 0.43,
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.58,
+    "under25Prob": 0.42,
     "homeGoalsForTotal": 4,
     "homeGoalsAgainstTotal": 3,
     "homeAvgGoalsFor": 1.33,
@@ -522,29 +565,29 @@
     "season": "25/26",
     "homeTeam": "Valencia",
     "awayTeam": "Getafe",
-    "homeProb": 0.27,
-    "drawProb": -0.05,
-    "awayProb": 0.78,
-    "expectedHomeGoals": 0.8,
+    "homeProb": 0.21,
+    "drawProb": 0.25,
+    "awayProb": 0.54,
+    "expectedHomeGoals": 0.9,
     "expectedAwayGoals": 1.6,
     "scoreScenarios": [
       {
         "score": "0-1",
-        "prob": 0.16
+        "prob": 0.14
       },
       {
         "score": "0-2",
-        "prob": 0.13
+        "prob": 0.12
       },
       {
         "score": "1-1",
         "prob": 0.11
       }
     ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.42,
-    "under25Prob": 0.58,
+    "over15Prob": 0.7,
+    "under15Prob": 0.3,
+    "over25Prob": 0.44,
+    "under25Prob": 0.56,
     "homeGoalsForTotal": 1,
     "homeGoalsAgainstTotal": 2,
     "homeAvgGoalsFor": 0.5,
@@ -565,10 +608,10 @@
     "season": "25/26",
     "homeTeam": "Sporting Gijón",
     "awayTeam": "Cultural Leonesa",
-    "homeProb": 1.09,
-    "drawProb": -0.05,
-    "awayProb": -0.04,
-    "expectedHomeGoals": 3.2,
+    "homeProb": 0.8,
+    "drawProb": 0.12,
+    "awayProb": 0.08,
+    "expectedHomeGoals": 3.3000000000000003,
     "expectedAwayGoals": 1,
     "scoreScenarios": [
       {
@@ -586,8 +629,8 @@
     ],
     "over15Prob": 0.81,
     "under15Prob": 0.19,
-    "over25Prob": 0.62,
-    "under25Prob": 0.38,
+    "over25Prob": 0.63,
+    "under25Prob": 0.37,
     "homeGoalsForTotal": 3,
     "homeGoalsAgainstTotal": 1,
     "homeAvgGoalsFor": 1.5,
@@ -608,29 +651,29 @@
     "season": "2025",
     "homeTeam": "Unión La Calera",
     "awayTeam": "Palestino",
-    "homeProb": 0.41,
-    "drawProb": -0.05,
-    "awayProb": 0.64,
-    "expectedHomeGoals": 1.04,
+    "homeProb": 0.34,
+    "drawProb": 0.28,
+    "awayProb": 0.38,
+    "expectedHomeGoals": 1.1400000000000001,
     "expectedAwayGoals": 1.2200000000000002,
     "scoreScenarios": [
       {
         "score": "0-1",
-        "prob": 0.16
+        "prob": 0.15
       },
       {
         "score": "0-0",
-        "prob": 0.16
+        "prob": 0.15
       },
       {
         "score": "1-1",
         "prob": 0.13
       }
     ],
-    "over15Prob": 0.54,
-    "under15Prob": 0.46,
-    "over25Prob": 0.28,
-    "under25Prob": 0.72,
+    "over15Prob": 0.56,
+    "under15Prob": 0.44,
+    "over25Prob": 0.29,
+    "under25Prob": 0.71,
     "homeGoalsForTotal": 17,
     "homeGoalsAgainstTotal": 22,
     "homeAvgGoalsFor": 0.81,
@@ -651,29 +694,29 @@
     "season": "2025",
     "homeTeam": "Deportes Concepción",
     "awayTeam": "Santiago Morning",
-    "homeProb": 0.51,
-    "drawProb": -0.05,
-    "awayProb": 0.54,
-    "expectedHomeGoals": 0.9890909090909091,
+    "homeProb": 0.37,
+    "drawProb": 0.3,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.089090909090909,
     "expectedAwayGoals": 1.0145454545454544,
     "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.16
-      },
       {
         "score": "1-0",
         "prob": 0.16
       },
       {
-        "score": "0-1",
+        "score": "0-0",
+        "prob": 0.15
+      },
+      {
+        "score": "1-1",
         "prob": 0.13
       }
     ],
-    "over15Prob": 0.55,
-    "under15Prob": 0.45,
-    "over25Prob": 0.28,
-    "under25Prob": 0.72,
+    "over15Prob": 0.57,
+    "under15Prob": 0.43,
+    "over25Prob": 0.3,
+    "under25Prob": 0.7,
     "homeGoalsForTotal": 26,
     "homeGoalsAgainstTotal": 27,
     "homeAvgGoalsFor": 1.18,
@@ -694,10 +737,10 @@
     "season": "25/26",
     "homeTeam": "Athletic Club",
     "awayTeam": "Costa Adeje Tenerife",
-    "homeProb": 0.32,
-    "drawProb": -0.05,
-    "awayProb": 0.73,
-    "expectedHomeGoals": 1.2266666666666666,
+    "homeProb": 0.52,
+    "drawProb": 0.29,
+    "awayProb": 0.2,
+    "expectedHomeGoals": 1.3266666666666667,
     "expectedAwayGoals": 0.7066666666666667,
     "scoreScenarios": [
       {
@@ -706,17 +749,17 @@
       },
       {
         "score": "0-1",
-        "prob": 0.13
+        "prob": 0.12
       },
       {
         "score": "1-0",
         "prob": 0.12
       }
     ],
-    "over15Prob": 0.63,
-    "under15Prob": 0.37,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64,
+    "over15Prob": 0.65,
+    "under15Prob": 0.35,
+    "over25Prob": 0.38,
+    "under25Prob": 0.62,
     "homeGoalsForTotal": 40,
     "homeGoalsAgainstTotal": 32,
     "homeAvgGoalsFor": 1.33,
@@ -737,29 +780,29 @@
     "season": "25/26",
     "homeTeam": "Levante UD",
     "awayTeam": "Granada Club de Fútbol",
-    "homeProb": 0.63,
-    "drawProb": -0.05,
-    "awayProb": 0.42,
-    "expectedHomeGoals": 0.8,
+    "homeProb": 0.34,
+    "drawProb": 0.33,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 0.9,
     "expectedAwayGoals": 0.8799999999999999,
     "scoreScenarios": [
       {
         "score": "0-0",
-        "prob": 0.22
-      },
-      {
-        "score": "0-1",
         "prob": 0.21
       },
       {
+        "score": "0-1",
+        "prob": 0.2
+      },
+      {
         "score": "1-0",
-        "prob": 0.12
+        "prob": 0.13
       }
     ],
-    "over15Prob": 0.44,
-    "under15Prob": 0.56,
-    "over25Prob": 0.19,
-    "under25Prob": 0.81,
+    "over15Prob": 0.47,
+    "under15Prob": 0.53,
+    "over25Prob": 0.21,
+    "under25Prob": 0.79,
     "homeGoalsForTotal": 67,
     "homeGoalsAgainstTotal": 44,
     "homeAvgGoalsFor": 1.63,
@@ -780,29 +823,29 @@
     "season": "25/26",
     "homeTeam": "Chelsea",
     "awayTeam": "Fulham",
-    "homeProb": 0.77,
-    "drawProb": -0.05,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 0.4,
+    "homeProb": 0.25,
+    "drawProb": 0.44,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 0.5,
     "expectedAwayGoals": 0.6,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.18
+        "prob": 0.17
       },
       {
         "score": "0-0",
-        "prob": 0.15
+        "prob": 0.14
       },
       {
         "score": "1-1",
         "prob": 0.13
       }
     ],
-    "over15Prob": 0.56,
-    "under15Prob": 0.44,
-    "over25Prob": 0.29,
-    "under25Prob": 0.71,
+    "over15Prob": 0.58,
+    "under15Prob": 0.42,
+    "over25Prob": 0.31,
+    "under25Prob": 0.69,
     "homeGoalsForTotal": 5,
     "homeGoalsAgainstTotal": 1,
     "homeAvgGoalsFor": 2.5,
@@ -823,29 +866,29 @@
     "season": "25/26",
     "homeTeam": "Middlesbrough",
     "awayTeam": "Sheffield United",
-    "homeProb": 0.96,
-    "drawProb": -0.05,
-    "awayProb": 0.09,
-    "expectedHomeGoals": 1,
+    "homeProb": 0.67,
+    "drawProb": 0.33,
+    "awayProb": 0,
+    "expectedHomeGoals": 1.1,
     "expectedAwayGoals": 0,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.33
+        "prob": 0.32
       },
       {
         "score": "0-0",
-        "prob": 0.25
+        "prob": 0.23
       },
       {
         "score": "2-0",
-        "prob": 0.22
+        "prob": 0.23
       }
     ],
-    "over15Prob": 0.4,
-    "under15Prob": 0.6,
-    "over25Prob": 0.16,
-    "under25Prob": 0.84,
+    "over15Prob": 0.43,
+    "under15Prob": 0.57,
+    "over25Prob": 0.18,
+    "under25Prob": 0.82,
     "homeGoalsForTotal": 6,
     "homeGoalsAgainstTotal": 1,
     "homeAvgGoalsFor": 2,
@@ -866,15 +909,15 @@
     "season": "25/26",
     "homeTeam": "Queens Park Rangers",
     "awayTeam": "Charlton Athletic",
-    "homeProb": 0.29,
-    "drawProb": -0.05,
-    "awayProb": 0.76,
-    "expectedHomeGoals": 0.6,
+    "homeProb": 0.38,
+    "drawProb": 0.43,
+    "awayProb": 0.19,
+    "expectedHomeGoals": 0.7,
     "expectedAwayGoals": 0.4,
     "scoreScenarios": [
       {
         "score": "0-0",
-        "prob": 0.34
+        "prob": 0.32
       },
       {
         "score": "1-0",
@@ -882,13 +925,13 @@
       },
       {
         "score": "0-1",
-        "prob": 0.12
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0.29,
-    "under15Prob": 0.71,
-    "over25Prob": 0.09,
-    "under25Prob": 0.91,
+    "over15Prob": 0.31,
+    "under15Prob": 0.69,
+    "over25Prob": 0.11,
+    "under25Prob": 0.89,
     "homeGoalsForTotal": 3,
     "homeGoalsAgainstTotal": 10,
     "homeAvgGoalsFor": 1,
@@ -909,10 +952,10 @@
     "season": "25/26",
     "homeTeam": "Stoke City",
     "awayTeam": "West Bromwich Albion",
-    "homeProb": 0.72,
-    "drawProb": -0.05,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 2.5999999999999996,
+    "homeProb": 0.49,
+    "drawProb": 0.19,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 2.6999999999999997,
     "expectedAwayGoals": 2.1999999999999997,
     "scoreScenarios": [
       {
@@ -930,8 +973,8 @@
     ],
     "over15Prob": 0.88,
     "under15Prob": 0.12,
-    "over25Prob": 0.77,
-    "under25Prob": 0.23,
+    "over25Prob": 0.78,
+    "under25Prob": 0.22,
     "homeGoalsForTotal": 8,
     "homeGoalsAgainstTotal": 2,
     "homeAvgGoalsFor": 2.67,
@@ -952,15 +995,15 @@
     "season": "25/26",
     "homeTeam": "Barrow AFC",
     "awayTeam": "Fleetwood Town",
-    "homeProb": 0.55,
-    "drawProb": -0.05,
-    "awayProb": 0.5,
-    "expectedHomeGoals": 1,
+    "homeProb": 0.23,
+    "drawProb": 0.23,
+    "awayProb": 0.54,
+    "expectedHomeGoals": 1.1,
     "expectedAwayGoals": 1.8,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
+        "prob": 0.11
       },
       {
         "score": "0-1",
@@ -971,10 +1014,10 @@
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.5,
-    "under25Prob": 0.5,
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.51,
+    "under25Prob": 0.49,
     "homeGoalsForTotal": 4,
     "homeGoalsAgainstTotal": 5,
     "homeAvgGoalsFor": 0.8,
@@ -995,10 +1038,10 @@
     "season": "25/26",
     "homeTeam": "Crewe Alexandra",
     "awayTeam": "Swindon Town",
-    "homeProb": 0.7,
-    "drawProb": -0.05,
-    "awayProb": 0.35,
-    "expectedHomeGoals": 1.5,
+    "homeProb": 0.54,
+    "drawProb": 0.25,
+    "awayProb": 0.21,
+    "expectedHomeGoals": 1.6,
     "expectedAwayGoals": 0.8999999999999999,
     "scoreScenarios": [
       {
@@ -1011,13 +1054,13 @@
       },
       {
         "score": "2-1",
-        "prob": 0.09
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.49,
-    "under25Prob": 0.51,
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.5,
+    "under25Prob": 0.5,
     "homeGoalsForTotal": 10,
     "homeGoalsAgainstTotal": 3,
     "homeAvgGoalsFor": 2,
@@ -1038,10 +1081,10 @@
     "season": "25/26",
     "homeTeam": "Cardiff City",
     "awayTeam": "Plymouth Argyle",
-    "homeProb": 0.89,
-    "drawProb": -0.05,
-    "awayProb": 0.16,
-    "expectedHomeGoals": 2.5,
+    "homeProb": 0.76,
+    "drawProb": 0.15,
+    "awayProb": 0.09,
+    "expectedHomeGoals": 2.6,
     "expectedAwayGoals": 0.8,
     "scoreScenarios": [
       {
@@ -1057,10 +1100,10 @@
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.77,
-    "under15Prob": 0.23,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.55,
+    "under25Prob": 0.45,
     "homeGoalsForTotal": 7,
     "homeGoalsAgainstTotal": 1,
     "homeAvgGoalsFor": 1.4,
@@ -1081,29 +1124,29 @@
     "season": "25/26",
     "homeTeam": "Doncaster Rovers",
     "awayTeam": "Rotherham United",
-    "homeProb": 0.77,
-    "drawProb": -0.05,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 1.4,
+    "homeProb": 0.71,
+    "drawProb": 0.24,
+    "awayProb": 0.05,
+    "expectedHomeGoals": 1.5,
     "expectedAwayGoals": 0.2,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.23
+        "prob": 0.22
       },
       {
         "score": "0-0",
-        "prob": 0.18
+        "prob": 0.17
       },
       {
         "score": "2-0",
-        "prob": 0.14
+        "prob": 0.15
       }
     ],
-    "over15Prob": 0.5,
-    "under15Prob": 0.5,
-    "over25Prob": 0.24,
-    "under25Prob": 0.76,
+    "over15Prob": 0.53,
+    "under15Prob": 0.47,
+    "over25Prob": 0.26,
+    "under25Prob": 0.74,
     "homeGoalsForTotal": 5,
     "homeGoalsAgainstTotal": 4,
     "homeAvgGoalsFor": 1,
@@ -1124,29 +1167,29 @@
     "season": "25/26",
     "homeTeam": "Solihull Moors",
     "awayTeam": "Southend United",
-    "homeProb": 0.13,
-    "drawProb": -0.05,
-    "awayProb": 0.92,
-    "expectedHomeGoals": 0.8999999999999999,
+    "homeProb": 0.12,
+    "drawProb": 0.16,
+    "awayProb": 0.71,
+    "expectedHomeGoals": 0.9999999999999999,
     "expectedAwayGoals": 2.6,
     "scoreScenarios": [
       {
         "score": "0-2",
-        "prob": 0.12
+        "prob": 0.11
       },
       {
         "score": "0-1",
-        "prob": 0.11
+        "prob": 0.1
       },
       {
         "score": "1-2",
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.77,
-    "under15Prob": 0.23,
-    "over25Prob": 0.55,
-    "under25Prob": 0.45,
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.56,
+    "under25Prob": 0.44,
     "homeGoalsForTotal": 4,
     "homeGoalsAgainstTotal": 10,
     "homeAvgGoalsFor": 0.8,
@@ -1167,10 +1210,10 @@
     "season": "2025",
     "homeTeam": "Chengdu Rongcheng",
     "awayTeam": "Shanghai Port",
-    "homeProb": 0.61,
-    "drawProb": -0.05,
+    "homeProb": 0.34,
+    "drawProb": 0.22,
     "awayProb": 0.44,
-    "expectedHomeGoals": 1.5418181818181818,
+    "expectedHomeGoals": 1.6418181818181818,
     "expectedAwayGoals": 1.8981818181818182,
     "scoreScenarios": [
       {
@@ -1179,7 +1222,7 @@
       },
       {
         "score": "1-1",
-        "prob": 0.08
+        "prob": 0.07
       },
       {
         "score": "2-2",
@@ -1188,8 +1231,8 @@
     ],
     "over15Prob": 0.87,
     "under15Prob": 0.13,
-    "over25Prob": 0.72,
-    "under25Prob": 0.28,
+    "over25Prob": 0.73,
+    "under25Prob": 0.27,
     "homeGoalsForTotal": 44,
     "homeGoalsAgainstTotal": 17,
     "homeAvgGoalsFor": 2,
