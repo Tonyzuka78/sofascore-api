@@ -10,29 +10,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 21,
     "awayMatchesUsed": 21,
-    "homeProb": 0.51,
-    "drawProb": 0.38,
+    "homeGoalsFor": 66,
+    "homeGoalsAgainst": 22,
+    "awayGoalsFor": 20,
+    "awayGoalsAgainst": 28,
+    "homeProb": 0.72,
+    "drawProb": 0.16,
     "awayProb": 0.12,
-    "expectedHomeGoals": 0.9405454545454546,
-    "expectedAwayGoals": 0.30872727272727274,
+    "expectedHomeGoals": 2.619047619047619,
+    "expectedAwayGoals": 0.9904761904761905,
     "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.32
-      },
-      {
-        "score": "1-0",
-        "prob": 0.29
-      },
       {
         "score": "2-0",
         "prob": 0.13
+      },
+      {
+        "score": "1-0",
+        "prob": 0.12
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.31,
-    "under15Prob": 0.69,
-    "over25Prob": 0.11,
-    "under25Prob": 0.89
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.51,
+    "under25Prob": 0.49
   },
   {
     "matchId": 14083501,
@@ -45,29 +49,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 45,
     "awayMatchesUsed": 42,
-    "homeProb": 0.4,
-    "drawProb": 0.23,
+    "homeGoalsFor": 57,
+    "homeGoalsAgainst": 57,
+    "awayGoalsFor": 57,
+    "awayGoalsAgainst": 39,
+    "homeProb": 0.37,
+    "drawProb": 0.26,
     "awayProb": 0.37,
-    "expectedHomeGoals": 1.6640000000000001,
-    "expectedAwayGoals": 1.6008571428571428,
+    "expectedHomeGoals": 1.3314285714285714,
+    "expectedAwayGoals": 1.3209523809523809,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.1
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
       },
       {
         "score": "2-1",
         "prob": 0.09
-      },
-      {
-        "score": "1-2",
-        "prob": 0.08
       }
     ],
-    "over15Prob": 0.81,
-    "under15Prob": 0.19,
-    "over25Prob": 0.6,
-    "under25Prob": 0.4
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.51,
+    "under25Prob": 0.49
   },
   {
     "matchId": 14083571,
@@ -80,29 +88,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 43,
     "awayMatchesUsed": 42,
-    "homeProb": 0.44,
-    "drawProb": 0.22,
-    "awayProb": 0.34,
-    "expectedHomeGoals": 1.889736842105263,
-    "expectedAwayGoals": 1.6597894736842105,
+    "homeGoalsFor": 57,
+    "homeGoalsAgainst": 60,
+    "awayGoalsFor": 63,
+    "awayGoalsAgainst": 62,
+    "homeProb": 0.41,
+    "drawProb": 0.24,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 1.5858250276854928,
+    "expectedAwayGoals": 1.458139534883721,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.11
+        "prob": 0.12
       },
       {
-        "score": "2-1",
-        "prob": 0.08
+        "score": "0-1",
+        "prob": 0.09
       },
       {
-        "score": "1-2",
-        "prob": 0.08
+        "score": "1-0",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.8,
-    "under15Prob": 0.2,
-    "over25Prob": 0.59,
-    "under25Prob": 0.41
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.5,
+    "under25Prob": 0.5
   },
   {
     "matchId": 14445119,
@@ -115,11 +127,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.46,
-    "drawProb": 0.23,
-    "awayProb": 0.31,
-    "expectedHomeGoals": 1.75,
-    "expectedAwayGoals": 1.4,
+    "homeGoalsFor": 13,
+    "homeGoalsAgainst": 9,
+    "awayGoalsFor": 26,
+    "awayGoalsAgainst": 9,
+    "homeProb": 0.27,
+    "drawProb": 0.22,
+    "awayProb": 0.51,
+    "expectedHomeGoals": 1.3400000000000003,
+    "expectedAwayGoals": 1.9200000000000002,
     "scoreScenarios": [
       {
         "score": "1-2",
@@ -127,17 +143,17 @@
       },
       {
         "score": "1-1",
-        "prob": 0.09
+        "prob": 0.08
       },
       {
-        "score": "2-2",
-        "prob": 0.07
+        "score": "0-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.67,
-    "under25Prob": 0.33
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.66,
+    "under25Prob": 0.34
   },
   {
     "matchId": 14115325,
@@ -150,29 +166,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 27,
     "awayMatchesUsed": 29,
-    "homeProb": 0.62,
-    "drawProb": 0.23,
-    "awayProb": 0.15,
-    "expectedHomeGoals": 1.765934065934066,
-    "expectedAwayGoals": 0.7428571428571429,
+    "homeGoalsFor": 28,
+    "homeGoalsAgainst": 30,
+    "awayGoalsFor": 21,
+    "awayGoalsAgainst": 40,
+    "homeProb": 0.48,
+    "drawProb": 0.28,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.3739463601532569,
+    "expectedAwayGoals": 0.878927203065134,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.18
+        "prob": 0.17
       },
       {
         "score": "0-0",
-        "prob": 0.13
+        "prob": 0.14
       },
       {
-        "score": "2-0",
+        "score": "1-1",
         "prob": 0.13
       }
     ],
-    "over15Prob": 0.6,
-    "under15Prob": 0.4,
-    "over25Prob": 0.33,
-    "under25Prob": 0.67
+    "over15Prob": 0.58,
+    "under15Prob": 0.42,
+    "over25Prob": 0.31,
+    "under25Prob": 0.69
   },
   {
     "matchId": 14115326,
@@ -185,22 +205,26 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 34,
     "awayMatchesUsed": 29,
-    "homeProb": 0.54,
-    "drawProb": 0.25,
-    "awayProb": 0.21,
-    "expectedHomeGoals": 1.5756302521008405,
-    "expectedAwayGoals": 0.8756302521008403,
+    "homeGoalsFor": 38,
+    "homeGoalsAgainst": 41,
+    "awayGoalsFor": 31,
+    "awayGoalsAgainst": 30,
+    "homeProb": 0.4,
+    "drawProb": 0.28,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 1.2843813387423937,
+    "expectedAwayGoals": 1.1237322515212982,
     "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.15
-      },
       {
         "score": "1-1",
         "prob": 0.13
       },
       {
-        "score": "0-0",
+        "score": "1-0",
+        "prob": 0.13
+      },
+      {
+        "score": "0-1",
         "prob": 0.11
       }
     ],
@@ -220,29 +244,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 21,
     "awayMatchesUsed": 21,
-    "homeProb": 0.28,
-    "drawProb": 0.45,
-    "awayProb": 0.27,
-    "expectedHomeGoals": 0.5418181818181819,
-    "expectedAwayGoals": 0.5236363636363636,
+    "homeGoalsFor": 17,
+    "homeGoalsAgainst": 49,
+    "awayGoalsFor": 28,
+    "awayGoalsAgainst": 39,
+    "homeProb": 0.32,
+    "drawProb": 0.23,
+    "awayProb": 0.45,
+    "expectedHomeGoals": 1.4285714285714288,
+    "expectedAwayGoals": 1.7333333333333334,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.38
-      },
-      {
-        "score": "1-0",
-        "prob": 0.22
+        "score": "1-1",
+        "prob": 0.13
       },
       {
         "score": "0-1",
-        "prob": 0.15
+        "prob": 0.11
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.25,
-    "under15Prob": 0.75,
-    "over25Prob": 0.07,
-    "under25Prob": 0.93
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.43,
+    "under25Prob": 0.57
   },
   {
     "matchId": 14083544,
@@ -255,29 +283,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 42,
     "awayMatchesUsed": 42,
-    "homeProb": 0.21,
-    "drawProb": 0.39,
-    "awayProb": 0.4,
-    "expectedHomeGoals": 0.5048421052631579,
-    "expectedAwayGoals": 0.8182105263157894,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 51,
+    "awayGoalsFor": 55,
+    "awayGoalsAgainst": 51,
+    "homeProb": 0.41,
+    "drawProb": 0.26,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.4571428571428573,
+    "expectedAwayGoals": 1.2714285714285714,
     "scoreScenarios": [
       {
-        "score": "0-1",
-        "prob": 0.17
-      },
-      {
-        "score": "0-0",
-        "prob": 0.17
-      },
-      {
         "score": "1-1",
-        "prob": 0.13
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.53,
-    "under15Prob": 0.47,
-    "over25Prob": 0.27,
-    "under25Prob": 0.73
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48
   },
   {
     "matchId": 14306544,
@@ -290,116 +322,15 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 21,
     "awayMatchesUsed": 22,
-    "homeProb": 0.43,
-    "drawProb": 0.42,
-    "awayProb": 0.15,
-    "expectedHomeGoals": 0.7654545454545454,
-    "expectedAwayGoals": 0.3272727272727272,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.33
-      },
-      {
-        "score": "1-0",
-        "prob": 0.25
-      },
-      {
-        "score": "0-1",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.3,
-    "under15Prob": 0.7,
-    "over25Prob": 0.1,
-    "under25Prob": 0.9
-  },
-  {
-    "matchId": 14083585,
-    "date": "06/09/2025 18:30",
-    "league": "LaLiga 2",
-    "season": 2026,
-    "homeTeam": "Real Zaragoza",
-    "awayTeam": "Real Valladolid",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 42,
-    "awayMatchesUsed": 46,
-    "homeProb": 0.27,
-    "drawProb": 0.33,
-    "awayProb": 0.4,
-    "expectedHomeGoals": 0.7599999999999999,
-    "expectedAwayGoals": 0.9942857142857142,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.22
-      },
-      {
-        "score": "1-0",
-        "prob": 0.18
-      },
-      {
-        "score": "0-1",
-        "prob": 0.16
-      }
-    ],
-    "over15Prob": 0.44,
-    "under15Prob": 0.56,
-    "over25Prob": 0.19,
-    "under25Prob": 0.81
-  },
-  {
-    "matchId": 14083576,
-    "date": "06/09/2025 21:00",
-    "league": "LaLiga 2",
-    "season": 2026,
-    "homeTeam": "Málaga",
-    "awayTeam": "Granada",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 42,
-    "awayMatchesUsed": 42,
-    "homeProb": 0.68,
-    "drawProb": 0.22,
-    "awayProb": 0.1,
-    "expectedHomeGoals": 1.738,
-    "expectedAwayGoals": 0.48042105263157897,
-    "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.18
-      },
-      {
-        "score": "2-0",
-        "prob": 0.14
-      },
-      {
-        "score": "0-0",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.62,
-    "under15Prob": 0.38,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64
-  },
-  {
-    "matchId": 14115327,
-    "date": "06/09/2025 21:00",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Atlético Bucaramanga",
-    "awayTeam": "Alianza Valledupar FC",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 27,
-    "awayMatchesUsed": 29,
-    "homeProb": 0.52,
-    "drawProb": 0.25,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 13,
+    "awayGoalsFor": 38,
+    "awayGoalsAgainst": 21,
+    "homeProb": 0.56,
+    "drawProb": 0.21,
     "awayProb": 0.23,
-    "expectedHomeGoals": 1.6,
-    "expectedAwayGoals": 0.9571428571428572,
+    "expectedHomeGoals": 2.1246753246753247,
+    "expectedAwayGoals": 1.283982683982684,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -420,6 +351,123 @@
     "under25Prob": 0.49
   },
   {
+    "matchId": 14083585,
+    "date": "06/09/2025 18:30",
+    "league": "LaLiga 2",
+    "season": 2026,
+    "homeTeam": "Real Zaragoza",
+    "awayTeam": "Real Valladolid",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 46,
+    "homeGoalsFor": 50,
+    "homeGoalsAgainst": 62,
+    "awayGoalsFor": 47,
+    "awayGoalsAgainst": 95,
+    "homeProb": 0.5,
+    "drawProb": 0.24,
+    "awayProb": 0.26,
+    "expectedHomeGoals": 1.7403726708074536,
+    "expectedAwayGoals": 1.20351966873706,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.48,
+    "under25Prob": 0.52
+  },
+  {
+    "matchId": 14083576,
+    "date": "06/09/2025 21:00",
+    "league": "LaLiga 2",
+    "season": 2026,
+    "homeTeam": "Málaga",
+    "awayTeam": "Granada",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 42,
+    "homeGoalsFor": 37,
+    "homeGoalsAgainst": 42,
+    "awayGoalsFor": 62,
+    "awayGoalsAgainst": 49,
+    "homeProb": 0.34,
+    "drawProb": 0.27,
+    "awayProb": 0.39,
+    "expectedHomeGoals": 1.1952380952380954,
+    "expectedAwayGoals": 1.2857142857142858,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.11
+      }
+    ],
+    "over15Prob": 0.67,
+    "under15Prob": 0.33,
+    "over25Prob": 0.41,
+    "under25Prob": 0.59
+  },
+  {
+    "matchId": 14115327,
+    "date": "06/09/2025 21:00",
+    "league": "Primera A, Clausura",
+    "season": 2025,
+    "homeTeam": "Atlético Bucaramanga",
+    "awayTeam": "Alianza Valledupar FC",
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 27,
+    "awayMatchesUsed": 29,
+    "homeGoalsFor": 38,
+    "homeGoalsAgainst": 28,
+    "awayGoalsFor": 32,
+    "awayGoalsAgainst": 33,
+    "homeProb": 0.47,
+    "drawProb": 0.26,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.4996168582375482,
+    "expectedAwayGoals": 1.0768837803320561,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48
+  },
+  {
     "matchId": 14445109,
     "date": "06/09/2025 21:00",
     "league": "Primera División, Clausura",
@@ -430,29 +478,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.51,
-    "drawProb": 0.27,
-    "awayProb": 0.21,
-    "expectedHomeGoals": 1.4,
-    "expectedAwayGoals": 0.8,
+    "homeGoalsFor": 11,
+    "homeGoalsAgainst": 8,
+    "awayGoalsFor": 14,
+    "awayGoalsAgainst": 15,
+    "homeProb": 0.44,
+    "drawProb": 0.26,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 1.4600000000000004,
+    "expectedAwayGoals": 1.1600000000000001,
     "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.15
-      },
       {
         "score": "1-1",
         "prob": 0.13
       },
       {
-        "score": "0-0",
-        "prob": 0.13
+        "score": "1-0",
+        "prob": 0.12
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.61,
-    "under15Prob": 0.39,
-    "over25Prob": 0.34,
-    "under25Prob": 0.66
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.43,
+    "under25Prob": 0.57
   },
   {
     "matchId": 14131884,
@@ -465,29 +517,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 37,
     "awayMatchesUsed": 33,
-    "homeProb": 0.65,
-    "drawProb": 0.23,
-    "awayProb": 0.12,
-    "expectedHomeGoals": 1.739529411764706,
-    "expectedAwayGoals": 0.5863529411764706,
+    "homeGoalsFor": 48,
+    "homeGoalsAgainst": 53,
+    "awayGoalsFor": 28,
+    "awayGoalsAgainst": 28,
+    "homeProb": 0.42,
+    "drawProb": 0.27,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.317772317772318,
+    "expectedAwayGoals": 1.0820638820638822,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.17
-      },
-      {
-        "score": "2-0",
-        "prob": 0.15
+        "prob": 0.14
       },
       {
         "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "2-0",
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.41,
-    "under25Prob": 0.59
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.42,
+    "under25Prob": 0.58
   },
   {
     "matchId": 14115328,
@@ -500,11 +556,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 29,
     "awayMatchesUsed": 35,
-    "homeProb": 0.34,
-    "drawProb": 0.28,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.1705882352941177,
-    "expectedAwayGoals": 1.2470588235294118,
+    "homeGoalsFor": 29,
+    "homeGoalsAgainst": 37,
+    "awayGoalsFor": 49,
+    "awayGoalsAgainst": 33,
+    "homeProb": 0.33,
+    "drawProb": 0.27,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 1.1771428571428573,
+    "expectedAwayGoals": 1.3503448275862069,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -519,10 +579,10 @@
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.42,
-    "under25Prob": 0.58
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.43,
+    "under25Prob": 0.57
   },
   {
     "matchId": 14445112,
@@ -535,29 +595,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.26,
-    "drawProb": 0.3,
-    "awayProb": 0.44,
-    "expectedHomeGoals": 0.85,
-    "expectedAwayGoals": 1.2,
+    "homeGoalsFor": 7,
+    "homeGoalsAgainst": 15,
+    "awayGoalsFor": 11,
+    "awayGoalsAgainst": 9,
+    "homeProb": 0.29,
+    "drawProb": 0.28,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 0.98,
+    "expectedAwayGoals": 1.2600000000000002,
     "scoreScenarios": [
       {
         "score": "0-1",
-        "prob": 0.15
-      },
-      {
-        "score": "0-0",
         "prob": 0.14
       },
       {
         "score": "1-1",
         "prob": 0.13
+      },
+      {
+        "score": "0-0",
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0.59,
-    "under15Prob": 0.41,
-    "over25Prob": 0.31,
-    "under25Prob": 0.69
+    "over15Prob": 0.62,
+    "under15Prob": 0.38,
+    "over25Prob": 0.35,
+    "under25Prob": 0.65
   },
   {
     "matchId": 14115329,
@@ -570,11 +634,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 29,
     "awayMatchesUsed": 35,
-    "homeProb": 0.29,
-    "drawProb": 0.28,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.0174603174603176,
-    "expectedAwayGoals": 1.3000000000000003,
+    "homeGoalsFor": 22,
+    "homeGoalsAgainst": 45,
+    "awayGoalsFor": 48,
+    "awayGoalsAgainst": 34,
+    "homeProb": 0.27,
+    "drawProb": 0.26,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 1.043743842364532,
+    "expectedAwayGoals": 1.4435467980295567,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -582,17 +650,17 @@
       },
       {
         "score": "0-1",
-        "prob": 0.12
+        "prob": 0.11
       },
       {
         "score": "1-2",
-        "prob": 0.09
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.72,
-    "under15Prob": 0.28,
-    "over25Prob": 0.47,
-    "under25Prob": 0.53
+    "over15Prob": 0.74,
+    "under15Prob": 0.26,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 13299356,
@@ -605,29 +673,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 27,
     "awayMatchesUsed": 28,
-    "homeProb": 0.36,
-    "drawProb": 0.25,
-    "awayProb": 0.39,
-    "expectedHomeGoals": 1.398901098901099,
-    "expectedAwayGoals": 1.4538461538461538,
+    "homeGoalsFor": 50,
+    "homeGoalsAgainst": 48,
+    "awayGoalsFor": 36,
+    "awayGoalsAgainst": 40,
+    "homeProb": 0.47,
+    "drawProb": 0.22,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.882539682539683,
+    "expectedAwayGoals": 1.4825396825396826,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
       },
       {
         "score": "1-0",
-        "prob": 0.09
-      },
-      {
-        "score": "0-1",
-        "prob": 0.09
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.76,
-    "under15Prob": 0.24,
-    "over25Prob": 0.52,
-    "under25Prob": 0.48
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.6,
+    "under25Prob": 0.4
   },
   {
     "matchId": 13299361,
@@ -640,11 +712,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 28,
     "awayMatchesUsed": 27,
-    "homeProb": 0.4,
-    "drawProb": 0.23,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 1.6956043956043958,
-    "expectedAwayGoals": 1.597802197802198,
+    "homeGoalsFor": 33,
+    "homeGoalsAgainst": 50,
+    "awayGoalsFor": 39,
+    "awayGoalsAgainst": 47,
+    "homeProb": 0.39,
+    "drawProb": 0.24,
+    "awayProb": 0.38,
+    "expectedHomeGoals": 1.6034391534391537,
+    "expectedAwayGoals": 1.580952380952381,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -659,10 +735,10 @@
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.64,
-    "under25Prob": 0.36
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.62,
+    "under25Prob": 0.38
   },
   {
     "matchId": 14318282,
@@ -675,11 +751,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 28,
     "awayMatchesUsed": 27,
-    "homeProb": 0.46,
-    "drawProb": 0.24,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.7285714285714286,
-    "expectedAwayGoals": 1.3571428571428572,
+    "homeGoalsFor": 37,
+    "homeGoalsAgainst": 46,
+    "awayGoalsFor": 32,
+    "awayGoalsAgainst": 55,
+    "homeProb": 0.48,
+    "drawProb": 0.23,
+    "awayProb": 0.29,
+    "expectedHomeGoals": 1.8076719576719578,
+    "expectedAwayGoals": 1.3682539682539683,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -710,11 +790,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 34,
     "awayMatchesUsed": 37,
+    "homeGoalsFor": 45,
+    "homeGoalsAgainst": 33,
+    "awayGoalsFor": 47,
+    "awayGoalsAgainst": 40,
     "homeProb": 0.43,
     "drawProb": 0.26,
-    "awayProb": 0.31,
-    "expectedHomeGoals": 1.4523219814241486,
-    "expectedAwayGoals": 1.1820433436532507,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 1.426550079491256,
+    "expectedAwayGoals": 1.1503974562798092,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -726,13 +810,13 @@
       },
       {
         "score": "2-1",
-        "prob": 0.1
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.5,
-    "under25Prob": 0.5
+    "over15Prob": 0.72,
+    "under15Prob": 0.28,
+    "over25Prob": 0.47,
+    "under25Prob": 0.53
   },
   {
     "matchId": 14083532,
@@ -745,29 +829,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 48,
     "awayMatchesUsed": 42,
-    "homeProb": 0.13,
-    "drawProb": 0.51,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 0.24526315789473685,
-    "expectedAwayGoals": 0.5621052631578947,
+    "homeGoalsFor": 67,
+    "homeGoalsAgainst": 56,
+    "awayGoalsFor": 52,
+    "awayGoalsAgainst": 47,
+    "homeProb": 0.44,
+    "drawProb": 0.26,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.4851190476190477,
+    "expectedAwayGoals": 1.2095238095238097,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.36
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
       },
       {
         "score": "0-1",
-        "prob": 0.31
-      },
-      {
-        "score": "0-2",
-        "prob": 0.13
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.28,
-    "under15Prob": 0.72,
-    "over25Prob": 0.09,
-    "under25Prob": 0.91
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.5,
+    "under25Prob": 0.5
   },
   {
     "matchId": 14296945,
@@ -780,29 +868,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 22,
     "awayMatchesUsed": 22,
-    "homeProb": 0.27,
-    "drawProb": 0.49,
-    "awayProb": 0.24,
-    "expectedHomeGoals": 0.4818181818181818,
-    "expectedAwayGoals": 0.4418181818181819,
+    "homeGoalsFor": 28,
+    "homeGoalsAgainst": 39,
+    "awayGoalsFor": 34,
+    "awayGoalsAgainst": 31,
+    "homeProb": 0.36,
+    "drawProb": 0.24,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 1.5272727272727273,
+    "expectedAwayGoals": 1.6363636363636362,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.38
-      },
-      {
-        "score": "1-0",
-        "prob": 0.19
+        "score": "1-1",
+        "prob": 0.13
       },
       {
         "score": "0-1",
-        "prob": 0.18
+        "prob": 0.11
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.25,
-    "under15Prob": 0.75,
-    "over25Prob": 0.07,
-    "under25Prob": 0.93
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.45,
+    "under25Prob": 0.55
   },
   {
     "matchId": 14296943,
@@ -815,29 +907,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 33,
     "awayMatchesUsed": 22,
-    "homeProb": 0.14,
-    "drawProb": 0.66,
-    "awayProb": 0.2,
-    "expectedHomeGoals": 0.19818181818181818,
-    "expectedAwayGoals": 0.27818181818181814,
+    "homeGoalsFor": 73,
+    "homeGoalsAgainst": 27,
+    "awayGoalsFor": 57,
+    "awayGoalsAgainst": 18,
+    "homeProb": 0.39,
+    "drawProb": 0.22,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 1.8545454545454547,
+    "expectedAwayGoals": 1.8818181818181818,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.55
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "0-1",
-        "prob": 0.25
+        "score": "1-1",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
-        "prob": 0.08
+        "score": "2-2",
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.12,
-    "under15Prob": 0.88,
-    "over25Prob": 0.02,
-    "under25Prob": 0.98
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.68,
+    "under25Prob": 0.32
   },
   {
     "matchId": 14083519,
@@ -850,29 +946,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 45,
     "awayMatchesUsed": 45,
-    "homeProb": 0.82,
-    "drawProb": 0.14,
-    "awayProb": 0.05,
-    "expectedHomeGoals": 2.422857142857143,
-    "expectedAwayGoals": 0.4114285714285714,
+    "homeGoalsFor": 41,
+    "homeGoalsAgainst": 48,
+    "awayGoalsFor": 55,
+    "awayGoalsAgainst": 72,
+    "homeProb": 0.42,
+    "drawProb": 0.27,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.386666666666667,
+    "expectedAwayGoals": 1.1600000000000001,
     "scoreScenarios": [
       {
-        "score": "2-0",
-        "prob": 0.2
+        "score": "1-1",
+        "prob": 0.12
       },
       {
         "score": "1-0",
-        "prob": 0.19
+        "prob": 0.1
       },
       {
-        "score": "3-0",
-        "prob": 0.15
+        "score": "2-1",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.42,
-    "under25Prob": 0.58
+    "over15Prob": 0.74,
+    "under15Prob": 0.26,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 14573163,
@@ -885,15 +985,19 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 27,
     "awayMatchesUsed": 28,
-    "homeProb": 0.48,
-    "drawProb": 0.27,
-    "awayProb": 0.26,
-    "expectedHomeGoals": 1.4285714285714288,
-    "expectedAwayGoals": 0.9714285714285713,
+    "homeGoalsFor": 34,
+    "homeGoalsAgainst": 29,
+    "awayGoalsFor": 30,
+    "awayGoalsAgainst": 37,
+    "homeProb": 0.47,
+    "drawProb": 0.26,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.4841269841269842,
+    "expectedAwayGoals": 1.0724867724867724,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.14
+        "prob": 0.13
       },
       {
         "score": "1-1",
@@ -901,13 +1005,13 @@
       },
       {
         "score": "2-0",
-        "prob": 0.11
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.7,
-    "under15Prob": 0.3,
-    "over25Prob": 0.44,
-    "under25Prob": 0.56
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.46,
+    "under25Prob": 0.54
   },
   {
     "matchId": 14083555,
@@ -920,29 +1024,33 @@
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 42,
     "awayMatchesUsed": 42,
-    "homeProb": 0.43,
-    "drawProb": 0.18,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 2.889,
-    "expectedAwayGoals": 2.7219999999999995,
+    "homeGoalsFor": 68,
+    "homeGoalsAgainst": 52,
+    "awayGoalsFor": 58,
+    "awayGoalsAgainst": 46,
+    "homeProb": 0.44,
+    "drawProb": 0.24,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 1.6095238095238098,
+    "expectedAwayGoals": 1.3238095238095238,
     "scoreScenarios": [
       {
-        "score": "2-2",
-        "prob": 0.06
+        "score": "1-1",
+        "prob": 0.09
       },
       {
-        "score": "2-3",
-        "prob": 0.06
+        "score": "1-2",
+        "prob": 0.08
       },
       {
-        "score": "3-2",
-        "prob": 0.05
+        "score": "2-1",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.86,
-    "under15Prob": 0.14,
-    "over25Prob": 0.79,
-    "under25Prob": 0.21
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.66,
+    "under25Prob": 0.34
   },
   {
     "matchId": 14083581,
@@ -955,29 +1063,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 50,
     "awayMatchesUsed": 51,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 69,
+    "homeGoalsAgainst": 67,
+    "awayGoalsFor": 69,
+    "awayGoalsAgainst": 77,
+    "homeProb": 0.44,
+    "drawProb": 0.24,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 1.631921568627451,
+    "expectedAwayGoals": 1.347764705882353,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
       },
       {
         "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 14296944,
@@ -990,29 +1102,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 29,
     "awayMatchesUsed": 30,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 73,
+    "homeGoalsAgainst": 23,
+    "awayGoalsFor": 61,
+    "awayGoalsAgainst": 36,
+    "homeProb": 0.52,
+    "drawProb": 0.21,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 2.1903448275862067,
+    "expectedAwayGoals": 1.5372413793103448,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "3-1",
         "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.67,
+    "under25Prob": 0.33
   },
   {
     "matchId": 13443505,
@@ -1025,11 +1141,15 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 21,
     "awayMatchesUsed": 21,
-    "homeProb": 0.38,
+    "homeGoalsFor": 25,
+    "homeGoalsAgainst": 23,
+    "awayGoalsFor": 28,
+    "awayGoalsAgainst": 17,
+    "homeProb": 0.36,
     "drawProb": 0.27,
-    "awayProb": 0.34,
-    "expectedHomeGoals": 1.2672727272727273,
-    "expectedAwayGoals": 1.1781818181818182,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.2380952380952384,
+    "expectedAwayGoals": 1.2380952380952381,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -1041,13 +1161,13 @@
       },
       {
         "score": "1-0",
-        "prob": 0.12
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0.66,
-    "under15Prob": 0.34,
-    "over25Prob": 0.4,
-    "under25Prob": 0.6
+    "over15Prob": 0.67,
+    "under15Prob": 0.33,
+    "over25Prob": 0.41,
+    "under25Prob": 0.59
   },
   {
     "matchId": 14115330,
@@ -1060,29 +1180,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 29,
     "awayMatchesUsed": 29,
-    "homeProb": 0.34,
-    "drawProb": 0.31,
-    "awayProb": 0.35,
-    "expectedHomeGoals": 0.98,
-    "expectedAwayGoals": 0.9866666666666666,
+    "homeGoalsFor": 24,
+    "homeGoalsAgainst": 38,
+    "awayGoalsFor": 26,
+    "awayGoalsAgainst": 33,
+    "homeProb": 0.38,
+    "drawProb": 0.29,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.1517241379310346,
+    "expectedAwayGoals": 1.0620689655172413,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.16
-      },
-      {
         "score": "0-1",
-        "prob": 0.16
+        "prob": 0.14
       },
       {
-        "score": "1-0",
+        "score": "1-1",
+        "prob": 0.14
+      },
+      {
+        "score": "0-0",
         "prob": 0.13
       }
     ],
-    "over15Prob": 0.54,
-    "under15Prob": 0.46,
-    "over25Prob": 0.27,
-    "under25Prob": 0.73
+    "over15Prob": 0.6,
+    "under15Prob": 0.4,
+    "over25Prob": 0.33,
+    "under25Prob": 0.67
   },
   {
     "matchId": 14445111,
@@ -1095,29 +1219,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.54,
-    "drawProb": 0.23,
-    "awayProb": 0.23,
-    "expectedHomeGoals": 1.8000000000000003,
-    "expectedAwayGoals": 1.1,
+    "homeGoalsFor": 10,
+    "homeGoalsAgainst": 15,
+    "awayGoalsFor": 13,
+    "awayGoalsAgainst": 16,
+    "homeProb": 0.39,
+    "drawProb": 0.25,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.4400000000000004,
+    "expectedAwayGoals": 1.3800000000000001,
     "scoreScenarios": [
       {
         "score": "1-1",
         "prob": 0.13
       },
       {
-        "score": "1-0",
-        "prob": 0.12
+        "score": "0-1",
+        "prob": 0.11
       },
       {
-        "score": "2-1",
-        "prob": 0.09
+        "score": "1-0",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.7,
-    "under15Prob": 0.3,
-    "over25Prob": 0.44,
-    "under25Prob": 0.56
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.45,
+    "under25Prob": 0.55
   },
   {
     "matchId": 14115337,
@@ -1130,15 +1258,19 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 33,
     "awayMatchesUsed": 29,
-    "homeProb": 0.57,
-    "drawProb": 0.25,
-    "awayProb": 0.17,
-    "expectedHomeGoals": 1.5696428571428571,
-    "expectedAwayGoals": 0.7285714285714286,
+    "homeGoalsFor": 41,
+    "homeGoalsAgainst": 27,
+    "awayGoalsFor": 25,
+    "awayGoalsAgainst": 32,
+    "homeProb": 0.5,
+    "drawProb": 0.28,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.3868338557993733,
+    "expectedAwayGoals": 0.8445141065830721,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.15
+        "prob": 0.14
       },
       {
         "score": "1-1",
@@ -1149,10 +1281,10 @@
         "prob": 0.12
       }
     ],
-    "over15Prob": 0.63,
-    "under15Prob": 0.37,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64
+    "over15Prob": 0.62,
+    "under15Prob": 0.38,
+    "over25Prob": 0.35,
+    "under25Prob": 0.65
   },
   {
     "matchId": 14445110,
@@ -1165,15 +1297,19 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.61,
+    "homeGoalsFor": 19,
+    "homeGoalsAgainst": 13,
+    "awayGoalsFor": 10,
+    "awayGoalsAgainst": 19,
+    "homeProb": 0.6,
     "drawProb": 0.21,
-    "awayProb": 0.18,
-    "expectedHomeGoals": 1.98,
-    "expectedAwayGoals": 0.96,
+    "awayProb": 0.2,
+    "expectedHomeGoals": 2.1,
+    "expectedAwayGoals": 1.12,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.11
+        "prob": 0.1
       },
       {
         "score": "2-1",
@@ -1181,13 +1317,13 @@
       },
       {
         "score": "1-0",
-        "prob": 0.09
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.79,
-    "under15Prob": 0.21,
-    "over25Prob": 0.57,
-    "under25Prob": 0.43
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.6,
+    "under25Prob": 0.4
   },
   {
     "matchId": 13299366,
@@ -1200,15 +1336,19 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 28,
     "awayMatchesUsed": 27,
-    "homeProb": 0.44,
-    "drawProb": 0.23,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.7747252747252746,
-    "expectedAwayGoals": 1.4923076923076923,
+    "homeGoalsFor": 43,
+    "homeGoalsAgainst": 57,
+    "awayGoalsFor": 29,
+    "awayGoalsAgainst": 33,
+    "homeProb": 0.41,
+    "drawProb": 0.24,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 1.6103174603174606,
+    "expectedAwayGoals": 1.4587301587301589,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.09
+        "prob": 0.1
       },
       {
         "score": "2-1",
@@ -1219,10 +1359,10 @@
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.86,
-    "under15Prob": 0.14,
-    "over25Prob": 0.68,
-    "under25Prob": 0.32
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.64,
+    "under25Prob": 0.36
   },
   {
     "matchId": 14115332,
@@ -1235,29 +1375,33 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 37,
     "awayMatchesUsed": 35,
-    "homeProb": 0.45,
-    "drawProb": 0.27,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 1.3901960784313725,
-    "expectedAwayGoals": 1.0300653594771243,
+    "homeGoalsFor": 45,
+    "homeGoalsAgainst": 27,
+    "awayGoalsFor": 57,
+    "awayGoalsAgainst": 34,
+    "homeProb": 0.38,
+    "drawProb": 0.26,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.3183011583011583,
+    "expectedAwayGoals": 1.2690347490347489,
     "scoreScenarios": [
       {
         "score": "1-1",
         "prob": 0.11
       },
       {
-        "score": "1-0",
-        "prob": 0.1
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "2-1",
-        "prob": 0.1
+        "score": "1-0",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.76,
-    "under15Prob": 0.24,
-    "over25Prob": 0.53,
-    "under25Prob": 0.47
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.55,
+    "under25Prob": 0.45
   },
   {
     "matchId": 14115333,
@@ -1270,22 +1414,26 @@
     "awaySeasonUsed": 2025,
     "homeMatchesUsed": 29,
     "awayMatchesUsed": 29,
-    "homeProb": 0.58,
-    "drawProb": 0.25,
-    "awayProb": 0.17,
-    "expectedHomeGoals": 1.5857142857142859,
-    "expectedAwayGoals": 0.7142857142857142,
+    "homeGoalsFor": 28,
+    "homeGoalsAgainst": 34,
+    "awayGoalsFor": 19,
+    "awayGoalsAgainst": 44,
+    "homeProb": 0.49,
+    "drawProb": 0.28,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.3862068965517245,
+    "expectedAwayGoals": 0.8620689655172413,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.17
-      },
-      {
-        "score": "2-0",
-        "prob": 0.13
+        "prob": 0.16
       },
       {
         "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "0-0",
         "prob": 0.11
       }
     ],
@@ -1305,29 +1453,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 11,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 23,
+    "awayGoalsFor": 19,
+    "awayGoalsAgainst": 10,
+    "homeProb": 0.17,
+    "drawProb": 0.21,
+    "awayProb": 0.62,
+    "expectedHomeGoals": 0.9272727272727272,
+    "expectedAwayGoals": 1.9763636363636363,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "0-2",
+        "prob": 0.11
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "0-1",
+        "prob": 0.11
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-2",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.56,
+    "under25Prob": 0.44
   },
   {
     "matchId": 13233454,
@@ -1340,29 +1492,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 18,
+    "homeGoalsAgainst": 8,
+    "awayGoalsFor": 17,
+    "awayGoalsAgainst": 9,
+    "homeProb": 0.44,
+    "drawProb": 0.24,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.6400000000000003,
+    "expectedAwayGoals": 1.34,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
       },
       {
         "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.59,
+    "under25Prob": 0.41
   },
   {
     "matchId": 13233459,
@@ -1375,29 +1531,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 9,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 19,
+    "awayGoalsFor": 4,
+    "awayGoalsAgainst": 13,
+    "homeProb": 0.38,
+    "drawProb": 0.29,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.137777777777778,
+    "expectedAwayGoals": 1.0266666666666666,
     "scoreScenarios": [
       {
         "score": "0-0",
-        "prob": 0.93
+        "prob": 0.18
       },
       {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.17
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "0-1",
+        "prob": 0.14
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.5,
+    "under15Prob": 0.5,
+    "over25Prob": 0.24,
+    "under25Prob": 0.76
   },
   {
     "matchId": 13233455,
@@ -1410,29 +1570,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 5,
+    "homeGoalsAgainst": 11,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 11,
+    "homeProb": 0.26,
+    "drawProb": 0.28,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 0.94,
+    "expectedAwayGoals": 1.3399999999999999,
     "scoreScenarios": [
       {
+        "score": "0-1",
+        "prob": 0.16
+      },
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
         "score": "0-0",
-        "prob": 0.93
-      },
-      {
-        "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.62,
+    "under15Prob": 0.38,
+    "over25Prob": 0.35,
+    "under25Prob": 0.65
   },
   {
     "matchId": 13233456,
@@ -1445,29 +1609,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 11,
+    "homeGoalsAgainst": 11,
+    "awayGoalsFor": 24,
+    "awayGoalsAgainst": 12,
+    "homeProb": 0.27,
+    "drawProb": 0.23,
+    "awayProb": 0.5,
+    "expectedHomeGoals": 1.3400000000000003,
+    "expectedAwayGoals": 1.88,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.11
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "0-1",
+        "prob": 0.1
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-2",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.54,
+    "under25Prob": 0.46
   },
   {
     "matchId": 13233457,
@@ -1480,29 +1648,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 7,
+    "homeGoalsAgainst": 16,
+    "awayGoalsFor": 33,
+    "awayGoalsAgainst": 24,
+    "homeProb": 0.22,
+    "drawProb": 0.18,
+    "awayProb": 0.59,
+    "expectedHomeGoals": 1.58,
+    "expectedAwayGoals": 2.62,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-3",
+        "prob": 0.08
       },
       {
-        "score": "1-0",
+        "score": "1-2",
         "prob": 0.07
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-4",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.72,
+    "under25Prob": 0.28
   },
   {
     "matchId": 13233458,
@@ -1515,29 +1687,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 4,
+    "homeGoalsAgainst": 20,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 16,
+    "homeProb": 0.24,
+    "drawProb": 0.24,
+    "awayProb": 0.52,
+    "expectedHomeGoals": 1.08,
+    "expectedAwayGoals": 1.7,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "0-1",
+        "prob": 0.13
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "0-2",
+        "prob": 0.12
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-1",
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.48,
+    "under25Prob": 0.52
   },
   {
     "matchId": 13233460,
@@ -1550,29 +1726,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 32,
+    "homeGoalsAgainst": 17,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 18,
+    "homeProb": 0.63,
+    "drawProb": 0.17,
+    "awayProb": 0.2,
+    "expectedHomeGoals": 2.8400000000000003,
+    "expectedAwayGoals": 1.58,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
-        "score": "1-0",
+        "score": "3-1",
         "prob": 0.07
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "2-1",
+        "prob": 0.06
+      },
+      {
+        "score": "4-1",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26
   },
   {
     "matchId": 13233461,
@@ -1585,29 +1765,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 11,
+    "homeGoalsAgainst": 10,
+    "awayGoalsFor": 30,
+    "awayGoalsAgainst": 9,
+    "homeProb": 0.2,
+    "drawProb": 0.2,
+    "awayProb": 0.59,
+    "expectedHomeGoals": 1.2200000000000002,
+    "expectedAwayGoals": 2.1999999999999997,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-2",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-3",
+        "prob": 0.08
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "0-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.67,
+    "under25Prob": 0.33
   },
   {
     "matchId": 13233462,
@@ -1620,29 +1804,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 18,
+    "homeGoalsAgainst": 18,
+    "awayGoalsFor": 24,
+    "awayGoalsAgainst": 13,
+    "homeProb": 0.33,
+    "drawProb": 0.21,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 1.8000000000000003,
+    "expectedAwayGoals": 2.16,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
-        "score": "1-0",
+        "score": "2-2",
         "prob": 0.07
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-2",
+        "prob": 0.06
+      },
+      {
+        "score": "2-3",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.78,
+    "under25Prob": 0.22
   },
   {
     "matchId": 13233463,
@@ -1655,29 +1843,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 22,
+    "homeGoalsAgainst": 6,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 9,
+    "homeProb": 0.55,
+    "drawProb": 0.23,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.8800000000000003,
+    "expectedAwayGoals": 1.14,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "3-1",
         "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.67,
+    "under25Prob": 0.33
   },
   {
     "matchId": 13233464,
@@ -1690,29 +1882,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 17,
+    "homeGoalsAgainst": 11,
+    "awayGoalsFor": 13,
+    "awayGoalsAgainst": 14,
+    "homeProb": 0.5,
+    "drawProb": 0.23,
+    "awayProb": 0.26,
+    "expectedHomeGoals": 1.7800000000000002,
+    "expectedAwayGoals": 1.2200000000000002,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-1",
+        "prob": 0.09
       },
       {
         "score": "2-0",
-        "prob": 0
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.64,
+    "under25Prob": 0.36
   },
   {
     "matchId": 13233465,
@@ -1725,29 +1921,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 20,
+    "awayGoalsFor": 4,
+    "awayGoalsAgainst": 24,
+    "homeProb": 0.61,
+    "drawProb": 0.21,
+    "awayProb": 0.18,
+    "expectedHomeGoals": 2.06,
+    "expectedAwayGoals": 1.04,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.13
       },
       {
         "score": "2-0",
-        "prob": 0
+        "prob": 0.12
+      },
+      {
+        "score": "1-1",
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 13233466,
@@ -1760,29 +1960,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 17,
+    "awayGoalsFor": 25,
+    "awayGoalsAgainst": 17,
+    "homeProb": 0.32,
+    "drawProb": 0.21,
+    "awayProb": 0.47,
+    "expectedHomeGoals": 1.7800000000000002,
+    "expectedAwayGoals": 2.18,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-2",
+        "prob": 0.08
       },
       {
-        "score": "1-0",
+        "score": "2-2",
         "prob": 0.07
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-1",
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.87,
+    "under15Prob": 0.13,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26
   },
   {
     "matchId": 13233467,
@@ -1795,29 +1999,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 9,
+    "homeGoalsAgainst": 14,
+    "awayGoalsFor": 13,
+    "awayGoalsAgainst": 19,
+    "homeProb": 0.41,
+    "drawProb": 0.25,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.5000000000000002,
+    "expectedAwayGoals": 1.3399999999999999,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.12
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "0-1",
+        "prob": 0.1
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-2",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 13233468,
@@ -1830,29 +2038,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 19,
+    "homeGoalsAgainst": 16,
+    "awayGoalsFor": 8,
+    "awayGoalsAgainst": 17,
+    "homeProb": 0.58,
+    "drawProb": 0.21,
+    "awayProb": 0.21,
+    "expectedHomeGoals": 2.02,
+    "expectedAwayGoals": 1.12,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.11
       },
       {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.1
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "2-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.55,
+    "under25Prob": 0.45
   },
   {
     "matchId": 13233469,
@@ -1865,29 +2077,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 8,
+    "homeGoalsAgainst": 11,
+    "awayGoalsFor": 26,
+    "awayGoalsAgainst": 16,
+    "homeProb": 0.25,
+    "drawProb": 0.22,
+    "awayProb": 0.53,
+    "expectedHomeGoals": 1.3200000000000003,
+    "expectedAwayGoals": 2,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-2",
+        "prob": 0.09
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-3",
+        "prob": 0.08
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "0-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.68,
+    "under25Prob": 0.32
   },
   {
     "matchId": 13233470,
@@ -1900,29 +2116,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 10,
+    "homeGoalsAgainst": 14,
+    "awayGoalsFor": 18,
+    "awayGoalsAgainst": 14,
+    "homeProb": 0.32,
+    "drawProb": 0.24,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 1.36,
+    "expectedAwayGoals": 1.6400000000000001,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.11
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-2",
+        "prob": 0.09
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "0-1",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.58,
+    "under25Prob": 0.42
   },
   {
     "matchId": 13233471,
@@ -1935,29 +2155,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 15,
+    "awayGoalsFor": 9,
+    "awayGoalsAgainst": 7,
+    "homeProb": 0.27,
+    "drawProb": 0.31,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 0.8399999999999999,
+    "expectedAwayGoals": 1.1400000000000001,
     "scoreScenarios": [
       {
+        "score": "0-1",
+        "prob": 0.17
+      },
+      {
         "score": "0-0",
-        "prob": 0.93
+        "prob": 0.14
       },
       {
-        "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-1",
+        "prob": 0.13
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.59,
+    "under15Prob": 0.41,
+    "over25Prob": 0.32,
+    "under25Prob": 0.68
   },
   {
     "matchId": 13233472,
@@ -1970,29 +2194,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 13,
+    "homeGoalsAgainst": 25,
+    "awayGoalsFor": 27,
+    "awayGoalsAgainst": 14,
+    "homeProb": 0.22,
+    "drawProb": 0.18,
+    "awayProb": 0.6,
+    "expectedHomeGoals": 1.54,
+    "expectedAwayGoals": 2.62,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-2",
+        "prob": 0.08
       },
       {
-        "score": "1-0",
+        "score": "1-3",
         "prob": 0.07
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "2-2",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26
   },
   {
     "matchId": 13233474,
@@ -2005,29 +2233,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 23,
+    "homeGoalsAgainst": 6,
+    "awayGoalsFor": 2,
+    "awayGoalsAgainst": 13,
+    "homeProb": 0.78,
+    "drawProb": 0.16,
+    "awayProb": 0.05,
+    "expectedHomeGoals": 2.1,
+    "expectedAwayGoals": 0.36,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "2-0",
+        "prob": 0.21
       },
       {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.2
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "3-0",
+        "prob": 0.14
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.65,
+    "under15Prob": 0.35,
+    "over25Prob": 0.39,
+    "under25Prob": 0.61
   },
   {
     "matchId": 13233475,
@@ -2040,29 +2272,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 8,
+    "homeGoalsAgainst": 15,
+    "awayGoalsFor": 7,
+    "awayGoalsAgainst": 20,
+    "homeProb": 0.48,
+    "drawProb": 0.26,
+    "awayProb": 0.26,
+    "expectedHomeGoals": 1.4800000000000002,
+    "expectedAwayGoals": 1.02,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.13
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-0",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.66,
+    "under15Prob": 0.34,
+    "over25Prob": 0.39,
+    "under25Prob": 0.61
   },
   {
     "matchId": 13233476,
@@ -2075,29 +2311,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 21,
+    "homeGoalsAgainst": 9,
+    "awayGoalsFor": 9,
+    "awayGoalsAgainst": 21,
+    "homeProb": 0.69,
+    "drawProb": 0.18,
+    "awayProb": 0.13,
+    "expectedHomeGoals": 2.3000000000000003,
+    "expectedAwayGoals": 0.9000000000000001,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "2-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
       },
       {
         "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.59,
+    "under25Prob": 0.41
   },
   {
     "matchId": 13233477,
@@ -2110,29 +2350,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 11,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 18,
+    "awayGoalsFor": 9,
+    "awayGoalsAgainst": 20,
+    "homeProb": 0.4,
+    "drawProb": 0.27,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.3272727272727274,
+    "expectedAwayGoals": 1.1945454545454548,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-1",
+        "prob": 0.13
       },
       {
         "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.64,
+    "under15Prob": 0.36,
+    "over25Prob": 0.37,
+    "under25Prob": 0.63
   },
   {
     "matchId": 13233478,
@@ -2145,29 +2389,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 18,
+    "homeGoalsAgainst": 8,
+    "awayGoalsFor": 7,
+    "awayGoalsAgainst": 16,
+    "homeProb": 0.65,
+    "drawProb": 0.21,
+    "awayProb": 0.14,
+    "expectedHomeGoals": 1.9200000000000004,
+    "expectedAwayGoals": 0.74,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.13
       },
       {
         "score": "2-0",
-        "prob": 0
+        "prob": 0.13
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.74,
+    "under15Prob": 0.26,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51
   },
   {
     "matchId": 13233479,
@@ -2180,29 +2428,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 16,
+    "homeGoalsAgainst": 3,
+    "awayGoalsFor": 4,
+    "awayGoalsAgainst": 20,
+    "homeProb": 0.76,
+    "drawProb": 0.18,
+    "awayProb": 0.06,
+    "expectedHomeGoals": 1.9600000000000002,
+    "expectedAwayGoals": 0.36,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.23
       },
       {
         "score": "2-0",
-        "prob": 0
+        "prob": 0.2
+      },
+      {
+        "score": "0-0",
+        "prob": 0.13
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.6,
+    "under15Prob": 0.4,
+    "over25Prob": 0.33,
+    "under25Prob": 0.67
   },
   {
     "matchId": 13233484,
@@ -2215,29 +2467,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 19,
+    "awayGoalsFor": 32,
+    "awayGoalsAgainst": 17,
+    "homeProb": 0.16,
+    "drawProb": 0.17,
+    "awayProb": 0.67,
+    "expectedHomeGoals": 1.2400000000000002,
+    "expectedAwayGoals": 2.6799999999999997,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "0-3",
+        "prob": 0.08
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-3",
+        "prob": 0.08
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "0-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.68,
+    "under25Prob": 0.32
   },
   {
     "matchId": 13233480,
@@ -2250,29 +2506,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 5,
+    "homeGoalsAgainst": 11,
+    "awayGoalsFor": 11,
+    "awayGoalsAgainst": 11,
+    "homeProb": 0.31,
+    "drawProb": 0.3,
+    "awayProb": 0.39,
+    "expectedHomeGoals": 0.94,
+    "expectedAwayGoals": 1.1,
     "scoreScenarios": [
       {
         "score": "0-0",
-        "prob": 0.93
+        "prob": 0.18
+      },
+      {
+        "score": "0-1",
+        "prob": 0.17
       },
       {
         "score": "1-0",
-        "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
+        "prob": 0.14
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.51,
+    "under15Prob": 0.49,
+    "over25Prob": 0.25,
+    "under25Prob": 0.75
   },
   {
     "matchId": 13233481,
@@ -2285,29 +2545,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 24,
+    "homeGoalsAgainst": 12,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 11,
+    "homeProb": 0.53,
+    "drawProb": 0.21,
+    "awayProb": 0.25,
+    "expectedHomeGoals": 2.08,
+    "expectedAwayGoals": 1.38,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
       },
       {
         "score": "1-0",
         "prob": 0.07
-      },
-      {
-        "score": "2-0",
-        "prob": 0
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.61,
+    "under25Prob": 0.39
   },
   {
     "matchId": 13233482,
@@ -2320,29 +2584,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 17,
+    "homeGoalsAgainst": 9,
+    "awayGoalsFor": 33,
+    "awayGoalsAgainst": 24,
+    "homeProb": 0.37,
+    "drawProb": 0.2,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 2.18,
+    "expectedAwayGoals": 2.34,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-3",
+        "prob": 0.06
       },
       {
-        "score": "1-0",
-        "prob": 0.07
+        "score": "1-2",
+        "prob": 0.06
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "2-3",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.77,
+    "under25Prob": 0.23
   },
   {
     "matchId": 13233483,
@@ -2355,29 +2623,33 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 11,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 16,
+    "awayGoalsFor": 6,
+    "awayGoalsAgainst": 23,
+    "homeProb": 0.6,
+    "drawProb": 0.22,
+    "awayProb": 0.18,
+    "expectedHomeGoals": 1.9363636363636365,
+    "expectedAwayGoals": 0.9672727272727273,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
-      },
-      {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.11
       },
       {
         "score": "2-0",
-        "prob": 0
+        "prob": 0.11
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.54,
+    "under25Prob": 0.46
   },
   {
     "matchId": 13233485,
@@ -2390,28 +2662,32 @@
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 10,
     "awayMatchesUsed": 10,
-    "homeProb": 0.1,
-    "drawProb": 0.9,
-    "awayProb": 0,
-    "expectedHomeGoals": 0.1,
-    "expectedAwayGoals": 0,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 18,
+    "awayGoalsFor": 7,
+    "awayGoalsAgainst": 18,
+    "homeProb": 0.53,
+    "drawProb": 0.23,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.8200000000000003,
+    "expectedAwayGoals": 1.1400000000000001,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.93
+        "score": "1-1",
+        "prob": 0.11
       },
       {
         "score": "1-0",
-        "prob": 0.07
+        "prob": 0.1
       },
       {
-        "score": "2-0",
-        "prob": 0
+        "score": "2-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0,
-    "under15Prob": 1,
-    "over25Prob": 0,
-    "under25Prob": 1
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.53,
+    "under25Prob": 0.47
   }
 ]
