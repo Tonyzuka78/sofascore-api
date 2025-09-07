@@ -1,512 +1,2296 @@
 {
+  "sport": "FOOT",
   "teamId": 4776,
   "teamName": "Lithuania",
   "matches": [
     {
       "matchId": 13878567,
-      "date": "10/06/2025 19:00",
+      "date": "10/06/2025 19:00:00",
       "opponent": "Denmark",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 5,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 11,
+            "totalLongBalls": 24,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "savedShotsFromInsideTheBox": 4,
+            "saves": 5,
+            "minutesPlayed": 90,
+            "touches": 40,
+            "rating": 6,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "duelLost": 7,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "wasFouled": 1,
+            "fouls": 4,
+            "minutesPlayed": 78,
+            "touches": 29,
+            "rating": 5.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 5.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 14,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalContest": 1,
+            "totalClearance": 12,
+            "outfielderBlock": 2,
+            "interceptionWon": 3,
+            "minutesPlayed": 90,
+            "touches": 39,
+            "rating": 6.3,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 32,
+            "touches": 15,
+            "rating": 5.6,
+            "possessionLostCtrl": 1,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 5.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 16,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "duelWon": 2,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 65,
+            "touches": 37,
+            "rating": 6.2,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 6,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 2,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 36,
+            "touches": 21,
+            "rating": 5.9,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 5.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "minutesPlayed": 87,
+            "touches": 34,
+            "rating": 6.3,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 25,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 44,
+            "rating": 6.7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 18,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 40,
+            "rating": 6.2,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 14,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 65,
+            "touches": 25,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 5,
+            "duelWon": 7,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 66,
+            "touches": 31,
+            "rating": 6.8,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 7,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "minutesPlayed": 54,
+            "touches": 16,
+            "rating": 6.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "totalContest": 3,
+            "wonContest": 2,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 25,
+            "touches": 14,
+            "rating": 7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalClearance": 2,
+            "fouls": 1,
+            "minutesPlayed": 25,
+            "touches": 8,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Manfredas Ruzgis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "minutesPlayed": 24,
+            "touches": 8,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Deividas Šešplaukis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 2,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 12,
+            "touches": 10,
+            "rating": 7,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "minutesPlayed": 3,
+            "touches": 2,
+            "possessionLostCtrl": 1
+          }
         },
         {
           "name": "Tomas Švedkauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Džiugas Bartkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gratas Sirgėdas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romualdas Jansonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Gvidas Gineitis",
+          "minute": 68,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Edgaras Utkus",
+          "minute": 32,
+          "reason": "Professional foul last man"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 13233430,
-      "date": "07/06/2025 18:00",
+      "date": "07/06/2025 18:00:00",
       "opponent": "Malta",
       "homeAway": "Away",
       "result": "DRAW",
       "teamScore": 0,
       "oppScore": 0,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 29,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 9,
+            "goalAssist": 0,
+            "goodHighClaim": 2,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 7.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "wonContest": 3,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 36,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 54,
+            "accuratePass": 51,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 3,
+            "duelWon": 9,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 7,
+            "interceptionWon": 3,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 69,
+            "rating": 7.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 54,
+            "accuratePass": 47,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialWon": 4,
+            "duelWon": 9,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "lastManTackle": 1,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 7.8,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 44,
+            "accuratePass": 37,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 2,
+            "aerialWon": 3,
+            "duelLost": 10,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "fouls": 6,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 6.8,
+            "possessionLostCtrl": 17,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 16,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "fouls": 1,
+            "minutesPlayed": 70,
+            "touches": 26,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 31,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "accurateCross": 3,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 4,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 7.9,
+            "possessionLostCtrl": 17,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 27,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 9,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 4,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 7.2,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 27,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 81,
+            "touches": 46,
+            "rating": 7,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 8,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 70,
+            "touches": 32,
+            "rating": 6.7,
+            "possessionLostCtrl": 18,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 6,
+            "aerialWon": 6,
+            "duelLost": 8,
+            "duelWon": 8,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 6.9,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "minutesPlayed": 29,
+            "touches": 15,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gratas Sirgėdas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 6,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 20,
+            "touches": 15,
+            "rating": 6.6,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "interceptionWon": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 20,
+            "touches": 11,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Deividas Šešplaukis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 5,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 16,
+            "touches": 19,
+            "rating": 6.7,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Romualdas Jansonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "onTargetScoringAttempt": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 9,
+            "touches": 5,
+            "rating": 6.8,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tomas Švedkauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Džiugas Bartkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Manfredas Ruzgis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Matthew Guillaumier",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Artemijus Tutyškinas",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ryan Camenzuli",
+          "minute": 89,
+          "reason": "Foul"
+        },
+        {
+          "player": "Paul Mbong",
+          "minute": 24,
+          "reason": "Foul"
+        },
+        {
+          "player": "Kipras Kazukolovas",
+          "minute": 17,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 13233459,
+      "date": "04/09/2025 18:00:00",
+      "opponent": "Malta",
+      "homeAway": "Home",
+      "result": "DRAW",
+      "teamScore": 1,
+      "oppScore": 1,
+      "league": "World Cup Qual. UEFA G",
+      "season": "World Cup Qualification, UEFA 2026",
+      "players": [
+        {
+          "name": "Edvinas Gertmonas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 12,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "goodHighClaim": 1,
+            "saves": 2,
+            "punches": 2,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 27,
+            "rating": 7.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 7.1
+            }
+          }
+        },
+        {
+          "name": "Klaudijus Upstas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 12,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "lastManTackle": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 69,
+            "touches": 48,
+            "rating": 6.6,
+            "possessionLostCtrl": 18,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Edgaras Utkus",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 30,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 3,
+            "wasFouled": 2,
+            "fouls": 2,
+            "penaltyWon": 1,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 7.5,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": 7.5
+            }
+          }
+        },
+        {
+          "name": "Edvinas Girdvainis",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 29,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalClearance": 3,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Artemijus Tutyškinas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 22,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 5,
+            "duelWon": 9,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalClearance": 8,
+            "totalTackle": 1,
+            "wasFouled": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 7,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
+        },
+        {
+          "name": "Modestas Vorobjovas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 17,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 10,
+            "duelWon": 3,
+            "challengeLost": 4,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 4,
+            "minutesPlayed": 76,
+            "touches": 31,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            }
+          }
+        },
+        {
+          "name": "Gratas Sirgėdas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 21,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 68,
+            "touches": 39,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Artur Dolznikov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 17,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Gvidas Gineitis",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 19,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 9,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 3,
+            "goals": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 7.6,
+            "possessionLostCtrl": 19,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": 7.6
+            }
+          }
+        },
+        {
+          "name": "Justas Lasickas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 24,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceCreated": 2,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 5,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 7.5,
+            "possessionLostCtrl": 15,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": 7.5
+            }
+          }
+        },
+        {
+          "name": "Gytis Paulauskas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 10,
+            "duelLost": 6,
+            "duelWon": 16,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 3,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 7.5,
+            "possessionLostCtrl": 19,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": 7.5
+            }
+          }
+        },
+        {
+          "name": "Eligijus Jankauskas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 7,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 25,
+            "rating": 7,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
+        },
+        {
+          "name": "Paulius Golubickas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 22,
+            "touches": 16,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Tomas Kalinauskas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "outfielderBlock": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 21,
+            "touches": 10,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Romualdas Jansonas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "blockedScoringAttempt": 2,
+            "minutesPlayed": 14,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Tomas Švedkauskas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Marius Adamonis",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Markas Beneta",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Vilius Armalas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rokas Lekiatas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Domantas Antanavičius",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Vaidas Magdusauskas",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Nauris Petkevičius",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Gvidas Gineitis",
+          "goal": 1,
+          "assist": 0,
+          "minute": 90,
+          "source": "goal"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Jake Grech",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Zach Muscat",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edgaras Utkus",
+          "minute": 65,
+          "reason": "Foul"
+        },
+        {
+          "player": "Modestas Vorobjovas",
+          "minute": 48,
+          "reason": "Foul"
+        },
+        {
+          "player": "Artur Dolznikov",
+          "minute": 45,
+          "reason": "Argument"
+        },
+        {
+          "player": "Myles Beerman",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Kurt Shaw",
+          "minute": 43,
+          "reason": "Foul"
+        },
+        {
+          "player": "Artemijus Tutyškinas",
+          "minute": 36,
+          "reason": "Foul"
+        },
+        {
+          "player": "Paul Mbong",
+          "minute": 26,
+          "reason": "Foul"
+        },
+        {
+          "player": "Alexander Satariano",
+          "minute": 12,
+          "reason": "Foul"
+        },
+        {
+          "player": "Emilio De Leo",
+          "minute": -5,
+          "reason": "Argument"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Jake Azzopardi",
+          "minute": 90,
+          "reason": "Foul"
+        }
+      ],
+      "penalties": [
+        {
+          "player": "Gvidas Gineitis",
+          "minute": 90,
+          "incidentClass": "penalty"
         }
       ]
     },
     {
       "matchId": 13233413,
-      "date": "24/03/2025 18:00",
+      "date": "24/03/2025 18:00:00",
       "opponent": "Finland",
       "homeAway": "Home",
       "result": "DRAW",
       "teamScore": 2,
       "oppScore": 2,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 23,
+            "totalLongBalls": 22,
+            "accurateLongBalls": 13,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "goodHighClaim": 2,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 41,
+            "rating": 7.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 47,
+            "accuratePass": 38,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "interceptionWon": 3,
+            "totalTackle": 5,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 79,
+            "rating": 7.1,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 65,
+            "accuratePass": 60,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "totalClearance": 8,
+            "outfielderBlock": 1,
+            "lastManTackle": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 79,
+            "rating": 6.9,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 68,
+            "accuratePass": 60,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 2,
+            "penaltyConceded": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 78,
+            "rating": 6.2,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 28,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 6,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 6.2,
+            "possessionLostCtrl": 17,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 29,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "fouls": 2,
+            "minutesPlayed": 65,
+            "touches": 37,
+            "rating": 6.5,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 40,
+            "accuratePass": 37,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 3,
+            "totalTackle": 3,
+            "fouls": 3,
+            "minutesPlayed": 77,
+            "touches": 54,
+            "rating": 7.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "duelLost": 4,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 3,
+            "wasFouled": 1,
+            "minutesPlayed": 45,
+            "touches": 13,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 19,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 3,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 36,
+            "rating": 7.6,
+            "possessionLostCtrl": 6,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 8,
+            "duelWon": 8,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "interceptionWon": 1,
+            "wasFouled": 6,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 3,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 9,
+            "duelWon": 3,
+            "dispossessed": 4,
+            "onTargetScoringAttempt": 3,
+            "goals": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 58,
+            "touches": 18,
+            "rating": 7.3,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "duelWon": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 45,
+            "touches": 19,
+            "rating": 7,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Manfredas Ruzgis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 2,
+            "shotOffTarget": 2,
+            "totalClearance": 2,
+            "minutesPlayed": 32,
+            "touches": 18,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "outfielderBlock": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 25,
+            "touches": 20,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matijus Remeikis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 2,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 13,
+            "touches": 7,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marius Adamonis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matas Vareika",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gvidas Gineitis",
@@ -536,527 +2320,1716 @@
           "minute": 39,
           "source": "assist"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Titas Milašius",
+          "minute": 73,
+          "reason": "Foul"
+        },
+        {
+          "player": "Gvidas Gineitis",
+          "minute": 70
+        },
+        {
+          "player": "Robert Ivanov",
+          "minute": 45
+        },
+        {
+          "player": "Miro Tenho",
+          "minute": 42,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edvinas Girdvainis",
+          "minute": 15,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Joel Pohjanpalo",
+          "minute": 17,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 13233401,
-      "date": "21/03/2025 20:45",
+      "date": "21/03/2025 20:45:00",
       "opponent": "Poland",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 1,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 15,
+            "totalLongBalls": 25,
+            "accurateLongBalls": 10,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 6,
+            "saves": 6,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 47,
+            "rating": 8,
+            "possessionLostCtrl": 16,
+            "ratingVersions": {
+              "original": 8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 26,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 5,
+            "duelLost": 1,
+            "duelWon": 6,
+            "totalClearance": 7,
+            "outfielderBlock": 3,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 50,
+            "rating": 7.6,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 24,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 5,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "totalClearance": 14,
+            "outfielderBlock": 2,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 7.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 26,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalClearance": 8,
+            "outfielderBlock": 2,
+            "totalTackle": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 54,
+            "rating": 6.9,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 25,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "totalContest": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 74,
+            "touches": 63,
+            "rating": 6.7,
+            "possessionLostCtrl": 17,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 29,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "outfielderBlock": 3,
+            "interceptionWon": 4,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 84,
+            "touches": 47,
+            "rating": 7.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 23,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 44,
+            "rating": 6.9,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 18,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 10,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "totalClearance": 3,
+            "interceptionWon": 3,
+            "totalTackle": 4,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 7.1,
+            "possessionLostCtrl": 24,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "totalClearance": 1,
+            "minutesPlayed": 61,
+            "touches": 20,
+            "rating": 6.3,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 62,
+            "touches": 26,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "aerialWon": 4,
+            "duelLost": 10,
+            "duelWon": 14,
+            "totalContest": 2,
+            "wonContest": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 7,
+            "fouls": 6,
+            "minutesPlayed": 84,
+            "touches": 38,
+            "rating": 7.3,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 29,
+            "touches": 12,
+            "rating": 6.3,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalContest": 1,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 28,
+            "touches": 10,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 16,
+            "touches": 11,
+            "rating": 6.4,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matas Vareika",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 12,
+            "touches": 4,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 3,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 12,
+            "touches": 5,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marius Adamonis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matijus Remeikis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Manfredas Ruzgis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Kamil Piątkowski",
+          "minute": 70,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edgaras Utkus",
+          "minute": 55,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057780,
-      "date": "18/11/2024 20:45",
+      "date": "18/11/2024 20:45:00",
       "opponent": "Kosovo",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 1,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 14,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 3,
+            "minutesPlayed": 90,
+            "touches": 27,
+            "rating": 7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 54,
+            "accuratePass": 50,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 74,
+            "rating": 7.1,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 57,
+            "accuratePass": 49,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 5,
+            "aerialWon": 5,
+            "duelLost": 6,
+            "duelWon": 7,
+            "dispossessed": 1,
+            "totalClearance": 8,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 75,
+            "rating": 7.2,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 55,
+            "accuratePass": 52,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 6,
+            "aerialWon": 5,
+            "duelLost": 8,
+            "duelWon": 10,
+            "challengeLost": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 7,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "wasFouled": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 75,
+            "rating": 7.3,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 40,
+            "accuratePass": 29,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "duelWon": 4,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 7.1,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 46,
+            "accuratePass": 36,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 6.9,
+            "possessionLostCtrl": 17,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "challengeLost": 3,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 60,
+            "touches": 19,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 57,
+            "accuratePass": 50,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 80,
+            "touches": 69,
+            "rating": 7.1,
+            "possessionLostCtrl": 9,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 61,
+            "accuratePass": 55,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 2,
+            "hitWoodwork": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 83,
+            "rating": 7.5,
+            "possessionLostCtrl": 14,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 32,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "duelWon": 3,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 6.9,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 10,
+            "duelWon": 8,
+            "dispossessed": 3,
+            "totalContest": 2,
+            "totalClearance": 2,
+            "wasFouled": 3,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 34,
+            "rating": 6.6,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 18,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "onTargetScoringAttempt": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 30,
+            "touches": 28,
+            "rating": 6.9,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Romualdas Jansonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 10,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Valdas Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Arijanet Murić",
+          "minute": 89,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Elvis Rexhbeçaj",
+          "minute": 37,
+          "reason": "Foul"
+        },
+        {
+          "player": "Pijus Širvys",
+          "minute": 24,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Muharrem Jashari",
+          "minute": 45,
+          "reason": "Foul"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 12057777,
-      "date": "15/11/2024 18:00",
+      "date": "15/11/2024 18:00:00",
       "opponent": "Cyprus",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 2,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 18,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "errorLeadToAGoal": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 2,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 24,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 5,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 60,
+            "touches": 49,
+            "rating": 7.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 53,
+            "accuratePass": 48,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 6,
+            "duelLost": 2,
+            "duelWon": 7,
+            "totalClearance": 10,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 71,
+            "rating": 7.3,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 42,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 6.4,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 25,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 9,
+            "challengeLost": 1,
+            "totalClearance": 4,
+            "totalTackle": 4,
+            "wasFouled": 4,
+            "fouls": 2,
+            "minutesPlayed": 60,
+            "touches": 53,
+            "rating": 7,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 13,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 4,
+            "fouls": 2,
+            "minutesPlayed": 80,
+            "touches": 39,
+            "rating": 6.8,
+            "possessionLostCtrl": 10,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 20,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 60,
+            "touches": 34,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 31,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "wonContest": 2,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 7.6,
+            "possessionLostCtrl": 18,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 20,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 2,
+            "aerialLost": 4,
+            "aerialWon": 1,
+            "duelLost": 11,
+            "duelWon": 6,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 54,
+            "rating": 6.6,
+            "possessionLostCtrl": 18,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 16,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 7,
+            "aerialWon": 4,
+            "duelLost": 14,
+            "duelWon": 7,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 5,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.9,
+            "possessionLostCtrl": 19,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tomas Kalinauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 13,
+            "rating": 6.4,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 30,
+            "touches": 15,
+            "rating": 6.7,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 5,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 30,
+            "touches": 11,
+            "rating": 7.2,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 6,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 30,
+            "touches": 28,
+            "rating": 6.5,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Romualdas Jansonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 10,
+            "touches": 2,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Edgaras Utkus",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matas Vareika",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gvidas Gineitis",
@@ -1072,179 +4045,584 @@
           "minute": 47,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Ioannis Kousoulos",
+          "minute": 82,
+          "reason": "Foul"
+        },
+        {
+          "player": "Justas Lasickas",
+          "minute": 65,
+          "reason": "Foul"
+        },
+        {
+          "player": "Paulius Golubickas",
+          "minute": 56,
+          "reason": "Foul"
+        },
+        {
+          "player": "Grīgorīs Kastanos",
+          "minute": 53,
+          "reason": "Argument"
+        },
+        {
+          "player": "Andronikos Kakoullis",
+          "minute": 41,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Nicholas Ioannou",
+          "minute": 22,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057781,
-      "date": "15/10/2024 20:45",
+      "date": "15/10/2024 20:45:00",
       "opponent": "Romania",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 1,
       "oppScore": 2,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 19,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "lastManTackle": 1,
+            "totalTackle": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 3,
+            "totalKeeperSweeper": 2,
+            "accurateKeeperSweeper": 2,
+            "minutesPlayed": 90,
+            "touches": 37,
+            "rating": 7,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 21,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 75,
+            "touches": 54,
+            "rating": 6.1,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 40,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 8,
+            "goalAssist": 0,
+            "aerialWon": 3,
+            "duelLost": 2,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "bigChanceCreated": 1,
+            "totalClearance": 3,
+            "lastManTackle": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 6.8,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 57,
+            "accuratePass": 44,
+            "totalLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 6,
+            "outfielderBlock": 2,
+            "interceptionWon": 3,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 69,
+            "rating": 6.7,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 19,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 60,
+            "touches": 42,
+            "rating": 6.5,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 28,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 80,
+            "touches": 40,
+            "rating": 6.5,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 5,
+            "wonContest": 2,
+            "blockedScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "totalTackle": 1,
+            "penaltyConceded": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 46,
+            "rating": 6.3,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 28,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 6.8,
+            "possessionLostCtrl": 26,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 3,
+            "duelWon": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 59,
+            "touches": 21,
+            "rating": 6.3,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 19,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 11,
+            "dispossessed": 3,
+            "totalContest": 4,
+            "wonContest": 2,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 6,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.2,
+            "possessionLostCtrl": 18,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 16,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 9,
+            "duelWon": 6,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 4,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 6,
+            "minutesPlayed": 80,
+            "touches": 40,
+            "rating": 7.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 7,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 31,
+            "touches": 19,
+            "rating": 6.6,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 8,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "interceptionWon": 1,
+            "minutesPlayed": 30,
+            "touches": 16,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "shotOffTarget": 1,
+            "minutesPlayed": 15,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "minutesPlayed": 10,
+            "touches": 5,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "bigChanceMissed": 1,
+            "fouls": 1,
+            "minutesPlayed": 10,
+            "touches": 3,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tomas Kalinauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Valdas Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Armandas Kučys",
@@ -1253,179 +4631,587 @@
           "minute": 7,
           "source": "goal"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Florinel Coman",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Gvidas Gineitis",
+          "minute": 85,
+          "reason": "Off the ball foul"
+        },
+        {
+          "player": "Armandas Kučys",
+          "minute": 77,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andrei Burcă",
+          "minute": 63,
+          "reason": "Foul"
+        },
+        {
+          "player": "Vykintas Slivka",
+          "minute": 48,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Răzvan Marin",
+          "minute": 18,
+          "incidentClass": "penalty"
+        },
+        {
+          "player": "Armandas Kučys",
+          "minute": 7,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 12057910,
-      "date": "12/10/2024 15:00",
+      "date": "12/10/2024 15:00:00",
       "opponent": "Kosovo",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 1,
       "oppScore": 2,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 19,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "errorLeadToAShot": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "minutesPlayed": 90,
+            "touches": 34,
+            "rating": 5.8,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 5.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 35,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 10,
+            "challengeLost": 3,
+            "totalContest": 2,
+            "wonContest": 2,
+            "totalClearance": 2,
+            "interceptionWon": 3,
+            "totalTackle": 2,
+            "wasFouled": 5,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 68,
+            "rating": 6.8,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 68,
+            "accuratePass": 58,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalClearance": 4,
+            "interceptionWon": 6,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 81,
+            "rating": 6.8,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 56,
+            "accuratePass": 51,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "totalClearance": 4,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 38,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "challengeLost": 4,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 4,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 6.4,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 22,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 59,
+            "touches": 36,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gvidas Gineitis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 55,
+            "accuratePass": 45,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 9,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 3,
+            "blockedScoringAttempt": 2,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 79,
+            "rating": 7.4,
+            "possessionLostCtrl": 17,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 9,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 77,
+            "touches": 41,
+            "rating": 6.6,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 44,
+            "accuratePass": 30,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 6,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 6.7,
+            "possessionLostCtrl": 22,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 13,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 59,
+            "touches": 28,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 78,
+            "touches": 32,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paulius Golubickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 6,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 31,
+            "touches": 14,
+            "rating": 7.1,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Fedor Černych",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 31,
+            "touches": 21,
+            "rating": 6.4,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 2,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 13,
+            "touches": 13,
+            "rating": 7.5,
+            "possessionLostCtrl": 6,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "minutesPlayed": 12,
+            "touches": 7,
+            "rating": 6.5,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Valdas Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tomas Kalinauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Paulius Golubickas",
@@ -1441,179 +5227,563 @@
           "minute": 84,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Elvis Rexhbeçaj",
+          "minute": 85,
+          "reason": "Foul"
+        },
+        {
+          "player": "Artemijus Tutyškinas",
+          "minute": 53,
+          "reason": "Foul"
+        },
+        {
+          "player": "Lumbardh Dellova",
+          "minute": 51,
+          "reason": "Foul"
+        },
+        {
+          "player": "Donat Rrudhani",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edvinas Girdvainis",
+          "minute": 14,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057779,
-      "date": "09/09/2024 20:45",
+      "date": "09/09/2024 20:45:00",
       "opponent": "Romania",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 3,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "goodHighClaim": 2,
+            "saves": 3,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 6.8,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 34,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 2,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 67,
+            "rating": 6.4,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 47,
+            "accuratePass": 40,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 2,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 24,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 18,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "aerialLost": 2,
+            "duelLost": 3,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 6,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "errorLeadToAShot": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 6.5,
+            "possessionLostCtrl": 18,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 27,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 66,
+            "touches": 42,
+            "rating": 6.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 26,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 75,
+            "touches": 35,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalTackle": 2,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 76,
+            "touches": 30,
+            "rating": 6.6,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 29,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 4,
+            "dispossessed": 4,
+            "totalContest": 3,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 6.1,
+            "possessionLostCtrl": 17,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 17,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "duelLost": 4,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "penaltyConceded": 1,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 89,
+            "touches": 46,
+            "rating": 7.5,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 17,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 6,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "interceptionWon": 1,
+            "wasFouled": 2,
+            "totalOffside": 2,
+            "minutesPlayed": 65,
+            "touches": 35,
+            "rating": 7.4,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 25,
+            "touches": 11,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ovidijus Verbickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "challengeLost": 2,
+            "totalClearance": 1,
+            "minutesPlayed": 24,
+            "touches": 10,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 1,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "fouls": 1,
+            "minutesPlayed": 15,
+            "touches": 4,
+            "rating": 6.2,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tomas Kalinauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "minutesPlayed": 14,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 1,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "minutesPlayed": 1
+          }
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matas Vareika",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Valdas Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Armandas Kučys",
@@ -1629,181 +5799,626 @@
           "minute": 34,
           "source": "assist"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Ianis Hagi",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ștefan Târnovanu",
+          "minute": 77,
+          "reason": "Argument"
+        },
+        {
+          "player": "Valentin Mihăilă",
+          "minute": 65,
+          "reason": "Foul"
+        },
+        {
+          "player": "Vykintas Slivka",
+          "minute": 53,
+          "reason": "Foul"
+        },
+        {
+          "player": "Rokas Lekiatas",
+          "minute": 46,
+          "reason": "Foul"
+        },
+        {
+          "player": "Giedrius Matulevicius",
+          "minute": 8,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edgaras Jankauskas",
+          "minute": -5,
+          "reason": "Argument"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Răzvan Marin",
+          "minute": 87,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 12198109,
-      "date": "06/09/2024 18:00",
+      "date": "06/09/2024 18:00:00",
       "opponent": "Cyprus",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 1,
       "league": "UEFA Nations League, League C, Gr. 2",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Edvinas Gertmonas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 23,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 3,
+            "wasFouled": 2,
+            "goodHighClaim": 2,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.8,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Pijus Širvys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 18,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 2,
+            "aerialWon": 3,
+            "duelLost": 5,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 70,
+            "touches": 54,
+            "rating": 6.3,
+            "possessionLostCtrl": 21,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kipras Kazukolovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 58,
+            "accuratePass": 50,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 8,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 4,
+            "bigChanceMissed": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 67,
+            "rating": 6.7,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Edvinas Girdvainis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 41,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 4,
+            "duelWon": 6,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 4,
+            "interceptionWon": 3,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 6.8,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artemijus Tutyškinas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 57,
+            "accuratePass": 47,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalCross": 6,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "bigChanceCreated": 2,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 76,
+            "rating": 7.6,
+            "possessionLostCtrl": 14,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Justas Lasickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 23,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 8,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 61,
+            "rating": 6.6,
+            "possessionLostCtrl": 18,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vykintas Slivka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 30,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 7,
+            "duelWon": 8,
+            "challengeLost": 2,
+            "totalContest": 3,
+            "wonContest": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 6.7,
+            "possessionLostCtrl": 18,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Modestas Vorobjovas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 47,
+            "accuratePass": 37,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 86,
+            "touches": 57,
+            "rating": 6.6,
+            "possessionLostCtrl": 12,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Giedrius Matulevicius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 18,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 61,
+            "touches": 30,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Armandas Kučys",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 11,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 7,
+            "aerialWon": 8,
+            "duelLost": 12,
+            "duelWon": 10,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 3,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.7,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Dolznikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "duelLost": 9,
+            "duelWon": 1,
+            "dispossessed": 4,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 86,
+            "touches": 36,
+            "rating": 6.9,
+            "possessionLostCtrl": 18,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tomas Kalinauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 2,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 29,
+            "touches": 12,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gytis Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 6,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "fouls": 1,
+            "minutesPlayed": 20,
+            "touches": 13,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ovidijus Verbickas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "minutesPlayed": 11,
+            "touches": 3,
+            "rating": 6.6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Valdas Paulauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "fouls": 1,
+            "minutesPlayed": 11,
+            "touches": 4,
+            "rating": 7.1,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mantas Bertasius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Deividas Mikelionis",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Klaudijus Upstas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominykas Barauskas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rokas Lekiatas",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Domantas Antanavičius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Titas Milašius",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Daniel Romanovskij",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Stelios Andreou",
+          "minute": 71,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andreas Chrysostomou",
+          "minute": 69,
+          "reason": "Foul"
+        },
+        {
+          "player": "Tomas Kalinauskas",
+          "minute": 68,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andreas Karo",
+          "minute": 56,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andreas Panagiotou Filiotis",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Hector Kyprianou",
+          "minute": 32,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     }
   ]
 }

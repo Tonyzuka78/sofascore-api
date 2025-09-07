@@ -1,345 +1,1136 @@
 {
+  "sport": "FOOT",
   "teamId": 4772,
   "teamName": "Kazakhstan",
   "matches": [
     {
       "matchId": 13233434,
-      "date": "09/06/2025 16:00",
+      "date": "09/06/2025 16:00:00",
       "opponent": "North Macedonia",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 1,
       "league": "World Cup Qual. UEFA J",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Mukhamedjan Seisen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 10,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 4,
+            "totalKeeperSweeper": 2,
+            "accurateKeeperSweeper": 2,
+            "minutesPlayed": 90,
+            "touches": 23,
+            "rating": 7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 31,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 8,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 3,
+            "totalTackle": 5,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 6.8,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 44,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 5,
+            "totalTackle": 3,
+            "errorLeadToAShot": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 81,
+            "touches": 62,
+            "rating": 6.9,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sergey Maliy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 65,
+            "accuratePass": 52,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 7,
+            "duelLost": 5,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "totalClearance": 7,
+            "totalTackle": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 76,
+            "rating": 6.8,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 60,
+            "accuratePass": 52,
+            "totalLongBalls": 16,
+            "accurateLongBalls": 11,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 2,
+            "duelWon": 11,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 78,
+            "rating": 7.8,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 27,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 6,
+            "dispossessed": 2,
+            "totalContest": 5,
+            "wonContest": 2,
+            "totalClearance": 1,
+            "totalTackle": 4,
+            "errorLeadToAShot": 1,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 14,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 11,
+            "duelWon": 6,
+            "dispossessed": 4,
+            "totalContest": 6,
+            "wonContest": 2,
+            "bigChanceCreated": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 85,
+            "touches": 49,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islambek Kuat",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 18,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 32,
+            "rating": 6.8,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 42,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 2,
+            "totalTackle": 4,
+            "errorLeadToAShot": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 7.4,
+            "possessionLostCtrl": 11,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Galymzhan Kenzhebek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "dispossessed": 3,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 59,
+            "touches": 24,
+            "rating": 6.7,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 9,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 2,
+            "hitWoodwork": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 5,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 6.9,
+            "possessionLostCtrl": 22,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dastan Satpaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "duelLost": 6,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalContest": 2,
+            "shotOffTarget": 1,
+            "hitWoodwork": 1,
+            "minutesPlayed": 31,
+            "touches": 17,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aliyar Mukhamed",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 5,
+            "duelWon": 3,
+            "shotOffTarget": 1,
+            "fouls": 4,
+            "minutesPlayed": 9,
+            "touches": 5,
+            "rating": 6.7,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksander Zuev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 2,
+            "minutesPlayed": 14,
+            "touches": 4,
+            "rating": 6.4,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bekkhan Shayzada",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adilbek Zhumakhanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Almas Tyulyubay",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dauren Zhumat",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Murojon Khalmatov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Georgy Zhukov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Nauryzbek Zhagorov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Stefan Despotovski",
+          "minute": 81,
+          "reason": "Foul"
+        },
+        {
+          "player": "Islambek Kuat",
+          "minute": 79,
+          "reason": "Foul"
+        },
+        {
+          "player": "Visar Musliu",
+          "minute": 64,
+          "reason": "Foul"
+        },
+        {
+          "player": "Sergey Maliy",
+          "minute": 50,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 13857472,
-      "date": "05/06/2025 19:30",
+      "date": "05/06/2025 19:30:00",
       "opponent": "Belarus",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 4,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "challengeLost": 1,
+            "totalClearance": 2,
+            "errorLeadToAGoal": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 5,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 31,
+            "rating": 5.9,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 5.9,
+              "alternative": 5.9
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 56,
+            "accuratePass": 46,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 4,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 69,
+            "rating": 6.3,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": 6.3
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 44,
+            "accuratePass": 37,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Sergey Maliy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 16,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "minutesPlayed": 45,
+            "touches": 23,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 46,
+            "accuratePass": 35,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 6,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 80,
+            "rating": 6.7,
+            "possessionLostCtrl": 21,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 35,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 60,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.8
+            }
+          }
         },
         {
           "name": "Islambek Kuat",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 10,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 45,
+            "touches": 16,
+            "rating": 6.6,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 1,
+            "totalContest": 1,
+            "minutesPlayed": 45,
+            "touches": 26,
+            "rating": 6.3,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": 6.3
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 8,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "fouls": 3,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 24,
+            "rating": 6.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": 6.1
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 10,
+            "rating": 6.5,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
         },
         {
           "name": "Aleksander Zuev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 16,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Adilbek Zhumakhanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 18,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "interceptionWon": 2,
+            "errorLeadToAGoal": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 23,
+            "rating": 5.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 5.8,
+              "alternative": 5.8
+            }
+          }
         },
         {
           "name": "Dauren Zhumat",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 18,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 1,
+            "blockedScoringAttempt": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 27,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Galymzhan Kenzhebek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 13,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 6,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 32,
+            "rating": 7.6,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": 7.6
+            }
+          }
         },
         {
           "name": "Nauryzbek Zhagorov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 22,
+            "totalLongBalls": 1,
+            "goalAssist": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 36,
+            "rating": 7.4,
+            "possessionLostCtrl": 5,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": 7.4
+            }
+          }
         },
         {
           "name": "Georgy Zhukov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 24,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "dispossessed": 3,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 39,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Aliyar Mukhamed",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "minutesPlayed": 45,
+            "touches": 11,
+            "rating": 6.5,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bekkhan Shayzada",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Almas Tyulyubay",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Murojon Khalmatov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sultanbek Astanov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Galymzhan Kenzhebek",
@@ -348,179 +1139,1136 @@
           "minute": 74,
           "source": "goal"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "minute": 83
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
-      "matchId": 13233417,
-      "date": "25/03/2025 20:45",
-      "opponent": "Liechtenstein",
-      "homeAway": "Away",
-      "result": "WIN",
-      "teamScore": 2,
-      "oppScore": 0,
+      "matchId": 13233453,
+      "date": "04/09/2025 16:00:00",
+      "opponent": "Wales",
+      "homeAway": "Home",
+      "result": "LOOSE",
+      "teamScore": 0,
+      "oppScore": 1,
       "league": "World Cup Qual. UEFA J",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
-          "name": "Mukhamedjan Seisen",
+          "name": "Temirlan Anarbekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 17,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelWon": 3,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 4,
+            "punches": 1,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 39,
+            "rating": 7.1,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 7.1
+            }
+          }
         },
         {
-          "name": "Sultanbek Astanov",
+          "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 25,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 5,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 41,
+            "rating": 6.6,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
-          "name": "Marat Bystrov",
+          "name": "Sergey Maliy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Aleksandr Marochkin",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 23,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 3,
+            "duelLost": 4,
+            "duelWon": 5,
+            "shotOffTarget": 2,
+            "totalClearance": 7,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 7,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 23,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 3,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 81,
+            "touches": 41,
+            "rating": 7.2,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": 7.2
+            }
+          }
         },
         {
-          "name": "Yan Vorogovskiy",
+          "name": "Bagdat Kairov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Islam Chesnokov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 26,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 7.2,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": 7.2
+            }
+          }
         },
         {
           "name": "Ramazan Orazov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 7,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 86,
+            "touches": 27,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
-          "name": "Georgy Zhukov",
+          "name": "Damir Kasabulat",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 6,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "duelWon": 2,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 22,
+            "rating": 6.8,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.8
+            }
+          }
         },
         {
-          "name": "Maksim Samorodov",
+          "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 26,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 7.2,
+            "possessionLostCtrl": 11,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": 7.2
+            }
+          }
         },
         {
           "name": "Dastan Satpaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Askhat Tagybergen",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 9,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 87,
+            "touches": 22,
+            "rating": 6.7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
         },
         {
           "name": "Galymzhan Kenzhebek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "fouls": 1,
+            "minutesPlayed": 65,
+            "touches": 28,
+            "rating": 7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
         },
         {
-          "name": "Nauryzbek Zhagorov",
+          "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 7,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 86,
+            "touches": 29,
+            "rating": 7.1,
+            "possessionLostCtrl": 11,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 7.1
+            }
+          }
         },
         {
-          "name": "Aybar Zhaksylykov",
+          "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Elkhan Astanov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Temirlan Anarbekov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Aleksandr Zarutskiy",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Adilbek Zhumakhanov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 5,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 25,
+            "touches": 15,
+            "rating": 7.1,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 7.1
+            }
+          }
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Erkin Tapalov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "minutesPlayed": 9,
+            "touches": 5,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
         },
         {
           "name": "Serikzhan Muzhikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 2,
+            "duelLost": 2,
+            "challengeLost": 2,
+            "shotOffTarget": 1,
+            "hitWoodwork": 1,
+            "minutesPlayed": 10,
+            "touches": 6,
+            "rating": 7,
+            "possessionLostCtrl": 1,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
+        },
+        {
+          "name": "Dauren Zhumat",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 10,
+            "touches": 9,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.8
+            }
+          }
+        },
+        {
+          "name": "Oralkhan Omirtayev",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "shotOffTarget": 1,
+            "minutesPlayed": 9,
+            "touches": 3,
+            "rating": 6.7,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Bekkhan Shayzada",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mukhamedjan Seisen",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Dinmukhamed Karaman",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Nauryzbek Zhagorov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Sultanbek Astanov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Murojon Khalmatov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Ivan Sviridov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Neco Williams",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Sergey Maliy",
+          "minute": 80,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 13233417,
+      "date": "25/03/2025 20:45:00",
+      "opponent": "Liechtenstein",
+      "homeAway": "Away",
+      "result": "LOOSE",
+      "teamScore": 2,
+      "oppScore": 0,
+      "league": "World Cup Qual. UEFA J",
+      "season": "World Cup Qualification, UEFA 2026",
+      "players": [
+        {
+          "name": "Mukhamedjan Seisen",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 5,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 2,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 15,
+            "rating": 7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Sultanbek Astanov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 62,
+            "accuratePass": 54,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "fouls": 3,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 88,
+            "rating": 7.1,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Marat Bystrov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 99,
+            "accuratePass": 84,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 12,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialWon": 6,
+            "duelLost": 3,
+            "duelWon": 11,
+            "challengeLost": 2,
+            "totalContest": 2,
+            "wonContest": 2,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 120,
+            "rating": 8.4,
+            "possessionLostCtrl": 17,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 8.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Aleksandr Marochkin",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 73,
+            "accuratePass": 69,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "minutesPlayed": 90,
+            "touches": 90,
+            "rating": 8.2,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 8.2,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Nuraly Alip",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 103,
+            "accuratePass": 91,
+            "totalLongBalls": 28,
+            "accurateLongBalls": 22,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 6,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 4,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 119,
+            "rating": 8.5,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 8.5,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Yan Vorogovskiy",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 56,
+            "accuratePass": 44,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 72,
+            "touches": 72,
+            "rating": 7,
+            "possessionLostCtrl": 16,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Islam Chesnokov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 9,
+            "duelWon": 7,
+            "dispossessed": 2,
+            "totalContest": 5,
+            "wonContest": 2,
+            "bigChanceMissed": 1,
+            "blockedScoringAttempt": 2,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 72,
+            "touches": 36,
+            "rating": 6.8,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Ramazan Orazov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 29,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 65,
+            "touches": 41,
+            "rating": 6.7,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Georgy Zhukov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 60,
+            "accuratePass": 54,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 10,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 73,
+            "rating": 7.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Maksim Samorodov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 11,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 1,
+            "totalCross": 7,
+            "accurateCross": 5,
+            "duelLost": 11,
+            "duelWon": 1,
+            "totalContest": 10,
+            "wonContest": 1,
+            "bigChanceCreated": 3,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "fouls": 2,
+            "minutesPlayed": 65,
+            "touches": 45,
+            "rating": 8.4,
+            "possessionLostCtrl": 17,
+            "keyPass": 6,
+            "ratingVersions": {
+              "original": 8.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Dastan Satpaev",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 5,
+            "wonContest": 1,
+            "minutesPlayed": 77,
+            "touches": 24,
+            "rating": 6.4,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Askhat Tagybergen",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 16,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 25,
+            "touches": 26,
+            "rating": 6.9,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Galymzhan Kenzhebek",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 25,
+            "touches": 15,
+            "rating": 6.9,
+            "possessionLostCtrl": 2,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Nauryzbek Zhagorov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 5,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "minutesPlayed": 18,
+            "touches": 20,
+            "rating": 6.6,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Aybar Zhaksylykov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 18,
+            "touches": 9,
+            "rating": 6.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Elkhan Astanov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "totalContest": 1,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 13,
+            "touches": 9,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Temirlan Anarbekov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Aleksandr Zarutskiy",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adilbek Zhumakhanov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Ular Zhaksybayev",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Erkin Tapalov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Serikzhan Muzhikov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aleksandr Marochkin",
@@ -550,179 +2298,538 @@
           "minute": 42,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Felix Oberwaditzer",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ramazan Orazov",
+          "minute": 19,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 13233407,
-      "date": "22/03/2025 20:45",
+      "date": "22/03/2025 20:45:00",
       "opponent": "Wales",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 3,
       "league": "World Cup Qual. UEFA J",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 13,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 8,
+            "goalAssist": 0,
+            "errorLeadToAGoal": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 4,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 6.4,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 16,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 37,
+            "rating": 6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 23,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 34,
+            "rating": 6.3,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 14,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 9,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "minutesPlayed": 90,
+            "touches": 32,
+            "rating": 6.5,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 34,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 6.5,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 27,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 6.2,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 11,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 4,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "shotOffTarget": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 86,
+            "touches": 28,
+            "rating": 6.1,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 26,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 3,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "errorLeadToAGoal": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 44,
+            "rating": 6.8,
+            "possessionLostCtrl": 9,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Serikzhan Muzhikov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 14,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 62,
+            "touches": 26,
+            "rating": 6,
+            "possessionLostCtrl": 7,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "duelLost": 7,
+            "duelWon": 3,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "blockedScoringAttempt": 3,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 74,
+            "touches": 31,
+            "rating": 6.3,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 3,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 74,
+            "touches": 18,
+            "rating": 6.3,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Georgy Zhukov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 7,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 4,
+            "totalTackle": 1,
+            "minutesPlayed": 28,
+            "touches": 18,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dastan Satpaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 16,
+            "touches": 13,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "duelWon": 2,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 16,
+            "touches": 10,
+            "rating": 6.7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Galymzhan Kenzhebek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "minutesPlayed": 8,
+            "touches": 3,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mukhamedjan Seisen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adilbek Zhumakhanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ramazan Orazov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Nauryzbek Zhagorov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aliyar Mukhamed",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Askhat Tagybergen",
@@ -731,18 +2838,38 @@
           "minute": 32,
           "source": "goal"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Islam Chesnokov",
+          "minute": 61,
+          "reason": "Foul"
+        },
+        {
+          "player": "Maksim Samorodov",
+          "minute": 42,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Askhat Tagybergen",
+          "minute": 32,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 13635939,
-      "date": "19/03/2025 17:30",
+      "date": "19/03/2025 17:30:00",
       "opponent": "Curaçao",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 2,
       "oppScore": 0,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Askhat Tagybergen",
@@ -758,1051 +2885,3358 @@
           "minute": 15,
           "source": "goal"
         }
-      ]
+      ],
+      "yellowCards": [],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057845,
-      "date": "17/11/2024 18:00",
+      "date": "17/11/2024 18:00:00",
       "opponent": "Norway",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 5,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 13,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 4,
+            "punches": 1,
+            "totalKeeperSweeper": 2,
+            "accurateKeeperSweeper": 2,
+            "minutesPlayed": 90,
+            "touches": 27,
+            "rating": 6.4,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 28,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 9,
+            "challengeLost": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 7,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 60,
+            "rating": 6.2,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 40,
+            "accuratePass": 31,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalClearance": 13,
+            "outfielderBlock": 1,
+            "interceptionWon": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 24,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 1,
+            "duelWon": 8,
+            "blockedScoringAttempt": 2,
+            "totalClearance": 5,
+            "interceptionWon": 1,
+            "totalTackle": 5,
+            "errorLeadToAGoal": 1,
+            "minutesPlayed": 90,
+            "touches": 41,
+            "rating": 6.1,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 33,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 2,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 6.1,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 51,
+            "touches": 18,
+            "rating": 6.4,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 5,
+            "duelWon": 1,
+            "challengeLost": 3,
+            "totalContest": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "errorLeadToAGoal": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 19,
+            "rating": 5.7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 5.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 58,
+            "accuratePass": 48,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 8,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 3,
+            "minutesPlayed": 89,
+            "touches": 68,
+            "rating": 6.7,
+            "possessionLostCtrl": 14,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 68,
+            "touches": 28,
+            "rating": 6.3,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 46,
+            "accuratePass": 40,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 6,
+            "aerialWon": 2,
+            "duelLost": 16,
+            "duelWon": 10,
+            "challengeLost": 3,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wasFouled": 4,
+            "fouls": 4,
+            "totalOffside": 2,
+            "minutesPlayed": 90,
+            "touches": 68,
+            "rating": 6.9,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 6,
+            "dispossessed": 1,
+            "blockedScoringAttempt": 1,
+            "fouls": 4,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 8,
+            "rating": 6.2,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 37,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 51,
+            "rating": 6.9,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 7,
+            "rating": 6.4,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Zhan-Ali Payruz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "errorLeadToAShot": 1,
+            "minutesPlayed": 39,
+            "touches": 20,
+            "rating": 6.3,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Elkhan Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 22,
+            "touches": 15,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Baltabekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "minutesPlayed": 1
+          }
         },
         {
           "name": "Temirlan Anarbekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Roman Asrankulov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adilbek Zhumakhanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aslan Darabaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ramazan Karimov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Aybar Zhaksylykov",
+          "minute": 88,
+          "reason": "Foul"
+        },
+        {
+          "player": "Abat Aimbetov",
+          "minute": 43,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057846,
-      "date": "14/11/2024 16:00",
+      "date": "14/11/2024 16:00:00",
       "opponent": "Austria",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 2,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 14,
+            "totalLongBalls": 28,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 5,
+            "saves": 6,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 7.5,
+            "possessionLostCtrl": 21,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 23,
+            "totalLongBalls": 8,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 2,
+            "totalClearance": 2,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.7,
+            "possessionLostCtrl": 22,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 22,
+            "totalLongBalls": 15,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalClearance": 8,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 50,
+            "rating": 6.5,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "errorLeadToAGoal": 1,
+            "fouls": 1,
+            "minutesPlayed": 23,
+            "touches": 15,
+            "rating": 3,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 20,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalClearance": 6,
+            "interceptionWon": 4,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 6.7,
+            "possessionLostCtrl": 19,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aslan Darabaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 15,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "blockedScoringAttempt": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 57,
+            "touches": 26,
+            "rating": 6.7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 29,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "duelLost": 2,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.9,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 17,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 8,
+            "totalContest": 4,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 69,
+            "touches": 41,
+            "rating": 6.6,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "dispossessed": 1,
+            "minutesPlayed": 26,
+            "touches": 12,
+            "rating": 6.3,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "duelLost": 15,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "dispossessed": 5,
+            "totalContest": 7,
+            "wonContest": 2,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 68,
+            "touches": 44,
+            "rating": 6,
+            "possessionLostCtrl": 20,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 6,
+            "duelWon": 1,
+            "dispossessed": 3,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 45,
+            "touches": 12,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adilbek Zhumakhanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 9,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 6,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalClearance": 9,
+            "totalTackle": 5,
+            "fouls": 1,
+            "minutesPlayed": 64,
+            "touches": 32,
+            "rating": 6.9,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ramazan Karimov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 3,
+            "duelLost": 7,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 17,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 16,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 33,
+            "touches": 21,
+            "rating": 6.7,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Galymzhan Kenzhebek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 22,
+            "touches": 18,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Zhan-Ali Payruz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "totalContest": 2,
+            "fouls": 2,
+            "minutesPlayed": 21,
+            "touches": 16,
+            "rating": 6.2,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Temirlan Anarbekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Roman Asrankulov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Askhat Baltabekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Elkhan Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Yan Vorogovskiy",
+          "minute": 90,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Aleksandr Marochkin",
+          "minute": 23,
+          "reason": "Professional foul last man"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 12057856,
-      "date": "13/10/2024 15:00",
+      "date": "13/10/2024 15:00:00",
       "opponent": "Slovenia",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 1,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 23,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 8,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "errorLeadToAShot": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 3,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 7.2,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 35,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 3,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.4,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 59,
+            "accuratePass": 51,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 3,
+            "totalClearance": 4,
+            "interceptionWon": 1,
+            "lastManTackle": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 67,
+            "rating": 7.1,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 76,
+            "accuratePass": 69,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "onTargetScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 5,
+            "interceptionWon": 3,
+            "totalTackle": 3,
+            "errorLeadToAShot": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 92,
+            "rating": 7.5,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 64,
+            "accuratePass": 53,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 94,
+            "rating": 6.5,
+            "possessionLostCtrl": 24,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 25,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 69,
+            "touches": 48,
+            "rating": 6.9,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aslan Darabaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 30,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 5,
+            "totalContest": 2,
+            "wonContest": 2,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 78,
+            "touches": 48,
+            "rating": 7,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 28,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 6,
+            "duelLost": 7,
+            "duelWon": 8,
+            "dispossessed": 4,
+            "totalContest": 1,
+            "wonContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.9,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 44,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 9,
+            "duelWon": 3,
+            "challengeLost": 3,
+            "dispossessed": 2,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 61,
+            "rating": 6.7,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 64,
+            "touches": 40,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "duelWon": 2,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 64,
+            "touches": 16,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Baltabekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 26,
+            "touches": 23,
+            "rating": 6.5,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 26,
+            "touches": 2,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Lev Skvortsov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "minutesPlayed": 21,
+            "touches": 8,
+            "rating": 6.5,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Zhan-Ali Payruz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 12,
+            "touches": 11,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrey Ulshin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Artur Shushenachev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Nuraly Alip",
+          "minute": 75,
+          "reason": "Foul"
+        },
+        {
+          "player": "Bauyrzhan Islamkhan",
+          "minute": 61,
+          "reason": "Foul"
+        },
+        {
+          "player": "Josip Iličić",
+          "minute": 42,
+          "reason": "Foul"
+        },
+        {
+          "player": "Marat Bystrov",
+          "minute": 30,
+          "reason": "Foul"
+        },
+        {
+          "player": "Islam Chesnokov",
+          "minute": 9,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057853,
-      "date": "10/10/2024 20:45",
+      "date": "10/10/2024 20:45:00",
       "opponent": "Austria",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 4,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 17,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 4,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 6.5,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sultanbek Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 16,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 44,
+            "rating": 6.3,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 23,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalClearance": 12,
+            "outfielderBlock": 3,
+            "interceptionWon": 1,
+            "errorLeadToAShot": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 6.6,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 36,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "duelLost": 9,
+            "duelWon": 5,
+            "challengeLost": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 4,
+            "interceptionWon": 3,
+            "totalTackle": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 60,
+            "rating": 7.2,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 45,
+            "accuratePass": 34,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 3,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 5,
+            "interceptionWon": 4,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 82,
+            "rating": 6.1,
+            "possessionLostCtrl": 26,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 15,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 3,
+            "duelLost": 10,
+            "duelWon": 5,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 76,
+            "touches": 37,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 12,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "errorLeadToAGoal": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 67,
+            "touches": 33,
+            "rating": 6,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aibol Abiken",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 8,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 2,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 23,
+            "rating": 6.3,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 11,
+            "duelWon": 10,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "wonContest": 2,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wasFouled": 4,
+            "fouls": 5,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 6.4,
+            "possessionLostCtrl": 18,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "totalClearance": 1,
+            "minutesPlayed": 45,
+            "touches": 17,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 7,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 3,
+            "duelLost": 6,
+            "duelWon": 4,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "fouls": 2,
+            "minutesPlayed": 59,
+            "touches": 20,
+            "rating": 6.6,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ramazan Orazov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 18,
+            "rating": 6.2,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 3,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "minutesPlayed": 45,
+            "touches": 22,
+            "rating": 6.2,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Shushenachev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "fouls": 1,
+            "minutesPlayed": 31,
+            "touches": 6,
+            "rating": 6.6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aslan Darabaev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "duelWon": 5,
+            "totalContest": 3,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 23,
+            "touches": 21,
+            "rating": 6.9,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ular Zhaksybayev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 14,
+            "touches": 6,
+            "rating": 6.2,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Lev Skvortsov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Askhat Baltabekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrey Ulshin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Sultanbek Astanov",
+          "minute": 89,
+          "reason": "Foul"
+        },
+        {
+          "player": "Nuraly Alip",
+          "minute": 65,
+          "reason": "Argument"
+        },
+        {
+          "player": "Alexander Prass",
+          "minute": 15,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057854,
-      "date": "09/09/2024 20:45",
+      "date": "09/09/2024 20:45:00",
       "opponent": "Slovenia",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 3,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 14,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "totalClearance": 1,
+            "errorLeadToAGoal": 1,
+            "savedShotsFromInsideTheBox": 4,
+            "saves": 6,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 7.4,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 24,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 76,
+            "touches": 49,
+            "rating": 6.4,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sergey Maliy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "totalClearance": 4,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 28,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 41,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "challengeLost": 2,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 51,
+            "rating": 6.3,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 70,
+            "accuratePass": 64,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 5,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 3,
+            "minutesPlayed": 90,
+            "touches": 81,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 35,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 5.9,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 5.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ramazan Orazov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 14,
+            "goalAssist": 0,
+            "minutesPlayed": 57,
+            "touches": 24,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 59,
+            "accuratePass": 43,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "minutesPlayed": 90,
+            "touches": 68,
+            "rating": 6.3,
+            "possessionLostCtrl": 17,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 63,
+            "accuratePass": 53,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 3,
+            "duelLost": 7,
+            "duelWon": 11,
+            "challengeLost": 2,
+            "totalContest": 4,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 87,
+            "rating": 7.5,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "duelLost": 5,
+            "duelWon": 2,
+            "challengeLost": 3,
+            "totalContest": 3,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 45,
+            "touches": 20,
+            "rating": 6.1,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 76,
+            "touches": 16,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 36,
+            "accuratePass": 30,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalClearance": 3,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 42,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 23,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Elkhan Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "duelWon": 3,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 33,
+            "touches": 16,
+            "rating": 6.7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Lev Skvortsov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "minutesPlayed": 14,
+            "touches": 5,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aybar Zhaksylykov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "fouls": 2,
+            "minutesPlayed": 14,
+            "touches": 2,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Roman Asrankulov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Askhat Baltabekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Aibol Abiken",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Abzal Beysebekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Žan Celar",
+          "minute": 37,
+          "reason": "Foul"
+        },
+        {
+          "player": "Sergey Maliy",
+          "minute": 35,
+          "reason": "Foul"
+        },
+        {
+          "player": "Jan Mlakar",
+          "minute": 20,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057849,
-      "date": "06/09/2024 16:00",
+      "date": "06/09/2024 16:00:00",
       "opponent": "Norway",
       "homeAway": "Home",
       "result": "DRAW",
       "teamScore": 0,
       "oppScore": 0,
       "league": "UEFA Nations League, League B, Gr. 3",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Igor Shatskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 16,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 3,
+            "goodHighClaim": 2,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "punches": 3,
+            "totalKeeperSweeper": 2,
+            "accurateKeeperSweeper": 2,
+            "minutesPlayed": 90,
+            "touches": 40,
+            "rating": 7.7,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marat Bystrov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 14,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 5,
+            "challengeLost": 2,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 4,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 7.2,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alibek Kasym",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 26,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 4,
+            "duelLost": 1,
+            "duelWon": 4,
+            "totalClearance": 8,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 7.3,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Marochkin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 11,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 3,
+            "interceptionWon": 2,
+            "minutesPlayed": 90,
+            "touches": 24,
+            "rating": 7.5,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nuraly Alip",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 29,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 7,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 7.3,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yan Vorogovskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 26,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 7.5,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ramazan Orazov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "fouls": 2,
+            "minutesPlayed": 58,
+            "touches": 22,
+            "rating": 6.3,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Askhat Tagybergen",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 26,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 5,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 47,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bakhtiyar Zaynutdinov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 17,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "duelLost": 9,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 63,
+            "touches": 39,
+            "rating": 6.6,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Islam Chesnokov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 16,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 15,
+            "duelWon": 11,
+            "challengeLost": 7,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 2,
+            "interceptionWon": 1,
+            "totalTackle": 6,
+            "wasFouled": 2,
+            "fouls": 5,
+            "minutesPlayed": 80,
+            "touches": 44,
+            "rating": 6.6,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abat Aimbetov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "duelLost": 8,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 3,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 59,
+            "touches": 25,
+            "rating": 6.7,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aibol Abiken",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "fouls": 1,
+            "minutesPlayed": 32,
+            "touches": 12,
+            "rating": 6.3,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maksim Samorodov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "totalTackle": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 31,
+            "touches": 9,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ramazan Karimov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "bigChanceMissed": 1,
+            "blockedScoringAttempt": 1,
+            "fouls": 1,
+            "minutesPlayed": 27,
+            "touches": 6,
+            "rating": 6.1,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Elkhan Astanov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 10,
+            "touches": 7,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aleksandr Zarutskiy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Stas Pokatilov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mikhail Gabyshev",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Erkin Tapalov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Roman Asrankulov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sergey Maliy",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bauyrzhan Islamkhan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Abzal Beysebekov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Aron Dønnum",
+          "minute": 78,
+          "reason": "Argument"
+        },
+        {
+          "player": "Islam Chesnokov",
+          "minute": 75,
+          "reason": "Foul"
+        },
+        {
+          "player": "Aibol Abiken",
+          "minute": 72,
+          "reason": "Argument"
+        },
+        {
+          "player": "Alibek Kasym",
+          "minute": 42,
+          "reason": "Foul"
+        },
+        {
+          "player": "Bakhtiyar Zaynutdinov",
+          "minute": 38,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     }
   ]
 }

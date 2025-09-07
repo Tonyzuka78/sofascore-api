@@ -1,178 +1,533 @@
 {
+  "sport": "FOOT",
   "teamId": 4703,
   "teamName": "Poland",
   "matches": [
     {
       "matchId": 13233451,
-      "date": "10/06/2025 20:45",
+      "date": "10/06/2025 20:45:00",
       "opponent": "Finland",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 2,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 19,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "penaltyConceded": 1,
+            "fouls": 1,
+            "saves": 1,
+            "punches": 2,
+            "minutesPlayed": 90,
+            "touches": 32,
+            "rating": 6.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matty Cash",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 21,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 9,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelWon": 2,
+            "bigChanceMissed": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 7,
+            "possessionLostCtrl": 20,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Skrzypczak",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 54,
+            "accuratePass": 46,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.9,
+            "possessionLostCtrl": 9,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 55,
+            "accuratePass": 48,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 5,
+            "duelLost": 6,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "totalClearance": 6,
+            "clearanceOffLine": 1,
+            "outfielderBlock": 3,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 70,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 59,
+            "accuratePass": 49,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 4,
+            "duelWon": 9,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 4,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 81,
+            "rating": 8,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 36,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 2,
+            "duelLost": 7,
+            "duelWon": 9,
+            "dispossessed": 2,
+            "totalContest": 10,
+            "wonContest": 6,
+            "bigChanceCreated": 1,
+            "blockedScoringAttempt": 2,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 71,
+            "rating": 6.8,
+            "possessionLostCtrl": 15,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 24,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 3,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 7.3,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 51,
+            "accuratePass": 44,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 30,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 87,
+            "touches": 53,
+            "rating": 7.4,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 7,
+            "duelLost": 3,
+            "duelWon": 9,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 3,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 86,
+            "touches": 23,
+            "rating": 7.4,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 58,
+            "touches": 21,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 32,
+            "touches": 19,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "duelLost": 4,
+            "fouls": 1,
+            "minutesPlayed": 16,
+            "touches": 3,
+            "rating": 6.4,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 1,
+            "onTargetScoringAttempt": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 15,
+            "touches": 9,
+            "rating": 6.9,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Mrozek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Wieteska",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Maxi Oyedele",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kiwior",
@@ -181,200 +536,251 @@
           "minute": 69,
           "source": "goal"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Nicola Zalewski",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Kaan Kairinen",
+          "minute": 35,
+          "reason": "Foul"
+        },
+        {
+          "player": "Jan Bednarek",
+          "minute": 34,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Joel Pohjanpalo",
+          "minute": 31,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 13671824,
-      "date": "06/06/2025 20:45",
+      "date": "06/06/2025 20:45:00",
       "opponent": "Moldova",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 2,
       "oppScore": 0,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Skrzypczak",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matty Cash",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kamil Grosicki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Mrozek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Wieteska",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Oskar Repka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Maxi Oyedele",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Slisz",
@@ -404,179 +810,1120 @@
           "minute": 30,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Artur Ioniță",
+          "minute": 44,
+          "reason": "Foul"
+        },
+        {
+          "player": "Nichita Moțpan",
+          "minute": 38,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 13233460,
+      "date": "04/09/2025 20:45:00",
+      "opponent": "Netherlands",
+      "homeAway": "Away",
+      "result": "DRAW",
+      "teamScore": 1,
+      "oppScore": 1,
+      "league": "World Cup Qual. UEFA G",
+      "season": "World Cup Qualification, UEFA 2026",
+      "players": [
+        {
+          "name": "Łukasz Skorupski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 17,
+            "totalLongBalls": 16,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "errorLeadToAGoal": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 4,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 39,
+            "rating": 6.6,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Matty Cash",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "duelLost": 4,
+            "duelWon": 5,
+            "totalContest": 3,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 8,
+            "totalTackle": 5,
+            "errorLeadToAShot": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 47,
+            "rating": 7.4,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": 7.4
+            }
+          }
+        },
+        {
+          "name": "Przemysław Wiśniewski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 25,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 84,
+            "touches": 36,
+            "rating": 6.7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Jan Bednarek",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 25,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalClearance": 12,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 90,
+            "touches": 47,
+            "rating": 7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
+        },
+        {
+          "name": "Jakub Kiwior",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 23,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalClearance": 5,
+            "outfielderBlock": 2,
+            "totalTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 37,
+            "rating": 7.1,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 7.1
+            }
+          }
+        },
+        {
+          "name": "Nicola Zalewski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 12,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 5,
+            "wonContest": 3,
+            "bigChanceCreated": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "errorLeadToAShot": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 71,
+            "touches": 39,
+            "rating": 6.9,
+            "possessionLostCtrl": 11,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": 6.9
+            }
+          }
+        },
+        {
+          "name": "Sebastian Szymański",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelWon": 3,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 71,
+            "touches": 19,
+            "rating": 6.4,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            }
+          }
+        },
+        {
+          "name": "Bartosz Slisz",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 12,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 26,
+            "rating": 6.4,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            }
+          }
+        },
+        {
+          "name": "Piotr Zieliński",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 24,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 71,
+            "touches": 36,
+            "rating": 6.5,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Jakub Kamiński",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 6,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "totalContest": 2,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "totalOffside": 2,
+            "minutesPlayed": 90,
+            "touches": 21,
+            "rating": 6.7,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Robert Lewandowski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "minutesPlayed": 64,
+            "touches": 17,
+            "rating": 6.7,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Karol Świderski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "fouls": 1,
+            "minutesPlayed": 26,
+            "touches": 6,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            }
+          }
+        },
+        {
+          "name": "Paweł Wszołek",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 6,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 19,
+            "touches": 16,
+            "rating": 6.7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Bartosz Kapustka",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 19,
+            "touches": 5,
+            "rating": 6.6,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Kamil Grosicki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 19,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Tomasz Kędziora",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "minutesPlayed": 12,
+            "touches": 3,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Kamil Grabara",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Bartłomiej Drągowski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Jan Ziółkowski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Arkadiusz Pyrka",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Jakub Piotrowski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Przemysław Frankowski",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adam Buksa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matty Cash",
+          "goal": 1,
+          "assist": 0,
+          "minute": 80,
+          "source": "goal"
+        }
+      ],
+      "yellowCards": [],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 13233414,
-      "date": "24/03/2025 20:45",
+      "date": "24/03/2025 20:45:00",
       "opponent": "Malta",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 2,
       "oppScore": 0,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 21,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "goodHighClaim": 1,
+            "saves": 3,
+            "minutesPlayed": 90,
+            "touches": 34,
+            "rating": 7.2,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 76,
+            "accuratePass": 69,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "interceptionWon": 4,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 88,
+            "rating": 7.3,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 34,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 3,
+            "duelWon": 3,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "minutesPlayed": 45,
+            "touches": 43,
+            "rating": 7,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 62,
+            "accuratePass": 55,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 4,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 80,
+            "rating": 7.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 68,
+            "accuratePass": 61,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "duelLost": 10,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 5,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 92,
+            "rating": 7.1,
+            "possessionLostCtrl": 19,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 35,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 66,
+            "touches": 66,
+            "rating": 7.4,
+            "possessionLostCtrl": 11,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 29,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 2,
+            "aerialLost": 2,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 4,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.9,
+            "possessionLostCtrl": 12,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 19,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 45,
+            "touches": 31,
+            "rating": 7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 43,
+            "accuratePass": 39,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 9,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalContest": 6,
+            "wonContest": 5,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 3,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 87,
+            "touches": 68,
+            "rating": 7.8,
+            "possessionLostCtrl": 13,
+            "keyPass": 5,
+            "ratingVersions": {
+              "original": 7.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 31,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 6,
+            "dispossessed": 2,
+            "bigChanceCreated": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 5,
+            "blockedScoringAttempt": 3,
+            "goals": 2,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 9.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 9.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 1,
+            "duelLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 66,
+            "touches": 15,
+            "rating": 6.9,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Wieteska",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 30,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 1,
+            "duelWon": 6,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 40,
+            "rating": 6.9,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 27,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 37,
+            "rating": 6.8,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matty Cash",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "minutesPlayed": 24,
+            "touches": 23,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 24,
+            "touches": 12,
+            "rating": 6.7,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "duelLost": 1,
+            "challengeLost": 1,
+            "minutesPlayed": 8,
+            "touches": 1,
+            "rating": 6.4,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominik Marczuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Karol Świderski",
@@ -606,179 +1953,605 @@
           "minute": 27,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Ylyas Chouaref",
+          "minute": 74,
+          "reason": "Foul"
+        },
+        {
+          "player": "Basil Tuma",
+          "minute": 69,
+          "reason": "Foul"
+        },
+        {
+          "player": "Bartosz Slisz",
+          "minute": 65,
+          "reason": "Foul"
+        },
+        {
+          "player": "Przemysław Frankowski",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Zach Muscat",
+          "minute": 18,
+          "reason": "Persistent fouling"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Ylyas Chouaref",
+          "minute": 90,
+          "reason": "Foul"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 13233401,
-      "date": "21/03/2025 20:45",
+      "date": "21/03/2025 20:45:00",
       "opponent": "Lithuania",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 1,
       "oppScore": 0,
       "league": "World Cup Qual. UEFA G",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 10,
+            "totalLongBalls": 9,
+            "goalAssist": 0,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "minutesPlayed": 90,
+            "touches": 25,
+            "rating": 6.9,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 54,
+            "accuratePass": 43,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalClearance": 8,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 77,
+            "touches": 73,
+            "rating": 6.7,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 51,
+            "accuratePass": 48,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 6,
+            "duelLost": 9,
+            "duelWon": 9,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 9,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 7,
+            "minutesPlayed": 90,
+            "touches": 69,
+            "rating": 7.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 76,
+            "accuratePass": 65,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 5,
+            "duelLost": 2,
+            "duelWon": 10,
+            "totalClearance": 2,
+            "outfielderBlock": 2,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 93,
+            "rating": 8,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matty Cash",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 15,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 7,
+            "totalContest": 4,
+            "wonContest": 2,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 3,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 68,
+            "touches": 40,
+            "rating": 7.1,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 26,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 11,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 6,
+            "dispossessed": 2,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 7.6,
+            "possessionLostCtrl": 24,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 75,
+            "accuratePass": 63,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 3,
+            "blockedScoringAttempt": 2,
+            "totalClearance": 1,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 100,
+            "rating": 7.2,
+            "possessionLostCtrl": 20,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 33,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 6,
+            "totalContest": 3,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "errorLeadToAShot": 1,
+            "wasFouled": 3,
+            "minutesPlayed": 77,
+            "touches": 59,
+            "rating": 6.6,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 43,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 10,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 3,
+            "totalClearance": 1,
+            "totalTackle": 4,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 89,
+            "rating": 7.4,
+            "possessionLostCtrl": 22,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 68,
+            "touches": 30,
+            "rating": 6.5,
+            "possessionLostCtrl": 9,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 18,
+            "goalAssist": 0,
+            "aerialLost": 6,
+            "duelLost": 8,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 2,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 4,
+            "goals": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 86,
+            "touches": 37,
+            "rating": 7.7,
+            "possessionLostCtrl": 11,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 6,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "fouls": 1,
+            "minutesPlayed": 22,
+            "touches": 19,
+            "rating": 7,
+            "possessionLostCtrl": 9,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "minutesPlayed": 22,
+            "touches": 11,
+            "rating": 6.4,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Wieteska",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 13,
+            "touches": 16,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 2,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 13,
+            "touches": 14,
+            "rating": 6.9,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "minutesPlayed": 10,
+            "touches": 7,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Skrzypczak",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominik Marczuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Robert Lewandowski",
@@ -794,179 +2567,560 @@
           "minute": 81,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Kamil Piątkowski",
+          "minute": 70,
+          "reason": "Foul"
+        },
+        {
+          "player": "Edgaras Utkus",
+          "minute": 55,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057920,
-      "date": "18/11/2024 20:45",
+      "date": "18/11/2024 20:45:00",
       "opponent": "Scotland",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 1,
       "oppScore": 2,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 17,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalClearance": 3,
+            "goodHighClaim": 3,
+            "savedShotsFromInsideTheBox": 4,
+            "saves": 5,
+            "punches": 3,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 7.9,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 36,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "bigChanceCreated": 1,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 65,
+            "rating": 8.5,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 8.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 33,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalClearance": 4,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 42,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "totalTackle": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 62,
+            "rating": 6.9,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 19,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "duelWon": 4,
+            "totalContest": 5,
+            "wonContest": 4,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "minutesPlayed": 63,
+            "touches": 43,
+            "rating": 7.6,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 17,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 7.1,
+            "possessionLostCtrl": 14,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 17,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 4,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 29,
+            "rating": 7.2,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 69,
+            "accuratePass": 58,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 1,
+            "totalCross": 4,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 82,
+            "rating": 7.2,
+            "possessionLostCtrl": 19,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 34,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 10,
+            "challengeLost": 2,
+            "totalContest": 4,
+            "wonContest": 4,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 2,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 8.2,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 8.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 8,
+            "aerialWon": 1,
+            "duelLost": 13,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "fouls": 4,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 21,
+            "rating": 6.3,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 19,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceMissed": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 75,
+            "touches": 36,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 25,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tymoteusz Puchacz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "duelWon": 2,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 27,
+            "touches": 19,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "fouls": 1,
+            "minutesPlayed": 15,
+            "touches": 10,
+            "rating": 6.3,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Wieteska",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Michal Gurgul",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Antoni Kozubal",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Kapustka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominik Marczuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kamil Piątkowski",
@@ -982,165 +3136,549 @@
           "minute": 59,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "John McGinn",
+          "minute": 90,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Adam Buksa",
+          "minute": 90,
+          "reason": "Argument"
+        },
+        {
+          "player": "Piotr Zieliński",
+          "minute": 79,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ryan Christie",
+          "minute": 70,
+          "reason": "Foul"
+        },
+        {
+          "player": "Kenny McLean",
+          "minute": 30,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057930,
-      "date": "15/11/2024 20:45",
+      "date": "15/11/2024 20:45:00",
       "opponent": "Portugal",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 5,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 20,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "goodHighClaim": 1,
+            "saves": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 5.5,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 5.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 26,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 2,
+            "totalTackle": 6,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 18,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 45,
+            "touches": 22,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 35,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "penaltyConceded": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 6.2,
+            "possessionLostCtrl": 9,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 32,
+            "touches": 11,
+            "rating": 6.9,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 21,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 73,
+            "touches": 33,
+            "rating": 6.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Taras Romanczuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 25,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 6.1,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 40,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 6.9,
+            "possessionLostCtrl": 8,
+            "keyPass": 4,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 5,
+            "wonContest": 3,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 43,
+            "rating": 6.8,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "totalContest": 2,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 45,
+            "touches": 9,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "shotOffTarget": 2,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 81,
+            "touches": 24,
+            "rating": 6.8,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 18,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 58,
+            "touches": 33,
+            "rating": 6.2,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 18,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 21,
+            "rating": 5.8,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 5.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dominik Marczuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 20,
+            "rating": 7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "blockedScoringAttempt": 2,
+            "minutesPlayed": 17,
+            "touches": 7,
+            "rating": 6.6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Antoni Kozubal",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "shotOffTarget": 1,
+            "minutesPlayed": 9,
+            "touches": 8,
+            "rating": 6.3,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tymoteusz Puchacz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dominik Marczuk",
@@ -1156,172 +3694,577 @@
           "minute": 88,
           "source": "assist"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Nuno Tavares",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Marcin Bułka",
+          "minute": 56,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Cristiano Ronaldo",
+          "minute": 45,
+          "reason": "Argument"
+        },
+        {
+          "player": "Bruno Fernandes",
+          "minute": 25,
+          "reason": "Argument"
+        },
+        {
+          "player": "João Neves",
+          "minute": 25,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Cristiano Ronaldo",
+          "minute": 72,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 12057927,
-      "date": "15/10/2024 20:45",
+      "date": "15/10/2024 20:45:00",
       "opponent": "Croatia",
       "homeAway": "Home",
       "result": "DRAW",
       "teamScore": 3,
       "oppScore": 3,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 16,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 5,
+            "minutesPlayed": 90,
+            "touches": 29,
+            "rating": 7.1,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 23,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 3,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "errorLeadToAGoal": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 38,
+            "touches": 32,
+            "rating": 5.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 5.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 72,
+            "accuratePass": 64,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 6,
+            "duelLost": 4,
+            "duelWon": 8,
+            "shotOffTarget": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 84,
+            "rating": 6.9,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 47,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 70,
+            "rating": 6.7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 2,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 1,
+            "minutesPlayed": 62,
+            "touches": 33,
+            "rating": 6.3,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 14,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 6,
+            "accurateCross": 2,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 37,
+            "rating": 7.1,
+            "possessionLostCtrl": 14,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 39,
+            "accuratePass": 33,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 6,
+            "duelWon": 4,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 4,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 62,
+            "touches": 54,
+            "rating": 6.5,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 43,
+            "accuratePass": 39,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 4,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 74,
+            "touches": 54,
+            "rating": 7.2,
+            "possessionLostCtrl": 10,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 22,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalCross": 6,
+            "duelLost": 5,
+            "duelWon": 7,
+            "dispossessed": 3,
+            "totalContest": 5,
+            "wonContest": 3,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.7,
+            "possessionLostCtrl": 17,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 62,
+            "touches": 14,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 22,
+            "goalAssist": 1,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 2,
+            "dispossessed": 2,
+            "shotOffTarget": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 7.1,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 36,
+            "accuratePass": 31,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 5,
+            "duelLost": 6,
+            "duelWon": 5,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 5,
+            "fouls": 1,
+            "minutesPlayed": 52,
+            "touches": 48,
+            "rating": 7.1,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maxi Oyedele",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 28,
+            "touches": 11,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "bigChanceMissed": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 28,
+            "touches": 14,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Michael Ameyaw",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 6,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "duelWon": 2,
+            "totalContest": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 28,
+            "touches": 16,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Kapustka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "challengeLost": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 16,
+            "touches": 15,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Mrozek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tymoteusz Puchacz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sebastian Szymański",
@@ -1358,179 +4301,580 @@
           "minute": 5,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Ante Budimir",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Martin Baturina",
+          "minute": 78,
+          "reason": "Argument"
+        },
+        {
+          "player": "Piotr Zieliński",
+          "minute": 70,
+          "reason": "Argument"
+        },
+        {
+          "player": "Joško Gvardiol",
+          "minute": 32,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Dominik Livaković",
+          "minute": 76,
+          "reason": "Foul"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 12057926,
-      "date": "12/10/2024 20:45",
+      "date": "12/10/2024 20:45:00",
       "opponent": "Portugal",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 1,
       "oppScore": 3,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 16,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 4,
+            "minutesPlayed": 90,
+            "touches": 28,
+            "rating": 7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 45,
+            "touches": 22,
+            "rating": 6.3,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 48,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 3,
+            "totalClearance": 9,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "errorLeadToAShot": 1,
+            "ownGoals": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 6.2,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 35,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "totalClearance": 7,
+            "outfielderBlock": 4,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 38,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 8,
+            "accurateCross": 2,
+            "duelLost": 8,
+            "duelWon": 7,
+            "challengeLost": 4,
+            "totalContest": 4,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 6,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 70,
+            "rating": 6.5,
+            "possessionLostCtrl": 16,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "duelLost": 4,
+            "duelWon": 1,
+            "challengeLost": 3,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 84,
+            "touches": 34,
+            "rating": 6.7,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maxi Oyedele",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 21,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "minutesPlayed": 66,
+            "touches": 28,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 37,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 2,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.4,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 21,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "accurateCross": 1,
+            "duelLost": 3,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "totalContest": 4,
+            "wonContest": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 4,
+            "minutesPlayed": 76,
+            "touches": 43,
+            "rating": 7.1,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 14,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 26,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "wasFouled": 4,
+            "fouls": 1,
+            "minutesPlayed": 76,
+            "touches": 18,
+            "rating": 6.9,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 15,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 4,
+            "challengeLost": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 26,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 14,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalTackle": 3,
+            "fouls": 1,
+            "minutesPlayed": 24,
+            "touches": 25,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 14,
+            "touches": 13,
+            "rating": 6.6,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Michael Ameyaw",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 14,
+            "touches": 12,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "interceptionWon": 1,
+            "minutesPlayed": 11,
+            "touches": 5,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Mrozek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Kapustka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Piotr Zieliński",
@@ -1539,353 +4883,1163 @@
           "minute": 78,
           "source": "goal"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Łukasz Skorupski",
+          "minute": 88,
+          "reason": "Argument"
+        },
+        {
+          "player": "Krzysztof Piątek",
+          "minute": 88,
+          "reason": "Argument"
+        },
+        {
+          "player": "Przemysław Frankowski",
+          "minute": 51,
+          "reason": "Foul"
+        },
+        {
+          "player": "Sebastian Walukiewicz",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Pedro Neto",
+          "minute": 32,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057924,
-      "date": "08/09/2024 20:45",
+      "date": "08/09/2024 20:45:00",
       "opponent": "Croatia",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 1,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalClearance": 2,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 5,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 7.5,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 82,
+            "touches": 30,
+            "rating": 6.6,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 55,
+            "accuratePass": 48,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 2,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 88,
+            "rating": 7.5,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 61,
+            "accuratePass": 59,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 3,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 67,
+            "rating": 6.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 46,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 7,
+            "challengeLost": 3,
+            "dispossessed": 2,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "totalTackle": 5,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 6.8,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 23,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 9,
+            "challengeLost": 2,
+            "totalContest": 9,
+            "wonContest": 6,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.2,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 18,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 62,
+            "touches": 34,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 32,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 62,
+            "touches": 47,
+            "rating": 6.7,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 16,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "duelLost": 4,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "blockedScoringAttempt": 2,
+            "interceptionWon": 1,
+            "totalTackle": 6,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 86,
+            "touches": 42,
+            "rating": 6.8,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mateusz Bogusz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 3,
+            "totalContest": 3,
+            "wonContest": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 62,
+            "touches": 23,
+            "rating": 6.5,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 14,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 5,
+            "duelLost": 7,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 3,
+            "blockedScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 6.7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 19,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "totalContest": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 28,
+            "touches": 28,
+            "rating": 6.7,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 17,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "totalContest": 1,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 28,
+            "touches": 22,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "fouls": 2,
+            "minutesPlayed": 28,
+            "touches": 11,
+            "rating": 6.3,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalContest": 1,
+            "minutesPlayed": 8,
+            "touches": 11,
+            "rating": 6.5,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "minutesPlayed": 8,
+            "touches": 4,
+            "rating": 6.6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tymoteusz Puchacz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Ante Budimir",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Bruno Petković",
+          "minute": 68,
+          "reason": "Foul"
+        },
+        {
+          "player": "Jan Bednarek",
+          "minute": 44,
+          "reason": "Foul"
+        },
+        {
+          "player": "Petar Sučić",
+          "minute": 40,
+          "reason": "Foul"
+        },
+        {
+          "player": "Marko Pjaca",
+          "minute": 14,
+          "reason": "Foul"
+        },
+        {
+          "player": "Mateo Kovačić",
+          "minute": 2,
+          "reason": "Foul"
+        },
+        {
+          "player": "Michal Probierz",
+          "minute": -5,
+          "reason": "Argument"
+        },
+        {
+          "player": "Zlatko Dalić",
+          "minute": -5,
+          "reason": "Argument"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12057919,
-      "date": "05/09/2024 20:45",
+      "date": "05/09/2024 20:45:00",
       "opponent": "Scotland",
       "homeAway": "Away",
-      "result": "WIN",
+      "result": "LOOSE",
       "teamScore": 3,
       "oppScore": 2,
       "league": "UEFA Nations League, League A, Gr. 1",
-      "season": "24/25",
+      "season": "UEFA Nations League 24/25",
       "players": [
         {
           "name": "Marcin Bułka",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 22,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 1,
+            "saves": 1,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jan Bednarek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 45,
+            "accuratePass": 42,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 1,
+            "totalClearance": 8,
+            "interceptionWon": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Paweł Dawidowicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 46,
+            "accuratePass": 44,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 5,
+            "duelLost": 6,
+            "duelWon": 12,
+            "totalClearance": 2,
+            "totalTackle": 4,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Kiwior",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 18,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "fouls": 3,
+            "minutesPlayed": 45,
+            "touches": 28,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Przemysław Frankowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 45,
+            "accuratePass": 38,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 6.1,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Szymański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 6,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 82,
+            "touches": 36,
+            "rating": 7.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Piotr Zieliński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 45,
+            "accuratePass": 39,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "minutesPlayed": 82,
+            "touches": 53,
+            "rating": 6.5,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Kacper Urbański",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 31,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "duelLost": 8,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nicola Zalewski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 21,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 2,
+            "duelLost": 11,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 7,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "wasFouled": 4,
+            "fouls": 2,
+            "penaltyWon": 2,
+            "minutesPlayed": 90,
+            "touches": 60,
+            "rating": 7.5,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Krzysztof Piątek",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 72,
+            "touches": 20,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Robert Lewandowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 9,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "duelLost": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 72,
+            "touches": 19,
+            "rating": 7.8,
+            "possessionLostCtrl": 4,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sebastian Walukiewicz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 40,
+            "accuratePass": 31,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 48,
+            "rating": 6.6,
+            "possessionLostCtrl": 11,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Piotrowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 18,
+            "touches": 9,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adam Buksa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "minutesPlayed": 18,
+            "touches": 9,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartosz Slisz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 8,
+            "touches": 9,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jakub Moder",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "challengeLost": 1,
+            "minutesPlayed": 8,
+            "touches": 11,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Bartłomiej Drągowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Łukasz Skorupski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Kamil Piątkowski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bartosz Bereszyński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jakub Kamiński",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tymoteusz Puchacz",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Karol Świderski",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Nicola Zalewski",
@@ -1914,6 +6068,36 @@
           "assist": 1,
           "minute": 8,
           "source": "assist"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Bartosz Slisz",
+          "minute": 83,
+          "reason": "Foul"
+        },
+        {
+          "player": "Nicola Zalewski",
+          "minute": 52,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Paweł Dawidowicz",
+          "minute": 35,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Nicola Zalewski",
+          "minute": 90,
+          "incidentClass": "penalty"
+        },
+        {
+          "player": "Robert Lewandowski",
+          "minute": 44,
+          "incidentClass": "penalty"
         }
       ]
     }
