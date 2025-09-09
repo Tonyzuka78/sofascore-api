@@ -1,533 +1,1675 @@
 {
+  "sport": "FOOT",
   "teamId": 4744,
   "teamName": "Benin",
   "matches": [
     {
       "matchId": 13974678,
-      "date": "09/06/2025 22:00",
+      "date": "09/06/2025 22:00:00",
       "opponent": "Morocco",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 1,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 23,
+            "totalLongBalls": 12,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 3,
+            "minutesPlayed": 90,
+            "touches": 43,
+            "rating": 7.1,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 40,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 8,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 80,
+            "rating": 7,
+            "possessionLostCtrl": 17,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Olivier Verdon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 64,
+            "accuratePass": 57,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 71,
+            "rating": 6.7,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 34,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelWon": 3,
+            "totalClearance": 6,
+            "outfielderBlock": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 23,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 41,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "totalContest": 7,
+            "wonContest": 4,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 66,
+            "touches": 29,
+            "rating": 6.5,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 23,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 66,
+            "touches": 31,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 46,
+            "accuratePass": 43,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 14,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 5,
+            "dispossessed": 1,
+            "totalContest": 4,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 85,
+            "touches": 37,
+            "rating": 6.3,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 27,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 7,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "totalContest": 4,
+            "wonContest": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 4,
+            "fouls": 3,
+            "minutesPlayed": 85,
+            "touches": 48,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 15,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 24,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Rodolfo Aloko",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "minutesPlayed": 24,
+            "touches": 8,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Razack Rachidou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 24,
+            "touches": 16,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Samadou Attidjikou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "minutesPlayed": 8,
+            "touches": 8,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Candas Fiogbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "duelLost": 1,
+            "fouls": 1,
+            "minutesPlayed": 8,
+            "rating": 6.3,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adebiyi Marcel Serge Obassa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rabiou Sankamao",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gabriel Moulero",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Jodel Dossou",
+          "minute": 45,
+          "reason": "Argument"
+        },
+        {
+          "player": "Yohan Roche",
+          "minute": 41,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 12183512,
+      "date": "05/09/2025 18:00:00",
+      "opponent": "Zimbabwe",
+      "homeAway": "Home",
+      "result": "WIN",
+      "teamScore": 1,
+      "oppScore": 0,
+      "league": "FIFA World Cup, Qualification CAF, Group C",
+      "season": "FIFA World Cup, Qualification CAF 2025",
+      "players": [
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Olivier Verdon",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 72
+          }
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 82
+          }
+        },
+        {
+          "name": "Rodolfo Aloko",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 72
+          }
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 54
+          }
+        },
+        {
+          "name": "Razack Rachidou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 36
+          }
+        },
+        {
+          "name": "Samadou Attidjikou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 18
+          }
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 18
+          }
+        },
+        {
+          "name": "Rodrigue Kossi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 8
+          }
+        },
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adebiyi Marcel Serge Obassa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Tamimou Ouorou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Candas Fiogbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 1,
+          "assist": 0,
+          "minute": 77,
+          "source": "goal"
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 1,
+          "minute": 77,
+          "source": "assist"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Rodrigue Kossi",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Jodel Dossou",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Marvelous Nakamba",
+          "minute": 74,
+          "reason": "Foul"
+        },
+        {
+          "player": "Teenage Hadebe",
+          "minute": 64,
+          "reason": "Foul"
+        },
+        {
+          "player": "Divine Lunga",
+          "minute": 18,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12183447,
-      "date": "25/03/2025 17:00",
+      "date": "25/03/2025 17:00:00",
       "opponent": "South Africa",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 2,
       "league": "FIFA World Cup, Qualification CAF, Group C",
-      "season": "2025",
+      "season": "FIFA World Cup, Qualification CAF 2025",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 17,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "goals": 0,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "punches": 1,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 36,
+            "rating": 6.6,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 25,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "goals": 0,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 2,
+            "minutesPlayed": 85,
+            "touches": 42,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 22,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "goals": 0,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "minutesPlayed": 74,
+            "touches": 31,
+            "rating": 7,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 21,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 3,
+            "goals": 0,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.7,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 25,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 6,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "goals": 0,
+            "totalClearance": 3,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "wasFouled": 3,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 7.1,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 16,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "dispossessed": 2,
+            "shotOffTarget": 2,
+            "goals": 0,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 75,
+            "touches": 28,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 26,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "goals": 0,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 39,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 22,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "dispossessed": 3,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 0,
+            "interceptionWon": 1,
+            "ownGoals": 0,
+            "wasFouled": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 6.5,
+            "possessionLostCtrl": 17,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 23,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "goals": 0,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 6.7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "totalContest": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 46,
+            "touches": 7,
+            "rating": 6.3,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 7,
+            "aerialWon": 9,
+            "duelLost": 9,
+            "duelWon": 10,
+            "shotOffTarget": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 86,
+            "touches": 26,
+            "rating": 6.9,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "fouls": 1,
+            "minutesPlayed": 44,
+            "touches": 9,
+            "rating": 6.5,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 8,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "goals": 0,
+            "totalClearance": 1,
+            "ownGoals": 0,
+            "fouls": 1,
+            "minutesPlayed": 16,
+            "touches": 13,
+            "rating": 6.3,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "dispossessed": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "totalOffside": 1,
+            "minutesPlayed": 15,
+            "touches": 6,
+            "rating": 6.3,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Brandon Agounon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "challengeLost": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 5,
+            "touches": 5,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Candas Fiogbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 4,
+            "touches": 2,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adebiyi Marcel Serge Obassa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Moise Adilehou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Samadou Attidjikou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Dokou Dodo",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Mohamed Tijani",
+          "minute": 89,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12183475,
-      "date": "20/03/2025 17:00",
+      "date": "20/03/2025 17:00:00",
       "opponent": "Zimbabwe",
       "homeAway": "Away",
       "result": "DRAW",
       "teamScore": 2,
       "oppScore": 2,
       "league": "FIFA World Cup, Qualification CAF, Group C",
-      "season": "2025",
+      "season": "FIFA World Cup, Qualification CAF 2025",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 46
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 86
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 1,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 70
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 86
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 44
+          }
         },
         {
           "name": "Samadou Attidjikou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 20
+          }
         },
         {
           "name": "Rabiou Sankamao",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 4
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 4
+          }
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adebiyi Marcel Serge Obassa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Moise Adilehou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Brandon Agounon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Candas Fiogbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dokou Dodo",
@@ -557,353 +1699,1040 @@
           "minute": 12,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Samadou Attidjikou",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Divine Lunga",
+          "minute": 45,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12526707,
-      "date": "18/11/2024 17:00",
+      "date": "18/11/2024 17:00:00",
       "opponent": "Libya",
       "homeAway": "Away",
       "result": "DRAW",
       "teamScore": 0,
       "oppScore": 0,
       "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "season": "Africa Cup of Nations, Qualification 2024",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 6,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 3,
+            "saves": 3,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 28,
+            "rating": 7.4,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 3,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 5,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 5,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "minutesPlayed": 90,
+            "touches": 29,
+            "rating": 7,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 19,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 25,
+            "rating": 7.1,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 18,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialWon": 4,
+            "duelLost": 2,
+            "duelWon": 5,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 30,
+            "accuratePass": 18,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 7.4,
+            "possessionLostCtrl": 15,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 11,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 8,
+            "duelWon": 5,
+            "challengeLost": 4,
+            "dispossessed": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 25,
+            "rating": 6.4,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 15,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 10,
+            "shotOffTarget": 3,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 6,
+            "wasFouled": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 46,
+            "rating": 7.4,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aiyegun Tosin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 6,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 8,
+            "duelWon": 7,
+            "challengeLost": 2,
+            "shotOffTarget": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 1,
+            "totalTackle": 5,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 26,
+            "rating": 6.9,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 5,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "wasFouled": 5,
+            "fouls": 2,
+            "minutesPlayed": 89,
+            "touches": 22,
+            "rating": 6.6,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 14,
+            "totalLongBalls": 7,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "accurateCross": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 5,
+            "challengeLost": 3,
+            "totalContest": 4,
+            "wonContest": 2,
+            "bigChanceCreated": 1,
+            "interceptionWon": 3,
+            "totalTackle": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 79,
+            "touches": 60,
+            "rating": 7.3,
+            "possessionLostCtrl": 32,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 13,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 5,
+            "aerialWon": 10,
+            "duelLost": 9,
+            "duelWon": 10,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "bigChanceMissed": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "fouls": 2,
+            "totalOffside": 2,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.2,
+            "possessionLostCtrl": 18,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 2,
+            "dispossessed": 2,
+            "interceptionWon": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 11,
+            "touches": 9,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "minutesPlayed": 1
+          }
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Adebiyi Marcel Serge Obassa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rodrigue Fassinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Moise Adilehou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ryan-Segon Adigo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Lenny Pirringuel",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Ahmed Saleh",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andreas Hountondji",
+          "minute": 87,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Sessi D'Almeida",
+          "minute": 86,
+          "reason": "Foul"
+        },
+        {
+          "player": "Fahad Al Mesmari",
+          "minute": 75,
+          "reason": "Argument"
+        },
+        {
+          "player": "Tamimou Ouorou",
+          "minute": 75,
+          "reason": "Argument"
+        },
+        {
+          "player": "Steve Mounié",
+          "minute": 72,
+          "reason": "Foul"
+        },
+        {
+          "player": "Junior Olaitan",
+          "minute": 71,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Marcel Dandjinou",
+          "minute": 65,
+          "reason": "Time wasting"
+        },
+        {
+          "player": "Elbahlul Abusahmin",
+          "minute": 42,
+          "reason": "Foul"
+        },
+        {
+          "player": "Mohamed Tijani",
+          "minute": 11,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12526700,
-      "date": "14/11/2024 20:00",
+      "date": "14/11/2024 20:00:00",
       "opponent": "Nigeria",
       "homeAway": "Home",
       "result": "DRAW",
       "teamScore": 1,
       "oppScore": 1,
       "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "season": "Africa Cup of Nations, Qualification 2024",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 18,
+            "totalLongBalls": 16,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "totalClearance": 2,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 1,
+            "punches": 1,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 32,
+            "rating": 6.7,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 12,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 6.5,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 11,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 90,
+            "touches": 23,
+            "rating": 6.2,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 14,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 4,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 6,
+            "interceptionWon": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 31,
+            "rating": 7.1,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 19,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "totalClearance": 7,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 50,
+            "rating": 6.8,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 17,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 75,
+            "touches": 24,
+            "rating": 6.8,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 15,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 90,
+            "touches": 35,
+            "rating": 6.9,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aiyegun Tosin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 82,
+            "touches": 27,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 23,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 6,
+            "duelWon": 8,
+            "dispossessed": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 4,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 43,
+            "rating": 7.1,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 14,
+            "totalLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 9,
+            "accurateCross": 3,
+            "aerialLost": 2,
+            "duelLost": 6,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 7.5,
+            "possessionLostCtrl": 21,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 20,
+            "goalAssist": 0,
+            "aerialLost": 6,
+            "aerialWon": 7,
+            "duelLost": 10,
+            "duelWon": 9,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 3,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 7.1,
+            "possessionLostCtrl": 14,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Moise Adilehou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "minutesPlayed": 15,
+            "touches": 5,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "duelWon": 1,
+            "totalContest": 4,
+            "wonContest": 1,
+            "fouls": 1,
+            "minutesPlayed": 8,
+            "touches": 8,
+            "rating": 6.2,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Adebiyi Marcel Serge Obassa",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ryan-Segon Adigo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rodrigue Fassinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mohamed Tijani",
@@ -919,191 +2748,515 @@
           "minute": 16,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Marcel Dandjinou",
+          "minute": 76,
+          "reason": "Time wasting"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 13023882,
-      "date": "25/10/2024 18:00",
+      "date": "25/10/2024 18:00:00",
       "opponent": "Togo",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 2,
       "league": "African Nations Championship, Qualification",
-      "season": "Unknown Season",
-      "players": []
+      "season": "",
+      "players": [],
+      "yellowCards": [],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12526705,
-      "date": "15/10/2024 18:00",
+      "date": "15/10/2024 18:00:00",
       "opponent": "Rwanda",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 1,
       "oppScore": 2,
       "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "season": "Africa Cup of Nations, Qualification 2024",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 13,
+            "totalLongBalls": 23,
+            "accurateLongBalls": 12,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 29,
+            "rating": 7,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 2,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 4,
+            "totalTackle": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 28,
+            "rating": 6.5,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Olivier Verdon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalClearance": 6,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 25,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 5,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "totalClearance": 7,
+            "outfielderBlock": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 14,
+            "rating": 6.6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 9,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 5,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 6.5,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 11,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 80,
+            "touches": 31,
+            "rating": 6.6,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 10,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "bigChanceCreated": 1,
+            "totalClearance": 3,
+            "totalTackle": 4,
+            "fouls": 2,
+            "minutesPlayed": 89,
+            "touches": 31,
+            "rating": 7.1,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 2,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "fouls": 1,
+            "minutesPlayed": 64,
+            "touches": 11,
+            "rating": 7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 19,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 9,
+            "totalContest": 4,
+            "wonContest": 2,
+            "totalClearance": 2,
+            "outfielderBlock": 4,
+            "totalTackle": 4,
+            "wasFouled": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 7.4,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 7,
+            "duelWon": 10,
+            "dispossessed": 4,
+            "totalContest": 4,
+            "wonContest": 3,
+            "onTargetScoringAttempt": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 4,
+            "totalTackle": 3,
+            "penaltyConceded": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 54,
+            "rating": 7.1,
+            "possessionLostCtrl": 20,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 18,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 9,
+            "duelLost": 8,
+            "duelWon": 13,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "totalClearance": 4,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 49,
+            "rating": 6.9,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "minutesPlayed": 26,
+            "touches": 7,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "minutesPlayed": 10,
+            "touches": 5,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "minutesPlayed": 1,
+            "touches": 2,
+            "possessionLostCtrl": 1
+          }
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Tchinonvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Cédric Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rabiou Sankamao",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rodrigue Fassinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andreas Hountondji",
@@ -1119,179 +3272,545 @@
           "minute": 42,
           "source": "assist"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Mohamed Tijani",
+          "minute": 47,
+          "reason": "Foul"
+        },
+        {
+          "player": "Clement Niyigena",
+          "minute": 38,
+          "reason": "Foul"
+        },
+        {
+          "player": "Hassane Imourane",
+          "minute": 35,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Djihad Bizimana",
+          "minute": 75,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
       "matchId": 12526710,
-      "date": "11/10/2024 18:00",
+      "date": "11/10/2024 18:00:00",
       "opponent": "Rwanda",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 3,
       "oppScore": 0,
       "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "season": "Africa Cup of Nations, Qualification 2024",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 9,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "wasFouled": 1,
+            "goodHighClaim": 1,
+            "saves": 1,
+            "minutesPlayed": 90,
+            "touches": 20,
+            "rating": 7.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 7,
+            "totalLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 2,
+            "totalTackle": 5,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 7.4,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Cédric Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 14,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 3,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 29,
+            "rating": 7,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "minutesPlayed": 90,
+            "touches": 20,
+            "rating": 6.9,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 18,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalClearance": 3,
+            "outfielderBlock": 1,
+            "totalTackle": 5,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 43,
+            "rating": 7.5,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 75,
+            "touches": 22,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 16,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalTackle": 4,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 7.6,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "goalAssist": 1,
+            "totalCross": 4,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "bigChanceCreated": 1,
+            "onTargetScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 53,
+            "touches": 23,
+            "rating": 7.2,
+            "possessionLostCtrl": 12,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 7,
+            "totalContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalTackle": 3,
+            "wasFouled": 3,
+            "fouls": 3,
+            "minutesPlayed": 82,
+            "touches": 35,
+            "rating": 6.7,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 25,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "duelLost": 2,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "wonContest": 2,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "minutesPlayed": 81,
+            "touches": 50,
+            "rating": 7.7,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 15,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 7,
+            "duelLost": 4,
+            "duelWon": 10,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 8.1,
+            "possessionLostCtrl": 9,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 8.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "fouls": 1,
+            "minutesPlayed": 37,
+            "touches": 11,
+            "rating": 7.3,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Olivier Verdon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "minutesPlayed": 15,
+            "touches": 13,
+            "rating": 6.6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "minutesPlayed": 9,
+            "touches": 4,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Gislain Ahoudo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 2,
+            "accuratePass": 1,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "minutesPlayed": 8,
+            "touches": 3,
+            "rating": 6.5,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mariano Tchinonvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rabiou Sankamao",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rodrigue Fassinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Tamimou Ouorou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Hassane Imourane",
@@ -1328,179 +3847,539 @@
           "minute": 7,
           "source": "assist"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Cédric Hountondji",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Taïba Mbonyumwami",
+          "minute": 89,
+          "reason": "Foul"
+        },
+        {
+          "player": "Andreas Hountondji",
+          "minute": 65,
+          "reason": "Foul"
+        },
+        {
+          "player": "Clement Niyigena",
+          "minute": 63,
+          "reason": "Foul"
+        },
+        {
+          "player": "Fitina Ombolenga",
+          "minute": 51,
+          "reason": "Foul"
+        },
+        {
+          "player": "Jojea Kwizera",
+          "minute": 39,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 12526709,
-      "date": "10/09/2024 21:00",
+      "date": "10/09/2024 21:00:00",
       "opponent": "Libya",
       "homeAway": "Home",
       "result": "WIN",
       "teamScore": 2,
       "oppScore": 1,
       "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "season": "Africa Cup of Nations, Qualification 2024",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 12,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalClearance": 1,
+            "totalKeeperSweeper": 1,
+            "accurateKeeperSweeper": 1,
+            "minutesPlayed": 90,
+            "touches": 18,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 52,
+            "accuratePass": 43,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "duelLost": 2,
+            "duelWon": 7,
+            "totalContest": 2,
+            "wonContest": 2,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 86,
+            "rating": 7.2,
+            "possessionLostCtrl": 19,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Cédric Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 59,
+            "accuratePass": 48,
+            "totalLongBalls": 18,
+            "accurateLongBalls": 12,
+            "goalAssist": 0,
+            "aerialWon": 4,
+            "duelLost": 3,
+            "duelWon": 7,
+            "totalClearance": 4,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 68,
+            "rating": 7.1,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Olivier Verdon",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 71,
+            "accuratePass": 66,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 1,
+            "onTargetScoringAttempt": 1,
+            "hitWoodwork": 1,
+            "totalClearance": 4,
+            "outfielderBlock": 1,
+            "minutesPlayed": 90,
+            "touches": 79,
+            "rating": 7.3,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Yohan Roche",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 67,
+            "accuratePass": 59,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 3,
+            "totalContest": 3,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "fouls": 5,
+            "minutesPlayed": 90,
+            "touches": 89,
+            "rating": 6.4,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 37,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 7,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 35,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "penaltyConceded": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 6.8,
+            "possessionLostCtrl": 8,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 20,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 6,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "duelLost": 6,
+            "duelWon": 2,
+            "totalContest": 6,
+            "wonContest": 2,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "fouls": 1,
+            "minutesPlayed": 77,
+            "touches": 50,
+            "rating": 6.6,
+            "possessionLostCtrl": 20,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 23,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 7,
+            "totalContest": 2,
+            "wonContest": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 3,
+            "fouls": 3,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 7.5,
+            "possessionLostCtrl": 21,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 38,
+            "accuratePass": 23,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 1,
+            "totalCross": 7,
+            "accurateCross": 2,
+            "aerialLost": 2,
+            "duelLost": 7,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalContest": 4,
+            "wonContest": 3,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 3,
+            "goals": 1,
+            "totalClearance": 1,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 89,
+            "touches": 74,
+            "rating": 9.1,
+            "possessionLostCtrl": 30,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 9.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "goalAssist": 0,
+            "aerialLost": 4,
+            "aerialWon": 6,
+            "duelLost": 10,
+            "duelWon": 9,
+            "dispossessed": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 2,
+            "wasFouled": 3,
+            "fouls": 4,
+            "penaltyWon": 1,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 39,
+            "rating": 7.9,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Aiyegun Tosin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 13,
+            "touches": 6,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "totalClearance": 1,
+            "minutesPlayed": 1,
+            "touches": 5,
+            "possessionLostCtrl": 2
+          }
         },
         {
           "name": "Abdoul Aziz Rahman Karim",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Saturnin Allagbe",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rodrigue Fassinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Rabiou Sankamao",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Bachirou Soulemane Sika",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Samadou Attidjikou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Steve Traoré",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Romaric Amoussou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mariano Ahouangbo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andreas Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Junior Olaitan",
@@ -1523,181 +4402,2504 @@
           "minute": 50,
           "source": "assist"
         }
+      ],
+      "yellowCards": [
+        {
+          "player": "Majdi Erteiba",
+          "minute": 60,
+          "reason": "Foul"
+        },
+        {
+          "player": "Salem Abo Shaalah",
+          "minute": 54,
+          "reason": "Argument"
+        },
+        {
+          "player": "Faisal Al Badri",
+          "minute": 54,
+          "reason": "Argument"
+        },
+        {
+          "player": "Steve Mounié",
+          "minute": 54,
+          "reason": "Argument"
+        },
+        {
+          "player": "Osama Al Shreimy",
+          "minute": 45,
+          "reason": "Foul"
+        },
+        {
+          "player": "Suhaib Ben Suleiman",
+          "minute": 13,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Junior Olaitan",
+          "minute": 62,
+          "incidentClass": "penalty"
+        },
+        {
+          "player": "Faisal Al-Badri",
+          "minute": 9,
+          "incidentClass": "penalty"
+        }
       ]
     },
     {
-      "matchId": 12526708,
-      "date": "07/09/2024 18:00",
+      "matchId": 12183492,
+      "date": "10/06/2024 18:00:00",
       "opponent": "Nigeria",
-      "homeAway": "Away",
-      "result": "LOOSE",
-      "teamScore": 0,
-      "oppScore": 3,
-      "league": "Africa Cup of Nations, Qualification, Group D",
-      "season": "2024",
+      "homeAway": "Home",
+      "result": "WIN",
+      "teamScore": 2,
+      "oppScore": 1,
+      "league": "FIFA World Cup, Qualification CAF, Group C",
+      "season": "FIFA World Cup, Qualification CAF 2025",
       "players": [
         {
           "name": "Marcel Dandjinou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Abdoul Rachid Moumini",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Cédric Hountondji",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
-          "name": "Olivier Verdon",
+          "name": "Mohamed Tijani",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "David Kiki",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Sessi D'Almeida",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Aiyegun Tosin",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dokou Dodo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Hassane Imourane",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Junior Olaitan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Steve Mounié",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
           "name": "Jodel Dossou",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 44
+          }
         },
         {
-          "name": "Andreas Hountondji",
+          "name": "Dokou Dodo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
-          "name": "Mariano Ahouangbo",
+          "name": "Hassane Imourane",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
-          "name": "Saturnin Allagbe",
+          "name": "Junior Olaitan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 87
+          }
         },
         {
-          "name": "Abdoul Aziz Rahman Karim",
+          "name": "Steve Mounié",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
         },
         {
-          "name": "Yohan Roche",
+          "name": "Aiyegun Tosin",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Rabiou Sankamao",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Rodrigue Fassinou",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Romaric Amoussou",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Steve Traoré",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Samadou Attidjikou",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 46
+          }
         },
         {
           "name": "Matteo Ahlinvi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 3
+          }
+        },
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Abdoul Aziz Rahman Karim",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Fassinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Romaric Amoussou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "David Tchétchao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 1,
+          "assist": 0,
+          "minute": 45,
+          "source": "goal"
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 1,
+          "minute": 45,
+          "source": "assist"
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 1,
+          "assist": 0,
+          "minute": 37,
+          "source": "goal"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Ismaila Sodiq",
+          "minute": 90,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 12526708,
+      "date": "07/09/2024 18:00:00",
+      "opponent": "Nigeria",
+      "homeAway": "Away",
+      "result": "WIN",
+      "teamScore": 0,
+      "oppScore": 3,
+      "league": "Africa Cup of Nations, Qualification, Group D",
+      "season": "Africa Cup of Nations, Qualification 2024",
+      "players": [
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 18,
+            "totalLongBalls": 21,
+            "accurateLongBalls": 11,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 2,
+            "minutesPlayed": 90,
+            "touches": 36,
+            "rating": 6.4,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 25,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "duelWon": 4,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "minutesPlayed": 90,
+            "touches": 64,
+            "rating": 6.4,
+            "possessionLostCtrl": 23,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 25,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 5,
+            "interceptionWon": 3,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 6.5,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Olivier Verdon",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 43,
+            "accuratePass": 40,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "totalClearance": 3,
+            "totalTackle": 1,
+            "minutesPlayed": 90,
+            "touches": 50,
+            "rating": 6.1,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 34,
+            "accuratePass": 29,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 3,
+            "duelLost": 5,
+            "duelWon": 8,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.6,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 21,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "minutesPlayed": 67,
+            "touches": 30,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Aiyegun Tosin",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 18,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 3,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 78,
+            "touches": 31,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 32,
+            "accuratePass": 28,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 5,
+            "wasFouled": 3,
+            "minutesPlayed": 90,
+            "touches": 50,
+            "rating": 7.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 40,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "duelWon": 5,
+            "outfielderBlock": 1,
+            "totalTackle": 5,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 51,
+            "rating": 6.9,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 19,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 82,
+            "touches": 49,
+            "rating": 7,
+            "possessionLostCtrl": 18,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 15,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 8,
+            "aerialWon": 10,
+            "duelLost": 10,
+            "duelWon": 12,
+            "dispossessed": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 2,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 37,
+            "rating": 7.3,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 13,
+            "accuratePass": 11,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 2,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 23,
+            "touches": 26,
+            "rating": 6.7,
+            "possessionLostCtrl": 6,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 2,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "totalContest": 2,
+            "minutesPlayed": 12,
+            "touches": 9,
+            "rating": 6.1,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 5,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 8,
+            "touches": 11,
+            "rating": 6.2,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Abdoul Aziz Rahman Karim",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Fassinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Romaric Amoussou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Traoré",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Samadou Attidjikou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Junior Olaitan",
+          "minute": 61,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ademola Lookman",
+          "minute": 52,
+          "reason": "Foul"
+        },
+        {
+          "player": "Calvin Bassey",
+          "minute": 39,
+          "reason": "Handball"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 12183457,
+      "date": "06/06/2024 21:00:00",
+      "opponent": "Rwanda",
+      "homeAway": "Home",
+      "result": "WIN",
+      "teamScore": 1,
+      "oppScore": 0,
+      "league": "FIFA World Cup, Qualification CAF, Group C",
+      "season": "FIFA World Cup, Qualification CAF 2025",
+      "players": [
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 82
+          }
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 70
+          }
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Aiyegun Tosin",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 20
+          }
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 8
+          }
+        },
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Abdoul Aziz Rahman Karim",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Fassinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Romaric Amoussou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "David Tchétchao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 1,
+          "assist": 0,
+          "minute": 37,
+          "source": "goal"
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 1,
+          "minute": 37,
+          "source": "assist"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Hassane Imourane",
+          "minute": 82,
+          "reason": "Foul"
+        },
+        {
+          "player": "Dokou Dodo",
+          "minute": 44,
+          "reason": "Foul"
+        },
+        {
+          "player": "Emmanuel Imanishimwe",
+          "minute": 20,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 12178899,
+      "date": "26/03/2024 20:30:00",
+      "opponent": "Senegal",
+      "homeAway": "Away",
+      "result": "WIN",
+      "teamScore": 0,
+      "oppScore": 1,
+      "league": "Int. Friendly Games",
+      "season": "Int. Friendly Games 2024",
+      "players": [
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Lenny Pirringuel",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adebiyi Marcel Serge Obassa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Melvyn Doremus",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Brandon Agounon",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Youssouf Assogba",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Charbel Gomez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Aiyegun Tosin",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Formose Mendy",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Hassane Imourane",
+          "minute": 88,
+          "reason": "Foul"
+        },
+        {
+          "player": "Rachid Moumini",
+          "minute": 58,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": [
+        {
+          "player": "Sadio Mané",
+          "minute": 59,
+          "incidentClass": "penalty"
+        },
+        {
+          "player": "Steve Mounié",
+          "minute": 35,
+          "incidentClass": "missed",
+          "reason": "goalkeeperSave"
         }
       ]
+    },
+    {
+      "matchId": 12178550,
+      "date": "23/03/2024 17:00:00",
+      "opponent": "Côte d'Ivoire",
+      "homeAway": "Away",
+      "result": "DRAW",
+      "teamScore": 2,
+      "oppScore": 2,
+      "league": "Int. Friendly Games",
+      "season": "Int. Friendly Games 2024",
+      "players": [
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Youssouf Assogba",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mariano Ahouangbo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adebiyi Marcel Serge Obassa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Melvyn Doremus",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Yohan Roche",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Brandon Agounon",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Lenny Pirringuel",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Charbel Gomez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Aiyegun Tosin",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 1,
+          "assist": 0,
+          "minute": 51,
+          "source": "goal"
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 1,
+          "minute": 51,
+          "source": "assist"
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 1,
+          "assist": 0,
+          "minute": 8,
+          "source": "goal"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Emmanuel Agbadou",
+          "minute": 71,
+          "reason": "Foul"
+        },
+        {
+          "player": "Mohamed Tijani",
+          "minute": 45,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 11797978,
+      "date": "21/11/2023 14:00:00",
+      "opponent": "Lesotho",
+      "homeAway": "Away",
+      "result": "DRAW",
+      "teamScore": 0,
+      "oppScore": 0,
+      "league": "FIFA World Cup, Qualification CAF, Group C",
+      "season": "FIFA World Cup, Qualification CAF 2025",
+      "players": [
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 69
+          }
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 51
+          }
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 80
+          }
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 90
+          }
+        },
+        {
+          "name": "Steve Traoré",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 69
+          }
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 39
+          }
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 21
+          }
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 21
+          }
+        },
+        {
+          "name": "Cebio Soukou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 10
+          }
+        },
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Adebiyi Marcel Serge Obassa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Fassinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Tamimou Ouorou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Charbel Gomez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Kossi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Junior Olaitan",
+          "minute": 86,
+          "reason": "Foul"
+        },
+        {
+          "player": "Motlomelo Mkwanazi",
+          "minute": 63,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 11797980,
+      "date": "18/11/2023 14:00:00",
+      "opponent": "South Africa",
+      "homeAway": "Away",
+      "result": "WIN",
+      "teamScore": 1,
+      "oppScore": 2,
+      "league": "FIFA World Cup, Qualification CAF, Group C",
+      "season": "FIFA World Cup, Qualification CAF 2025",
+      "players": [
+        {
+          "name": "Saturnin Allagbe",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 10,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "goals": 0,
+            "totalClearance": 1,
+            "ownGoals": 0,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 1,
+            "punches": 1,
+            "minutesPlayed": 90,
+            "touches": 26,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.2
+            }
+          }
+        },
+        {
+          "name": "Abdoul Rachid Moumini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 11,
+            "totalLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 3,
+            "wonContest": 2,
+            "goals": 0,
+            "totalClearance": 4,
+            "interceptionWon": 3,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 6.6,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Cédric Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 22,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 4,
+            "goals": 0,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 36,
+            "rating": 6.7,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "Mohamed Tijani",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 42,
+            "accuratePass": 36,
+            "totalLongBalls": 16,
+            "accurateLongBalls": 11,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 3,
+            "goals": 0,
+            "totalClearance": 2,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "minutesPlayed": 90,
+            "touches": 48,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.7
+            }
+          }
+        },
+        {
+          "name": "David Kiki",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 19,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "goals": 0,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "fouls": 1,
+            "minutesPlayed": 84,
+            "touches": 31,
+            "rating": 6.4,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.3
+            }
+          }
+        },
+        {
+          "name": "Sessi D'Almeida",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 17,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 3,
+            "goals": 0,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 72,
+            "touches": 28,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Junior Olaitan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 24,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 4,
+            "goals": 0,
+            "totalTackle": 2,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 4,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 6.8,
+            "possessionLostCtrl": 16,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.9
+            }
+          }
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 6,
+            "goalAssist": 1,
+            "totalCross": 5,
+            "duelLost": 2,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "bigChanceCreated": 1,
+            "shotOffTarget": 1,
+            "goals": 0,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 72,
+            "touches": 18,
+            "rating": 7.2,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": 7.1
+            }
+          }
+        },
+        {
+          "name": "Rodrigue Kossi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "duelLost": 5,
+            "goals": 0,
+            "interceptionWon": 1,
+            "errorLeadToAGoal": 1,
+            "ownGoals": 0,
+            "fouls": 3,
+            "minutesPlayed": 67,
+            "touches": 14,
+            "rating": 5.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 5.8,
+              "alternative": 5.7
+            }
+          }
+        },
+        {
+          "name": "Andreas Hountondji",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "dispossessed": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "fouls": 1,
+            "minutesPlayed": 46,
+            "touches": 7,
+            "rating": 6.2,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": 6.1
+            }
+          }
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 7,
+            "duelLost": 5,
+            "duelWon": 8,
+            "challengeLost": 2,
+            "shotOffTarget": 2,
+            "onTargetScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 90,
+            "touches": 34,
+            "rating": 7.8,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.8,
+              "alternative": 7.7
+            }
+          }
+        },
+        {
+          "name": "Steve Traoré",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 7,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "fouls": 3,
+            "minutesPlayed": 44,
+            "touches": 18,
+            "rating": 6.4,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            }
+          }
+        },
+        {
+          "name": "Dokou Dodo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 12,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 2,
+            "goals": 0,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "minutesPlayed": 23,
+            "touches": 17,
+            "rating": 6.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.8
+            }
+          }
+        },
+        {
+          "name": "Hassane Imourane",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "goals": 0,
+            "interceptionWon": 1,
+            "ownGoals": 0,
+            "minutesPlayed": 18,
+            "touches": 17,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Cebio Soukou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "shotOffTarget": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "minutesPlayed": 18,
+            "touches": 7,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Charbel Gomez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "duelWon": 1,
+            "goals": 0,
+            "ownGoals": 0,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 6,
+            "touches": 4,
+            "rating": 6.7,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Adebiyi Marcel Serge Obassa",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Marcel Dandjinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rodrigue Fassinou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Tamimou Ouorou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Rabiou Sankamao",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Prince Ricardo Dossou",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Matteo Ahlinvi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Steve Mounié",
+          "goal": 1,
+          "assist": 0,
+          "minute": 70,
+          "source": "goal"
+        },
+        {
+          "name": "Jodel Dossou",
+          "goal": 0,
+          "assist": 1,
+          "minute": 70,
+          "source": "assist"
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Cédric Hountondji",
+          "minute": 90,
+          "reason": "Argument"
+        },
+        {
+          "player": "Teboho Mokoena",
+          "minute": 54,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     }
   ]
 }

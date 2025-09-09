@@ -1,547 +1,1879 @@
 {
+  "sport": "FOOT",
   "teamId": 4782,
   "teamName": "Moldova",
   "matches": [
     {
       "matchId": 13233436,
-      "date": "09/06/2025 20:45",
+      "date": "09/06/2025 20:45:00",
       "opponent": "Italy",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 2,
       "league": "World Cup Qual. UEFA I",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Cristian Avram",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 19,
+            "totalLongBalls": 17,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "goodHighClaim": 1,
+            "savedShotsFromInsideTheBox": 4,
+            "saves": 5,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 7.3,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sergiu Plătică",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 14,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 2,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 2,
+            "totalClearance": 4,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 45,
+            "rating": 6.6,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vladyslav Babohlo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 20,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 5,
+            "outfielderBlock": 3,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 38,
+            "rating": 7.2,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Victor Mudrac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 35,
+            "accuratePass": 32,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 4,
+            "duelLost": 2,
+            "duelWon": 4,
+            "totalClearance": 7,
+            "outfielderBlock": 3,
+            "minutesPlayed": 90,
+            "touches": 46,
+            "rating": 6.9,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Daniel Dumbravanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 33,
+            "accuratePass": 26,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 10,
+            "outfielderBlock": 3,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 7.3,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Oleg Reabciuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 24,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialWon": 3,
+            "duelLost": 1,
+            "duelWon": 6,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 5,
+            "interceptionWon": 3,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 7,
+            "possessionLostCtrl": 13,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mihail Caimacov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 17,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 4,
+            "accurateCross": 3,
+            "duelLost": 2,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 4,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 66,
+            "touches": 37,
+            "rating": 7.1,
+            "possessionLostCtrl": 5,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Ioniță",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 22,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 3,
+            "shotOffTarget": 1,
+            "totalClearance": 3,
+            "interceptionWon": 1,
+            "errorLeadToAShot": 1,
+            "minutesPlayed": 72,
+            "touches": 30,
+            "rating": 6.4,
+            "possessionLostCtrl": 1,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ştefan Bodişteanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 13,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "totalContest": 3,
+            "wonContest": 2,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 58,
+            "touches": 23,
+            "rating": 6.8,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ion Nicolaescu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "shotOffTarget": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "fouls": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 72,
+            "touches": 17,
+            "rating": 6.6,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Virgiliu Postolachi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 17,
+            "accuratePass": 11,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 2,
+            "duelWon": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "minutesPlayed": 66,
+            "touches": 22,
+            "rating": 6.8,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nichita Moțpan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 20,
+            "accuratePass": 17,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 32,
+            "touches": 26,
+            "rating": 6.8,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Sergiu Perciun",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 24,
+            "touches": 13,
+            "rating": 6.7,
+            "possessionLostCtrl": 2,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Victor Stina",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 14,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 2,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 1,
+            "totalContest": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 24,
+            "touches": 22,
+            "rating": 7.4,
+            "possessionLostCtrl": 2,
+            "keyPass": 3,
+            "ratingVersions": {
+              "original": 7.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Cristian Dros",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "dispossessed": 2,
+            "onTargetScoringAttempt": 2,
+            "minutesPlayed": 18,
+            "touches": 15,
+            "rating": 6.8,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vitalie Damașcan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 12,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "duelLost": 1,
+            "onTargetScoringAttempt": 1,
+            "blockedScoringAttempt": 1,
+            "fouls": 1,
+            "minutesPlayed": 18,
+            "touches": 18,
+            "rating": 7,
+            "possessionLostCtrl": 4,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Andrii Kozhukhar",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Victor Straistari",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Veaceslav Posmac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrei Moțoc",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mihail Stefan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ion Borș",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Stefan Bitca",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Davide Frattesi",
+          "minute": 85,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ion Nicolaescu",
+          "minute": 71,
+          "reason": "Foul"
+        },
+        {
+          "player": "Serghei Clescenco",
+          "minute": -5,
+          "reason": "Argument"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
       "matchId": 13671824,
-      "date": "06/06/2025 20:45",
+      "date": "06/06/2025 20:45:00",
       "opponent": "Poland",
       "homeAway": "Away",
-      "result": "LOOSE",
+      "result": "WIN",
       "teamScore": 0,
       "oppScore": 2,
       "league": "Int. Friendly Games",
-      "season": "2025",
+      "season": "Int. Friendly Games 2025",
       "players": [
         {
           "name": "Cristian Avram",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Veaceslav Posmac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Vladyslav Babohlo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Victor Mudrac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Maxim Cojocaru",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mihail Caimacov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Vadim Rață",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Artur Ioniță",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Oleg Reabciuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Nichita Moțpan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ion Nicolaescu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sergiu Plătică",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ştefan Bodişteanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Virgiliu Postolachi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Victor Stina",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sergiu Perciun",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Vitalie Damașcan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dumitru Celeadnic",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Victor Straistari",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrii Kozhukhar",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Ion Borș",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mihail Stefan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrei Moțoc",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Daniel Dumbravanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Cristian Dros",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Stefan Bitca",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Artur Ioniță",
+          "minute": 44,
+          "reason": "Foul"
+        },
+        {
+          "player": "Nichita Moțpan",
+          "minute": 38,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
     },
     {
-      "matchId": 13233416,
-      "date": "25/03/2025 18:00",
-      "opponent": "Estonia",
+      "matchId": 13233467,
+      "date": "05/09/2025 20:45:00",
+      "opponent": "Israel",
       "homeAway": "Home",
       "result": "LOOSE",
-      "teamScore": 2,
-      "oppScore": 3,
+      "teamScore": 0,
+      "oppScore": 4,
       "league": "World Cup Qual. UEFA I",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
-          "name": "Andrii Kozhukhar",
+          "name": "Cristian Avram",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vladyslav Babohlo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Oleg Reabciuk",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ştefan Bodişteanu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 18,
+            "totalLongBalls": 21,
+            "accurateLongBalls": 13,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "totalContest": 1,
+            "savedShotsFromInsideTheBox": 4,
+            "saves": 5,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 7,
+            "possessionLostCtrl": 9,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": 7
+            }
+          }
         },
         {
           "name": "Sergiu Plătică",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 31,
+            "accuratePass": 23,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 4,
+            "duelLost": 3,
+            "duelWon": 8,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 3,
+            "totalTackle": 3,
+            "minutesPlayed": 90,
+            "touches": 53,
+            "rating": 6.1,
+            "possessionLostCtrl": 14,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": 6.1
+            }
+          }
         },
         {
-          "name": "Victor Stina",
+          "name": "Vladyslav Babohlo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 43,
+            "accuratePass": 36,
+            "totalLongBalls": 8,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 5,
+            "duelWon": 4,
+            "challengeLost": 3,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 2,
+            "outfielderBlock": 1,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 6.6,
+            "possessionLostCtrl": 7,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
-          "name": "Alexandru Boiciuc",
+          "name": "Artur Crăciun",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Avram",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Veaceslav Posmac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 43,
+            "accuratePass": 36,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 4,
+            "duelLost": 3,
+            "duelWon": 6,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 7,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 56,
+            "rating": 6.6,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
         },
         {
           "name": "Daniel Dumbravanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 17,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 5,
+            "interceptionWon": 1,
+            "minutesPlayed": 45,
+            "touches": 29,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
         },
         {
-          "name": "Ioan-Calin Revenco",
+          "name": "Oleg Reabciuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 26,
+            "accuratePass": 20,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "duelLost": 5,
+            "duelWon": 3,
+            "dispossessed": 3,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "errorLeadToAGoal": 1,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 5.5,
+            "possessionLostCtrl": 21,
+            "ratingVersions": {
+              "original": 5.5,
+              "alternative": 5.5
+            }
+          }
         },
         {
-          "name": "Dan Pușcaș",
+          "name": "Mihail Caimacov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 48,
+            "accuratePass": 40,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 6,
+            "challengeLost": 3,
+            "dispossessed": 1,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 3,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "wasFouled": 3,
+            "minutesPlayed": 90,
+            "touches": 67,
+            "rating": 6.8,
+            "possessionLostCtrl": 13,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.8
+            }
+          }
+        },
+        {
+          "name": "Vadim Rață",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "duelLost": 2,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 2,
+            "totalTackle": 1,
+            "minutesPlayed": 56,
+            "touches": 20,
+            "rating": 6.6,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Artur Ioniță",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 6,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 2,
+            "aerialLost": 3,
+            "duelLost": 3,
+            "duelWon": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 56,
+            "touches": 13,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Virgiliu Postolachi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 5,
+            "goalAssist": 0,
+            "aerialLost": 6,
+            "aerialWon": 4,
+            "duelLost": 9,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 73,
+            "touches": 16,
+            "rating": 6.5,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Ştefan Bodişteanu",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 14,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelLost": 5,
+            "duelWon": 3,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 3,
+            "wasFouled": 2,
+            "minutesPlayed": 56,
+            "touches": 26,
+            "rating": 6.2,
+            "possessionLostCtrl": 9,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": 6.2
+            }
+          }
+        },
+        {
+          "name": "Nichita Moțpan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 9,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 2,
+            "interceptionWon": 2,
+            "totalOffside": 1,
+            "minutesPlayed": 45,
+            "touches": 32,
+            "rating": 6.5,
+            "possessionLostCtrl": 12,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 6.5
+            }
+          }
+        },
+        {
+          "name": "Cristian Dros",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 21,
+            "accuratePass": 19,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelWon": 1,
+            "shotOffTarget": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 34,
+            "touches": 24,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Victor Stina",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 11,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "accurateCross": 2,
+            "duelLost": 3,
+            "duelWon": 1,
+            "challengeLost": 2,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 34,
+            "touches": 22,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Maxim Cojocaru",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 7,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 2,
+            "fouls": 1,
+            "minutesPlayed": 34,
+            "touches": 10,
+            "rating": 6.6,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            }
+          }
+        },
+        {
+          "name": "Sergiu Perciun",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 5,
+            "accuratePass": 4,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "minutesPlayed": 17,
+            "touches": 10,
+            "rating": 6.3,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": 6.3
+            }
+          }
+        },
+        {
+          "name": "Nicolai Cebotari",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Emil Tîmbur",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Mihail Stefan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Andrei Moțoc",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Ion Borș",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Iurie Iovu",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Victor Bogaciuc",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Eliel Peretz",
+          "minute": 70,
+          "reason": "Persistent fouling"
+        },
+        {
+          "player": "Yarden Shua",
+          "minute": 69,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [],
+      "penalties": []
+    },
+    {
+      "matchId": 13233416,
+      "date": "25/03/2025 18:00:00",
+      "opponent": "Estonia",
+      "homeAway": "Home",
+      "result": "LOOSE",
+      "teamScore": 2,
+      "oppScore": 3,
+      "league": "World Cup Qual. UEFA I",
+      "season": "World Cup Qualification, UEFA 2026",
+      "players": [
+        {
+          "name": "Andrii Kozhukhar",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 17,
+            "totalLongBalls": 11,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "savedShotsFromInsideTheBox": 1,
+            "saves": 4,
+            "minutesPlayed": 90,
+            "touches": 32,
+            "rating": 6.4,
+            "possessionLostCtrl": 8,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Maxim Cojocaru",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 2,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "fouls": 1,
+            "minutesPlayed": 5,
+            "touches": 5,
+            "rating": 3,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 3,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Artur Crăciun",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 38,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 3,
+            "duelWon": 5,
+            "totalClearance": 8,
+            "outfielderBlock": 1,
+            "interceptionWon": 1,
+            "totalTackle": 3,
+            "errorLeadToAShot": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 66,
+            "rating": 6.4,
+            "possessionLostCtrl": 13,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Vladyslav Babohlo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 57,
+            "accuratePass": 44,
+            "totalLongBalls": 10,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 5,
+            "duelLost": 5,
+            "duelWon": 9,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 2,
+            "blockedScoringAttempt": 2,
+            "totalClearance": 2,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "wasFouled": 2,
+            "fouls": 3,
+            "minutesPlayed": 90,
+            "touches": 71,
+            "rating": 6.6,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Oleg Reabciuk",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 40,
+            "accuratePass": 29,
+            "totalLongBalls": 14,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "totalCross": 8,
+            "accurateCross": 2,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "dispossessed": 1,
+            "totalTackle": 3,
+            "minutesPlayed": 90,
+            "touches": 69,
+            "rating": 6.3,
+            "possessionLostCtrl": 26,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Nichita Moțpan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 22,
+            "accuratePass": 19,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 5,
+            "totalClearance": 7,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "minutesPlayed": 78,
+            "touches": 47,
+            "rating": 6.8,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Vadim Rață",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 33,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "totalCross": 3,
+            "accurateCross": 1,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 7,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "totalTackle": 4,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 55,
+            "rating": 6.8,
+            "possessionLostCtrl": 10,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Virgiliu Postolachi",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 8,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialLost": 4,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 2,
+            "totalContest": 2,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 78,
+            "touches": 31,
+            "rating": 5.9,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 5.9,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Mihail Caimacov",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 50,
+            "accuratePass": 41,
+            "totalLongBalls": 7,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "accurateCross": 3,
+            "aerialLost": 3,
+            "aerialWon": 2,
+            "duelLost": 10,
+            "duelWon": 9,
+            "dispossessed": 4,
+            "totalContest": 4,
+            "wonContest": 3,
+            "bigChanceCreated": 1,
+            "onTargetScoringAttempt": 2,
+            "goals": 1,
+            "totalClearance": 1,
+            "outfielderBlock": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 76,
+            "rating": 8.1,
+            "possessionLostCtrl": 18,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 8.1,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Ştefan Bodişteanu",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 17,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 6,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 85,
+            "touches": 38,
+            "rating": 7,
+            "possessionLostCtrl": 11,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Ion Nicolaescu",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 2,
+            "duelLost": 11,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "dispossessed": 4,
+            "totalContest": 6,
+            "wonContest": 3,
+            "onTargetScoringAttempt": 3,
+            "blockedScoringAttempt": 1,
+            "goals": 1,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 33,
+            "rating": 7.3,
+            "possessionLostCtrl": 14,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Sergiu Plătică",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 1,
+            "challengeLost": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 12,
+            "touches": 7,
+            "rating": 6.7,
+            "possessionLostCtrl": 2,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Victor Stina",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 6,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "aerialWon": 1,
+            "duelWon": 3,
+            "onTargetScoringAttempt": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 12,
+            "touches": 11,
+            "rating": 7.2,
+            "possessionLostCtrl": 3,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.2,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Alexandru Boiciuc",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "aerialWon": 2,
+            "duelWon": 2,
+            "blockedScoringAttempt": 1,
+            "minutesPlayed": 12,
+            "touches": 5,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
+        },
+        {
+          "name": "Nicolai Cebotari",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Cristian Avram",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Veaceslav Posmac",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Victor Mudrac",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Daniel Dumbravanu",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Ioan-Calin Revenco",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Dan Pușcaș",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
+        },
+        {
+          "name": "Victor Bogaciuc",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Teodor Lungu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Mihail Caimacov",
@@ -557,1246 +1889,579 @@
           "minute": 67,
           "source": "goal"
         }
-      ]
+      ],
+      "yellowCards": [
+        {
+          "player": "Mihkel Ainsalu",
+          "minute": 90,
+          "reason": "Foul"
+        },
+        {
+          "player": "Mattias Käit",
+          "minute": 82,
+          "reason": "Foul"
+        },
+        {
+          "player": "Vadim Rață",
+          "minute": 63,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ion Nicolaescu",
+          "minute": 51,
+          "reason": "Foul"
+        },
+        {
+          "player": "Vladyslav Babohlo",
+          "minute": 48,
+          "reason": "Argument"
+        },
+        {
+          "player": "Kevor Palumets",
+          "minute": 44,
+          "reason": "Foul"
+        },
+        {
+          "player": "Rasmus Peetson",
+          "minute": 35,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Maxim Cojocaru",
+          "minute": 5,
+          "reason": "Professional foul last man"
+        }
+      ],
+      "penalties": []
     },
     {
       "matchId": 13233404,
-      "date": "22/03/2025 18:00",
+      "date": "22/03/2025 18:00:00",
       "opponent": "Norway",
       "homeAway": "Home",
       "result": "LOOSE",
       "teamScore": 0,
       "oppScore": 5,
       "league": "World Cup Qual. UEFA I",
-      "season": "2026",
+      "season": "World Cup Qualification, UEFA 2026",
       "players": [
         {
           "name": "Dumitru Celeadnic",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 19,
+            "accuratePass": 13,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 7,
+            "goalAssist": 0,
+            "totalClearance": 2,
+            "errorLeadToAGoal": 1,
+            "savedShotsFromInsideTheBox": 2,
+            "saves": 4,
+            "punches": 2,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 5.9,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 5.9,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ioan-Calin Revenco",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 10,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "interceptionWon": 1,
+            "totalTackle": 2,
+            "minutesPlayed": 45,
+            "touches": 18,
+            "rating": 6,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Artur Crăciun",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 44,
+            "accuratePass": 33,
+            "totalLongBalls": 13,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "duelWon": 2,
+            "challengeLost": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 6,
+            "outfielderBlock": 2,
+            "totalTackle": 2,
+            "minutesPlayed": 90,
+            "touches": 58,
+            "rating": 6.2,
+            "possessionLostCtrl": 11,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vladyslav Babohlo",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 23,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "bigChanceMissed": 1,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 5,
+            "outfielderBlock": 3,
+            "interceptionWon": 2,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 42,
+            "rating": 6.3,
+            "possessionLostCtrl": 6,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Victor Mudrac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 28,
+            "accuratePass": 21,
+            "totalLongBalls": 6,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "aerialWon": 1,
+            "duelLost": 7,
+            "duelWon": 3,
+            "challengeLost": 3,
+            "totalClearance": 6,
+            "outfielderBlock": 4,
+            "totalTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 46,
+            "rating": 6.5,
+            "possessionLostCtrl": 8,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Oleg Reabciuk",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 13,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 5,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 7,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 8,
+            "interceptionWon": 1,
+            "totalTackle": 1,
+            "wasFouled": 3,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 52,
+            "rating": 6.4,
+            "possessionLostCtrl": 15,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Mihail Caimacov",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 29,
+            "accuratePass": 24,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "totalCross": 7,
+            "accurateCross": 1,
+            "duelLost": 2,
+            "duelWon": 5,
+            "challengeLost": 2,
+            "totalContest": 2,
+            "wonContest": 2,
+            "shotOffTarget": 1,
+            "onTargetScoringAttempt": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 87,
+            "touches": 46,
+            "rating": 7,
+            "possessionLostCtrl": 11,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Nichita Moțpan",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 23,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "shotOffTarget": 1,
+            "totalClearance": 3,
+            "interceptionWon": 2,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 80,
+            "touches": 34,
+            "rating": 6.4,
+            "possessionLostCtrl": 3,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Vadim Rață",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 20,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 9,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "blockedScoringAttempt": 1,
+            "totalClearance": 2,
+            "interceptionWon": 2,
+            "totalTackle": 2,
+            "errorLeadToAShot": 1,
+            "fouls": 6,
+            "minutesPlayed": 81,
+            "touches": 35,
+            "rating": 5.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 5.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Virgiliu Postolachi",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 18,
+            "accuratePass": 13,
+            "goalAssist": 0,
+            "aerialLost": 2,
+            "aerialWon": 1,
+            "duelLost": 4,
+            "duelWon": 5,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "bigChanceMissed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 1,
+            "totalTackle": 2,
+            "wasFouled": 1,
+            "totalOffside": 2,
+            "minutesPlayed": 90,
+            "touches": 30,
+            "rating": 6.4,
+            "possessionLostCtrl": 10,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ion Nicolaescu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 8,
+            "accuratePass": 6,
+            "goalAssist": 0,
+            "aerialLost": 3,
+            "duelLost": 4,
+            "duelWon": 3,
+            "dispossessed": 1,
+            "totalContest": 2,
+            "wonContest": 2,
+            "bigChanceMissed": 1,
+            "onTargetScoringAttempt": 2,
+            "totalClearance": 1,
+            "totalTackle": 1,
+            "minutesPlayed": 65,
+            "touches": 19,
+            "rating": 6.6,
+            "possessionLostCtrl": 5,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Maxim Cojocaru",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 9,
+            "accuratePass": 9,
+            "goalAssist": 0,
+            "totalCross": 2,
+            "totalClearance": 2,
+            "minutesPlayed": 45,
+            "touches": 17,
+            "rating": 6.6,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Ştefan Bodişteanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "totalCross": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 25,
+            "touches": 7,
+            "rating": 6.5,
+            "possessionLostCtrl": 4,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Victor Stina",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 1,
+            "accuratePass": 1,
+            "goalAssist": 0,
+            "duelLost": 1,
+            "fouls": 1,
+            "minutesPlayed": 10,
+            "touches": 2,
+            "rating": 6.5,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Veaceslav Posmac",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 4,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "outfielderBlock": 1,
+            "minutesPlayed": 9,
+            "touches": 5,
+            "rating": 6.7,
+            "possessionLostCtrl": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": null
+            }
+          }
         },
         {
           "name": "Alexandru Boiciuc",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {
+            "goalAssist": 0,
+            "aerialLost": 1,
+            "duelLost": 1,
+            "minutesPlayed": 3,
+            "touches": 1,
+            "possessionLostCtrl": 1
+          }
         },
         {
           "name": "Cristian Avram",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrii Kozhukhar",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Andrei Moțoc",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Daniel Dumbravanu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Sergiu Plătică",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Dan Pușcaș",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         },
         {
           "name": "Teodor Lungu",
           "goal": 0,
           "assist": 0,
           "minute": "",
-          "source": "lineup"
+          "source": "lineup",
+          "statistics": {}
         }
-      ]
-    },
-    {
-      "matchId": 13085921,
-      "date": "19/11/2024 18:00",
-      "opponent": "Gibraltar",
-      "homeAway": "Away",
-      "result": "DRAW",
-      "teamScore": 1,
-      "oppScore": 1,
-      "league": "Int. Friendly Games",
-      "season": "2024",
-      "players": [
+      ],
+      "yellowCards": [
         {
-          "name": "Cristian Avram",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
+          "player": "Kristoffer Ajer",
+          "minute": 86,
+          "reason": "Foul"
         },
         {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Iurie Iovu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Teodor Lungu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrii Kozhukhar",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Daniel Danu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 1,
-          "assist": 0,
-          "minute": 40,
-          "source": "goal"
-        },
-        {
-          "name": "Teodor Lungu",
-          "goal": 0,
-          "assist": 1,
-          "minute": 40,
-          "source": "assist"
+          "player": "Vadim Rață",
+          "minute": 78,
+          "reason": "Foul"
         }
-      ]
-    },
-    {
-      "matchId": 12057784,
-      "date": "16/11/2024 18:00",
-      "opponent": "Andorra",
-      "homeAway": "Away",
-      "result": "WIN",
-      "teamScore": 1,
-      "oppScore": 0,
-      "league": "UEFA Nations League, League D, Gr. 2",
-      "season": "24/25",
-      "players": [
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vladyslav Babohlo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Oleg Reabciuk",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Avram",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrii Kozhukhar",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Iurie Iovu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Denis Marandici",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Corneliu Cotogoi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Teodor Lungu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Daniel Danu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 1,
-          "assist": 0,
-          "minute": 90,
-          "source": "goal"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 1,
-          "minute": 90,
-          "source": "assist"
-        }
-      ]
-    },
-    {
-      "matchId": 12057785,
-      "date": "13/10/2024 18:00",
-      "opponent": "Malta",
-      "homeAway": "Away",
-      "result": "LOOSE",
-      "teamScore": 0,
-      "oppScore": 1,
-      "league": "UEFA Nations League, League D, Gr. 2",
-      "season": "24/25",
-      "players": [
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Denis Marandici",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Oleg Reabciuk",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vladyslav Babohlo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Ioniță",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vitalie Damașcan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Avram",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Daniel Danu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Dros",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        }
-      ]
-    },
-    {
-      "matchId": 12057788,
-      "date": "10/10/2024 18:00",
-      "opponent": "Andorra",
-      "homeAway": "Home",
-      "result": "WIN",
-      "teamScore": 2,
-      "oppScore": 0,
-      "league": "UEFA Nations League, League D, Gr. 2",
-      "season": "24/25",
-      "players": [
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vladyslav Babohlo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Oleg Reabciuk",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Ioniță",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vitalie Damașcan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Virgiliu Postolachi",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Denis Marandici",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Avram",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Cristian Dros",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Daniel Danu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 1,
-          "assist": 0,
-          "minute": 90,
-          "source": "goal"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 1,
-          "minute": 90,
-          "source": "assist"
-        },
-        {
-          "name": "Artur Ioniță",
-          "goal": 1,
-          "assist": 0,
-          "minute": 31,
-          "source": "goal"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 1,
-          "minute": 31,
-          "source": "assist"
-        }
-      ]
-    },
-    {
-      "matchId": 12258868,
-      "date": "10/09/2024 18:00",
-      "opponent": "San Marino",
-      "homeAway": "Home",
-      "result": "WIN",
-      "teamScore": 1,
-      "oppScore": 0,
-      "league": "Int. Friendly Games",
-      "season": "2024",
-      "players": [
-        {
-          "name": "Andrii Kozhukhar",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vladyslav Babohlo",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Ioniță",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Bogaciuc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vitalie Damașcan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Platica",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Denis Marandici",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ioan-Calin Revenco",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Serafim Cojocari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 1,
-          "assist": 0,
-          "minute": 10,
-          "source": "goal"
-        }
-      ]
-    },
-    {
-      "matchId": 12057787,
-      "date": "07/09/2024 18:00",
-      "opponent": "Malta",
-      "homeAway": "Home",
-      "result": "WIN",
-      "teamScore": 2,
-      "oppScore": 0,
-      "league": "UEFA Nations League, League D, Gr. 2",
-      "season": "24/25",
-      "players": [
-        {
-          "name": "Dumitru Celeadnic",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Sergiu Plătică",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Crăciun",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Mudrac",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Denis Marandici",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Oleg Reabciuk",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nichita Moțpan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vadim Rață",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Artur Ioniță",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Bogaciuc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Vitalie Damașcan",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Victor Stina",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Maxim Cojocaru",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Nicolai Cebotari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrii Kozhukhar",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Andrei Moțoc",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ioan-Calin Revenco",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dan Pușcaș",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Dmytro Mandrychenko",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Serafim Cojocari",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Mihail Platica",
-          "goal": 0,
-          "assist": 0,
-          "minute": "",
-          "source": "lineup"
-        },
-        {
-          "name": "Ion Nicolaescu",
-          "goal": 1,
-          "assist": 0,
-          "minute": 45,
-          "source": "goal"
-        },
-        {
-          "name": "Mihail Caimacov",
-          "goal": 1,
-          "assist": 0,
-          "minute": 32,
-          "source": "goal"
-        }
-      ]
+      ],
+      "redCards": [],
+      "penalties": []
     }
   ]
 }
