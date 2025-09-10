@@ -1,38 +1,33 @@
-import fs from "fs/promises";
-import path from "path";
+import fs from 'fs';
+import path from 'path';
 
 export default async function handler(req, res) {
-  // ⚡ Ajouter CORS en tout premier
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Methods", "GET");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-
-  const { id } = req.query;
-  if (!id) return res.status(400).json({ error: "Missing team id" });
-
-  const dataDir = path.join(process.cwd(), 'data');
-
-  const fileNames = [`team_${id}.json`, `NHL_team_${id}.json`];
-  let filePath = null;
-
-  for (const f of fileNames) {
-    const fullPath = path.join(dataDir, f);
-    if (fs.existsSync(fullPath)) {
-      filePath = fullPath;
-      break;
-    }
-  }
-
-  if (!filePath) {
-    return res.status(404).json({ error: 'Team JSON not found' });
-  }
+  // Toujours envoyer les headers CORS
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
   try {
+    const { id } = req.query;
+    if (!id) throw new Error("Missing team id");
+
+    const dataDir = path.join(process.cwd(), 'data');
+    const fileNames = [`team_${id}.json`, `NHL_team_${id}.json`];
+
+    // Cherche le fichier existant
+    const filePath = fileNames
+      .map(f => path.join(dataDir, f))
+      .find(fp => fs.existsSync(fp));
+
+    if (!filePath) throw new Error("Team JSON not found");
+
     const rawData = fs.readFileSync(filePath, 'utf-8');
     const data = JSON.parse(rawData);
 
     res.status(200).json(data);
   } catch (err) {
-    res.status(500).json({ error: 'Failed to read JSON', details: err.message });
+    console.error(err);
+    // Retourne un JSON d’erreur mais toujours avec CORS
+    res.status(200).json({ error: err.message });
   }
 }
