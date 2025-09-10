@@ -2,24 +2,37 @@ import fs from "fs/promises";
 import path from "path";
 
 export default async function handler(req, res) {
+  // ⚡ Ajouter CORS en tout premier
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
   const { id } = req.query;
+  if (!id) return res.status(400).json({ error: "Missing team id" });
+
+  const dataDir = path.join(process.cwd(), 'data');
+
+  const fileNames = [`team_${id}.json`, `NHL_team_${id}.json`];
+  let filePath = null;
+
+  for (const f of fileNames) {
+    const fullPath = path.join(dataDir, f);
+    if (fs.existsSync(fullPath)) {
+      filePath = fullPath;
+      break;
+    }
+  }
+
+  if (!filePath) {
+    return res.status(404).json({ error: 'Team JSON not found' });
+  }
 
   try {
-    let filePath;
+    const rawData = fs.readFileSync(filePath, 'utf-8');
+    const data = JSON.parse(rawData);
 
-    if (id.startsWith("NHL_")) {
-      // Cas NHL → fichier : NHL_team_1234.json
-      const cleanId = id.replace("NHL_", "");
-      filePath = path.join(process.cwd(), "data", `NHL_team_${cleanId}.json`);
-    } else {
-      // Cas FOOT → fichier : team_4700.json
-      filePath = path.join(process.cwd(), "data", `team_${id}.json`);
-    }
-
-    const fileData = await fs.readFile(filePath, "utf-8");
-    res.status(200).json(JSON.parse(fileData));
+    res.status(200).json(data);
   } catch (err) {
-    console.error("❌ Erreur lecture fichier:", err.message);
-    res.status(404).json({ error: "File not found" });
+    res.status(500).json({ error: 'Failed to read JSON', details: err.message });
   }
 }
