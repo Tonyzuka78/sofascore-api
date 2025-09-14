@@ -1,8 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-
 export default async function handler(req, res) {
-  // Toujours envoyer les headers CORS
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
@@ -11,24 +7,24 @@ export default async function handler(req, res) {
     const { id } = req.query;
     if (!id) throw new Error("Missing team id");
 
-    // Nouveau dossier : public/teams
-    const dataDir = path.join(process.cwd(), 'public', 'teams');
     const fileNames = [`team_${id}.json`, `NHL_team_${id}.json`];
 
-    // Cherche le fichier existant
-    const filePath = fileNames
-      .map(f => path.join(dataDir, f))
-      .find(fp => fs.existsSync(fp));
+    // teste l’URL publique
+    for (const f of fileNames) {
+      const url = `${process.env.VERCEL_URL 
+        ? "https://" + process.env.VERCEL_URL 
+        : "http://localhost:3000"}/teams/${f}`;
 
-    if (!filePath) throw new Error("Team JSON not found");
+      const response = await fetch(url);
+      if (response.ok) {
+        const data = await response.json();
+        return res.status(200).json(data);
+      }
+    }
 
-    const rawData = fs.readFileSync(filePath, 'utf-8');
-    const data = JSON.parse(rawData);
-
-    res.status(200).json(data);
+    throw new Error("Team JSON not found");
   } catch (err) {
     console.error(err);
-    // Retourne un JSON d’erreur mais toujours avec CORS
     res.status(200).json({ error: err.message });
   }
 }
