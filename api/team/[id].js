@@ -11,7 +11,8 @@ export default async function handler(req, res) {
     const { id } = req.query;
     if (!id) throw new Error("Missing team id");
 
-    const dataDir = path.join(process.cwd(), 'data');
+    // Nouveau dossier : public/teams
+    const dataDir = path.join(process.cwd(), 'public', 'teams');
     const fileNames = [`team_${id}.json`, `NHL_team_${id}.json`];
 
     // Cherche le fichier existant
