@@ -1,5 +1,590 @@
 [
   {
+    "matchId": 14600171,
+    "date": "23/09/2025 17:00",
+    "league": "Veikkausliiga, Championship Round",
+    "season": 2025,
+    "homeTeam": "Ilves",
+    "awayTeam": "IF Gnistan",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 75,
+    "awayMatchesUsed": 71,
+    "homeGoalsFor": 155,
+    "homeGoalsAgainst": 106,
+    "awayGoalsFor": 126,
+    "awayGoalsAgainst": 119,
+    "homeProb": 0.49,
+    "drawProb": 0.21,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 2.1104225352112675,
+    "expectedAwayGoals": 1.6301220657276994,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.69,
+    "under25Prob": 0.31,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Roope Riski",
+        "team": "Ilves",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (25 cette saison)",
+        "recentMatches": [
+          {
+            "date": "14/09/2025 15:00:00",
+            "goals": 2,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "23/08/2025 14:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "16/08/2025 16:00:00",
+            "goals": 1,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "11/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Jardell Kanga",
+        "team": "Ilves",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 cette saison)",
+        "recentMatches": [
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "23/08/2025 14:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "16/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "11/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "04/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 1,
+            "played": true
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Rachide Gnanou",
+        "team": "IF Gnistan",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (4 cette saison)",
+        "recentMatches": [
+          {
+            "date": "13/09/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "25/08/2025 18:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "15/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "09/08/2025 18:00:00",
+            "goals": 2,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "04/08/2025 17:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Saku Heiskanen",
+        "team": "IF Gnistan",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (12 cette saison)",
+        "recentMatches": [
+          {
+            "date": "13/09/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "25/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "15/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "09/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 2,
+            "played": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14600176,
+    "date": "23/09/2025 17:00",
+    "league": "Veikkausliiga, Championship Round",
+    "season": 2025,
+    "homeTeam": "KuPS",
+    "awayTeam": "SJK",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 90,
+    "awayMatchesUsed": 75,
+    "homeGoalsFor": 181,
+    "homeGoalsAgainst": 103,
+    "awayGoalsFor": 154,
+    "awayGoalsAgainst": 122,
+    "homeProb": 0.47,
+    "drawProb": 0.21,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 2.0573333333333332,
+    "expectedAwayGoals": 1.6897777777777778,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "1-2",
+        "prob": 0.08
+      },
+      {
+        "score": "2-1",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.69,
+    "under25Prob": 0.31,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Piotr Parzyszek",
+        "team": "KuPS",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (2 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "14/09/2025 15:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "10/09/2025 19:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "28/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Joslyn Luyeye-Lutumba",
+        "team": "KuPS",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (8 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "14/09/2025 15:00:00",
+            "goals": 1,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "10/09/2025 19:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "28/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Kasper Paananen",
+        "team": "SJK",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (29 cette saison)",
+        "recentMatches": [
+          {
+            "date": "13/09/2025 18:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "25/08/2025 17:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "18/08/2025 18:00:00",
+            "goals": 2,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "10/08/2025 17:30:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Babacar Fati",
+        "team": "SJK",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 cette saison)",
+        "recentMatches": [
+          {
+            "date": "13/09/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "25/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 2,
+            "played": true
+          },
+          {
+            "date": "18/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "10/08/2025 17:30:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14600181,
+    "date": "23/09/2025 18:00",
+    "league": "Veikkausliiga, Championship Round",
+    "season": 2025,
+    "homeTeam": "Inter Turku",
+    "awayTeam": "HJK",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 74,
+    "awayMatchesUsed": 91,
+    "homeGoalsFor": 167,
+    "homeGoalsAgainst": 97,
+    "awayGoalsFor": 184,
+    "awayGoalsAgainst": 134,
+    "homeProb": 0.47,
+    "drawProb": 0.21,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 2.143065043065043,
+    "expectedAwayGoals": 1.7375111375111374,
+    "scoreScenarios": [
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "1-2",
+        "prob": 0.07
+      },
+      {
+        "score": "2-1",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Christian Ouguehi Legbo",
+        "team": "Inter Turku",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (14 cette saison)",
+        "recentMatches": [
+          {
+            "date": "13/09/2025 16:00:00",
+            "goals": 1,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "23/08/2025 14:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "17/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "12/04/2025 16:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Antoin Loic Essomba",
+        "team": "Inter Turku",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (8 cette saison)",
+        "recentMatches": [
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "23/08/2025 14:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "17/08/2025 16:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "08/08/2025 17:00:00",
+            "goals": 0,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "04/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Teemu Pukki",
+        "team": "HJK",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (18 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "13/09/2025 18:00:00",
+            "goals": 2,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "31/08/2025 16:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "11/08/2025 18:00:00",
+            "goals": 2,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "04/08/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Alexander Ring",
+        "team": "HJK",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (8 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 17:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "13/09/2025 18:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "24/08/2025 14:00:00",
+            "goals": 3,
+            "assists": 1,
+            "played": true
+          },
+          {
+            "date": "21/08/2025 18:00:00",
+            "goals": 1,
+            "assists": 0,
+            "played": true
+          },
+          {
+            "date": "17/08/2025 14:00:00",
+            "goals": 0,
+            "assists": 0,
+            "played": true
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": 13379066,
     "date": "23/09/2025 11:00",
     "league": "J1 League",
