@@ -223,17 +223,17 @@
     "awayTeam": "FCI Levadia Tallinn",
     "homeSeasonUsed": "ALL",
     "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 82,
-    "awayMatchesUsed": 90,
-    "homeGoalsFor": 173,
-    "homeGoalsAgainst": 95,
-    "awayGoalsFor": 201,
-    "awayGoalsAgainst": 91,
-    "homeProb": 0.4,
+    "homeMatchesUsed": 84,
+    "awayMatchesUsed": 92,
+    "homeGoalsFor": 178,
+    "homeGoalsAgainst": 97,
+    "awayGoalsFor": 203,
+    "awayGoalsAgainst": 96,
+    "homeProb": 0.41,
     "drawProb": 0.22,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.87029810298103,
-    "expectedAwayGoals": 1.8034146341463415,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 1.8888198757763976,
+    "expectedAwayGoals": 1.7858178053830225,
     "scoreScenarios": [
       {
         "score": "2-1",
@@ -255,14 +255,28 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Rauno Sappinen",
+        "player": "Danil Kuraksin",
         "team": "Flora Tallinn",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (17 cette saison)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (17 cette saison)",
         "recentMatches": [
+          {
+            "date": "20/09/2025 16:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
+          {
+            "date": "17/09/2025 18:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
           {
             "date": "13/09/2025 13:30:00",
             "played": true,
-            "goals": 1,
+            "goals": 0,
             "assists": 1,
             "league": "Premium Liiga"
           },
@@ -275,20 +289,6 @@
           },
           {
             "date": "24/08/2025 13:30:00",
-            "played": true,
-            "goals": 0,
-            "assists": 0,
-            "league": "Premium Liiga"
-          },
-          {
-            "date": "20/08/2025 18:00:00",
-            "played": false,
-            "goals": 0,
-            "assists": 0,
-            "league": "Cup"
-          },
-          {
-            "date": "16/08/2025 18:00:00",
             "played": true,
             "goals": 1,
             "assists": 0,
@@ -298,21 +298,35 @@
       },
       {
         "type": "assister",
-        "player": "Nikita Mihhailov",
+        "player": "Danil Kuraksin",
         "team": "Flora Tallinn",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 cette saison)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (6 cette saison)",
         "recentMatches": [
+          {
+            "date": "20/09/2025 16:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
+          {
+            "date": "17/09/2025 18:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
           {
             "date": "13/09/2025 13:30:00",
             "played": true,
-            "goals": 1,
-            "assists": 0,
+            "goals": 0,
+            "assists": 1,
             "league": "Premium Liiga"
           },
           {
             "date": "30/08/2025 16:00:00",
             "played": true,
-            "goals": 0,
+            "goals": 1,
             "assists": 0,
             "league": "Premium Liiga"
           },
@@ -320,21 +334,7 @@
             "date": "24/08/2025 13:30:00",
             "played": true,
             "goals": 1,
-            "assists": 1,
-            "league": "Premium Liiga"
-          },
-          {
-            "date": "20/08/2025 18:00:00",
-            "played": true,
-            "goals": 1,
             "assists": 0,
-            "league": "Cup"
-          },
-          {
-            "date": "16/08/2025 18:00:00",
-            "played": true,
-            "goals": 0,
-            "assists": 1,
             "league": "Premium Liiga"
           }
         ]
@@ -345,8 +345,22 @@
         "type": "scorer",
         "player": "Bubacarr Tambedou",
         "team": "FCI Levadia Tallinn",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (11 cette saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (11 cette saison)",
         "recentMatches": [
+          {
+            "date": "21/09/2025 13:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
+          {
+            "date": "17/09/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
           {
             "date": "13/09/2025 16:00:00",
             "played": true,
@@ -367,29 +381,29 @@
             "goals": 0,
             "assists": 0,
             "league": "Premium Liiga"
-          },
-          {
-            "date": "17/08/2025 18:00:00",
-            "played": true,
-            "goals": 0,
-            "assists": 1,
-            "league": "Premium Liiga"
-          },
-          {
-            "date": "14/08/2025 18:30:00",
-            "played": true,
-            "goals": 1,
-            "assists": 0,
-            "league": "UEFA Conference League, Qualification"
           }
         ]
       },
       {
         "type": "assister",
-        "player": "Bubacarr Tambedou",
+        "player": "Wendell Gabriel",
         "team": "FCI Levadia Tallinn",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 cette saison)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 cette saison)",
         "recentMatches": [
+          {
+            "date": "21/09/2025 13:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "Premium Liiga"
+          },
+          {
+            "date": "17/09/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premium Liiga"
+          },
           {
             "date": "13/09/2025 16:00:00",
             "played": true,
@@ -400,7 +414,7 @@
           {
             "date": "29/08/2025 18:30:00",
             "played": true,
-            "goals": 2,
+            "goals": 0,
             "assists": 0,
             "league": "Premium Liiga"
           },
@@ -410,20 +424,436 @@
             "goals": 0,
             "assists": 0,
             "league": "Premium Liiga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14623675,
+    "date": "24/09/2025 18:00",
+    "league": "A Lyga",
+    "season": 2025,
+    "homeTeam": "FK Kauno Žalgiris",
+    "awayTeam": "FK Sūduva Marijampolė",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 84,
+    "awayMatchesUsed": 80,
+    "homeGoalsFor": 141,
+    "homeGoalsAgainst": 75,
+    "awayGoalsFor": 109,
+    "awayGoalsAgainst": 90,
+    "homeProb": 0.49,
+    "drawProb": 0.24,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.6571428571428573,
+    "expectedAwayGoals": 1.174642857142857,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-0",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.6,
+    "under25Prob": 0.4,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Dejan Georgijević",
+        "team": "FK Kauno Žalgiris",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (15 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 16:00:00",
+            "played": true,
+            "goals": 1,
+            "assists": 1,
+            "league": "A Lyga"
           },
           {
-            "date": "17/08/2025 18:00:00",
+            "date": "14/09/2025 15:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "30/08/2025 16:00:00",
             "played": true,
             "goals": 0,
-            "assists": 1,
-            "league": "Premium Liiga"
+            "assists": 0,
+            "league": "A Lyga"
           },
           {
-            "date": "14/08/2025 18:30:00",
+            "date": "27/08/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "24/08/2025 17:25:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Amine Benchaib",
+        "team": "FK Kauno Žalgiris",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (6 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 16:00:00",
+            "played": false,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "14/09/2025 15:00:00",
+            "played": true,
+            "goals": 1,
+            "assists": 1,
+            "league": "A Lyga"
+          },
+          {
+            "date": "30/08/2025 16:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "27/08/2025 18:00:00",
             "played": true,
             "goals": 1,
             "assists": 0,
-            "league": "UEFA Conference League, Qualification"
+            "league": "A Lyga"
+          },
+          {
+            "date": "24/08/2025 17:25:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Nauris Petkevičius",
+        "team": "FK Sūduva Marijampolė",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (9 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 17:25:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "16/09/2025 17:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "LFF Cup"
+          },
+          {
+            "date": "12/09/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "30/08/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "A Lyga"
+          },
+          {
+            "date": "25/08/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "A Lyga"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Nauris Petkevičius",
+        "team": "FK Sūduva Marijampolė",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (6 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 17:25:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "16/09/2025 17:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "LFF Cup"
+          },
+          {
+            "date": "12/09/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "A Lyga"
+          },
+          {
+            "date": "30/08/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "A Lyga"
+          },
+          {
+            "date": "25/08/2025 18:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "A Lyga"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14572714,
+    "date": "24/09/2025 18:45",
+    "league": "UEFA Europa League",
+    "season": 2026,
+    "homeTeam": "PAOK",
+    "awayTeam": "Maccabi Tel Aviv",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 65,
+    "awayMatchesUsed": 71,
+    "homeGoalsFor": 122,
+    "homeGoalsAgainst": 76,
+    "awayGoalsFor": 163,
+    "awayGoalsAgainst": 78,
+    "homeProb": 0.37,
+    "drawProb": 0.22,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 1.7655904658721562,
+    "expectedAwayGoals": 1.845157096424702,
+    "scoreScenarios": [
+      {
+        "score": "1-2",
+        "prob": 0.09
+      },
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.69,
+    "under25Prob": 0.31,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Dimitrios Pelkas",
+        "team": "PAOK",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "17/09/2025 16:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Greece Cup, Main Round"
+          },
+          {
+            "date": "14/09/2025 20:30:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "31/08/2025 20:00:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "28/08/2025 19:30:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "UEFA Europa League, Playoff Round"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Magomed Ozdoev",
+        "team": "PAOK",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (4 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "17/09/2025 16:30:00",
+            "played": false,
+            "goals": 0,
+            "assists": 0,
+            "league": "Greece Cup, Main Round"
+          },
+          {
+            "date": "14/09/2025 20:30:00",
+            "played": true,
+            "goals": 1,
+            "assists": 1,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "31/08/2025 20:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "Stoiximan Super League"
+          },
+          {
+            "date": "28/08/2025 19:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Europa League, Playoff Round"
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Dor Peretz",
+        "team": "Maccabi Tel Aviv",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (26 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premier League"
+          },
+          {
+            "date": "16/09/2025 18:30:00",
+            "played": true,
+            "goals": 2,
+            "assists": 1,
+            "league": "Premier League"
+          },
+          {
+            "date": "13/09/2025 19:00:00",
+            "played": true,
+            "goals": 1,
+            "assists": 0,
+            "league": "Premier League"
+          },
+          {
+            "date": "31/08/2025 19:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Premier League"
+          },
+          {
+            "date": "28/08/2025 20:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Europa League, Playoff Round"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Sagiv Jehezkel",
+        "team": "Maccabi Tel Aviv",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (6 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Premier League"
+          },
+          {
+            "date": "16/09/2025 18:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "Premier League"
+          },
+          {
+            "date": "13/09/2025 19:00:00",
+            "played": true,
+            "goals": 1,
+            "assists": 1,
+            "league": "Premier League"
+          },
+          {
+            "date": "31/08/2025 19:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 1,
+            "league": "Premier League"
+          },
+          {
+            "date": "28/08/2025 20:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Europa League, Playoff Round"
           }
         ]
       }
@@ -2795,6 +3225,221 @@
     ]
   },
   {
+    "matchId": 14572707,
+    "date": "24/09/2025 21:00",
+    "league": "UEFA Europa League",
+    "season": 2026,
+    "homeTeam": "FK Crvena zvezda",
+    "awayTeam": "Celtic",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 77,
+    "awayMatchesUsed": 48,
+    "homeGoalsFor": 238,
+    "homeGoalsAgainst": 92,
+    "awayGoalsFor": 127,
+    "awayGoalsAgainst": 53,
+    "homeProb": 0.48,
+    "drawProb": 0.19,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 2.4962121212121215,
+    "expectedAwayGoals": 2.065422077922078,
+    "scoreScenarios": [
+      {
+        "score": "2-2",
+        "prob": 0.06
+      },
+      {
+        "score": "3-2",
+        "prob": 0.06
+      },
+      {
+        "score": "2-1",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.87,
+    "under15Prob": 0.13,
+    "over25Prob": 0.79,
+    "under25Prob": 0.21,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Aleksandar Katai",
+        "team": "FK Crvena zvezda",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (36 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "14/09/2025 17:00:00",
+            "played": true,
+            "goals": 3,
+            "assists": 0,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "31/08/2025 19:30:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "26/08/2025 21:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          },
+          {
+            "date": "19/08/2025 21:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Marko Arnautović",
+        "team": "FK Crvena zvezda",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 cette saison)",
+        "recentMatches": [
+          {
+            "date": "20/09/2025 19:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "14/09/2025 17:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 2,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "31/08/2025 19:30:00",
+            "played": true,
+            "goals": 1,
+            "assists": 1,
+            "league": "Mozzart Bet Superliga"
+          },
+          {
+            "date": "26/08/2025 21:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          },
+          {
+            "date": "19/08/2025 21:00:00",
+            "played": false,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Benjamin Nygren",
+        "team": "Celtic",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 16:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 2,
+            "league": "Scottish League Cup"
+          },
+          {
+            "date": "14/09/2025 16:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          },
+          {
+            "date": "31/08/2025 13:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          },
+          {
+            "date": "26/08/2025 18:45:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          },
+          {
+            "date": "23/08/2025 16:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          }
+        ]
+      },
+      {
+        "type": "assister",
+        "player": "Benjamin Nygren",
+        "team": "Celtic",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (3 cette saison)",
+        "recentMatches": [
+          {
+            "date": "21/09/2025 16:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 2,
+            "league": "Scottish League Cup"
+          },
+          {
+            "date": "14/09/2025 16:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          },
+          {
+            "date": "31/08/2025 13:00:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          },
+          {
+            "date": "26/08/2025 18:45:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "UEFA Champions League, Playoff Round"
+          },
+          {
+            "date": "23/08/2025 16:00:00",
+            "played": true,
+            "goals": 2,
+            "assists": 0,
+            "league": "Scottish Premiership"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": 14572770,
     "date": "24/09/2025 21:00",
     "league": "UEFA Europa League",
@@ -3234,16 +3879,16 @@
     "homeSeasonUsed": "ALL",
     "awaySeasonUsed": "ALL",
     "homeMatchesUsed": 46,
-    "awayMatchesUsed": 81,
+    "awayMatchesUsed": 82,
     "homeGoalsFor": 83,
     "homeGoalsAgainst": 52,
     "awayGoalsFor": 139,
     "awayGoalsAgainst": 74,
     "homeProb": 0.42,
     "drawProb": 0.24,
-    "awayProb": 0.35,
-    "expectedHomeGoals": 1.648040794417606,
-    "expectedAwayGoals": 1.481803542673108,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.6435843054082717,
+    "expectedAwayGoals": 1.4692470837751856,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -3358,6 +4003,13 @@
         "description": "a marqué 2 buts sur les 5 derniers matchs (14 cette saison)",
         "recentMatches": [
           {
+            "date": "19/09/2025 19:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Parva Liga"
+          },
+          {
             "date": "14/09/2025 17:00:00",
             "played": true,
             "goals": 0,
@@ -3384,13 +4036,6 @@
             "goals": 0,
             "assists": 0,
             "league": "UEFA Europa League, Playoff Round"
-          },
-          {
-            "date": "17/08/2025 18:00:00",
-            "played": true,
-            "goals": 0,
-            "assists": 0,
-            "league": "Parva Liga"
           }
         ]
       },
@@ -3400,6 +4045,13 @@
         "team": "Ludogorets",
         "description": "a délivré 2 assists sur les 5 derniers matchs (6 cette saison)",
         "recentMatches": [
+          {
+            "date": "19/09/2025 19:30:00",
+            "played": true,
+            "goals": 0,
+            "assists": 0,
+            "league": "Parva Liga"
+          },
           {
             "date": "14/09/2025 17:00:00",
             "played": true,
@@ -3427,13 +4079,6 @@
             "goals": 0,
             "assists": 0,
             "league": "UEFA Europa League, Playoff Round"
-          },
-          {
-            "date": "17/08/2025 18:00:00",
-            "played": false,
-            "goals": 0,
-            "assists": 0,
-            "league": "Parva Liga"
           }
         ]
       }
