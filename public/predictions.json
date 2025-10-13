@@ -1,5 +1,170 @@
 [
   {
+    "matchId": 14069532,
+    "date": "13/10/2025 23:30",
+    "league": "Liga Profesional, Clausura",
+    "season": 2025,
+    "homeTeam": "Platense",
+    "awayTeam": "Deportivo Riestra",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 75,
+    "awayMatchesUsed": 74,
+    "homeGoalsFor": 74,
+    "homeGoalsAgainst": 73,
+    "awayGoalsFor": 77,
+    "awayGoalsAgainst": 73,
+    "homeProb": 0.4,
+    "drawProb": 0.29,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.1865945945945948,
+    "expectedAwayGoals": 1.0136576576576577,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "1-0",
+        "prob": 0.12
+      },
+      {
+        "score": "0-1",
+        "prob": 0.11
+      }
+    ],
+    "over15Prob": 0.67,
+    "under15Prob": 0.33,
+    "over25Prob": 0.4,
+    "under25Prob": 0.6,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Ronaldo Martinez",
+        "team": "Platense",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (13 depuis 2024-01-27)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Ronaldo Martinez",
+        "team": "Platense",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2024-01-27)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 1
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Antony Alonso",
+        "team": "Deportivo Riestra",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis 2024-07-19)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Pablo Monje",
+        "team": "Deportivo Riestra",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (6 depuis 2024-01-31)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Antony Alonso",
+          "Pablo Monje"
+        ],
+        "team": "Deportivo Riestra",
+        "description": "Double chance buteur : Antony Alonso (2) ou Pablo Monje (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14115376,
+    "date": "14/10/2025 00:15",
+    "league": "Primera A, Clausura",
+    "season": 2025,
+    "homeTeam": "Once Caldas",
+    "awayTeam": "Independiente Medellín",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 118,
+    "awayMatchesUsed": 102,
+    "homeGoalsFor": 147,
+    "homeGoalsAgainst": 114,
+    "awayGoalsFor": 156,
+    "awayGoalsAgainst": 112,
+    "homeProb": 0.39,
+    "drawProb": 0.26,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 1.3866733133931541,
+    "expectedAwayGoals": 1.304087736789631,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.11
+      },
+      {
+        "score": "1-2",
+        "prob": 0.09
+      },
+      {
+        "score": "0-1",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.78,
+    "under15Prob": 0.22,
+    "over25Prob": 0.55,
+    "under25Prob": 0.45,
+    "homeSpots": [
+      {
+        "type": "assister",
+        "player": "Luis Gómez",
+        "team": "Once Caldas",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (6 depuis 2025-07-17)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Francisco Fydriszewski",
+        "team": "Independiente Medellín",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (14 depuis 2025-01-27)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
     "matchId": 14200677,
     "date": "14/10/2025 01:00",
     "league": "NHL",
@@ -804,6 +969,88 @@
     ]
   },
   {
+    "matchId": 14115382,
+    "date": "14/10/2025 02:30",
+    "league": "Primera A, Clausura",
+    "season": 2025,
+    "homeTeam": "Fortaleza CEIF",
+    "awayTeam": "Boyacá Chicó FC",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 84,
+    "awayMatchesUsed": 80,
+    "homeGoalsFor": 90,
+    "homeGoalsAgainst": 89,
+    "awayGoalsFor": 71,
+    "awayGoalsAgainst": 140,
+    "homeProb": 0.51,
+    "drawProb": 0.26,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.5428571428571431,
+    "expectedAwayGoals": 0.9563095238095238,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.15
+      },
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "2-0",
+        "prob": 0.11
+      }
+    ],
+    "over15Prob": 0.66,
+    "under15Prob": 0.34,
+    "over25Prob": 0.4,
+    "under25Prob": 0.6,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Sebastián Valencia",
+        "team": "Fortaleza CEIF",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis 2025-07-12)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Johan Bocanegra",
+        "team": "Boyacá Chicó FC",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis 2025-07-12)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Johan Bocanegra",
+          "Jairo Molina"
+        ],
+        "team": "Boyacá Chicó FC",
+        "description": "Double chance buteur : Johan Bocanegra (3) ou Jairo Molina (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": 14200682,
     "date": "14/10/2025 02:30",
     "league": "NHL",
@@ -1003,6 +1250,1422 @@
         ]
       }
     ]
+  },
+  {
+    "matchId": 14561709,
+    "date": "14/10/2025 12:30",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Japan",
+    "awayTeam": "Brazil",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 20,
+    "awayMatchesUsed": 27,
+    "homeGoalsFor": 55,
+    "homeGoalsAgainst": 8,
+    "awayGoalsFor": 44,
+    "awayGoalsAgainst": 29,
+    "homeProb": 0.63,
+    "drawProb": 0.19,
+    "awayProb": 0.18,
+    "expectedHomeGoals": 2.2796296296296297,
+    "expectedAwayGoals": 1.1377777777777776,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-1",
+        "prob": 0.09
+      },
+      {
+        "score": "2-0",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.62,
+    "under25Prob": 0.38,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Koki Ogawa",
+        "team": "Japan",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (7 depuis 2024-03-21)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Junya Ito",
+        "team": "Japan",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis 2024-09-05)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Koki Ogawa",
+          "Junya Ito"
+        ],
+        "team": "Japan",
+        "description": "Double chance buteur : Koki Ogawa (1) ou Junya Ito (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Vinícius Júnior",
+        "team": "Brazil",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2023-10-13)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Vinícius Júnior",
+        "team": "Brazil",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis 2023-10-13)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14849701,
+    "date": "14/10/2025 13:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "South Korea",
+    "awayTeam": "Paraguay",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 20,
+    "awayMatchesUsed": 25,
+    "homeGoalsFor": 41,
+    "homeGoalsAgainst": 16,
+    "awayGoalsFor": 20,
+    "awayGoalsAgainst": 23,
+    "homeProb": 0.61,
+    "drawProb": 0.23,
+    "awayProb": 0.16,
+    "expectedHomeGoals": 1.798,
+    "expectedAwayGoals": 0.8,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.13
+      },
+      {
+        "score": "2-0",
+        "prob": 0.11
+      },
+      {
+        "score": "1-1",
+        "prob": 0.11
+      }
+    ],
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.48,
+    "under25Prob": 0.52,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Heung-min Son",
+        "team": "South Korea",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis 2024-03-21)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Heung-min Son",
+        "team": "South Korea",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2024-03-21)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Heung-min Son",
+          "Hyun-gyu Oh"
+        ],
+        "team": "South Korea",
+        "description": "Double chance buteur : Heung-min Son (2) ou Hyun-gyu Oh (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 12183388,
+    "date": "14/10/2025 15:00",
+    "league": "FIFA World Cup, Qualification CAF, Group F",
+    "season": 2025,
+    "homeTeam": "Seychelles",
+    "awayTeam": "Gambia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 12,
+    "awayMatchesUsed": 16,
+    "homeGoalsFor": 6,
+    "homeGoalsAgainst": 53,
+    "awayGoalsFor": 27,
+    "awayGoalsAgainst": 24,
+    "homeProb": 0.13,
+    "drawProb": 0.16,
+    "awayProb": 0.72,
+    "expectedHomeGoals": 1.1000000000000003,
+    "expectedAwayGoals": 2.779166666666667,
+    "scoreScenarios": [
+      {
+        "score": "0-2",
+        "prob": 0.11
+      },
+      {
+        "score": "1-2",
+        "prob": 0.1
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.59,
+    "under25Prob": 0.41,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Yankuba Minteh",
+        "team": "Gambia",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis 2024-06-08)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Musa Barrow",
+        "team": "Gambia",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis 2024-06-08)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Yankuba Minteh",
+          "Musa Barrow"
+        ],
+        "team": "Gambia",
+        "description": "Double chance buteur : Yankuba Minteh (2) ou Musa Barrow (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Yankuba Minteh",
+          "Musa Barrow",
+          "Adama Sidibeh"
+        ],
+        "team": "Gambia",
+        "description": "Triple chance buteur : Yankuba Minteh (2), Musa Barrow (1), Adama Sidibeh (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 12183391,
+    "date": "14/10/2025 18:00",
+    "league": "FIFA World Cup, Qualification CAF, Group C",
+    "season": 2025,
+    "homeTeam": "South Africa",
+    "awayTeam": "Rwanda",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 30,
+    "awayMatchesUsed": 22,
+    "homeGoalsFor": 50,
+    "homeGoalsAgainst": 24,
+    "awayGoalsFor": 19,
+    "awayGoalsAgainst": 21,
+    "homeProb": 0.55,
+    "drawProb": 0.25,
+    "awayProb": 0.2,
+    "expectedHomeGoals": 1.581818181818182,
+    "expectedAwayGoals": 0.8381818181818183,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.15
+      },
+      {
+        "score": "2-0",
+        "prob": 0.13
+      },
+      {
+        "score": "1-1",
+        "prob": 0.11
+      }
+    ],
+    "over15Prob": 0.69,
+    "under15Prob": 0.31,
+    "over25Prob": 0.43,
+    "under25Prob": 0.57,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 12183394,
+    "date": "14/10/2025 18:00",
+    "league": "FIFA World Cup, Qualification CAF, Group C",
+    "season": 2025,
+    "homeTeam": "Nigeria",
+    "awayTeam": "Benin",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 23,
+    "awayMatchesUsed": 19,
+    "homeGoalsFor": 35,
+    "homeGoalsAgainst": 26,
+    "awayGoalsFor": 21,
+    "awayGoalsAgainst": 20,
+    "homeProb": 0.47,
+    "drawProb": 0.25,
+    "awayProb": 0.28,
+    "expectedHomeGoals": 1.5340961098398171,
+    "expectedAwayGoals": 1.1153318077803205,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.13
+      },
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.7,
+    "under15Prob": 0.3,
+    "over25Prob": 0.44,
+    "under25Prob": 0.56,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Steve Mounié",
+        "team": "Benin",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis 2023-11-18)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Steve Mounié",
+        "team": "Benin",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2023-11-18)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13233644,
+    "date": "14/10/2025 18:00",
+    "league": "World Cup Qual. UEFA I",
+    "season": 2026,
+    "homeTeam": "Estonia",
+    "awayTeam": "Moldova",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 21,
+    "awayMatchesUsed": 7,
+    "homeGoalsFor": 21,
+    "homeGoalsAgainst": 47,
+    "awayGoalsFor": 4,
+    "awayGoalsAgainst": 29,
+    "homeProb": 0.64,
+    "drawProb": 0.18,
+    "awayProb": 0.18,
+    "expectedHomeGoals": 2.4571428571428577,
+    "expectedAwayGoals": 1.2380952380952381,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.54,
+    "under25Prob": 0.46,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 14605774,
+    "date": "14/10/2025 18:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Norway",
+    "awayTeam": "New Zealand",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 19,
+    "homeGoalsFor": 45,
+    "homeGoalsAgainst": 10,
+    "awayGoalsFor": 54,
+    "awayGoalsAgainst": 17,
+    "homeProb": 0.51,
+    "drawProb": 0.19,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 2.6348178137651823,
+    "expectedAwayGoals": 2.0129554655870443,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "3-1",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Chris Wood",
+        "team": "New Zealand",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis 2024-09-08)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14722518,
+    "date": "14/10/2025 19:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Albania",
+    "awayTeam": "Jordan",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 22,
+    "homeGoalsFor": 11,
+    "homeGoalsAgainst": 9,
+    "awayGoalsFor": 37,
+    "awayGoalsAgainst": 14,
+    "homeProb": 0.28,
+    "drawProb": 0.28,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 0.9622377622377623,
+    "expectedAwayGoals": 1.286013986013986,
+    "scoreScenarios": [
+      {
+        "score": "0-1",
+        "prob": 0.14
+      },
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-0",
+        "prob": 0.12
+      }
+    ],
+    "over15Prob": 0.62,
+    "under15Prob": 0.38,
+    "over25Prob": 0.35,
+    "under25Prob": 0.65,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Ali Olwan",
+        "team": "Jordan",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (12 depuis 2024-03-21)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Yazan Al-Naimat",
+        "team": "Jordan",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis 2024-03-21)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Ali Olwan",
+          "Yazan Al-Naimat"
+        ],
+        "team": "Jordan",
+        "description": "Double chance buteur : Ali Olwan (4) ou Yazan Al-Naimat (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 13233639,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA E",
+    "season": 2026,
+    "homeTeam": "Türkiye",
+    "awayTeam": "Georgia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 260,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 429,
+    "homeGoalsAgainst": 294,
+    "awayGoalsFor": 23,
+    "awayGoalsAgainst": 13,
+    "homeProb": 0.4,
+    "drawProb": 0.24,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.59,
+    "expectedAwayGoals": 1.5138461538461538,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.67,
+    "under25Prob": 0.33,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Kerem Aktürkoğlu",
+        "team": "Türkiye",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (14 depuis 2021-05-27)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Arda Güler",
+        "team": "Türkiye",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (6 depuis 2022-11-16)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Kerem Aktürkoğlu",
+          "Arda Güler"
+        ],
+        "team": "Türkiye",
+        "description": "Double chance buteur : Kerem Aktürkoğlu (3) ou Arda Güler (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233640,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA E",
+    "season": 2026,
+    "homeTeam": "Spain",
+    "awayTeam": "Bulgaria",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 347,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 815,
+    "homeGoalsAgainst": 335,
+    "awayGoalsFor": 8,
+    "awayGoalsAgainst": 28,
+    "homeProb": 0.75,
+    "drawProb": 0.16,
+    "awayProb": 0.1,
+    "expectedHomeGoals": 2.470760363555753,
+    "expectedAwayGoals": 0.7553979162048327,
+    "scoreScenarios": [
+      {
+        "score": "2-0",
+        "prob": 0.11
+      },
+      {
+        "score": "3-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.63,
+    "under25Prob": 0.37,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Mikel Merino",
+        "team": "Spain",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (8 depuis 2020-09-03)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (10 depuis 2016-05-29)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 5
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Mikel Merino",
+          "Mikel Oyarzabal"
+        ],
+        "team": "Spain",
+        "description": "Double chance buteur : Mikel Merino (5) ou Mikel Oyarzabal (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 5
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Mikel Merino",
+          "Mikel Oyarzabal",
+          "Pedri"
+        ],
+        "team": "Spain",
+        "description": "Triple chance buteur : Mikel Merino (5), Mikel Oyarzabal (3), Pedri (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 5
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233641,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA F",
+    "season": 2026,
+    "homeTeam": "Ireland",
+    "awayTeam": "Armenia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 11,
+    "homeGoalsAgainst": 20,
+    "awayGoalsFor": 15,
+    "awayGoalsAgainst": 33,
+    "homeProb": 0.47,
+    "drawProb": 0.24,
+    "awayProb": 0.29,
+    "expectedHomeGoals": 1.7230769230769232,
+    "expectedAwayGoals": 1.3076923076923075,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233642,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA F",
+    "season": 2026,
+    "homeTeam": "Portugal",
+    "awayTeam": "Hungary",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 36,
+    "homeGoalsAgainst": 16,
+    "awayGoalsFor": 13,
+    "awayGoalsAgainst": 25,
+    "homeProb": 0.7,
+    "drawProb": 0.17,
+    "awayProb": 0.14,
+    "expectedHomeGoals": 2.6307692307692307,
+    "expectedAwayGoals": 1.0923076923076924,
+    "scoreScenarios": [
+      {
+        "score": "3-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-1",
+        "prob": 0.08
+      },
+      {
+        "score": "3-0",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.7,
+    "under25Prob": 0.3,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233645,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA I",
+    "season": 2026,
+    "homeTeam": "Italy",
+    "awayTeam": "Israel",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 32,
+    "homeGoalsAgainst": 21,
+    "awayGoalsFor": 21,
+    "awayGoalsAgainst": 29,
+    "homeProb": 0.58,
+    "drawProb": 0.19,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 2.5692307692307694,
+    "expectedAwayGoals": 1.6153846153846154,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "3-1",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "homeSpots": [
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Gianluigi Donnarumma",
+          "Giovanni Di Lorenzo",
+          "Alessandro Bastoni"
+        ],
+        "team": "Italy",
+        "description": "Triple chance buteur : Gianluigi Donnarumma (0), Giovanni Di Lorenzo (0), Alessandro Bastoni (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233646,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA K",
+    "season": 2026,
+    "homeTeam": "Andorra",
+    "awayTeam": "Serbia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 27,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 8,
+    "homeGoalsAgainst": 46,
+    "awayGoalsFor": 10,
+    "awayGoalsAgainst": 13,
+    "homeProb": 0.25,
+    "drawProb": 0.31,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 0.7777777777777777,
+    "expectedAwayGoals": 1.1430199430199433,
+    "scoreScenarios": [
+      {
+        "score": "0-1",
+        "prob": 0.21
+      },
+      {
+        "score": "0-0",
+        "prob": 0.17
+      },
+      {
+        "score": "0-2",
+        "prob": 0.13
+      }
+    ],
+    "over15Prob": 0.53,
+    "under15Prob": 0.47,
+    "over25Prob": 0.26,
+    "under25Prob": 0.74,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13233647,
+    "date": "14/10/2025 20:45",
+    "league": "World Cup Qual. UEFA K",
+    "season": 2026,
+    "homeTeam": "Latvia",
+    "awayTeam": "England",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 13,
+    "homeGoalsFor": 8,
+    "homeGoalsAgainst": 19,
+    "awayGoalsFor": 33,
+    "awayGoalsAgainst": 6,
+    "homeProb": 0.12,
+    "drawProb": 0.19,
+    "awayProb": 0.69,
+    "expectedHomeGoals": 0.7538461538461538,
+    "expectedAwayGoals": 2.1076923076923078,
+    "scoreScenarios": [
+      {
+        "score": "0-2",
+        "prob": 0.14
+      },
+      {
+        "score": "0-1",
+        "prob": 0.14
+      },
+      {
+        "score": "1-2",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.73,
+    "under15Prob": 0.27,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jordan Pickford",
+          "Ezri Konsa"
+        ],
+        "team": "England",
+        "description": "Double chance buteur : Jordan Pickford (0) ou Ezri Konsa (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jordan Pickford",
+          "Ezri Konsa",
+          "Marc Guéhi"
+        ],
+        "team": "England",
+        "description": "Triple chance buteur : Jordan Pickford (0), Ezri Konsa (1), Marc Guéhi (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 12183365,
+    "date": "14/10/2025 21:00",
+    "league": "FIFA World Cup, Qualification CAF, Group B",
+    "season": 2025,
+    "homeTeam": "Senegal",
+    "awayTeam": "Mauritania",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 29,
+    "awayMatchesUsed": 23,
+    "homeGoalsFor": 51,
+    "homeGoalsAgainst": 21,
+    "awayGoalsFor": 11,
+    "awayGoalsAgainst": 18,
+    "homeProb": 0.62,
+    "drawProb": 0.25,
+    "awayProb": 0.13,
+    "expectedHomeGoals": 1.568215892053973,
+    "expectedAwayGoals": 0.5766116941529236,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.14
+      },
+      {
+        "score": "2-0",
+        "prob": 0.13
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.46,
+    "under25Prob": 0.54,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 12183382,
+    "date": "14/10/2025 21:00",
+    "league": "FIFA World Cup, Qualification CAF, Group F",
+    "season": 2025,
+    "homeTeam": "Gabon",
+    "awayTeam": "Burundi",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 19,
+    "awayMatchesUsed": 22,
+    "homeGoalsFor": 33,
+    "homeGoalsAgainst": 26,
+    "awayGoalsFor": 18,
+    "awayGoalsAgainst": 29,
+    "homeProb": 0.54,
+    "drawProb": 0.23,
+    "awayProb": 0.22,
+    "expectedHomeGoals": 1.769377990430622,
+    "expectedAwayGoals": 1.0382775119617225,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-0",
+        "prob": 0.1
+      },
+      {
+        "score": "1-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.54,
+    "under25Prob": 0.46,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Pierre-Emerick Aubameyang",
+        "team": "Gabon",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (9 depuis 2024-06-07)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Guélor Kanga",
+        "team": "Gabon",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis 2023-11-16)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Pierre-Emerick Aubameyang",
+          "Denis Bouanga"
+        ],
+        "team": "Gabon",
+        "description": "Double chance buteur : Pierre-Emerick Aubameyang (4) ou Denis Bouanga (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Pierre-Emerick Aubameyang",
+          "Denis Bouanga",
+          "Guélor Kanga"
+        ],
+        "team": "Gabon",
+        "description": "Triple chance buteur : Pierre-Emerick Aubameyang (4), Denis Bouanga (3), Guélor Kanga (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 12183387,
+    "date": "14/10/2025 21:00",
+    "league": "FIFA World Cup, Qualification CAF, Group F",
+    "season": 2025,
+    "homeTeam": "Côte d'Ivoire",
+    "awayTeam": "Kenya",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 19,
+    "awayMatchesUsed": 30,
+    "homeGoalsFor": 38,
+    "homeGoalsAgainst": 12,
+    "awayGoalsFor": 45,
+    "awayGoalsAgainst": 31,
+    "homeProb": 0.53,
+    "drawProb": 0.23,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.8133333333333335,
+    "expectedAwayGoals": 1.1526315789473682,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-0",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.61,
+    "under25Prob": 0.39,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Simon Adingra",
+        "team": "Côte d'Ivoire",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (2 depuis 2024-03-23)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Simon Adingra",
+        "team": "Côte d'Ivoire",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis 2024-03-23)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 2
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Ryan Ogam",
+        "team": "Kenya",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (6 depuis 2025-08-03)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Michael Olunga",
+        "team": "Kenya",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2023-11-16)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Ryan Ogam",
+          "Michael Olunga"
+        ],
+        "team": "Kenya",
+        "description": "Double chance buteur : Ryan Ogam (5) ou Michael Olunga (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 12183389,
+    "date": "14/10/2025 21:00",
+    "league": "FIFA World Cup, Qualification CAF, Group E",
+    "season": 2025,
+    "homeTeam": "Morocco",
+    "awayTeam": "Congo Republic",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 24,
+    "awayMatchesUsed": 19,
+    "homeGoalsFor": 68,
+    "homeGoalsAgainst": 13,
+    "awayGoalsFor": 13,
+    "awayGoalsAgainst": 41,
+    "homeProb": 0.81,
+    "drawProb": 0.13,
+    "awayProb": 0.06,
+    "expectedHomeGoals": 2.7631578947368425,
+    "expectedAwayGoals": 0.6271929824561404,
+    "scoreScenarios": [
+      {
+        "score": "2-0",
+        "prob": 0.13
+      },
+      {
+        "score": "3-0",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.59,
+    "under25Prob": 0.41,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Ismael Saibari",
+        "team": "Morocco",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2024-06-07)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Achraf Hakimi",
+        "team": "Morocco",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis 2024-03-22)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Ismael Saibari",
+          "Achraf Hakimi"
+        ],
+        "team": "Morocco",
+        "description": "Double chance buteur : Ismael Saibari (2) ou Achraf Hakimi (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": []
+  },
+  {
+    "matchId": 12183396,
+    "date": "14/10/2025 21:00",
+    "league": "FIFA World Cup, Qualification CAF, Group B",
+    "season": 2025,
+    "homeTeam": "DR Congo",
+    "awayTeam": "Sudan",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 21,
+    "awayMatchesUsed": 27,
+    "homeGoalsFor": 32,
+    "homeGoalsAgainst": 15,
+    "awayGoalsFor": 36,
+    "awayGoalsAgainst": 34,
+    "homeProb": 0.5,
+    "drawProb": 0.25,
+    "awayProb": 0.26,
+    "expectedHomeGoals": 1.617989417989418,
+    "expectedAwayGoals": 1.0857142857142856,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.57,
+    "under25Prob": 0.43,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Cédric Bakambu",
+        "team": "DR Congo",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (4 depuis 2025-03-21)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Cédric Bakambu",
+        "team": "DR Congo",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2025-03-21)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      }
+    ],
+    "awaySpots": []
   },
   {
     "matchId": 14200683,
@@ -1809,6 +3472,426 @@
     ]
   },
   {
+    "matchId": 14784775,
+    "date": "15/10/2025 02:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Canada",
+    "awayTeam": "Colombia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 27,
+    "awayMatchesUsed": 23,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 43,
+    "awayGoalsFor": 50,
+    "awayGoalsAgainst": 21,
+    "homeProb": 0.36,
+    "drawProb": 0.22,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 1.7652173913043478,
+    "expectedAwayGoals": 1.9413848631239934,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.08
+      },
+      {
+        "score": "1-1",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.87,
+    "under15Prob": 0.13,
+    "over25Prob": 0.73,
+    "under25Prob": 0.27,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Jonathan David",
+        "team": "Canada",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (12 depuis 2023-11-18)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Luis Díaz",
+        "team": "Colombia",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis 2024-03-22)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 3
+        }
+      },
+      {
+        "type": "assister",
+        "player": "James Rodríguez",
+        "team": "Colombia",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (13 depuis 2024-03-22)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Luis Díaz",
+          "Luis Javier Suárez"
+        ],
+        "team": "Colombia",
+        "description": "Double chance buteur : Luis Díaz (3) ou Luis Javier Suárez (4) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 4,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Luis Díaz",
+          "Luis Javier Suárez",
+          "James Rodríguez"
+        ],
+        "team": "Colombia",
+        "description": "Triple chance buteur : Luis Díaz (3), Luis Javier Suárez (4), James Rodríguez (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14787861,
+    "date": "15/10/2025 02:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Puerto Rico",
+    "awayTeam": "Argentina",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 19,
+    "awayMatchesUsed": 29,
+    "homeGoalsFor": 46,
+    "homeGoalsAgainst": 29,
+    "awayGoalsFor": 56,
+    "awayGoalsAgainst": 15,
+    "homeProb": 0.41,
+    "drawProb": 0.22,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 1.8595281306715064,
+    "expectedAwayGoals": 1.7691470054446463,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-2",
+        "prob": 0.08
+      },
+      {
+        "score": "2-1",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.66,
+    "under25Prob": 0.34,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Lautaro Martínez",
+        "team": "Argentina",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (12 depuis 2023-09-08)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Lautaro Martínez",
+        "team": "Argentina",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis 2023-09-08)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14115383,
+    "date": "15/10/2025 02:30",
+    "league": "Primera A, Clausura",
+    "season": 2025,
+    "homeTeam": "Atlético Nacional",
+    "awayTeam": "Deportivo Cali",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 115,
+    "awayMatchesUsed": 82,
+    "homeGoalsFor": 177,
+    "homeGoalsAgainst": 114,
+    "awayGoalsFor": 86,
+    "awayGoalsAgainst": 103,
+    "homeProb": 0.51,
+    "drawProb": 0.25,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.6259172852598094,
+    "expectedAwayGoals": 1.0257900318133617,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.51,
+    "under25Prob": 0.49,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Alfredo Morelos",
+        "team": "Atlético Nacional",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (29 depuis 2024-07-25)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Alfredo Morelos",
+        "team": "Atlético Nacional",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (13 depuis 2024-07-25)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Alfredo Morelos",
+          "Edwin Cardona"
+        ],
+        "team": "Atlético Nacional",
+        "description": "Double chance buteur : Alfredo Morelos (1) ou Edwin Cardona (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Avilés Hurtado",
+        "team": "Deportivo Cali",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis 2025-07-20)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Avilés Hurtado",
+        "team": "Deportivo Cali",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2025-07-20)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Avilés Hurtado",
+          "Andrey Estupiñán"
+        ],
+        "team": "Deportivo Cali",
+        "description": "Double chance buteur : Avilés Hurtado (2) ou Andrey Estupiñán (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14553328,
+    "date": "15/10/2025 03:00",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "USA",
+    "awayTeam": "Australia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 31,
+    "awayMatchesUsed": 17,
+    "homeGoalsFor": 51,
+    "homeGoalsAgainst": 42,
+    "awayGoalsFor": 35,
+    "awayGoalsAgainst": 8,
+    "homeProb": 0.3,
+    "drawProb": 0.23,
+    "awayProb": 0.47,
+    "expectedHomeGoals": 1.3753320683111956,
+    "expectedAwayGoals": 1.7772296015180262,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-2",
+        "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.61,
+    "under25Prob": 0.39,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Folarin Balogun",
+        "team": "USA",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis 2023-11-17)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Malik Tillman",
+        "team": "USA",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis 2023-11-17)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Folarin Balogun",
+          "Malik Tillman"
+        ],
+        "team": "USA",
+        "description": "Double chance buteur : Folarin Balogun (2) ou Malik Tillman (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Nestory Irankunda",
+        "team": "Australia",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis 2024-06-06)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Mohamed Touré",
+        "team": "Australia",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2025-06-10)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Nestory Irankunda",
+          "Mohamed Touré"
+        ],
+        "team": "Australia",
+        "description": "Double chance buteur : Nestory Irankunda (2) ou Mohamed Touré (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": 14200686,
     "date": "15/10/2025 03:00",
     "league": "NHL",
@@ -2408,6 +4491,58 @@
             "assists": 3
           }
         ]
+      }
+    ]
+  },
+  {
+    "matchId": 14787862,
+    "date": "15/10/2025 04:30",
+    "league": "Int. Friendly Games",
+    "season": 2025,
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 29,
+    "awayMatchesUsed": 28,
+    "homeGoalsFor": 39,
+    "homeGoalsAgainst": 30,
+    "awayGoalsFor": 29,
+    "awayGoalsAgainst": 19,
+    "homeProb": 0.42,
+    "drawProb": 0.28,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 1.2783251231527095,
+    "expectedAwayGoals": 1.0352216748768472,
+    "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.16
+      },
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-0",
+        "prob": 0.13
+      }
+    ],
+    "over15Prob": 0.61,
+    "under15Prob": 0.39,
+    "over25Prob": 0.34,
+    "under25Prob": 0.66,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Enner Valencia",
+        "team": "Ecuador",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis 2023-09-08)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
       }
     ]
   },
