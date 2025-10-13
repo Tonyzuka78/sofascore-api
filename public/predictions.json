@@ -1,925 +1,5 @@
 [
   {
-    "matchId": 14115381,
-    "date": "12/10/2025 23:10",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Alianza Valledupar FC",
-    "awayTeam": "Junior Barranquilla",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 87,
-    "awayMatchesUsed": 110,
-    "homeGoalsFor": 95,
-    "homeGoalsAgainst": 118,
-    "awayGoalsFor": 151,
-    "awayGoalsAgainst": 133,
-    "homeProb": 0.36,
-    "drawProb": 0.26,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.3388087774294672,
-    "expectedAwayGoals": 1.3661650992685475,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.64,
-    "under25Prob": 0.36,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Carlos Gonzalez",
-        "team": "Alianza Valledupar FC",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (8 depuis 2025-07-13)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Edwin Torres",
-        "team": "Alianza Valledupar FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis 2024-07-18)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Carlos Gonzalez",
-          "Edwin Torres"
-        ],
-        "team": "Alianza Valledupar FC",
-        "description": "Double chance buteur : Carlos Gonzalez (5) ou Edwin Torres (3) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "José Enamorado",
-        "team": "Junior Barranquilla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis 2024-01-19)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jeison Suárez",
-        "team": "Junior Barranquilla",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis 2025-07-19)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "José Enamorado",
-          "Javier Báez"
-        ],
-        "team": "Junior Barranquilla",
-        "description": "Double chance buteur : José Enamorado (2) ou Javier Báez (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "José Enamorado",
-          "Javier Báez",
-          "Jeison Suárez"
-        ],
-        "team": "Junior Barranquilla",
-        "description": "Triple chance buteur : José Enamorado (2), Javier Báez (2), Jeison Suárez (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 14069534,
-    "date": "13/10/2025 00:15",
-    "league": "Liga Profesional, Clausura",
-    "season": 2025,
-    "homeTeam": "River Plate",
-    "awayTeam": "Sarmiento",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 106,
-    "awayMatchesUsed": 70,
-    "homeGoalsFor": 176,
-    "homeGoalsAgainst": 98,
-    "awayGoalsFor": 50,
-    "awayGoalsAgainst": 83,
-    "homeProb": 0.58,
-    "drawProb": 0.24,
-    "awayProb": 0.18,
-    "expectedHomeGoals": 1.6705121293800542,
-    "expectedAwayGoals": 0.7983827493261455,
-    "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.16
-      },
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "2-0",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.66,
-    "under15Prob": 0.34,
-    "over25Prob": 0.39,
-    "under25Prob": 0.61,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Maximiliano Salas",
-        "team": "River Plate",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis 2025-07-14)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Juan Fernando Quintero",
-        "team": "River Plate",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis 2025-07-27)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Maximiliano Salas",
-          "Juan Fernando Quintero"
-        ],
-        "team": "River Plate",
-        "description": "Double chance buteur : Maximiliano Salas (2) ou Juan Fernando Quintero (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": []
-  },
-  {
-    "matchId": 14200671,
-    "date": "13/10/2025 01:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "New York Rangers",
-    "awayTeam": "Washington Capitals",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 85,
-    "awayMatchesUsed": 94,
-    "homeGoalsFor": 256,
-    "homeGoalsAgainst": 255,
-    "awayGoalsFor": 313,
-    "awayGoalsAgainst": 259,
-    "homeProb": 0.4,
-    "drawProb": 0.18,
-    "awayProb": 0.42,
-    "expectedHomeGoals": 3.10918648310388,
-    "expectedAwayGoals": 3.197872340425532,
-    "scoreScenarios": [
-      {
-        "score": "3-2",
-        "prob": 0.05
-      },
-      {
-        "score": "3-3",
-        "prob": 0.05
-      },
-      {
-        "score": "2-2",
-        "prob": 0.04
-      }
-    ],
-    "over15Prob": 0.79,
-    "under15Prob": 0.21,
-    "over25Prob": 0.75,
-    "under25Prob": 0.25,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Adam Fox",
-        "team": "New York Rangers",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis 2024-09-24)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Artemi Panarin",
-        "team": "New York Rangers",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (25 depuis 2024-09-24)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Adam Fox",
-          "Vincent Trocheck"
-        ],
-        "team": "New York Rangers",
-        "description": "Double chance buteur : Adam Fox (3) ou Vincent Trocheck (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Adam Fox",
-          "Vincent Trocheck",
-          "J.T. Miller"
-        ],
-        "team": "New York Rangers",
-        "description": "Triple chance buteur : Adam Fox (3), Vincent Trocheck (1), J.T. Miller (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Adam Fox et Artemi Panarin",
-        "team": "New York Rangers",
-        "description": "ont marqué 3 et 2 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Ryan Leonard",
-        "team": "Washington Capitals",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis 2025-04-01)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jakob Chychrun",
-        "team": "Washington Capitals",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (33 depuis 2024-10-12)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Ryan Leonard",
-          "Tom Wilson"
-        ],
-        "team": "Washington Capitals",
-        "description": "Double chance buteur : Ryan Leonard (3) ou Tom Wilson (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Ryan Leonard",
-          "Tom Wilson",
-          "Aliaksei Protas"
-        ],
-        "team": "Washington Capitals",
-        "description": "Triple chance buteur : Ryan Leonard (3), Tom Wilson (2), Aliaksei Protas (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Tom Wilson et Aliaksei Protas",
-        "team": "Washington Capitals",
-        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 3
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 14216483,
-    "date": "13/10/2025 01:00",
-    "league": "MLS",
-    "season": 2025,
-    "homeTeam": "Austin FC",
-    "awayTeam": "Los Angeles FC",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 104,
-    "homeGoalsFor": 119,
-    "homeGoalsAgainst": 121,
-    "awayGoalsFor": 205,
-    "awayGoalsAgainst": 136,
-    "homeProb": 0.34,
-    "drawProb": 0.23,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.5344405594405597,
-    "expectedAwayGoals": 1.7326923076923078,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.09
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.65,
-    "under25Prob": 0.35,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Myrto Uzuni",
-        "team": "Austin FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis 2025-03-02)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Owen Wolff",
-        "team": "Austin FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (14 depuis 2024-02-25)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Myrto Uzuni",
-          "Owen Wolff"
-        ],
-        "team": "Austin FC",
-        "description": "Double chance buteur : Myrto Uzuni (2) ou Owen Wolff (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Denis Bouanga",
-        "team": "Los Angeles FC",
-        "description": "a marqué 9 buts sur les 5 derniers matchs (62 depuis 2024-02-11)",
-        "recentMatches": {
-          "goals": 9,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "David Martínez Morales",
-        "team": "Los Angeles FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis 2024-02-24)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Denis Bouanga",
-          "Heung-min Son"
-        ],
-        "team": "Los Angeles FC",
-        "description": "Double chance buteur : Denis Bouanga (9) ou Heung-min Son (7) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 9,
-            "assists": 1
-          },
-          {
-            "goals": 7,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Denis Bouanga",
-          "Heung-min Son",
-          "David Martínez Morales"
-        ],
-        "team": "Los Angeles FC",
-        "description": "Triple chance buteur : Denis Bouanga (9), Heung-min Son (7), David Martínez Morales (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 9,
-            "assists": 1
-          },
-          {
-            "goals": 7,
-            "assists": 1
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 14668167,
-    "date": "13/10/2025 01:00",
-    "league": "Primera División, Clausura",
-    "season": 2025,
-    "homeTeam": "Nacional Asunción",
-    "awayTeam": "Sportivo Luqueño",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 102,
-    "awayMatchesUsed": 101,
-    "homeGoalsFor": 125,
-    "homeGoalsAgainst": 121,
-    "awayGoalsFor": 113,
-    "awayGoalsAgainst": 142,
-    "homeProb": 0.45,
-    "drawProb": 0.26,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.4976703552708215,
-    "expectedAwayGoals": 1.14579693263444,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-0",
-        "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.49,
-    "under25Prob": 0.51,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Orlando Gaona Lugo",
-        "team": "Nacional Asunción",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis 2024-01-19)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Orlando Gaona Lugo",
-        "team": "Nacional Asunción",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (10 depuis 2024-01-19)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Orlando Gaona Lugo",
-          "Carlos Arrua"
-        ],
-        "team": "Nacional Asunción",
-        "description": "Double chance buteur : Orlando Gaona Lugo (3) ou Carlos Arrua (4) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "goals": 4,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Marcelo Perez",
-        "team": "Sportivo Luqueño",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-01-24)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Marcelo Perez",
-        "team": "Sportivo Luqueño",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2025-01-24)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      }
-    ]
-  },
-  {
-    "matchId": 14115379,
-    "date": "13/10/2025 01:20",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Atlético Bucaramanga",
-    "awayTeam": "Unión Magdalena",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 109,
-    "awayMatchesUsed": 88,
-    "homeGoalsFor": 158,
-    "homeGoalsAgainst": 113,
-    "awayGoalsFor": 114,
-    "awayGoalsAgainst": 106,
-    "homeProb": 0.46,
-    "drawProb": 0.25,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.5515429524603839,
-    "expectedAwayGoals": 1.191951626355296,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.72,
-    "under15Prob": 0.28,
-    "over25Prob": 0.47,
-    "under25Prob": 0.53,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Luciano Pons",
-        "team": "Atlético Bucaramanga",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis 2025-02-03)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Fabián Sambueza",
-        "team": "Atlético Bucaramanga",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (15 depuis 2024-01-21)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Luciano Pons",
-          "Fabián Sambueza"
-        ],
-        "team": "Atlético Bucaramanga",
-        "description": "Double chance buteur : Luciano Pons (2) ou Fabián Sambueza (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Ricardo Márquez",
-        "team": "Unión Magdalena",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis 2025-03-03)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ricardo Márquez",
-        "team": "Unión Magdalena",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis 2025-03-03)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      }
-    ]
-  },
-  {
-    "matchId": 14069529,
-    "date": "13/10/2025 02:15",
-    "league": "Liga Profesional, Clausura",
-    "season": 2025,
-    "homeTeam": "CA Independiente",
-    "awayTeam": "CA Lanús",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 87,
-    "awayMatchesUsed": 96,
-    "homeGoalsFor": 112,
-    "homeGoalsAgainst": 70,
-    "awayGoalsFor": 123,
-    "awayGoalsAgainst": 92,
-    "homeProb": 0.43,
-    "drawProb": 0.27,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.3557471264367817,
-    "expectedAwayGoals": 1.09058908045977,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.13
-      },
-      {
-        "score": "0-1",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.64,
-    "under15Prob": 0.36,
-    "over25Prob": 0.37,
-    "under25Prob": 0.63,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Santiago Montiel",
-        "team": "CA Independiente",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis 2024-08-17)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "awaySpots": []
-  },
-  {
-    "matchId": 14115380,
-    "date": "13/10/2025 03:30",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Rionegro Águilas Doradas",
-    "awayTeam": "Deportivo Pasto",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 83,
-    "awayMatchesUsed": 88,
-    "homeGoalsFor": 88,
-    "homeGoalsAgainst": 105,
-    "awayGoalsFor": 91,
-    "awayGoalsAgainst": 99,
-    "homeProb": 0.4,
-    "drawProb": 0.27,
-    "awayProb": 0.32,
-    "expectedHomeGoals": 1.2861445783132532,
-    "expectedAwayGoals": 1.1264786418400876,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.12
-      },
-      {
-        "score": "0-1",
-        "prob": 0.11
-      }
-    ],
-    "over15Prob": 0.67,
-    "under15Prob": 0.33,
-    "over25Prob": 0.41,
-    "under25Prob": 0.59,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Yony González",
-        "team": "Rionegro Águilas Doradas",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2025-02-07)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Matías Ramírez",
-        "team": "Rionegro Águilas Doradas",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (5 depuis 2025-08-04)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Yony González",
-          "Matías Ramírez"
-        ],
-        "team": "Rionegro Águilas Doradas",
-        "description": "Double chance buteur : Yony González (2) ou Matías Ramírez (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Yoshan Valois",
-        "team": "Deportivo Pasto",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (6 depuis 2025-07-12)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      }
-    ]
-  },
-  {
     "matchId": 14200672,
     "date": "13/10/2025 18:30",
     "league": "NHL",
@@ -965,17 +45,17 @@
         "description": "a marqué 3 buts sur les 5 derniers matchs (48 depuis 2024-10-04)",
         "recentMatches": {
           "goals": 3,
-          "assists": 2
+          "assists": 3
         }
       },
       {
         "type": "assister",
         "player": "Alex Tuch",
         "team": "Buffalo Sabres",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (18 depuis 2024-10-04)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (34 depuis 2024-10-04)",
         "recentMatches": {
           "goals": 0,
-          "assists": 2
+          "assists": 3
         }
       },
       {
@@ -989,7 +69,7 @@
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           },
           {
             "goals": 2,
@@ -1009,7 +89,7 @@
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           },
           {
             "goals": 2,
@@ -1023,17 +103,17 @@
       },
       {
         "type": "duo",
-        "players": "Tage Thompson et Alex Tuch",
+        "players": "Josh Norris et Tage Thompson",
         "team": "Buffalo Sabres",
-        "description": "ont marqué 5 et 2 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 2
+            "assists": 4
           },
           {
-            "goals": 0,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           }
         ]
       }
@@ -1043,7 +123,7 @@
         "type": "scorer",
         "player": "Artturi Lehkonen",
         "team": "Colorado Avalanche",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (34 depuis 2024-10-05)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (34 depuis 2024-11-06)",
         "recentMatches": {
           "goals": 3,
           "assists": 2
@@ -1051,12 +131,12 @@
       },
       {
         "type": "assister",
-        "player": "Victor Olofsson",
+        "player": "Nathan MacKinnon",
         "team": "Colorado Avalanche",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis 2025-09-21)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (93 depuis 2024-10-10)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 3
+          "goals": 2,
+          "assists": 5
         }
       },
       {
@@ -1074,7 +154,7 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 5
           }
         ]
       },
@@ -1094,27 +174,27 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 5
           },
           {
             "goals": 4,
-            "assists": 3
+            "assists": 5
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Martin Necas et Artturi Lehkonen",
+        "players": "Martin Necas et Nathan MacKinnon",
         "team": "Colorado Avalanche",
-        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 9 et 7 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 3
+            "assists": 5
           },
           {
-            "goals": 3,
-            "assists": 2
+            "goals": 2,
+            "assists": 5
           }
         ]
       }
@@ -1247,18 +327,77 @@
         "description": "a marqué 3 buts sur les 5 derniers matchs (46 depuis 2024-10-10)",
         "recentMatches": {
           "goals": 3,
-          "assists": 2
+          "assists": 3
         }
       },
       {
         "type": "assister",
-        "player": "Mark Scheifele",
+        "player": "Gabriel Vilardi",
         "team": "Winnipeg Jets",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (29 depuis 2024-10-10)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (40 depuis 2024-10-10)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 2
+          "goals": 0,
+          "assists": 3
         }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Mark Scheifele",
+          "Kyle Connor"
+        ],
+        "team": "Winnipeg Jets",
+        "description": "Double chance buteur : Mark Scheifele (3) ou Kyle Connor (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Mark Scheifele",
+          "Kyle Connor",
+          "Morgan Barron"
+        ],
+        "team": "Winnipeg Jets",
+        "description": "Triple chance buteur : Mark Scheifele (3), Kyle Connor (3), Morgan Barron (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Mark Scheifele et Kyle Connor",
+        "team": "Winnipeg Jets",
+        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          }
+        ]
       }
     ]
   },
@@ -1308,16 +447,16 @@
         "description": "a marqué 5 buts sur les 5 derniers matchs (29 depuis 2024-10-10)",
         "recentMatches": {
           "goals": 5,
-          "assists": 0
+          "assists": 1
         }
       },
       {
         "type": "assister",
-        "player": "Artem Zub",
+        "player": "Jake Sanderson",
         "team": "Ottawa Senators",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (10 depuis 2024-10-10)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (52 depuis 2024-10-10)",
         "recentMatches": {
-          "goals": 1,
+          "goals": 0,
           "assists": 3
         }
       },
@@ -1325,18 +464,18 @@
         "type": "double_scorer",
         "players": [
           "Shane Pinto",
-          "Artem Zub"
+          "Claude Giroux"
         ],
         "team": "Ottawa Senators",
-        "description": "Double chance buteur : Shane Pinto (5) ou Artem Zub (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Shane Pinto (5) ou Claude Giroux (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 1,
-            "assists": 3
+            "assists": 1
           }
         ]
       },
@@ -1344,39 +483,39 @@
         "type": "triple_scorer",
         "players": [
           "Shane Pinto",
-          "Artem Zub",
-          "Jake Sanderson"
+          "Claude Giroux",
+          "Tim Stützle"
         ],
         "team": "Ottawa Senators",
-        "description": "Triple chance buteur : Shane Pinto (5), Artem Zub (1), Jake Sanderson (0) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Shane Pinto (5), Claude Giroux (1), Tim Stützle (0) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 1,
-            "assists": 3
+            "assists": 1
           },
           {
             "goals": 0,
-            "assists": 2
+            "assists": 1
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Shane Pinto et Artem Zub",
+        "players": "Shane Pinto et Brady Tkachuk",
         "team": "Ottawa Senators",
-        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 4 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 0
+            "assists": 1
           },
           {
-            "goals": 1,
-            "assists": 3
+            "goals": 0,
+            "assists": 4
           }
         ]
       }
@@ -1389,14 +528,14 @@
         "description": "a marqué 2 buts sur les 5 derniers matchs (23 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 2,
-          "assists": 0
+          "assists": 1
         }
       },
       {
         "type": "assister",
-        "player": "Michael Bunting",
+        "player": "Filip Forsberg",
         "team": "Nashville Predators",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis 2025-03-15)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (48 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 1,
           "assists": 2
@@ -1406,14 +545,38 @@
         "type": "double_scorer",
         "players": [
           "Ryan O'Reilly",
-          "Michael Bunting"
+          "Filip Forsberg"
         ],
         "team": "Nashville Predators",
-        "description": "Double chance buteur : Ryan O'Reilly (2) ou Michael Bunting (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ryan O'Reilly (2) ou Filip Forsberg (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Ryan O'Reilly",
+          "Filip Forsberg",
+          "Michael Bunting"
+        ],
+        "team": "Nashville Predators",
+        "description": "Triple chance buteur : Ryan O'Reilly (2), Filip Forsberg (1), Michael Bunting (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 2
           },
           {
             "goals": 1,
@@ -1425,7 +588,7 @@
         "type": "duo",
         "players": "Michael Bunting et Ryan O'Reilly",
         "team": "Nashville Predators",
-        "description": "ont marqué 3 et 2 points sur les 5 derniers matchs",
+        "description": "ont marqué 3 et 3 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 1,
@@ -1433,7 +596,7 @@
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           }
         ]
       }
@@ -1485,17 +648,17 @@
         "description": "a marqué 2 buts sur les 5 derniers matchs (36 depuis 2024-10-08)",
         "recentMatches": {
           "goals": 2,
-          "assists": 0
+          "assists": 2
         }
       },
       {
         "type": "assister",
         "player": "David Pastrnak",
         "team": "Boston Bruins",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (39 depuis 2024-10-08)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (68 depuis 2024-10-08)",
         "recentMatches": {
           "goals": 1,
-          "assists": 1
+          "assists": 5
         }
       },
       {
@@ -1509,11 +672,11 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 2
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           }
         ]
       },
@@ -1529,31 +692,31 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 3,
             "assists": 2
           },
           {
+            "goals": 3,
+            "assists": 3
+          },
+          {
             "goals": 1,
-            "assists": 1
+            "assists": 5
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Pavel Zacha et Elias Lindholm",
+        "players": "David Pastrnak et Elias Lindholm",
         "team": "Boston Bruins",
-        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 2,
-            "assists": 3
+            "goals": 1,
+            "assists": 5
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           }
         ]
       }
@@ -1566,17 +729,17 @@
         "description": "a marqué 2 buts sur les 5 derniers matchs (46 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 2,
-          "assists": 1
+          "assists": 4
         }
       },
       {
         "type": "assister",
-        "player": "Gage Goncalves",
+        "player": "Nikita Kucherov",
         "team": "Tampa Bay Lightning",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (13 depuis 2024-11-06)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (93 depuis 2024-10-11)",
         "recentMatches": {
-          "goals": 0,
-          "assists": 2
+          "goals": 2,
+          "assists": 4
         }
       },
       {
@@ -1590,11 +753,11 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 4
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 4
           }
         ]
       },
@@ -1603,38 +766,38 @@
         "players": [
           "Jake Guentzel",
           "Brayden Point",
-          "Nikita Kucherov"
+          "Darren Raddysh"
         ],
         "team": "Tampa Bay Lightning",
-        "description": "Triple chance buteur : Jake Guentzel (2), Brayden Point (2), Nikita Kucherov (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Jake Guentzel (2), Brayden Point (2), Darren Raddysh (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 4
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 4
           },
           {
             "goals": 2,
-            "assists": 3
+            "assists": 5
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Nikita Kucherov et Brayden Point",
+        "players": "Darren Raddysh et Nikita Kucherov",
         "team": "Tampa Bay Lightning",
-        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 3
+            "assists": 5
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 4
           }
         ]
       }
@@ -1693,10 +856,10 @@
         "type": "assister",
         "player": "Morgan Rielly",
         "team": "Toronto Maple Leafs",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (18 depuis 2024-10-09)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (41 depuis 2024-10-09)",
         "recentMatches": {
           "goals": 1,
-          "assists": 3
+          "assists": 4
         }
       },
       {
@@ -1714,7 +877,7 @@
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 3
           }
         ]
       },
@@ -1734,26 +897,26 @@
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 3
           },
           {
             "goals": 3,
-            "assists": 0
+            "assists": 1
           }
         ]
       },
       {
         "type": "duo",
-        "players": "John Tavares et Morgan Rielly",
+        "players": "John Tavares et William Nylander",
         "team": "Toronto Maple Leafs",
-        "description": "ont marqué 4 et 4 points sur les 5 derniers matchs",
+        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 1,
-            "assists": 3
+            "assists": 4
           },
           {
-            "goals": 1,
+            "goals": 2,
             "assists": 3
           }
         ]
@@ -1767,17 +930,17 @@
         "description": "a marqué 4 buts sur les 5 derniers matchs (35 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 4,
-          "assists": 1
+          "assists": 2
         }
       },
       {
         "type": "assister",
         "player": "Patrick Kane",
         "team": "Detroit Red Wings",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (23 depuis 2024-10-11)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (44 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 2,
-          "assists": 3
+          "assists": 5
         }
       },
       {
@@ -1791,11 +954,11 @@
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 2
           }
         ]
       },
@@ -1811,11 +974,11 @@
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 3,
@@ -1827,15 +990,15 @@
         "type": "duo",
         "players": "Patrick Kane et Dylan Larkin",
         "team": "Detroit Red Wings",
-        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 3
+            "assists": 5
           },
           {
             "goals": 4,
-            "assists": 1
+            "assists": 2
           }
         ]
       }
@@ -1894,10 +1057,10 @@
         "type": "assister",
         "player": "Zach Werenski",
         "team": "Columbus Blue Jackets",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (41 depuis 2024-10-11)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (66 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 1,
-          "assists": 2
+          "assists": 4
         }
       },
       {
@@ -1939,22 +1102,22 @@
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 2
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Boone Jenner et Zach Werenski",
+        "players": "Zach Werenski et Boone Jenner",
         "team": "Columbus Blue Jackets",
-        "description": "ont marqué 4 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 1
+            "goals": 1,
+            "assists": 4
           },
           {
-            "goals": 1,
+            "goals": 3,
             "assists": 2
           }
         ]
@@ -1973,12 +1136,12 @@
       },
       {
         "type": "assister",
-        "player": "Arseny Gritsyuk",
+        "player": "Luke Hughes",
         "team": "New Jersey Devils",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (4 depuis 2025-09-21)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (42 depuis 2024-10-24)",
         "recentMatches": {
           "goals": 0,
-          "assists": 3
+          "assists": 4
         }
       },
       {
@@ -1996,7 +1159,7 @@
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 2
           }
         ]
       },
@@ -2016,27 +1179,27 @@
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 2
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Nico Hischier et Arseny Gritsyuk",
+        "players": "Arseny Gritsyuk et Luke Hughes",
         "team": "New Jersey Devils",
-        "description": "ont marqué 4 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 4 et 4 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 2,
-            "assists": 2
+            "goals": 0,
+            "assists": 4
           },
           {
             "goals": 0,
-            "assists": 3
+            "assists": 4
           }
         ]
       }
@@ -2093,12 +1256,12 @@
       },
       {
         "type": "assister",
-        "player": "Tyson Foerster",
+        "player": "Matvei Michkov",
         "team": "Philadelphia Flyers",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (16 depuis 2024-10-12)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (40 depuis 2024-10-12)",
         "recentMatches": {
           "goals": 0,
-          "assists": 4
+          "assists": 3
         }
       },
       {
@@ -2140,7 +1303,7 @@
           },
           {
             "goals": 3,
-            "assists": 0
+            "assists": 1
           }
         ]
       },
@@ -2166,20 +1329,20 @@
         "type": "scorer",
         "player": "Evan Rodrigues",
         "team": "Florida Panthers",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (21 depuis 2024-09-22)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (21 depuis 2024-10-08)",
         "recentMatches": {
           "goals": 4,
-          "assists": 2
+          "assists": 3
         }
       },
       {
         "type": "assister",
-        "player": "Gustav Forsling",
+        "player": "Eetu Luostarinen",
         "team": "Florida Panthers",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (16 depuis 2024-09-22)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (34 depuis 2024-10-08)",
         "recentMatches": {
-          "goals": 0,
-          "assists": 3
+          "goals": 1,
+          "assists": 4
         }
       },
       {
@@ -2193,11 +1356,11 @@
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 2
+            "assists": 3
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           }
         ]
       },
@@ -2213,15 +1376,15 @@
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 2
+            "assists": 3
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           }
         ]
       },
@@ -2229,15 +1392,15 @@
         "type": "duo",
         "players": "Evan Rodrigues et Mackie Samoskevich",
         "team": "Florida Panthers",
-        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
-            "assists": 2
+            "assists": 3
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           }
         ]
       }
@@ -2296,10 +1459,10 @@
         "type": "assister",
         "player": "Quinn Hughes",
         "team": "Vancouver Canucks",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (30 depuis 2024-10-10)",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (67 depuis 2024-10-10)",
         "recentMatches": {
           "goals": 1,
-          "assists": 3
+          "assists": 6
         }
       },
       {
@@ -2317,7 +1480,7 @@
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 2
           }
         ]
       },
@@ -2337,27 +1500,27 @@
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 2
+            "assists": 3
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Jonathan Lekkerimäki et Quinn Hughes",
+        "players": "Quinn Hughes et Brock Boeser",
         "team": "Vancouver Canucks",
-        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 4,
-            "assists": 1
+            "goals": 1,
+            "assists": 6
           },
           {
-            "goals": 1,
-            "assists": 3
+            "goals": 3,
+            "assists": 2
           }
         ]
       }
@@ -2370,18 +1533,77 @@
         "description": "a marqué 3 buts sur les 5 derniers matchs (26 depuis 2024-10-08)",
         "recentMatches": {
           "goals": 3,
-          "assists": 3
+          "assists": 4
         }
       },
       {
         "type": "assister",
         "player": "Robert Thomas",
         "team": "St. Louis Blues",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (37 depuis 2024-10-08)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (71 depuis 2024-10-08)",
         "recentMatches": {
           "goals": 3,
-          "assists": 3
+          "assists": 4
         }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Robert Thomas",
+          "Pavel Buchnevich"
+        ],
+        "team": "St. Louis Blues",
+        "description": "Double chance buteur : Robert Thomas (3) ou Pavel Buchnevich (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 4
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Robert Thomas",
+          "Pavel Buchnevich",
+          "Jake Neighbours"
+        ],
+        "team": "St. Louis Blues",
+        "description": "Triple chance buteur : Robert Thomas (3), Pavel Buchnevich (1), Jake Neighbours (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 4
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Robert Thomas et Jimmy Snuggerud",
+        "team": "St. Louis Blues",
+        "description": "ont marqué 7 et 3 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 4
+          },
+          {
+            "goals": 0,
+            "assists": 3
+          }
+        ]
       }
     ]
   },
@@ -2431,17 +1653,17 @@
         "description": "a marqué 3 buts sur les 5 derniers matchs (35 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 3,
-          "assists": 5
+          "assists": 8
         }
       },
       {
         "type": "assister",
         "player": "Matt Boldy",
         "team": "Minnesota Wild",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (28 depuis 2024-10-11)",
+        "description": "a délivré 8 assists sur les 5 derniers matchs (58 depuis 2024-10-11)",
         "recentMatches": {
           "goals": 3,
-          "assists": 5
+          "assists": 8
         }
       },
       {
@@ -2455,11 +1677,11 @@
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 5
+            "assists": 8
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 6
           }
         ]
       },
@@ -2475,15 +1697,15 @@
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 5
+            "assists": 8
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 6
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 3
           }
         ]
       },
@@ -2491,15 +1713,15 @@
         "type": "duo",
         "players": "Matt Boldy et Kirill Kaprizov",
         "team": "Minnesota Wild",
-        "description": "ont marqué 8 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 11 et 9 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 5
+            "assists": 8
           },
           {
             "goals": 3,
-            "assists": 2
+            "assists": 6
           }
         ]
       }
@@ -2509,20 +1731,20 @@
         "type": "scorer",
         "player": "Kevin Fiala",
         "team": "Los Angeles Kings",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (41 depuis 2024-09-26)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (41 depuis 2024-10-10)",
         "recentMatches": {
           "goals": 2,
-          "assists": 1
+          "assists": 2
         }
       },
       {
         "type": "assister",
-        "player": "Adrian Kempe",
+        "player": "Anze Kopitar",
         "team": "Los Angeles Kings",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (29 depuis 2024-09-28)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (56 depuis 2024-10-10)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -2536,7 +1758,7 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 2,
@@ -2556,7 +1778,7 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 2,
@@ -2570,17 +1792,17 @@
       },
       {
         "type": "duo",
-        "players": "Phillip Danault et Adrian Kempe",
+        "players": "Phillip Danault et Andrei Kuzmenko",
         "team": "Los Angeles Kings",
-        "description": "ont marqué 3 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 4 et 4 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 2
+            "assists": 3
           }
         ]
       }
@@ -2629,20 +1851,20 @@
         "type": "scorer",
         "player": "Frank Nazar",
         "team": "Chicago Blackhawks",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis 2024-09-26)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis 2024-12-14)",
         "recentMatches": {
           "goals": 2,
-          "assists": 0
+          "assists": 4
         }
       },
       {
         "type": "assister",
-        "player": "Tyler Bertuzzi",
+        "player": "Teuvo Teravainen",
         "team": "Chicago Blackhawks",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (19 depuis 2024-09-26)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (49 depuis 2024-10-09)",
         "recentMatches": {
-          "goals": 0,
-          "assists": 3
+          "goals": 1,
+          "assists": 4
         }
       },
       {
@@ -2656,7 +1878,7 @@
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 4
           },
           {
             "goals": 2,
@@ -2669,38 +1891,38 @@
         "players": [
           "Frank Nazar",
           "Connor Bedard",
-          "Tyler Bertuzzi"
+          "Nick Foligno"
         ],
         "team": "Chicago Blackhawks",
-        "description": "Triple chance buteur : Frank Nazar (2), Connor Bedard (2), Tyler Bertuzzi (0) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Frank Nazar (2), Connor Bedard (2), Nick Foligno (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 4
           },
           {
             "goals": 2,
             "assists": 1
           },
           {
-            "goals": 0,
-            "assists": 3
+            "goals": 1,
+            "assists": 2
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Tyler Bertuzzi et Connor Bedard",
+        "players": "Frank Nazar et Teuvo Teravainen",
         "team": "Chicago Blackhawks",
-        "description": "ont marqué 3 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 0,
-            "assists": 3
+            "goals": 2,
+            "assists": 4
           },
           {
-            "goals": 2,
-            "assists": 1
+            "goals": 1,
+            "assists": 4
           }
         ]
       }
@@ -2713,17 +1935,17 @@
         "description": "a marqué 5 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
         "recentMatches": {
           "goals": 5,
-          "assists": 1
+          "assists": 2
         }
       },
       {
         "type": "assister",
         "player": "Mikhail Sergachev",
         "team": "Utah Mammoth",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (27 depuis 2024-10-09)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (42 depuis 2024-10-09)",
         "recentMatches": {
           "goals": 1,
-          "assists": 3
+          "assists": 4
         }
       },
       {
@@ -2737,11 +1959,11 @@
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 0
+            "assists": 2
           }
         ]
       },
@@ -2757,15 +1979,15 @@
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 0
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 3
+            "assists": 4
           }
         ]
       },
@@ -2773,15 +1995,15 @@
         "type": "duo",
         "players": "Dylan Guenther et Mikhail Sergachev",
         "team": "Utah Mammoth",
-        "description": "ont marqué 6 et 4 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 1
+            "assists": 2
           },
           {
             "goals": 1,
-            "assists": 3
+            "assists": 4
           }
         ]
       }
