@@ -375,7 +375,7 @@
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 84,
-    "awayMatchesUsed": 108,
+    "awayMatchesUsed": 109,
     "homeGoalsFor": 238,
     "homeGoalsAgainst": 286,
     "awayGoalsFor": 346,
@@ -383,8 +383,8 @@
     "homeProb": 0.36,
     "drawProb": 0.18,
     "awayProb": 0.46,
-    "expectedHomeGoals": 2.9333333333333336,
-    "expectedAwayGoals": 3.284126984126984,
+    "expectedHomeGoals": 2.9238532110091744,
+    "expectedAwayGoals": 3.2664919178680645,
     "scoreScenarios": [
       {
         "score": "2-3",
@@ -399,8 +399,8 @@
         "prob": 0.05
       }
     ],
-    "over15Prob": 0.78,
-    "under15Prob": 0.22,
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
     "over25Prob": 0.75,
     "under25Prob": 0.25,
     "homeSpots": [
@@ -501,7 +501,7 @@
         "team": "Florida Panthers",
         "description": "a délivré 4 assists sur les 5 derniers matchs (34 depuis 2024-10-08)",
         "recentMatches": {
-          "goals": 1,
+          "goals": 0,
           "assists": 4
         }
       },
@@ -509,10 +509,10 @@
         "type": "double_scorer",
         "players": [
           "Evan Rodrigues",
-          "Brad Marchand"
+          "Sam Reinhart"
         ],
         "team": "Florida Panthers",
-        "description": "Double chance buteur : Evan Rodrigues (4) ou Brad Marchand (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Evan Rodrigues (4) ou Sam Reinhart (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
@@ -520,7 +520,7 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 1
           }
         ]
       },
@@ -528,11 +528,11 @@
         "type": "triple_scorer",
         "players": [
           "Evan Rodrigues",
-          "Brad Marchand",
+          "Sam Reinhart",
           "Mackie Samoskevich"
         ],
         "team": "Florida Panthers",
-        "description": "Triple chance buteur : Evan Rodrigues (4), Brad Marchand (2), Mackie Samoskevich (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Evan Rodrigues (4), Sam Reinhart (2), Mackie Samoskevich (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
@@ -540,7 +540,7 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 1
           },
           {
             "goals": 3,
@@ -576,7 +576,7 @@
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 84,
-    "awayMatchesUsed": 91,
+    "awayMatchesUsed": 92,
     "homeGoalsFor": 236,
     "homeGoalsAgainst": 253,
     "awayGoalsFor": 281,
@@ -584,24 +584,24 @@
     "homeProb": 0.4,
     "drawProb": 0.18,
     "awayProb": 0.42,
-    "expectedHomeGoals": 3.002197802197802,
-    "expectedAwayGoals": 3.0575091575091577,
+    "expectedHomeGoals": 2.990062111801242,
+    "expectedAwayGoals": 3.0373706004140786,
     "scoreScenarios": [
-      {
-        "score": "2-2",
-        "prob": 0.05
-      },
       {
         "score": "2-3",
         "prob": 0.05
       },
       {
-        "score": "3-2",
+        "score": "2-2",
+        "prob": 0.05
+      },
+      {
+        "score": "3-3",
         "prob": 0.05
       }
     ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
     "over25Prob": 0.78,
     "under25Prob": 0.22,
     "homeSpots": [
@@ -710,18 +710,18 @@
         "type": "double_scorer",
         "players": [
           "Robert Thomas",
-          "Pavel Buchnevich"
+          "Dylan Holloway"
         ],
         "team": "St. Louis Blues",
-        "description": "Double chance buteur : Robert Thomas (3) ou Pavel Buchnevich (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Robert Thomas (3) ou Dylan Holloway (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 1,
-            "assists": 2
+            "goals": 3,
+            "assists": 0
           }
         ]
       },
@@ -729,39 +729,39 @@
         "type": "triple_scorer",
         "players": [
           "Robert Thomas",
-          "Pavel Buchnevich",
-          "Jake Neighbours"
+          "Dylan Holloway",
+          "Philip Broberg"
         ],
         "team": "St. Louis Blues",
-        "description": "Triple chance buteur : Robert Thomas (3), Pavel Buchnevich (1), Jake Neighbours (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Robert Thomas (3), Dylan Holloway (3), Philip Broberg (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 1,
-            "assists": 2
+            "goals": 3,
+            "assists": 0
           },
           {
-            "goals": 2,
-            "assists": 1
+            "goals": 3,
+            "assists": 2
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Robert Thomas et Jimmy Snuggerud",
+        "players": "Robert Thomas et Philip Broberg",
         "team": "St. Louis Blues",
-        "description": "ont marqué 7 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 0,
-            "assists": 3
+            "goals": 3,
+            "assists": 2
           }
         ]
       }
@@ -776,7 +776,7 @@
     "awayTeam": "Los Angeles Kings",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 90,
+    "homeMatchesUsed": 91,
     "awayMatchesUsed": 92,
     "homeGoalsFor": 247,
     "homeGoalsAgainst": 257,
@@ -785,19 +785,19 @@
     "homeProb": 0.4,
     "drawProb": 0.18,
     "awayProb": 0.42,
-    "expectedHomeGoals": 2.8597101449275364,
-    "expectedAwayGoals": 2.9291787439613524,
+    "expectedHomeGoals": 2.841614906832298,
+    "expectedAwayGoals": 2.91662685140946,
     "scoreScenarios": [
-      {
-        "score": "3-3",
-        "prob": 0.05
-      },
       {
         "score": "3-2",
         "prob": 0.05
       },
       {
-        "score": "2-3",
+        "score": "3-3",
+        "prob": 0.05
+      },
+      {
+        "score": "2-2",
         "prob": 0.05
       }
     ],
@@ -810,20 +810,20 @@
         "type": "scorer",
         "player": "Matt Boldy",
         "team": "Minnesota Wild",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (35 depuis 2024-10-11)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (36 depuis 2024-10-11)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 8
+          "goals": 4,
+          "assists": 6
         }
       },
       {
         "type": "assister",
-        "player": "Matt Boldy",
+        "player": "Kirill Kaprizov",
         "team": "Minnesota Wild",
-        "description": "a délivré 8 assists sur les 5 derniers matchs (58 depuis 2024-10-11)",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (42 depuis 2024-10-11)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 8
+          "goals": 4,
+          "assists": 6
         }
       },
       {
@@ -833,14 +833,14 @@
           "Kirill Kaprizov"
         ],
         "team": "Minnesota Wild",
-        "description": "Double chance buteur : Matt Boldy (3) ou Kirill Kaprizov (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Matt Boldy (4) ou Kirill Kaprizov (4) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           }
         ]
@@ -850,22 +850,22 @@
         "players": [
           "Matt Boldy",
           "Kirill Kaprizov",
-          "Marco Rossi"
+          "Ryan Hartman"
         ],
         "team": "Minnesota Wild",
-        "description": "Triple chance buteur : Matt Boldy (3), Kirill Kaprizov (3), Marco Rossi (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Matt Boldy (4), Kirill Kaprizov (4), Ryan Hartman (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           },
           {
             "goals": 3,
-            "assists": 3
+            "assists": 0
           }
         ]
       },
@@ -873,14 +873,14 @@
         "type": "duo",
         "players": "Matt Boldy et Kirill Kaprizov",
         "team": "Minnesota Wild",
-        "description": "ont marqué 11 et 9 points sur les 5 derniers matchs",
+        "description": "ont marqué 10 et 10 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           }
         ]
@@ -1059,8 +1059,8 @@
     "awayTeam": "Utah Mammoth",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 85,
-    "awayMatchesUsed": 84,
+    "homeMatchesUsed": 86,
+    "awayMatchesUsed": 85,
     "homeGoalsFor": 226,
     "homeGoalsAgainst": 296,
     "awayGoalsFor": 241,
@@ -1068,26 +1068,26 @@
     "homeProb": 0.39,
     "drawProb": 0.18,
     "awayProb": 0.43,
-    "expectedHomeGoals": 2.990532212885154,
-    "expectedAwayGoals": 3.1143697478991594,
+    "expectedHomeGoals": 2.957920656634747,
+    "expectedAwayGoals": 3.0779206566347472,
     "scoreScenarios": [
       {
         "score": "2-2",
         "prob": 0.05
       },
       {
-        "score": "2-3",
+        "score": "3-2",
         "prob": 0.05
       },
       {
-        "score": "3-2",
+        "score": "2-3",
         "prob": 0.05
       }
     ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.79,
+    "under25Prob": 0.21,
     "homeSpots": [
       {
         "type": "scorer",
@@ -1103,10 +1103,10 @@
         "type": "assister",
         "player": "Teuvo Teravainen",
         "team": "Chicago Blackhawks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (49 depuis 2024-10-09)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (50 depuis 2024-10-09)",
         "recentMatches": {
           "goals": 1,
-          "assists": 4
+          "assists": 5
         }
       },
       {
@@ -1154,16 +1154,16 @@
       },
       {
         "type": "duo",
-        "players": "Frank Nazar et Teuvo Teravainen",
+        "players": "Teuvo Teravainen et Frank Nazar",
         "team": "Chicago Blackhawks",
-        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 2,
-            "assists": 4
+            "goals": 1,
+            "assists": 5
           },
           {
-            "goals": 1,
+            "goals": 2,
             "assists": 4
           }
         ]
@@ -1174,20 +1174,20 @@
         "type": "scorer",
         "player": "Dylan Guenther",
         "team": "Utah Mammoth",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
         "recentMatches": {
-          "goals": 5,
-          "assists": 2
+          "goals": 3,
+          "assists": 3
         }
       },
       {
         "type": "assister",
-        "player": "Mikhail Sergachev",
+        "player": "Dylan Guenther",
         "team": "Utah Mammoth",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (42 depuis 2024-10-09)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (36 depuis 2024-10-09)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 4
+          "goals": 3,
+          "assists": 3
         }
       },
       {
@@ -1197,11 +1197,11 @@
           "Clayton Keller"
         ],
         "team": "Utah Mammoth",
-        "description": "Double chance buteur : Dylan Guenther (5) ou Clayton Keller (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Dylan Guenther (3) ou Clayton Keller (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
@@ -1217,11 +1217,11 @@
           "Mikhail Sergachev"
         ],
         "team": "Utah Mammoth",
-        "description": "Triple chance buteur : Dylan Guenther (5), Clayton Keller (1), Mikhail Sergachev (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Dylan Guenther (3), Clayton Keller (1), Mikhail Sergachev (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
@@ -1229,23 +1229,23 @@
           },
           {
             "goals": 1,
-            "assists": 4
+            "assists": 3
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Dylan Guenther et Mikhail Sergachev",
+        "players": "Dylan Guenther et JJ Peterka",
         "team": "Utah Mammoth",
-        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 4 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
-            "assists": 4
+            "assists": 3
           }
         ]
       }
@@ -4102,7 +4102,7 @@
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 102,
-    "awayMatchesUsed": 90,
+    "awayMatchesUsed": 91,
     "homeGoalsFor": 322,
     "homeGoalsAgainst": 284,
     "awayGoalsFor": 247,
@@ -4110,8 +4110,8 @@
     "homeProb": 0.48,
     "drawProb": 0.18,
     "awayProb": 0.34,
-    "expectedHomeGoals": 3.236339869281046,
-    "expectedAwayGoals": 2.7603921568627454,
+    "expectedHomeGoals": 3.2237879767291533,
+    "expectedAwayGoals": 2.742296918767507,
     "scoreScenarios": [
       {
         "score": "3-3",
@@ -4216,20 +4216,20 @@
         "type": "scorer",
         "player": "Matt Boldy",
         "team": "Minnesota Wild",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (35 depuis 2024-10-11)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (36 depuis 2024-10-11)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 8
+          "goals": 4,
+          "assists": 6
         }
       },
       {
         "type": "assister",
-        "player": "Matt Boldy",
+        "player": "Kirill Kaprizov",
         "team": "Minnesota Wild",
-        "description": "a délivré 8 assists sur les 5 derniers matchs (58 depuis 2024-10-11)",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (42 depuis 2024-10-11)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 8
+          "goals": 4,
+          "assists": 6
         }
       },
       {
@@ -4239,14 +4239,14 @@
           "Kirill Kaprizov"
         ],
         "team": "Minnesota Wild",
-        "description": "Double chance buteur : Matt Boldy (3) ou Kirill Kaprizov (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Matt Boldy (4) ou Kirill Kaprizov (4) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           }
         ]
@@ -4256,22 +4256,22 @@
         "players": [
           "Matt Boldy",
           "Kirill Kaprizov",
-          "Marco Rossi"
+          "Ryan Hartman"
         ],
         "team": "Minnesota Wild",
-        "description": "Triple chance buteur : Matt Boldy (3), Kirill Kaprizov (3), Marco Rossi (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Matt Boldy (4), Kirill Kaprizov (4), Ryan Hartman (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           },
           {
             "goals": 3,
-            "assists": 3
+            "assists": 0
           }
         ]
       },
@@ -4279,14 +4279,14 @@
         "type": "duo",
         "players": "Matt Boldy et Kirill Kaprizov",
         "team": "Minnesota Wild",
-        "description": "ont marqué 11 et 9 points sur les 5 derniers matchs",
+        "description": "ont marqué 10 et 10 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
-            "assists": 8
+            "goals": 4,
+            "assists": 6
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 6
           }
         ]
@@ -4958,7 +4958,7 @@
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 85,
-    "awayMatchesUsed": 108,
+    "awayMatchesUsed": 109,
     "homeGoalsFor": 238,
     "homeGoalsAgainst": 259,
     "awayGoalsFor": 346,
@@ -4966,8 +4966,8 @@
     "homeProb": 0.38,
     "drawProb": 0.18,
     "awayProb": 0.44,
-    "expectedHomeGoals": 2.9133333333333336,
-    "expectedAwayGoals": 3.1410457516339867,
+    "expectedHomeGoals": 2.9038532110091744,
+    "expectedAwayGoals": 3.1234106853750676,
     "scoreScenarios": [
       {
         "score": "3-3",
@@ -4978,12 +4978,12 @@
         "prob": 0.05
       },
       {
-        "score": "3-4",
+        "score": "3-2",
         "prob": 0.04
       }
     ],
-    "over15Prob": 0.76,
-    "under15Prob": 0.24,
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
     "over25Prob": 0.74,
     "under25Prob": 0.26,
     "homeSpots": [
@@ -5084,7 +5084,7 @@
         "team": "Florida Panthers",
         "description": "a délivré 4 assists sur les 5 derniers matchs (34 depuis 2024-10-08)",
         "recentMatches": {
-          "goals": 1,
+          "goals": 0,
           "assists": 4
         }
       },
@@ -5092,10 +5092,10 @@
         "type": "double_scorer",
         "players": [
           "Evan Rodrigues",
-          "Brad Marchand"
+          "Sam Reinhart"
         ],
         "team": "Florida Panthers",
-        "description": "Double chance buteur : Evan Rodrigues (4) ou Brad Marchand (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Evan Rodrigues (4) ou Sam Reinhart (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
@@ -5103,7 +5103,7 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 1
           }
         ]
       },
@@ -5111,11 +5111,11 @@
         "type": "triple_scorer",
         "players": [
           "Evan Rodrigues",
-          "Brad Marchand",
+          "Sam Reinhart",
           "Mackie Samoskevich"
         ],
         "team": "Florida Panthers",
-        "description": "Triple chance buteur : Evan Rodrigues (4), Brad Marchand (2), Mackie Samoskevich (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Evan Rodrigues (4), Sam Reinhart (2), Mackie Samoskevich (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
@@ -5123,7 +5123,7 @@
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 1
           },
           {
             "goals": 3,
@@ -5158,8 +5158,8 @@
     "awayTeam": "Chicago Blackhawks",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 91,
-    "awayMatchesUsed": 85,
+    "homeMatchesUsed": 92,
+    "awayMatchesUsed": 86,
     "homeGoalsFor": 281,
     "homeGoalsAgainst": 254,
     "awayGoalsFor": 226,
@@ -5167,24 +5167,24 @@
     "homeProb": 0.52,
     "drawProb": 0.17,
     "awayProb": 0.31,
-    "expectedHomeGoals": 3.4456884292178414,
-    "expectedAwayGoals": 2.7117776341305753,
+    "expectedHomeGoals": 3.4093528816986858,
+    "expectedAwayGoals": 2.681092012133468,
     "scoreScenarios": [
       {
         "score": "3-2",
         "prob": 0.05
       },
       {
-        "score": "2-2",
+        "score": "3-3",
         "prob": 0.05
       },
       {
-        "score": "3-3",
+        "score": "2-2",
         "prob": 0.05
       }
     ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
     "over25Prob": 0.77,
     "under25Prob": 0.23,
     "homeSpots": [
@@ -5212,18 +5212,18 @@
         "type": "double_scorer",
         "players": [
           "Robert Thomas",
-          "Pavel Buchnevich"
+          "Dylan Holloway"
         ],
         "team": "St. Louis Blues",
-        "description": "Double chance buteur : Robert Thomas (3) ou Pavel Buchnevich (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Robert Thomas (3) ou Dylan Holloway (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 1,
-            "assists": 2
+            "goals": 3,
+            "assists": 0
           }
         ]
       },
@@ -5231,39 +5231,39 @@
         "type": "triple_scorer",
         "players": [
           "Robert Thomas",
-          "Pavel Buchnevich",
-          "Jake Neighbours"
+          "Dylan Holloway",
+          "Philip Broberg"
         ],
         "team": "St. Louis Blues",
-        "description": "Triple chance buteur : Robert Thomas (3), Pavel Buchnevich (1), Jake Neighbours (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Robert Thomas (3), Dylan Holloway (3), Philip Broberg (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 1,
-            "assists": 2
+            "goals": 3,
+            "assists": 0
           },
           {
-            "goals": 2,
-            "assists": 1
+            "goals": 3,
+            "assists": 2
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Robert Thomas et Jimmy Snuggerud",
+        "players": "Robert Thomas et Philip Broberg",
         "team": "St. Louis Blues",
-        "description": "ont marqué 7 et 3 points sur les 5 derniers matchs",
+        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 4
           },
           {
-            "goals": 0,
-            "assists": 3
+            "goals": 3,
+            "assists": 2
           }
         ]
       }
@@ -5283,10 +5283,10 @@
         "type": "assister",
         "player": "Teuvo Teravainen",
         "team": "Chicago Blackhawks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (49 depuis 2024-10-09)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (50 depuis 2024-10-09)",
         "recentMatches": {
           "goals": 1,
-          "assists": 4
+          "assists": 5
         }
       },
       {
@@ -5334,16 +5334,16 @@
       },
       {
         "type": "duo",
-        "players": "Frank Nazar et Teuvo Teravainen",
+        "players": "Teuvo Teravainen et Frank Nazar",
         "team": "Chicago Blackhawks",
-        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 6 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 2,
-            "assists": 4
+            "goals": 1,
+            "assists": 5
           },
           {
-            "goals": 1,
+            "goals": 2,
             "assists": 4
           }
         ]
@@ -5359,7 +5359,7 @@
     "awayTeam": "Calgary Flames",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 84,
+    "homeMatchesUsed": 85,
     "awayMatchesUsed": 86,
     "homeGoalsFor": 241,
     "homeGoalsAgainst": 251,
@@ -5368,8 +5368,8 @@
     "homeProb": 0.45,
     "drawProb": 0.18,
     "awayProb": 0.37,
-    "expectedHomeGoals": 3.0284053156146182,
-    "expectedAwayGoals": 2.7650055370985607,
+    "expectedHomeGoals": 3.008153214774282,
+    "expectedAwayGoals": 2.750943912448701,
     "scoreScenarios": [
       {
         "score": "2-2",
@@ -5384,8 +5384,8 @@
         "prob": 0.05
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
     "over25Prob": 0.79,
     "under25Prob": 0.21,
     "homeSpots": [
@@ -5393,20 +5393,20 @@
         "type": "scorer",
         "player": "Dylan Guenther",
         "team": "Utah Mammoth",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
         "recentMatches": {
-          "goals": 5,
-          "assists": 2
+          "goals": 3,
+          "assists": 3
         }
       },
       {
         "type": "assister",
-        "player": "Mikhail Sergachev",
+        "player": "Dylan Guenther",
         "team": "Utah Mammoth",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (42 depuis 2024-10-09)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (36 depuis 2024-10-09)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 4
+          "goals": 3,
+          "assists": 3
         }
       },
       {
@@ -5416,11 +5416,11 @@
           "Clayton Keller"
         ],
         "team": "Utah Mammoth",
-        "description": "Double chance buteur : Dylan Guenther (5) ou Clayton Keller (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Dylan Guenther (3) ou Clayton Keller (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
@@ -5436,11 +5436,11 @@
           "Mikhail Sergachev"
         ],
         "team": "Utah Mammoth",
-        "description": "Triple chance buteur : Dylan Guenther (5), Clayton Keller (1), Mikhail Sergachev (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Dylan Guenther (3), Clayton Keller (1), Mikhail Sergachev (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
@@ -5448,23 +5448,23 @@
           },
           {
             "goals": 1,
-            "assists": 4
+            "assists": 3
           }
         ]
       },
       {
         "type": "duo",
-        "players": "Dylan Guenther et Mikhail Sergachev",
+        "players": "Dylan Guenther et JJ Peterka",
         "team": "Utah Mammoth",
-        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
+        "description": "ont marqué 6 et 4 points sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 5,
-            "assists": 2
+            "goals": 3,
+            "assists": 3
           },
           {
             "goals": 1,
-            "assists": 4
+            "assists": 3
           }
         ]
       }
