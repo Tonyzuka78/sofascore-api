@@ -1,5 +1,1073 @@
 [
   {
+    "matchId": 14733254,
+    "date": "15/10/2025 18:45",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "OL Lyonnes (F)",
+    "awayTeam": "SKN St. Pölten (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 44,
+    "awayMatchesUsed": 54,
+    "homeGoalsFor": 173,
+    "homeGoalsAgainst": 33,
+    "awayGoalsFor": 148,
+    "awayGoalsAgainst": 50,
+    "homeProb": 0.57,
+    "drawProb": 0.18,
+    "awayProb": 0.25,
+    "expectedHomeGoals": 2.9294612794612793,
+    "expectedAwayGoals": 1.9444444444444446,
+    "scoreScenarios": [
+      {
+        "score": "3-2",
+        "prob": 0.06
+      },
+      {
+        "score": "4-2",
+        "prob": 0.05
+      },
+      {
+        "score": "3-1",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.75,
+    "under25Prob": 0.25,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Liana Joseph",
+        "team": "OL Lyonnes (F)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (8 depuis 2024-11-08)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Ada Hégerberg",
+        "team": "OL Lyonnes (F)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis 2024-10-08)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Liana Joseph",
+          "Melchie Dumornay"
+        ],
+        "team": "OL Lyonnes (F)",
+        "description": "Double chance buteur : Liana Joseph (5) ou Melchie Dumornay (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Liana Joseph",
+          "Melchie Dumornay",
+          "Tabitha Chawinga"
+        ],
+        "team": "OL Lyonnes (F)",
+        "description": "Triple chance buteur : Liana Joseph (5), Melchie Dumornay (3), Tabitha Chawinga (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Ľudmila Matavková",
+        "team": "SKN St. Pölten (F)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis 2025-09-11)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14734229,
+    "date": "15/10/2025 18:45",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Vålerenga (F)",
+    "awayTeam": "VfL Wolfsburg (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 37,
+    "awayMatchesUsed": 49,
+    "homeGoalsFor": 94,
+    "homeGoalsAgainst": 29,
+    "awayGoalsFor": 152,
+    "awayGoalsAgainst": 55,
+    "homeProb": 0.4,
+    "drawProb": 0.2,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 2.173303916161059,
+    "expectedAwayGoals": 2.174738003309432,
+    "scoreScenarios": [
+      {
+        "score": "2-3",
+        "prob": 0.06
+      },
+      {
+        "score": "1-3",
+        "prob": 0.05
+      },
+      {
+        "score": "2-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.77,
+    "under25Prob": 0.23,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Elise Thorsnes",
+        "team": "Vålerenga (F)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (9 depuis 2024-12-18)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Karina Sævik",
+        "team": "Vålerenga (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis 2024-12-12)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Elise Thorsnes",
+          "Karina Sævik"
+        ],
+        "team": "Vålerenga (F)",
+        "description": "Double chance buteur : Elise Thorsnes (5) ou Karina Sævik (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Elise Thorsnes",
+          "Karina Sævik",
+          "Olaug Tvedten"
+        ],
+        "team": "Vålerenga (F)",
+        "description": "Triple chance buteur : Elise Thorsnes (5), Karina Sævik (2), Olaug Tvedten (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Vivien Endemann",
+        "team": "VfL Wolfsburg (F)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (15 depuis 2024-09-02)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Alexandra Popp",
+        "team": "VfL Wolfsburg (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (9 depuis 2024-09-02)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Vivien Endemann",
+          "Kessya Bussy"
+        ],
+        "team": "VfL Wolfsburg (F)",
+        "description": "Double chance buteur : Vivien Endemann (4) ou Kessya Bussy (4) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "goals": 4,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Vivien Endemann",
+          "Kessya Bussy",
+          "Svenja Huth"
+        ],
+        "team": "VfL Wolfsburg (F)",
+        "description": "Triple chance buteur : Vivien Endemann (4), Kessya Bussy (4), Svenja Huth (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14733253,
+    "date": "15/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Chelsea FC (F)",
+    "awayTeam": "Paris FC (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 49,
+    "awayMatchesUsed": 39,
+    "homeGoalsFor": 121,
+    "homeGoalsAgainst": 38,
+    "awayGoalsFor": 100,
+    "awayGoalsAgainst": 40,
+    "homeProb": 0.44,
+    "drawProb": 0.21,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 2.091889063317635,
+    "expectedAwayGoals": 1.8486656200941916,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.08
+      },
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.87,
+    "under15Prob": 0.13,
+    "over25Prob": 0.71,
+    "under25Prob": 0.29,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Aggie Beever-Jones",
+        "team": "Chelsea FC (F)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis 2024-09-20)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Wieke Kaptein",
+        "team": "Chelsea FC (F)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis 2024-09-20)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Aggie Beever-Jones",
+          "Wieke Kaptein"
+        ],
+        "team": "Chelsea FC (F)",
+        "description": "Double chance buteur : Aggie Beever-Jones (2) ou Wieke Kaptein (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Clara Matéo",
+        "team": "Paris FC (F)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (24 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Clara Matéo",
+        "team": "Paris FC (F)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (13 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14733282,
+    "date": "15/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Oud-Heverlee Leuven (F)",
+    "awayTeam": "FC Twente Vrouwen (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 44,
+    "awayMatchesUsed": 56,
+    "homeGoalsFor": 93,
+    "homeGoalsAgainst": 44,
+    "awayGoalsFor": 173,
+    "awayGoalsAgainst": 72,
+    "homeProb": 0.35,
+    "drawProb": 0.2,
+    "awayProb": 0.45,
+    "expectedHomeGoals": 1.982467532467533,
+    "expectedAwayGoals": 2.2535714285714286,
+    "scoreScenarios": [
+      {
+        "score": "1-2",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "1-3",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Jada Conijnenberg",
+        "team": "Oud-Heverlee Leuven (F)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-08-27)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Aurélie Reynders",
+        "team": "Oud-Heverlee Leuven (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis 2025-01-24)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jada Conijnenberg",
+          "Kadhiya De Ceuster"
+        ],
+        "team": "Oud-Heverlee Leuven (F)",
+        "description": "Double chance buteur : Jada Conijnenberg (3) ou Kadhiya De Ceuster (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jada Conijnenberg",
+          "Kadhiya De Ceuster",
+          "Aurélie Reynders"
+        ],
+        "team": "Oud-Heverlee Leuven (F)",
+        "description": "Triple chance buteur : Jada Conijnenberg (3), Kadhiya De Ceuster (3), Aurélie Reynders (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Jaimy Ravensbergen",
+        "team": "FC Twente Vrouwen (F)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (44 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Jill Roord",
+        "team": "FC Twente Vrouwen (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis 2025-08-13)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jaimy Ravensbergen",
+          "Danique van Ginkel"
+        ],
+        "team": "FC Twente Vrouwen (F)",
+        "description": "Double chance buteur : Jaimy Ravensbergen (2) ou Danique van Ginkel (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jaimy Ravensbergen",
+          "Danique van Ginkel",
+          "Jill Roord"
+        ],
+        "team": "FC Twente Vrouwen (F)",
+        "description": "Triple chance buteur : Jaimy Ravensbergen (2), Danique van Ginkel (3), Jill Roord (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14734235,
+    "date": "15/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "AS Roma (F)",
+    "awayTeam": "Fútbol Club Barcelona (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 56,
+    "awayMatchesUsed": 59,
+    "homeGoalsFor": 126,
+    "homeGoalsAgainst": 83,
+    "awayGoalsFor": 251,
+    "awayGoalsAgainst": 31,
+    "homeProb": 0.2,
+    "drawProb": 0.16,
+    "awayProb": 0.64,
+    "expectedHomeGoals": 1.7601694915254238,
+    "expectedAwayGoals": 3.145399515738499,
+    "scoreScenarios": [
+      {
+        "score": "1-3",
+        "prob": 0.06
+      },
+      {
+        "score": "2-3",
+        "prob": 0.06
+      },
+      {
+        "score": "1-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Manuela Giugliano",
+        "team": "AS Roma (F)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (23 depuis 2024-08-30)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 3
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Manuela Giugliano",
+        "team": "AS Roma (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (13 depuis 2024-08-30)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Manuela Giugliano",
+          "Alice Corelli"
+        ],
+        "team": "AS Roma (F)",
+        "description": "Double chance buteur : Manuela Giugliano (3) ou Alice Corelli (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Manuela Giugliano",
+          "Alice Corelli",
+          "Emilie Haavi"
+        ],
+        "team": "AS Roma (F)",
+        "description": "Triple chance buteur : Manuela Giugliano (3), Alice Corelli (3), Emilie Haavi (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Ewa Pajor",
+        "team": "Fútbol Club Barcelona (F)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (53 depuis 2024-09-08)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Alexia Putellas",
+        "team": "Fútbol Club Barcelona (F)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (20 depuis 2024-09-08)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Ewa Pajor",
+          "Clàudia Pina"
+        ],
+        "team": "Fútbol Club Barcelona (F)",
+        "description": "Double chance buteur : Ewa Pajor (4) ou Clàudia Pina (5) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 5,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Ewa Pajor",
+          "Clàudia Pina",
+          "Alexia Putellas"
+        ],
+        "team": "Fútbol Club Barcelona (F)",
+        "description": "Triple chance buteur : Ewa Pajor (4), Clàudia Pina (5), Alexia Putellas (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 13472805,
+    "date": "16/10/2025 00:00",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Red Bull Bragantino",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 128,
+    "awayMatchesUsed": 119,
+    "homeGoalsFor": 217,
+    "homeGoalsAgainst": 106,
+    "awayGoalsFor": 159,
+    "awayGoalsAgainst": 159,
+    "homeProb": 0.52,
+    "drawProb": 0.24,
+    "awayProb": 0.25,
+    "expectedHomeGoals": 1.751641281512605,
+    "expectedAwayGoals": 1.1329306722689076,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-1",
+        "prob": 0.09
+      },
+      {
+        "score": "2-0",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.62,
+    "under25Prob": 0.38,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "José López",
+        "team": "Palmeiras",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (44 depuis 2024-01-21)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Mauricio",
+        "team": "Palmeiras",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (10 depuis 2024-07-18)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "José López",
+          "Vitor Roque"
+        ],
+        "team": "Palmeiras",
+        "description": "Double chance buteur : José López (5) ou Vitor Roque (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "José López",
+          "Vitor Roque",
+          "Raphael Veiga"
+        ],
+        "team": "Palmeiras",
+        "description": "Triple chance buteur : José López (5), Vitor Roque (3), Raphael Veiga (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Jhon Jhon",
+        "team": "Red Bull Bragantino",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis 2024-07-18)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Jhon Jhon",
+        "team": "Red Bull Bragantino",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (11 depuis 2024-07-18)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472802,
+    "date": "16/10/2025 00:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Botafogo",
+    "awayTeam": "Flamengo",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 135,
+    "awayMatchesUsed": 136,
+    "homeGoalsFor": 204,
+    "homeGoalsAgainst": 130,
+    "awayGoalsFor": 232,
+    "awayGoalsAgainst": 93,
+    "homeProb": 0.37,
+    "drawProb": 0.25,
+    "awayProb": 0.38,
+    "expectedHomeGoals": 1.3801960784313727,
+    "expectedAwayGoals": 1.408714596949891,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-2",
+        "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.64,
+    "under25Prob": 0.36,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Giorgian De Arrascaeta",
+        "team": "Flamengo",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (29 depuis 2024-01-18)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472809,
+    "date": "16/10/2025 01:00",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Mirassol",
+    "awayTeam": "Internacional",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 98,
+    "awayMatchesUsed": 125,
+    "homeGoalsFor": 132,
+    "homeGoalsAgainst": 106,
+    "awayGoalsFor": 183,
+    "awayGoalsAgainst": 134,
+    "homeProb": 0.4,
+    "drawProb": 0.26,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.4369632653061226,
+    "expectedAwayGoals": 1.3110530612244897,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Reinaldo",
+        "team": "Mirassol",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2025-01-17)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Alesson",
+        "team": "Mirassol",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis 2025-07-16)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Reinaldo",
+          "Alesson"
+        ],
+        "team": "Mirassol",
+        "description": "Double chance buteur : Reinaldo (2) ou Alesson (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Alan Patrick",
+        "team": "Internacional",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (31 depuis 2024-01-27)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472818,
+    "date": "16/10/2025 01:00",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Sport Recife",
+    "awayTeam": "Ceará",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 114,
+    "awayMatchesUsed": 107,
+    "homeGoalsFor": 177,
+    "homeGoalsAgainst": 138,
+    "awayGoalsFor": 161,
+    "awayGoalsAgainst": 107,
+    "homeProb": 0.41,
+    "drawProb": 0.25,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.5315789473684212,
+    "expectedAwayGoals": 1.3870142646335464,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "1-0",
+        "prob": 0.12
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.68,
+    "under15Prob": 0.32,
+    "over25Prob": 0.42,
+    "under25Prob": 0.58,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Derik Lacerda",
+        "team": "Sport Recife",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-07-20)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Pedro Henrique",
+        "team": "Ceará",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis 2025-01-18)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Pedro Henrique",
+        "team": "Ceará",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis 2025-01-18)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      }
+    ]
+  },
+  {
     "matchId": 14200691,
     "date": "16/10/2025 01:00",
     "league": "NHL",
@@ -396,6 +1464,304 @@
           {
             "goals": 3,
             "assists": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14115384,
+    "date": "16/10/2025 01:20",
+    "league": "Primera A, Clausura",
+    "season": 2025,
+    "homeTeam": "Deportivo Pereira",
+    "awayTeam": "Millonarios",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 93,
+    "awayMatchesUsed": 108,
+    "homeGoalsFor": 114,
+    "homeGoalsAgainst": 100,
+    "awayGoalsFor": 136,
+    "awayGoalsAgainst": 108,
+    "homeProb": 0.4,
+    "drawProb": 0.27,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.3354838709677421,
+    "expectedAwayGoals": 1.185663082437276,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.74,
+    "under15Prob": 0.26,
+    "over25Prob": 0.49,
+    "under25Prob": 0.51,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Samy Jr Merheg",
+        "team": "Deportivo Pereira",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2024-02-18)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Beckham Castro",
+        "team": "Millonarios",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis 2024-01-19)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472806,
+    "date": "16/10/2025 02:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Santos",
+    "awayTeam": "Corinthians",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 99,
+    "awayMatchesUsed": 131,
+    "homeGoalsFor": 144,
+    "homeGoalsAgainst": 113,
+    "awayGoalsFor": 187,
+    "awayGoalsAgainst": 136,
+    "homeProb": 0.41,
+    "drawProb": 0.25,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.487994448299792,
+    "expectedAwayGoals": 1.3130542061839772,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
+      }
+    ],
+    "over15Prob": 0.7,
+    "under15Prob": 0.3,
+    "over25Prob": 0.44,
+    "under25Prob": 0.56,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Gui Negão",
+        "team": "Corinthians",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2024-06-16)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Gui Negão",
+        "team": "Corinthians",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2024-06-16)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 2
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472810,
+    "date": "16/10/2025 02:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Atlético Mineiro",
+    "awayTeam": "Cruzeiro",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 133,
+    "awayMatchesUsed": 118,
+    "homeGoalsFor": 188,
+    "homeGoalsAgainst": 146,
+    "awayGoalsFor": 159,
+    "awayGoalsAgainst": 113,
+    "homeProb": 0.41,
+    "drawProb": 0.26,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.4311711482095069,
+    "expectedAwayGoals": 1.2475723206320888,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "0-1",
+        "prob": 0.12
+      },
+      {
+        "score": "1-0",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.7,
+    "under15Prob": 0.3,
+    "over25Prob": 0.44,
+    "under25Prob": 0.56,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Vitor Hugo",
+        "team": "Atlético Mineiro",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis 2025-03-29)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Kaio Jorge",
+        "team": "Cruzeiro",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (27 depuis 2024-07-13)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "William",
+        "team": "Cruzeiro",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (17 depuis 2024-01-24)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Kaio Jorge",
+          "William"
+        ],
+        "team": "Cruzeiro",
+        "description": "Double chance buteur : Kaio Jorge (2) ou William (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 13472816,
+    "date": "16/10/2025 02:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Fortaleza",
+    "awayTeam": "Vasco da Gama",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 130,
+    "awayMatchesUsed": 117,
+    "homeGoalsFor": 197,
+    "homeGoalsAgainst": 163,
+    "awayGoalsFor": 184,
+    "awayGoalsAgainst": 171,
+    "homeProb": 0.44,
+    "drawProb": 0.24,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.693846153846154,
+    "expectedAwayGoals": 1.445128205128205,
+    "scoreScenarios": [
+      {
+        "score": "1-2",
+        "prob": 0.09
+      },
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.68,
+    "under25Prob": 0.32,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Rayan",
+        "team": "Vasco da Gama",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (16 depuis 2024-01-26)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Philippe Coutinho",
+        "team": "Vasco da Gama",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis 2024-07-21)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Rayan",
+          "Philippe Coutinho"
+        ],
+        "team": "Vasco da Gama",
+        "description": "Double chance buteur : Rayan (4) ou Philippe Coutinho (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
           }
         ]
       }
@@ -800,6 +2166,896 @@
             "assists": 3
           }
         ]
+      }
+    ]
+  },
+  {
+    "matchId": 14600185,
+    "date": "16/10/2025 17:00",
+    "league": "Veikkausliiga, Championship Round",
+    "season": 2025,
+    "homeTeam": "Ilves",
+    "awayTeam": "KuPS",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 78,
+    "awayMatchesUsed": 94,
+    "homeGoalsFor": 161,
+    "homeGoalsAgainst": 112,
+    "awayGoalsFor": 190,
+    "awayGoalsAgainst": 106,
+    "homeProb": 0.41,
+    "drawProb": 0.22,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 1.8895253682487727,
+    "expectedAwayGoals": 1.7871249318057831,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.68,
+    "under25Prob": 0.32,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Roope Riski",
+        "team": "Ilves",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (26 depuis 2024-02-03)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Roope Riski",
+        "team": "Ilves",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2024-02-03)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 1
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Mohamed Toure",
+        "team": "KuPS",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (17 depuis 2025-01-18)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Mohamed Toure",
+          "Piotr Parzyszek"
+        ],
+        "team": "KuPS",
+        "description": "Double chance buteur : Mohamed Toure (4) ou Piotr Parzyszek (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14734220,
+    "date": "16/10/2025 18:45",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Club Atlético de Madrid (F)",
+    "awayTeam": "Manchester United (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 51,
+    "awayMatchesUsed": 69,
+    "homeGoalsFor": 96,
+    "homeGoalsAgainst": 53,
+    "awayGoalsFor": 160,
+    "awayGoalsAgainst": 69,
+    "homeProb": 0.37,
+    "drawProb": 0.22,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 1.7294117647058824,
+    "expectedAwayGoals": 1.806990622335891,
+    "scoreScenarios": [
+      {
+        "score": "1-2",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "1-1",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.75,
+    "under25Prob": 0.25,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Fiamma Benítez",
+        "team": "Club Atlético de Madrid (F)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (12 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Luany",
+        "team": "Club Atlético de Madrid (F)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Fiamma Benítez",
+          "Luany"
+        ],
+        "team": "Club Atlético de Madrid (F)",
+        "description": "Double chance buteur : Fiamma Benítez (5) ou Luany (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Melvine Malard",
+        "team": "Manchester United (F)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (16 depuis 2024-01-14)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Ella Toone",
+        "team": "Manchester United (F)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (12 depuis 2024-01-14)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Melvine Malard",
+          "Ella Toone"
+        ],
+        "team": "Manchester United (F)",
+        "description": "Double chance buteur : Melvine Malard (1) ou Ella Toone (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14734227,
+    "date": "16/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Benfica (F)",
+    "awayTeam": "Arsenal (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 49,
+    "awayMatchesUsed": 51,
+    "homeGoalsFor": 130,
+    "homeGoalsAgainst": 43,
+    "awayGoalsFor": 130,
+    "awayGoalsAgainst": 56,
+    "homeProb": 0.46,
+    "drawProb": 0.2,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 2.2310524209683873,
+    "expectedAwayGoals": 1.8804321728691475,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.07
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "3-1",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.87,
+    "under15Prob": 0.13,
+    "over25Prob": 0.77,
+    "under25Prob": 0.23,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Carole Costa",
+        "team": "Benfica (F)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (11 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Chandra Davidson",
+        "team": "Benfica (F)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Carole Costa",
+          "Cristina Martín-Prieto"
+        ],
+        "team": "Benfica (F)",
+        "description": "Double chance buteur : Carole Costa (5) ou Cristina Martín-Prieto (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Carole Costa",
+          "Cristina Martín-Prieto",
+          "Anna Gasper"
+        ],
+        "team": "Benfica (F)",
+        "description": "Triple chance buteur : Carole Costa (5), Cristina Martín-Prieto (2), Anna Gasper (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Alessia Russo",
+        "team": "Arsenal (F)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (24 depuis 2024-09-04)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Bethany Mead",
+        "team": "Arsenal (F)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis 2024-09-07)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Alessia Russo",
+          "Frida Maanum"
+        ],
+        "team": "Arsenal (F)",
+        "description": "Double chance buteur : Alessia Russo (1) ou Frida Maanum (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Alessia Russo",
+          "Frida Maanum",
+          "Mariona Caldentey"
+        ],
+        "team": "Arsenal (F)",
+        "description": "Triple chance buteur : Alessia Russo (1), Frida Maanum (1), Mariona Caldentey (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14734241,
+    "date": "16/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "FC Bayern München (F)",
+    "awayTeam": "Juventus (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 53,
+    "awayMatchesUsed": 52,
+    "homeGoalsFor": 148,
+    "homeGoalsAgainst": 52,
+    "awayGoalsFor": 120,
+    "awayGoalsAgainst": 56,
+    "homeProb": 0.5,
+    "drawProb": 0.2,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 2.3062409288824384,
+    "expectedAwayGoals": 1.7770682148040637,
+    "scoreScenarios": [
+      {
+        "score": "2-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "3-1",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.75,
+    "under25Prob": 0.25,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Klara Bühl",
+        "team": "FC Bayern München (F)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (14 depuis 2024-08-30)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Georgia Stanway",
+        "team": "FC Bayern München (F)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (9 depuis 2024-08-30)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Klara Bühl",
+          "Momoko Tanikawa"
+        ],
+        "team": "FC Bayern München (F)",
+        "description": "Double chance buteur : Klara Bühl (3) ou Momoko Tanikawa (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Klara Bühl",
+          "Momoko Tanikawa",
+          "Lea Schüller"
+        ],
+        "team": "FC Bayern München (F)",
+        "description": "Triple chance buteur : Klara Bühl (3), Momoko Tanikawa (2), Lea Schüller (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Amalie Vangsgaard",
+        "team": "Juventus (F)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (12 depuis 2024-09-14)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 14734243,
+    "date": "16/10/2025 21:00",
+    "league": "UEFA Champions League, Women, League Phase",
+    "season": 2026,
+    "homeTeam": "Paris Saint-Germain (F)",
+    "awayTeam": "Real Madrid (F)",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 47,
+    "awayMatchesUsed": 58,
+    "homeGoalsFor": 115,
+    "homeGoalsAgainst": 69,
+    "awayGoalsFor": 154,
+    "awayGoalsAgainst": 70,
+    "homeProb": 0.39,
+    "drawProb": 0.2,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 2.1508437270726337,
+    "expectedAwayGoals": 2.1803374908290536,
+    "scoreScenarios": [
+      {
+        "score": "2-2",
+        "prob": 0.07
+      },
+      {
+        "score": "2-1",
+        "prob": 0.07
+      },
+      {
+        "score": "1-2",
+        "prob": 0.07
+      }
+    ],
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.75,
+    "under25Prob": 0.25,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Romee Leuchter",
+        "team": "Paris Saint-Germain (F)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (19 depuis 2024-09-18)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Merveille Kanjinga",
+        "team": "Paris Saint-Germain (F)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis 2025-03-01)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Romee Leuchter",
+          "Merveille Kanjinga"
+        ],
+        "team": "Paris Saint-Germain (F)",
+        "description": "Double chance buteur : Romee Leuchter (4) ou Merveille Kanjinga (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Caroline Weir",
+        "team": "Real Madrid (F)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (21 depuis 2024-09-06)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Eva Maria Navarro",
+        "team": "Real Madrid (F)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (9 depuis 2024-09-06)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Caroline Weir",
+          "Alba Redondo"
+        ],
+        "team": "Real Madrid (F)",
+        "description": "Double chance buteur : Caroline Weir (5) ou Alba Redondo (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Caroline Weir",
+          "Alba Redondo",
+          "Linda Caicedo"
+        ],
+        "team": "Real Madrid (F)",
+        "description": "Triple chance buteur : Caroline Weir (5), Alba Redondo (2), Linda Caicedo (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14668171,
+    "date": "16/10/2025 23:30",
+    "league": "Primera División, Clausura",
+    "season": 2025,
+    "homeTeam": "General Caballero",
+    "awayTeam": "Club Atlético Tembetary",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 86,
+    "awayMatchesUsed": 72,
+    "homeGoalsFor": 85,
+    "homeGoalsAgainst": 115,
+    "awayGoalsFor": 87,
+    "awayGoalsAgainst": 91,
+    "homeProb": 0.38,
+    "drawProb": 0.27,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.2985788113695091,
+    "expectedAwayGoals": 1.2598837209302325,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-0",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.6,
+    "under25Prob": 0.4,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Teodoro Arce",
+        "team": "General Caballero",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (14 depuis 2024-01-20)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Teodoro Arce",
+        "team": "General Caballero",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis 2024-01-20)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Paul Charpentier",
+        "team": "Club Atlético Tembetary",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2025-07-14)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      }
+    ]
+  },
+  {
+    "matchId": 13472812,
+    "date": "17/10/2025 00:00",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Grêmio",
+    "awayTeam": "São Paulo",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 127,
+    "awayMatchesUsed": 125,
+    "homeGoalsFor": 183,
+    "homeGoalsAgainst": 156,
+    "awayGoalsFor": 178,
+    "awayGoalsAgainst": 135,
+    "homeProb": 0.41,
+    "drawProb": 0.25,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.4965669291338586,
+    "expectedAwayGoals": 1.3457385826771653,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
+        "prob": 0.09
+      },
+      {
+        "score": "1-2",
+        "prob": 0.08
+      }
+    ],
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.57,
+    "under25Prob": 0.43,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Luciano",
+        "team": "São Paulo",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (32 depuis 2024-01-20)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Enzo Díaz",
+        "team": "São Paulo",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis 2025-01-16)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Luciano",
+          "Enzo Díaz"
+        ],
+        "team": "São Paulo",
+        "description": "Double chance buteur : Luciano (2) ou Enzo Díaz (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 13472801,
+    "date": "17/10/2025 02:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Fluminense",
+    "awayTeam": "Juventude",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 134,
+    "awayMatchesUsed": 112,
+    "homeGoalsFor": 175,
+    "homeGoalsAgainst": 133,
+    "awayGoalsFor": 142,
+    "awayGoalsAgainst": 167,
+    "homeProb": 0.47,
+    "drawProb": 0.25,
+    "awayProb": 0.28,
+    "expectedHomeGoals": 1.5800106609808104,
+    "expectedAwayGoals": 1.15772921108742,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.13
+      },
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "0-1",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.72,
+    "under15Prob": 0.28,
+    "over25Prob": 0.46,
+    "under25Prob": 0.54,
+    "homeSpots": [],
+    "awaySpots": []
+  },
+  {
+    "matchId": 13472814,
+    "date": "17/10/2025 02:30",
+    "league": "Brasileirão Betano",
+    "season": 2025,
+    "homeTeam": "Vitória",
+    "awayTeam": "Bahia",
+    "homeSeasonUsed": "ALL",
+    "awaySeasonUsed": "ALL",
+    "homeMatchesUsed": 117,
+    "awayMatchesUsed": 138,
+    "homeGoalsFor": 146,
+    "homeGoalsAgainst": 133,
+    "awayGoalsFor": 224,
+    "awayGoalsAgainst": 148,
+    "homeProb": 0.36,
+    "drawProb": 0.25,
+    "awayProb": 0.39,
+    "expectedHomeGoals": 1.3777034559643258,
+    "expectedAwayGoals": 1.4286138981791157,
+    "scoreScenarios": [
+      {
+        "score": "1-1",
+        "prob": 0.12
+      },
+      {
+        "score": "0-1",
+        "prob": 0.1
+      },
+      {
+        "score": "1-2",
+        "prob": 0.09
+      }
+    ],
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48,
+    "homeSpots": [],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Willian José",
+        "team": "Bahia",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (14 depuis 2025-02-05)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
       }
     ]
   }
