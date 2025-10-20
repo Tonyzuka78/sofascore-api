@@ -1,1209 +1,5 @@
 [
   {
-    "matchId": 14668170,
-    "date": "19/10/2025 22:30",
-    "league": "Primera División, Clausura",
-    "season": 2025,
-    "homeTeam": "Cerro Porteño",
-    "awayTeam": "Olimpia",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 107,
-    "awayMatchesUsed": 99,
-    "homeGoalsFor": 163,
-    "homeGoalsAgainst": 110,
-    "awayGoalsFor": 131,
-    "awayGoalsAgainst": 113,
-    "homeProb": 0.46,
-    "drawProb": 0.25,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.570584348154442,
-    "expectedAwayGoals": 1.205154347210422,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-0",
-        "prob": 0.1
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.5,
-    "under25Prob": 0.5,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Jonathan Torres",
-        "team": "Cerro Porteño",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis 2025-01-26)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Cecilio Domínguez",
-        "team": "Cerro Porteño",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (15 depuis 2024-01-21)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Jonathan Torres",
-          "Cecilio Domínguez"
-        ],
-        "team": "Cerro Porteño",
-        "description": "Double chance buteur : Jonathan Torres (2) ou Cecilio Domínguez (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Rodney Redes",
-        "team": "Olimpia",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (19 depuis 2024-01-27)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      }
-    ]
-  },
-  {
-    "matchId": 14069547,
-    "date": "19/10/2025 23:00",
-    "league": "Liga Profesional, Clausura",
-    "season": 2025,
-    "homeTeam": "Rosario Central",
-    "awayTeam": "Platense",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 76,
-    "homeGoalsFor": 98,
-    "homeGoalsAgainst": 90,
-    "awayGoalsFor": 75,
-    "awayGoalsAgainst": 74,
-    "homeProb": 0.42,
-    "drawProb": 0.28,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.2576555023923446,
-    "expectedAwayGoals": 1.0011961722488039,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.13
-      },
-      {
-        "score": "0-1",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.63,
-    "under15Prob": 0.37,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Alejo Véliz",
-        "team": "Rosario Central",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis 2025-07-12)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ángel Di María",
-        "team": "Rosario Central",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2025-07-12)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Alejo Véliz",
-          "Ángel Di María"
-        ],
-        "team": "Rosario Central",
-        "description": "Double chance buteur : Alejo Véliz (3) ou Ángel Di María (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Alejo Véliz",
-          "Ángel Di María",
-          "Ignacio Malcorra"
-        ],
-        "team": "Rosario Central",
-        "description": "Triple chance buteur : Alejo Véliz (3), Ángel Di María (2), Ignacio Malcorra (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Ronaldo Martinez",
-        "team": "Platense",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (13 depuis 2024-01-27)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ronaldo Martinez",
-        "team": "Platense",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2024-01-27)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 1
-        }
-      }
-    ]
-  },
-  {
-    "matchId": 14069550,
-    "date": "19/10/2025 23:00",
-    "league": "Liga Profesional, Clausura",
-    "season": 2025,
-    "homeTeam": "San Martín de San Juan",
-    "awayTeam": "CA Independiente",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 75,
-    "awayMatchesUsed": 88,
-    "homeGoalsFor": 70,
-    "homeGoalsAgainst": 62,
-    "awayGoalsFor": 112,
-    "awayGoalsAgainst": 72,
-    "homeProb": 0.35,
-    "drawProb": 0.29,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 1.0872727272727272,
-    "expectedAwayGoals": 1.0943030303030303,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.16
-      },
-      {
-        "score": "0-1",
-        "prob": 0.15
-      },
-      {
-        "score": "1-0",
-        "prob": 0.14
-      }
-    ],
-    "over15Prob": 0.54,
-    "under15Prob": 0.46,
-    "over25Prob": 0.28,
-    "under25Prob": 0.72,
-    "homeSpots": [],
-    "awaySpots": []
-  },
-  {
-    "matchId": 14115397,
-    "date": "19/10/2025 23:10",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Llaneros FC",
-    "awayTeam": "Once Caldas",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 91,
-    "awayMatchesUsed": 119,
-    "homeGoalsFor": 129,
-    "homeGoalsAgainst": 108,
-    "awayGoalsFor": 148,
-    "awayGoalsAgainst": 119,
-    "homeProb": 0.42,
-    "drawProb": 0.26,
-    "awayProb": 0.32,
-    "expectedHomeGoals": 1.4505494505494507,
-    "expectedAwayGoals": 1.2209437621202328,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.1
-      },
-      {
-        "score": "0-1",
-        "prob": 0.1
-      }
-    ],
-    "over15Prob": 0.72,
-    "under15Prob": 0.28,
-    "over25Prob": 0.46,
-    "under25Prob": 0.54,
-    "homeSpots": [
-      {
-        "type": "assister",
-        "player": "Daniel Mantilla",
-        "team": "Llaneros FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis 2025-07-29)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Jefry Zapata",
-        "team": "Once Caldas",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis 2024-07-20)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Luis Gómez",
-        "team": "Once Caldas",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (6 depuis 2025-07-17)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Jefry Zapata",
-          "Luis Gómez"
-        ],
-        "team": "Once Caldas",
-        "description": "Double chance buteur : Jefry Zapata (2) ou Luis Gómez (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 13472827,
-    "date": "19/10/2025 23:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Mirassol",
-    "awayTeam": "São Paulo",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 99,
-    "awayMatchesUsed": 126,
-    "homeGoalsFor": 135,
-    "homeGoalsAgainst": 107,
-    "awayGoalsFor": 178,
-    "awayGoalsAgainst": 137,
-    "homeProb": 0.41,
-    "drawProb": 0.26,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.4531024531024532,
-    "expectedAwayGoals": 1.27994227994228,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
-      },
-      {
-        "score": "1-0",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.79,
-    "under15Prob": 0.21,
-    "over25Prob": 0.57,
-    "under25Prob": 0.43,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Negueba",
-        "team": "Mirassol",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2024-01-20)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Alesson",
-        "team": "Mirassol",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis 2025-07-16)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Negueba",
-          "Reinaldo"
-        ],
-        "team": "Mirassol",
-        "description": "Double chance buteur : Negueba (2) ou Reinaldo (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Negueba",
-          "Reinaldo",
-          "Alesson"
-        ],
-        "team": "Mirassol",
-        "description": "Triple chance buteur : Negueba (2), Reinaldo (2), Alesson (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Gonzalo Tapia",
-        "team": "São Paulo",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis 2025-07-20)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Enzo Díaz",
-        "team": "São Paulo",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis 2025-01-16)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Gonzalo Tapia",
-          "Luciano"
-        ],
-        "team": "São Paulo",
-        "description": "Double chance buteur : Gonzalo Tapia (2) ou Luciano (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Gonzalo Tapia",
-          "Luciano",
-          "Enzo Díaz"
-        ],
-        "team": "São Paulo",
-        "description": "Triple chance buteur : Gonzalo Tapia (2), Luciano (2), Enzo Díaz (0) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 13472830,
-    "date": "19/10/2025 23:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Internacional",
-    "awayTeam": "Sport Recife",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 127,
-    "awayMatchesUsed": 115,
-    "homeGoalsFor": 187,
-    "homeGoalsAgainst": 139,
-    "awayGoalsFor": 178,
-    "awayGoalsAgainst": 139,
-    "homeProb": 0.42,
-    "drawProb": 0.25,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.5669428277986992,
-    "expectedAwayGoals": 1.3664909277644641,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.11
-      },
-      {
-        "score": "0-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.72,
-    "under15Prob": 0.28,
-    "over25Prob": 0.46,
-    "under25Prob": 0.54,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Alan Patrick",
-        "team": "Internacional",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (31 depuis 2024-01-27)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Derik Lacerda",
-        "team": "Sport Recife",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2025-07-20)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ]
-  },
-  {
-    "matchId": 13472832,
-    "date": "19/10/2025 23:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Ceará",
-    "awayTeam": "Botafogo",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 108,
-    "awayMatchesUsed": 136,
-    "homeGoalsFor": 162,
-    "homeGoalsAgainst": 108,
-    "awayGoalsFor": 204,
-    "awayGoalsAgainst": 133,
-    "homeProb": 0.42,
-    "drawProb": 0.25,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.4911764705882353,
-    "expectedAwayGoals": 1.2999999999999998,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "0-1",
-        "prob": 0.11
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.48,
-    "under25Prob": 0.52,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Pedro Henrique",
-        "team": "Ceará",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis 2025-01-18)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Pedro Henrique",
-        "team": "Ceará",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2025-01-18)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      }
-    ],
-    "awaySpots": []
-  },
-  {
-    "matchId": 14805445,
-    "date": "20/10/2025 01:00",
-    "league": "Serie A, Championship Round",
-    "season": 2025,
-    "homeTeam": "Libertad",
-    "awayTeam": "Universidad Católica del Ecuador",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 66,
-    "awayMatchesUsed": 89,
-    "homeGoalsFor": 77,
-    "homeGoalsAgainst": 83,
-    "awayGoalsFor": 172,
-    "awayGoalsAgainst": 119,
-    "homeProb": 0.33,
-    "drawProb": 0.24,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.4348314606741575,
-    "expectedAwayGoals": 1.662580864828056,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.62,
-    "under25Prob": 0.38,
-    "homeSpots": [],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Mauricio Alonso",
-        "team": "Universidad Católica del Ecuador",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis 2025-06-29)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Azarias Londoño",
-        "team": "Universidad Católica del Ecuador",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (10 depuis 2025-01-26)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Mauricio Alonso",
-          "José Fajardo"
-        ],
-        "team": "Universidad Católica del Ecuador",
-        "description": "Double chance buteur : Mauricio Alonso (3) ou José Fajardo (4) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 4,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Mauricio Alonso",
-          "José Fajardo",
-          "Azarias Londoño"
-        ],
-        "team": "Universidad Católica del Ecuador",
-        "description": "Triple chance buteur : Mauricio Alonso (3), José Fajardo (4), Azarias Londoño (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 4,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 14200723,
-    "date": "20/10/2025 01:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Chicago Blackhawks",
-    "awayTeam": "Anaheim Ducks",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 86,
-    "homeGoalsFor": 226,
-    "homeGoalsAgainst": 296,
-    "awayGoalsFor": 221,
-    "awayGoalsAgainst": 263,
-    "homeProb": 0.42,
-    "drawProb": 0.18,
-    "awayProb": 0.4,
-    "expectedHomeGoals": 2.9641649048625798,
-    "expectedAwayGoals": 2.8873150105708247,
-    "scoreScenarios": [
-      {
-        "score": "2-3",
-        "prob": 0.05
-      },
-      {
-        "score": "3-3",
-        "prob": 0.05
-      },
-      {
-        "score": "2-2",
-        "prob": 0.05
-      }
-    ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Connor Bedard",
-        "team": "Chicago Blackhawks",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (26 depuis 2024-10-09)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 4
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Teuvo Teravainen",
-        "team": "Chicago Blackhawks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (51 depuis 2024-10-09)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Connor Bedard",
-          "Ilya Mikheyev"
-        ],
-        "team": "Chicago Blackhawks",
-        "description": "Double chance buteur : Connor Bedard (2) ou Ilya Mikheyev (3) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 4
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Connor Bedard",
-          "Ilya Mikheyev",
-          "Ryan Donato"
-        ],
-        "team": "Chicago Blackhawks",
-        "description": "Triple chance buteur : Connor Bedard (2), Ilya Mikheyev (3), Ryan Donato (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 4
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Connor Bedard et Teuvo Teravainen",
-        "team": "Chicago Blackhawks",
-        "description": "ont marqué 6 et 4 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 4
-          },
-          {
-            "goals": 0,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Chris Kreider",
-        "team": "Anaheim Ducks",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (5 depuis 2025-09-23)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Leo Carlsson",
-        "team": "Anaheim Ducks",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (32 depuis 2024-10-13)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 5
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Chris Kreider",
-          "Cutter Gauthier"
-        ],
-        "team": "Anaheim Ducks",
-        "description": "Double chance buteur : Chris Kreider (5) ou Cutter Gauthier (3) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Chris Kreider",
-          "Cutter Gauthier",
-          "Leo Carlsson"
-        ],
-        "team": "Anaheim Ducks",
-        "description": "Triple chance buteur : Chris Kreider (5), Cutter Gauthier (3), Leo Carlsson (4) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 4,
-            "assists": 5
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Leo Carlsson et Chris Kreider",
-        "team": "Anaheim Ducks",
-        "description": "ont marqué 9 et 6 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 5
-          },
-          {
-            "goals": 5,
-            "assists": 1
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 14200725,
-    "date": "20/10/2025 01:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Utah Mammoth",
-    "awayTeam": "Boston Bruins",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 87,
-    "awayMatchesUsed": 88,
-    "homeGoalsFor": 241,
-    "homeGoalsAgainst": 251,
-    "awayGoalsFor": 222,
-    "awayGoalsAgainst": 272,
-    "homeProb": 0.47,
-    "drawProb": 0.18,
-    "awayProb": 0.35,
-    "expectedHomeGoals": 3.0984326018808774,
-    "expectedAwayGoals": 2.6676593521421106,
-    "scoreScenarios": [
-      {
-        "score": "3-2",
-        "prob": 0.05
-      },
-      {
-        "score": "2-2",
-        "prob": 0.05
-      },
-      {
-        "score": "3-3",
-        "prob": 0.05
-      }
-    ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Dylan Guenther",
-        "team": "Utah Mammoth",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (33 depuis 2024-10-09)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Nick Schmaltz",
-        "team": "Utah Mammoth",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (49 depuis 2024-10-09)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Dylan Guenther",
-          "Nick Schmaltz"
-        ],
-        "team": "Utah Mammoth",
-        "description": "Double chance buteur : Dylan Guenther (2) ou Nick Schmaltz (3) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 4
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Dylan Guenther",
-          "Nick Schmaltz",
-          "Clayton Keller"
-        ],
-        "team": "Utah Mammoth",
-        "description": "Triple chance buteur : Dylan Guenther (2), Nick Schmaltz (3), Clayton Keller (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 4
-          },
-          {
-            "goals": 1,
-            "assists": 4
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Nick Schmaltz et Clayton Keller",
-        "team": "Utah Mammoth",
-        "description": "ont marqué 7 et 5 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 4
-          },
-          {
-            "goals": 1,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Morgan Geekie",
-        "team": "Boston Bruins",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (37 depuis 2024-10-08)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "David Pastrnak",
-        "team": "Boston Bruins",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (69 depuis 2024-10-08)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Morgan Geekie",
-          "David Pastrnak"
-        ],
-        "team": "Boston Bruins",
-        "description": "Double chance buteur : Morgan Geekie (1) ou David Pastrnak (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Morgan Geekie",
-          "David Pastrnak",
-          "Elias Lindholm"
-        ],
-        "team": "Boston Bruins",
-        "description": "Triple chance buteur : Morgan Geekie (1), David Pastrnak (1), Elias Lindholm (1) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Pavel Zacha et Michael Eyssimont",
-        "team": "Boston Bruins",
-        "description": "ont marqué 5 et 3 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 4
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "matchId": 13472831,
-    "date": "20/10/2025 01:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Bahia",
-    "awayTeam": "Grêmio",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 139,
-    "awayMatchesUsed": 128,
-    "homeGoalsFor": 225,
-    "homeGoalsAgainst": 150,
-    "awayGoalsFor": 185,
-    "awayGoalsAgainst": 156,
-    "homeProb": 0.46,
-    "drawProb": 0.24,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.658723021582734,
-    "expectedAwayGoals": 1.2988421762589928,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
-      },
-      {
-        "score": "1-2",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
-    "over25Prob": 0.61,
-    "under25Prob": 0.39,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Willian José",
-        "team": "Bahia",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (14 depuis 2025-02-05)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "awaySpots": []
-  },
-  {
     "matchId": 14598493,
     "date": "20/10/2025 16:30",
     "league": "Parva Liga",
@@ -2838,6 +1634,408 @@
     "awaySpots": []
   },
   {
+    "matchId": 14200726,
+    "date": "21/10/2025 01:00",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Philadelphia Flyers",
+    "awayTeam": "Seattle Kraken",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 87,
+    "awayMatchesUsed": 87,
+    "homeGoalsFor": 238,
+    "homeGoalsAgainst": 286,
+    "awayGoalsFor": 247,
+    "awayGoalsAgainst": 265,
+    "homeProb": 0.42,
+    "drawProb": 0.18,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 3.0597701149425287,
+    "expectedAwayGoals": 3.0183908045977015,
+    "scoreScenarios": [
+      {
+        "score": "2-3",
+        "prob": 0.05
+      },
+      {
+        "score": "3-3",
+        "prob": 0.05
+      },
+      {
+        "score": "2-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.78,
+    "under25Prob": 0.22,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Owen Tippett",
+        "team": "Philadelphia Flyers",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (23 depuis 2024-10-12)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Trevor Zegras",
+        "team": "Philadelphia Flyers",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (5 depuis 2025-09-21)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Owen Tippett",
+          "Noah Cates"
+        ],
+        "team": "Philadelphia Flyers",
+        "description": "Double chance buteur : Owen Tippett (3) ou Noah Cates (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Owen Tippett",
+          "Noah Cates",
+          "Bobby Brink"
+        ],
+        "team": "Philadelphia Flyers",
+        "description": "Triple chance buteur : Owen Tippett (3), Noah Cates (2), Bobby Brink (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Sean Couturier et Tyson Foerster",
+        "team": "Philadelphia Flyers",
+        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Jared McCann",
+        "team": "Seattle Kraken",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (25 depuis 2024-10-08)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Jordan Eberle",
+        "team": "Seattle Kraken",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (23 depuis 2024-10-08)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jared McCann",
+          "Jani Nyman"
+        ],
+        "team": "Seattle Kraken",
+        "description": "Double chance buteur : Jared McCann (3) ou Jani Nyman (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jared McCann",
+          "Jani Nyman",
+          "Shane Wright"
+        ],
+        "team": "Seattle Kraken",
+        "description": "Triple chance buteur : Jared McCann (3), Jani Nyman (2), Shane Wright (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Vince Dunn et Jared McCann",
+        "team": "Seattle Kraken",
+        "description": "ont marqué 5 et 4 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14200727,
+    "date": "21/10/2025 01:00",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "New York Rangers",
+    "awayTeam": "Minnesota Wild",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 89,
+    "awayMatchesUsed": 94,
+    "homeGoalsFor": 256,
+    "homeGoalsAgainst": 255,
+    "awayGoalsFor": 247,
+    "awayGoalsAgainst": 257,
+    "homeProb": 0.45,
+    "drawProb": 0.18,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 3.019459717905809,
+    "expectedAwayGoals": 2.722663160411188,
+    "scoreScenarios": [
+      {
+        "score": "3-2",
+        "prob": 0.05
+      },
+      {
+        "score": "3-3",
+        "prob": 0.05
+      },
+      {
+        "score": "2-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.77,
+    "under25Prob": 0.23,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Mika Zibanejad",
+        "team": "New York Rangers",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (22 depuis 2024-10-09)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Artemi Panarin",
+        "team": "New York Rangers",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (57 depuis 2024-10-09)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Mika Zibanejad",
+          "Adam Fox"
+        ],
+        "team": "New York Rangers",
+        "description": "Double chance buteur : Mika Zibanejad (2) ou Adam Fox (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Mika Zibanejad",
+          "Adam Fox",
+          "Artemi Panarin"
+        ],
+        "team": "New York Rangers",
+        "description": "Triple chance buteur : Mika Zibanejad (2), Adam Fox (2), Artemi Panarin (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 1,
+            "assists": 4
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Artemi Panarin et Adam Fox",
+        "team": "New York Rangers",
+        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 4
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Kirill Kaprizov",
+        "team": "Minnesota Wild",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (35 depuis 2024-10-11)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Matt Boldy",
+        "team": "Minnesota Wild",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (59 depuis 2024-10-11)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Kirill Kaprizov",
+          "Matt Boldy"
+        ],
+        "team": "Minnesota Wild",
+        "description": "Double chance buteur : Kirill Kaprizov (4) ou Matt Boldy (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Kirill Kaprizov",
+          "Matt Boldy",
+          "Vladimir Tarasenko"
+        ],
+        "team": "Minnesota Wild",
+        "description": "Triple chance buteur : Kirill Kaprizov (4), Matt Boldy (3), Vladimir Tarasenko (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 1,
+            "assists": 4
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Matt Boldy et Kirill Kaprizov",
+        "team": "Minnesota Wild",
+        "description": "ont marqué 6 et 6 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 3
+          },
+          {
+            "goals": 4,
+            "assists": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": 14115390,
     "date": "21/10/2025 01:00",
     "league": "Primera A, Clausura",
@@ -2886,6 +2084,207 @@
           "goals": 4,
           "assists": 0
         }
+      }
+    ]
+  },
+  {
+    "matchId": 14200724,
+    "date": "21/10/2025 01:30",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Montréal Canadiens",
+    "awayTeam": "Buffalo Sabres",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 93,
+    "awayMatchesUsed": 87,
+    "homeGoalsFor": 257,
+    "homeGoalsAgainst": 283,
+    "awayGoalsFor": 269,
+    "awayGoalsAgainst": 289,
+    "homeProb": 0.43,
+    "drawProb": 0.18,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 3.1868001483129405,
+    "expectedAwayGoals": 3.0723767148683723,
+    "scoreScenarios": [
+      {
+        "score": "3-2",
+        "prob": 0.05
+      },
+      {
+        "score": "2-2",
+        "prob": 0.05
+      },
+      {
+        "score": "3-3",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.82,
+    "under15Prob": 0.18,
+    "over25Prob": 0.77,
+    "under25Prob": 0.23,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Cole Caufield",
+        "team": "Montréal Canadiens",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (47 depuis 2024-10-09)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 3
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Nick Suzuki",
+        "team": "Montréal Canadiens",
+        "description": "a délivré 7 assists sur les 5 derniers matchs (69 depuis 2024-10-09)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 7
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Cole Caufield",
+          "Juraj Slafkovský"
+        ],
+        "team": "Montréal Canadiens",
+        "description": "Double chance buteur : Cole Caufield (5) ou Juraj Slafkovský (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 3
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Cole Caufield",
+          "Juraj Slafkovský",
+          "Zack Bolduc"
+        ],
+        "team": "Montréal Canadiens",
+        "description": "Triple chance buteur : Cole Caufield (5), Juraj Slafkovský (2), Zack Bolduc (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 3
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Nick Suzuki et Cole Caufield",
+        "team": "Montréal Canadiens",
+        "description": "ont marqué 8 et 8 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 7
+          },
+          {
+            "goals": 5,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Jason Zucker",
+        "team": "Buffalo Sabres",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (26 depuis 2024-10-04)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Rasmus Dahlin",
+        "team": "Buffalo Sabres",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (55 depuis 2024-10-04)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jason Zucker",
+          "Tage Thompson"
+        ],
+        "team": "Buffalo Sabres",
+        "description": "Double chance buteur : Jason Zucker (3) ou Tage Thompson (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jason Zucker",
+          "Tage Thompson",
+          "Jack Quinn"
+        ],
+        "team": "Buffalo Sabres",
+        "description": "Triple chance buteur : Jason Zucker (3), Tage Thompson (1), Jack Quinn (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Josh Doan et Zach Benson",
+        "team": "Buffalo Sabres",
+        "description": "ont marqué 5 et 5 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 0,
+            "assists": 5
+          }
+        ]
       }
     ]
   },
@@ -3132,6 +2531,408 @@
           {
             "goals": 2,
             "assists": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14200733,
+    "date": "21/10/2025 03:30",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Calgary Flames",
+    "awayTeam": "Winnipeg Jets",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 89,
+    "awayMatchesUsed": 100,
+    "homeGoalsFor": 225,
+    "homeGoalsAgainst": 238,
+    "awayGoalsFor": 312,
+    "awayGoalsAgainst": 231,
+    "homeProb": 0.36,
+    "drawProb": 0.18,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 2.64085393258427,
+    "expectedAwayGoals": 2.9416629213483145,
+    "scoreScenarios": [
+      {
+        "score": "2-3",
+        "prob": 0.06
+      },
+      {
+        "score": "2-2",
+        "prob": 0.05
+      },
+      {
+        "score": "3-3",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.78,
+    "under25Prob": 0.22,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Matt Coronato",
+        "team": "Calgary Flames",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (27 depuis 2024-10-14)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Nazem Kadri",
+        "team": "Calgary Flames",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (38 depuis 2024-10-10)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Matt Coronato",
+          "Morgan Frost"
+        ],
+        "team": "Calgary Flames",
+        "description": "Double chance buteur : Matt Coronato (2) ou Morgan Frost (1) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Matt Coronato",
+          "Morgan Frost",
+          "Nazem Kadri"
+        ],
+        "team": "Calgary Flames",
+        "description": "Triple chance buteur : Matt Coronato (2), Morgan Frost (1), Nazem Kadri (0) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "goals": 0,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Nazem Kadri et MacKenzie Weegar",
+        "team": "Calgary Flames",
+        "description": "ont marqué 3 et 2 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 0,
+            "assists": 3
+          },
+          {
+            "goals": 0,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Mark Scheifele",
+        "team": "Winnipeg Jets",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (50 depuis 2024-10-10)",
+        "recentMatches": {
+          "goals": 6,
+          "assists": 3
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Kyle Connor",
+        "team": "Winnipeg Jets",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (73 depuis 2024-10-10)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 5
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Mark Scheifele",
+          "Morgan Barron"
+        ],
+        "team": "Winnipeg Jets",
+        "description": "Double chance buteur : Mark Scheifele (6) ou Morgan Barron (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Mark Scheifele",
+          "Morgan Barron",
+          "Kyle Connor"
+        ],
+        "team": "Winnipeg Jets",
+        "description": "Triple chance buteur : Mark Scheifele (6), Morgan Barron (3), Kyle Connor (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 5
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Mark Scheifele et Kyle Connor",
+        "team": "Winnipeg Jets",
+        "description": "ont marqué 9 et 8 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 3
+          },
+          {
+            "goals": 3,
+            "assists": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": 14198324,
+    "date": "21/10/2025 04:00",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Vegas Golden Knights",
+    "awayTeam": "Carolina Hurricanes",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 99,
+    "awayMatchesUsed": 103,
+    "homeGoalsFor": 303,
+    "homeGoalsAgainst": 254,
+    "awayGoalsFor": 310,
+    "awayGoalsAgainst": 272,
+    "homeProb": 0.45,
+    "drawProb": 0.18,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 3.092674315975287,
+    "expectedAwayGoals": 2.832087868981073,
+    "scoreScenarios": [
+      {
+        "score": "3-3",
+        "prob": 0.05
+      },
+      {
+        "score": "2-3",
+        "prob": 0.05
+      },
+      {
+        "score": "3-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Jack Eichel",
+        "team": "Vegas Golden Knights",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (36 depuis 2024-10-10)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 7
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Mark Stone",
+        "team": "Vegas Golden Knights",
+        "description": "a délivré 9 assists sur les 5 derniers matchs (64 depuis 2024-10-10)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 9
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jack Eichel",
+          "Pavel Dorofeyev"
+        ],
+        "team": "Vegas Golden Knights",
+        "description": "Double chance buteur : Jack Eichel (4) ou Pavel Dorofeyev (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 7
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jack Eichel",
+          "Pavel Dorofeyev",
+          "Tomas Hertl"
+        ],
+        "team": "Vegas Golden Knights",
+        "description": "Triple chance buteur : Jack Eichel (4), Pavel Dorofeyev (3), Tomas Hertl (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 7
+          },
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Jack Eichel et Mark Stone",
+        "team": "Vegas Golden Knights",
+        "description": "ont marqué 11 et 11 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 7
+          },
+          {
+            "goals": 2,
+            "assists": 9
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Seth Jarvis",
+        "team": "Carolina Hurricanes",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (45 depuis 2024-10-11)",
+        "recentMatches": {
+          "goals": 6,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Sebastian Aho",
+        "team": "Carolina Hurricanes",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (60 depuis 2024-10-11)",
+        "recentMatches": {
+          "goals": 1,
+          "assists": 6
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Seth Jarvis",
+          "Jordan Staal"
+        ],
+        "team": "Carolina Hurricanes",
+        "description": "Double chance buteur : Seth Jarvis (6) ou Jordan Staal (3) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Seth Jarvis",
+          "Jordan Staal",
+          "Eric Robinson"
+        ],
+        "team": "Carolina Hurricanes",
+        "description": "Triple chance buteur : Seth Jarvis (6), Jordan Staal (3), Eric Robinson (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 1
+          }
+        ]
+      },
+      {
+        "type": "duo",
+        "players": "Seth Jarvis et Shayne Gostisbehere",
+        "team": "Carolina Hurricanes",
+        "description": "ont marqué 8 et 7 points sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 6,
+            "assists": 2
+          },
+          {
+            "goals": 1,
+            "assists": 6
           }
         ]
       }
