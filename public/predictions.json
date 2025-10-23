@@ -41,12 +41,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Sem Steijn",
+        "player": "Ayase Ueda",
         "team": "Feyenoord",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (7 depuis début saison)",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (23 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 1
+          "goals": 6,
+          "assists": 0
         }
       },
       {
@@ -57,36 +57,6 @@
         "recentMatches": {
           "goals": 3,
           "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Anis Hadj Moussa",
-        "team": "Feyenoord",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Anis Hadj Moussa",
-        "team": "Feyenoord",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Ayase Ueda",
-        "team": "Feyenoord",
-        "description": "a marqué 6 buts sur les 5 derniers matchs (23 depuis début saison)",
-        "recentMatches": {
-          "goals": 6,
-          "assists": 0
         }
       },
       {
@@ -136,12 +106,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Tetê",
+        "player": "Karol Świderski",
         "team": "Panathinaikos",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (12 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -155,33 +125,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Anass Zaroury",
-        "team": "Panathinaikos",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Karol Świderski",
-        "team": "Panathinaikos",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Anass Zaroury",
-          "Karol Świderski"
+          "Karol Świderski",
+          "Anass Zaroury"
         ],
         "team": "Panathinaikos",
-        "description": "Double chance buteur : Anass Zaroury (3) ou Karol Świderski (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Karol Świderski (3) ou Anass Zaroury (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
@@ -196,12 +146,12 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Anass Zaroury",
           "Karol Świderski",
+          "Anass Zaroury",
           "Tetê"
         ],
         "team": "Panathinaikos",
-        "description": "Triple chance buteur : Anass Zaroury (3), Karol Świderski (3), Tetê (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Karol Świderski (3), Anass Zaroury (3), Tetê (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
@@ -219,21 +169,16 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Sem Steijn a marqué 3 buts",
-      "🅰️ Sem Steijn a délivré 1 assists",
-      "⚽️ Anis Hadj Moussa a marqué 2 buts",
-      "🅰️ Anis Hadj Moussa a délivré 1 assists",
       "⚽️ Ayase Ueda a marqué 6 buts",
+      "🅰️ Sem Steijn a délivré 1 assists",
       "⚽⚽ Ayase Ueda / Sem Steijn Double chance buteur",
       "⚽⚽⚽ Ayase Ueda / Sem Steijn / Anis Hadj Moussa Triple chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Tetê a marqué 1 buts",
-      "🅰️ Tetê a délivré 2 assists",
-      "⚽️ Anass Zaroury a marqué 3 buts",
       "⚽️ Karol Świderski a marqué 3 buts",
-      "⚽⚽ Anass Zaroury / Karol Świderski Double chance buteur",
-      "⚽⚽⚽ Anass Zaroury / Karol Świderski / Tetê Triple chance buteur"
+      "🅰️ Tetê a délivré 2 assists",
+      "⚽⚽ Karol Świderski / Anass Zaroury Double chance buteur",
+      "⚽⚽⚽ Karol Świderski / Anass Zaroury / Tetê Triple chance buteur"
     ]
   },
   {
@@ -277,16 +222,6 @@
     "bttsProb": 0.53,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Teddy Okou",
-        "team": "Al-Riyadh",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
         "type": "scorer",
         "player": "Mamadou Sylla",
         "team": "Al-Riyadh",
@@ -294,6 +229,16 @@
         "recentMatches": {
           "goals": 3,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Teddy Okou",
+        "team": "Al-Riyadh",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -328,16 +273,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Myziane Maolida",
-        "team": "Al-Kholood",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Ramiro Enrique",
@@ -358,13 +293,12 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Teddy Okou a délivré 3 assists",
       "⚽️ Mamadou Sylla a marqué 3 buts",
+      "🅰️ Teddy Okou a délivré 3 assists",
       "⚽⚽ Mamadou Sylla / Teddy Okou Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Ramiro Enrique a marqué 4 buts",
-      "⚽️ Myziane Maolida a marqué 1 buts",
       "⚽⚽ Ramiro Enrique / Myziane Maolida Double chance buteur"
     ]
   },
@@ -411,46 +345,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Waleed Al-Ahmed",
-        "team": "Al-Taawoun",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Angelo Fulgini",
-        "team": "Al-Taawoun",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Sultan Mandash",
-        "team": "Al-Taawoun",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Roger Martínez",
-        "team": "Al-Taawoun",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Musa Barrow",
         "team": "Al-Taawoun",
         "description": "a marqué 5 buts sur les 5 derniers matchs (23 depuis début saison)",
@@ -473,17 +367,17 @@
         "type": "double_scorer",
         "players": [
           "Musa Barrow",
-          "Sultan Mandash"
+          "Roger Martínez"
         ],
         "team": "Al-Taawoun",
-        "description": "Double chance buteur : Musa Barrow (5) ou Sultan Mandash (4) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Musa Barrow (5) ou Roger Martínez (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
             "assists": 4
           },
           {
-            "goals": 4,
+            "goals": 3,
             "assists": 0
           }
         ]
@@ -492,22 +386,22 @@
         "type": "triple_scorer",
         "players": [
           "Musa Barrow",
-          "Sultan Mandash",
-          "Roger Martínez"
+          "Roger Martínez",
+          "Sultan Mandash"
         ],
         "team": "Al-Taawoun",
-        "description": "Triple chance buteur : Musa Barrow (5), Sultan Mandash (4), Roger Martínez (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Musa Barrow (5), Roger Martínez (3), Sultan Mandash (4) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
             "assists": 4
           },
           {
-            "goals": 4,
+            "goals": 3,
             "assists": 0
           },
           {
-            "goals": 3,
+            "goals": 4,
             "assists": 0
           }
         ]
@@ -515,14 +409,10 @@
     ],
     "homePhrases": [],
     "awayPhrases": [
-      "⚽️ Waleed Al-Ahmed a marqué 2 buts",
-      "🅰️ Angelo Fulgini a délivré 3 assists",
-      "⚽️ Sultan Mandash a marqué 4 buts",
-      "⚽️ Roger Martínez a marqué 3 buts",
       "⚽️ Musa Barrow a marqué 5 buts",
       "🅰️ Musa Barrow a délivré 4 assists",
-      "⚽⚽ Musa Barrow / Sultan Mandash Double chance buteur",
-      "⚽⚽⚽ Musa Barrow / Sultan Mandash / Roger Martínez Triple chance buteur"
+      "⚽⚽ Musa Barrow / Roger Martínez Double chance buteur",
+      "⚽⚽⚽ Musa Barrow / Roger Martínez / Sultan Mandash Triple chance buteur"
     ]
   },
   {
@@ -630,40 +520,20 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Onni Helén",
-        "team": "TPS",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (26 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Marius Könkkölä",
-        "team": "TPS",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Albijon Muzaci",
-          "Marius Könkkölä"
+          "Onni Helén"
         ],
         "team": "TPS",
-        "description": "Double chance buteur : Albijon Muzaci (2) ou Marius Könkkölä (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Albijon Muzaci (2) ou Onni Helén (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
             "assists": 1
           },
           {
-            "goals": 2,
+            "goals": 1,
             "assists": 0
           }
         ]
@@ -672,22 +542,22 @@
         "type": "triple_scorer",
         "players": [
           "Albijon Muzaci",
-          "Marius Könkkölä",
-          "Onni Helén"
+          "Onni Helén",
+          "Marius Könkkölä"
         ],
         "team": "TPS",
-        "description": "Triple chance buteur : Albijon Muzaci (2), Marius Könkkölä (2), Onni Helén (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Albijon Muzaci (2), Onni Helén (1), Marius Könkkölä (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
             "assists": 1
           },
           {
-            "goals": 2,
+            "goals": 1,
             "assists": 0
           },
           {
-            "goals": 1,
+            "goals": 2,
             "assists": 0
           }
         ]
@@ -699,16 +569,6 @@
         "player": "Rangel",
         "team": "KTP",
         "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Luca Weckström",
-        "team": "KTP",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (18 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -737,14 +597,11 @@
     "homePhrases": [
       "⚽️ Albijon Muzaci a marqué 2 buts",
       "🅰️ Albijon Muzaci a délivré 1 assists",
-      "⚽️ Onni Helén a marqué 1 buts",
-      "⚽️ Marius Könkkölä a marqué 2 buts",
-      "⚽⚽ Albijon Muzaci / Marius Könkkölä Double chance buteur",
-      "⚽⚽⚽ Albijon Muzaci / Marius Könkkölä / Onni Helén Triple chance buteur"
+      "⚽⚽ Albijon Muzaci / Onni Helén Double chance buteur",
+      "⚽⚽⚽ Albijon Muzaci / Onni Helén / Marius Könkkölä Triple chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Rangel a marqué 2 buts",
-      "⚽️ Luca Weckström a marqué 2 buts",
       "⚽⚽ Rangel / Luca Weckström Double chance buteur"
     ]
   },
@@ -834,16 +691,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Kerim Alajbegović",
-        "team": "Red Bull Salzburg",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Petar Ratkov",
         "team": "Red Bull Salzburg",
         "description": "a marqué 1 buts sur les 5 derniers matchs (14 depuis début saison)",
@@ -865,34 +712,24 @@
       {
         "type": "double_scorer",
         "players": [
-          "Kerim Alajbegović",
-          "Petar Ratkov"
+          "Petar Ratkov",
+          "Kerim Alajbegović"
         ],
         "team": "Red Bull Salzburg",
-        "description": "Double chance buteur : Kerim Alajbegović (2) ou Petar Ratkov (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Petar Ratkov (1) ou Kerim Alajbegović (2) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
           {
             "goals": 1,
             "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 0
           }
         ]
       }
     ],
     "awaySpots": [
-      {
-        "type": "assister",
-        "player": "Barnabás Nagy",
-        "team": "Ferencváros TC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
       {
         "type": "scorer",
         "player": "Barnabás Varga",
@@ -904,13 +741,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Aleksandar Pešić",
+        "type": "assister",
+        "player": "Barnabás Nagy",
         "team": "Ferencváros TC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -958,15 +795,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Kerim Alajbegović a marqué 2 buts",
       "⚽️ Petar Ratkov a marqué 1 buts",
       "🅰️ Petar Ratkov a délivré 1 assists",
-      "⚽⚽ Kerim Alajbegović / Petar Ratkov Double chance buteur"
+      "⚽⚽ Petar Ratkov / Kerim Alajbegović Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Barnabás Nagy a délivré 2 assists",
       "⚽️ Barnabás Varga a marqué 4 buts",
-      "⚽️ Aleksandar Pešić a marqué 2 buts",
+      "🅰️ Barnabás Nagy a délivré 2 assists",
       "⚽⚽ Barnabás Varga / Aleksandar Pešić Double chance buteur",
       "⚽⚽⚽ Barnabás Varga / Aleksandar Pešić / Barnabás Nagy Triple chance buteur"
     ]
@@ -1022,16 +857,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Fran Navarro",
-        "team": "Sporting Braga",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Ricardo Horta",
@@ -1054,26 +879,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Vasilije Kostov",
-        "team": "FK Crvena zvezda",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Vasilije Kostov",
-        "team": "FK Crvena zvezda",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Mirko Ivanić",
         "team": "FK Crvena zvezda",
         "description": "a marqué 4 buts sur les 5 derniers matchs (25 depuis début saison)",
@@ -1084,31 +889,11 @@
       },
       {
         "type": "assister",
-        "player": "Mirko Ivanić",
-        "team": "FK Crvena zvezda",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Marko Arnautović",
-        "team": "FK Crvena zvezda",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Marko Arnautović",
+        "player": "Vasilije Kostov",
         "team": "FK Crvena zvezda",
         "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
+          "goals": 3,
           "assists": 2
         }
       },
@@ -1136,10 +921,10 @@
         "players": [
           "Mirko Ivanić",
           "Vasilije Kostov",
-          "Marko Arnautović"
+          "Aleksandar Katai"
         ],
         "team": "FK Crvena zvezda",
-        "description": "Triple chance buteur : Mirko Ivanić (4), Vasilije Kostov (3), Marko Arnautović (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Mirko Ivanić (4), Vasilije Kostov (3), Aleksandar Katai (0) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 4,
@@ -1150,26 +935,21 @@
             "assists": 2
           },
           {
-            "goals": 2,
-            "assists": 2
+            "goals": 0,
+            "assists": 0
           }
         ]
       }
     ],
     "homePhrases": [
       "⚽️ Ricardo Horta a marqué 2 buts",
-      "⚽️ Fran Navarro a marqué 2 buts",
       "⚽⚽ Ricardo Horta / Fran Navarro Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Vasilije Kostov a marqué 3 buts",
-      "🅰️ Vasilije Kostov a délivré 2 assists",
       "⚽️ Mirko Ivanić a marqué 4 buts",
-      "🅰️ Mirko Ivanić a délivré 1 assists",
-      "⚽️ Marko Arnautović a marqué 2 buts",
-      "🅰️ Marko Arnautović a délivré 2 assists",
+      "🅰️ Vasilije Kostov a délivré 2 assists",
       "⚽⚽ Mirko Ivanić / Vasilije Kostov Double chance buteur",
-      "⚽⚽⚽ Mirko Ivanić / Vasilije Kostov / Marko Arnautović Triple chance buteur"
+      "⚽⚽⚽ Mirko Ivanić / Vasilije Kostov / Aleksandar Katai Triple chance buteur"
     ]
   },
   {
@@ -1214,12 +994,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Anderson Talisca",
+        "player": "Sebastian Szymański",
         "team": "Fenerbahçe",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (16 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 2,
-          "assists": 1
+          "assists": 0
         }
       },
       {
@@ -1233,31 +1013,21 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Sebastian Szymański",
-        "team": "Fenerbahçe",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Anderson Talisca",
-          "Sebastian Szymański"
+          "Sebastian Szymański",
+          "Anderson Talisca"
         ],
         "team": "Fenerbahçe",
-        "description": "Double chance buteur : Anderson Talisca (2) ou Sebastian Szymański (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Sebastian Szymański (2) ou Anderson Talisca (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           }
         ]
       }
@@ -1265,12 +1035,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Angelo Stiller",
+        "player": "Ermedin Demirović",
         "team": "VfB Stuttgart",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (24 depuis début saison)",
         "recentMatches": {
           "goals": 1,
-          "assists": 3
+          "assists": 0
         }
       },
       {
@@ -1284,64 +1054,38 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Bilal El Khannouss",
-        "team": "VfB Stuttgart",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Bilal El Khannouss",
-        "team": "VfB Stuttgart",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Ermedin Demirović",
-        "team": "VfB Stuttgart",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Bilal El Khannouss",
-          "Angelo Stiller"
+          "Ermedin Demirović",
+          "Bilal El Khannouss"
         ],
         "team": "VfB Stuttgart",
-        "description": "Double chance buteur : Bilal El Khannouss (2) ou Angelo Stiller (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ermedin Demirović (1) ou Bilal El Khannouss (2) buts sur les 5 derniers matchs",
         "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
           {
             "goals": 2,
             "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 3
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
+          "Ermedin Demirović",
           "Bilal El Khannouss",
-          "Angelo Stiller",
-          "Ermedin Demirović"
+          "Angelo Stiller"
         ],
         "team": "VfB Stuttgart",
-        "description": "Triple chance buteur : Bilal El Khannouss (2), Angelo Stiller (1), Ermedin Demirović (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Ermedin Demirović (1), Bilal El Khannouss (2), Angelo Stiller (1) buts sur les 5 derniers matchs",
         "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 0
+          },
           {
             "goals": 2,
             "assists": 1
@@ -1349,28 +1093,20 @@
           {
             "goals": 1,
             "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 0
           }
         ]
       }
     ],
     "homePhrases": [
-      "⚽️ Anderson Talisca a marqué 2 buts",
-      "🅰️ Anderson Talisca a délivré 1 assists",
       "⚽️ Sebastian Szymański a marqué 2 buts",
-      "⚽⚽ Anderson Talisca / Sebastian Szymański Double chance buteur"
+      "🅰️ Anderson Talisca a délivré 1 assists",
+      "⚽⚽ Sebastian Szymański / Anderson Talisca Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Angelo Stiller a marqué 1 buts",
-      "🅰️ Angelo Stiller a délivré 3 assists",
-      "⚽️ Bilal El Khannouss a marqué 2 buts",
-      "🅰️ Bilal El Khannouss a délivré 1 assists",
       "⚽️ Ermedin Demirović a marqué 1 buts",
-      "⚽⚽ Bilal El Khannouss / Angelo Stiller Double chance buteur",
-      "⚽⚽⚽ Bilal El Khannouss / Angelo Stiller / Ermedin Demirović Triple chance buteur"
+      "🅰️ Angelo Stiller a délivré 3 assists",
+      "⚽⚽ Ermedin Demirović / Bilal El Khannouss Double chance buteur",
+      "⚽⚽⚽ Ermedin Demirović / Bilal El Khannouss / Angelo Stiller Triple chance buteur"
     ]
   },
   {
@@ -1435,71 +1171,41 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Philip Otele",
-        "team": "Basel",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (16 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Philip Otele",
-        "team": "Basel",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Albian Ajeti",
-        "team": "Basel",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Philip Otele",
-          "Xherdan Shaqiri"
+          "Xherdan Shaqiri",
+          "Philip Otele"
         ],
         "team": "Basel",
-        "description": "Double chance buteur : Philip Otele (3) ou Xherdan Shaqiri (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Xherdan Shaqiri (2) ou Philip Otele (3) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
           {
             "goals": 2,
             "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 1
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
-          "Philip Otele",
           "Xherdan Shaqiri",
+          "Philip Otele",
           "Albian Ajeti"
         ],
         "team": "Basel",
-        "description": "Triple chance buteur : Philip Otele (3), Xherdan Shaqiri (2), Albian Ajeti (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Xherdan Shaqiri (2), Philip Otele (3), Albian Ajeti (2) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
           {
             "goals": 2,
             "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 1
           },
           {
             "goals": 2,
@@ -1512,11 +1218,8 @@
     "awayPhrases": [
       "⚽️ Xherdan Shaqiri a marqué 2 buts",
       "🅰️ Xherdan Shaqiri a délivré 2 assists",
-      "⚽️ Philip Otele a marqué 3 buts",
-      "🅰️ Philip Otele a délivré 1 assists",
-      "⚽️ Albian Ajeti a marqué 2 buts",
-      "⚽⚽ Philip Otele / Xherdan Shaqiri Double chance buteur",
-      "⚽⚽⚽ Philip Otele / Xherdan Shaqiri / Albian Ajeti Triple chance buteur"
+      "⚽⚽ Xherdan Shaqiri / Philip Otele Double chance buteur",
+      "⚽⚽⚽ Xherdan Shaqiri / Philip Otele / Albian Ajeti Triple chance buteur"
     ]
   },
   {
@@ -1573,12 +1276,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Jens Odgaard",
+        "player": "Riccardo Orsolini",
         "team": "Bologna",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (37 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
+          "goals": 4,
+          "assists": 0
         }
       },
       {
@@ -1589,16 +1292,6 @@
         "recentMatches": {
           "goals": 2,
           "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Riccardo Orsolini",
-        "team": "Bologna",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (37 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
         }
       },
       {
@@ -1625,9 +1318,8 @@
       "⚽️ Florin Tănase a marqué 3 buts"
     ],
     "awayPhrases": [
-      "⚽️ Jens Odgaard a marqué 2 buts",
-      "🅰️ Jens Odgaard a délivré 1 assists",
       "⚽️ Riccardo Orsolini a marqué 4 buts",
+      "🅰️ Jens Odgaard a délivré 1 assists",
       "⚽⚽ Riccardo Orsolini / Jens Odgaard Double chance buteur"
     ]
   },
@@ -1684,66 +1376,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Lucas Digne",
-        "team": "Aston Villa",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Boubacar Kamara",
-        "team": "Aston Villa",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Morgan Rogers",
-        "team": "Aston Villa",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Morgan Rogers",
-        "team": "Aston Villa",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "John McGinn",
-        "team": "Aston Villa",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Donyell Malen",
-        "team": "Aston Villa",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "scorer",
         "player": "Emiliano Buendía",
         "team": "Aston Villa",
@@ -1755,50 +1387,50 @@
       },
       {
         "type": "assister",
-        "player": "Emiliano Buendía",
+        "player": "Lucas Digne",
         "team": "Aston Villa",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 1
+          "goals": 0,
+          "assists": 2
         }
       },
       {
         "type": "double_scorer",
         "players": [
-          "John McGinn",
-          "Emiliano Buendía"
+          "Emiliano Buendía",
+          "John McGinn"
         ],
         "team": "Aston Villa",
-        "description": "Double chance buteur : John McGinn (3) ou Emiliano Buendía (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Emiliano Buendía (3) ou John McGinn (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 0
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
-          "John McGinn",
           "Emiliano Buendía",
+          "John McGinn",
           "Donyell Malen"
         ],
         "team": "Aston Villa",
-        "description": "Triple chance buteur : John McGinn (3), Emiliano Buendía (3), Donyell Malen (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Emiliano Buendía (3), John McGinn (3), Donyell Malen (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 3,
-            "assists": 1
+            "assists": 0
           },
           {
             "goals": 2,
@@ -1811,16 +1443,10 @@
       "⚽️ Milan Smit a marqué 4 buts"
     ],
     "awayPhrases": [
-      "🅰️ Lucas Digne a délivré 2 assists",
-      "🅰️ Boubacar Kamara a délivré 2 assists",
-      "⚽️ Morgan Rogers a marqué 1 buts",
-      "🅰️ Morgan Rogers a délivré 2 assists",
-      "⚽️ John McGinn a marqué 3 buts",
-      "⚽️ Donyell Malen a marqué 2 buts",
       "⚽️ Emiliano Buendía a marqué 3 buts",
-      "🅰️ Emiliano Buendía a délivré 1 assists",
-      "⚽⚽ John McGinn / Emiliano Buendía Double chance buteur",
-      "⚽⚽⚽ John McGinn / Emiliano Buendía / Donyell Malen Triple chance buteur"
+      "🅰️ Lucas Digne a délivré 2 assists",
+      "⚽⚽ Emiliano Buendía / John McGinn Double chance buteur",
+      "⚽⚽⚽ Emiliano Buendía / John McGinn / Donyell Malen Triple chance buteur"
     ]
   },
   {
@@ -1864,16 +1490,6 @@
     "bttsProb": 0.62,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Jarne Steuckers",
-        "team": "KRC Genk",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (19 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Hyun-gyu Oh",
         "team": "KRC Genk",
@@ -1885,22 +1501,12 @@
       },
       {
         "type": "assister",
-        "player": "Hyun-gyu Oh",
+        "player": "Jarne Steuckers",
         "team": "KRC Genk",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (19 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Junya Ito",
-        "team": "KRC Genk",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -1950,21 +1556,11 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Antony",
+        "player": "Cucho Hernández",
         "team": "Real Betis",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (12 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Antony",
-        "team": "Real Betis",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
+          "goals": 2,
           "assists": 1
         }
       },
@@ -1979,64 +1575,38 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Abdessamad Ezzalzouli",
-        "team": "Real Betis",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Cucho Hernández",
-        "team": "Real Betis",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Cucho Hernández",
-        "team": "Real Betis",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Antony",
-          "Abdessamad Ezzalzouli"
+          "Cucho Hernández",
+          "Antony"
         ],
         "team": "Real Betis",
-        "description": "Double chance buteur : Antony (3) ou Abdessamad Ezzalzouli (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Cucho Hernández (2) ou Antony (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 1
           },
           {
-            "goals": 2,
-            "assists": 0
+            "goals": 3,
+            "assists": 1
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
+          "Cucho Hernández",
           "Antony",
-          "Abdessamad Ezzalzouli",
-          "Cucho Hernández"
+          "Abdessamad Ezzalzouli"
         ],
         "team": "Real Betis",
-        "description": "Triple chance buteur : Antony (3), Abdessamad Ezzalzouli (2), Cucho Hernández (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Cucho Hernández (2), Antony (3), Abdessamad Ezzalzouli (2) buts sur les 5 derniers matchs",
         "recentMatches": [
+          {
+            "goals": 2,
+            "assists": 1
+          },
           {
             "goals": 3,
             "assists": 1
@@ -2044,31 +1614,21 @@
           {
             "goals": 2,
             "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 1
           }
         ]
       }
     ],
     "homePhrases": [
-      "🅰️ Jarne Steuckers a délivré 2 assists",
       "⚽️ Hyun-gyu Oh a marqué 3 buts",
-      "🅰️ Hyun-gyu Oh a délivré 1 assists",
-      "⚽️ Junya Ito a marqué 2 buts",
+      "🅰️ Jarne Steuckers a délivré 2 assists",
       "⚽⚽ Hyun-gyu Oh / Junya Ito Double chance buteur",
       "⚽⚽⚽ Hyun-gyu Oh / Junya Ito / Jarne Steuckers Triple chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Antony a marqué 3 buts",
-      "🅰️ Antony a délivré 1 assists",
-      "🅰️ Pablo Fornals a délivré 4 assists",
-      "⚽️ Abdessamad Ezzalzouli a marqué 2 buts",
       "⚽️ Cucho Hernández a marqué 2 buts",
-      "🅰️ Cucho Hernández a délivré 1 assists",
-      "⚽⚽ Antony / Abdessamad Ezzalzouli Double chance buteur",
-      "⚽⚽⚽ Antony / Abdessamad Ezzalzouli / Cucho Hernández Triple chance buteur"
+      "🅰️ Pablo Fornals a délivré 4 assists",
+      "⚽⚽ Cucho Hernández / Antony Double chance buteur",
+      "⚽⚽⚽ Cucho Hernández / Antony / Abdessamad Ezzalzouli Triple chance buteur"
     ]
   },
   {
@@ -2113,16 +1673,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Bård Finne",
-        "team": "SK Brann",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Sævar Atli Magnússon",
         "team": "SK Brann",
         "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
@@ -2134,11 +1684,11 @@
       {
         "type": "double_scorer",
         "players": [
-          "Bård Finne",
-          "Sævar Atli Magnússon"
+          "Sævar Atli Magnússon",
+          "Bård Finne"
         ],
         "team": "SK Brann",
-        "description": "Double chance buteur : Bård Finne (2) ou Sævar Atli Magnússon (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Sævar Atli Magnússon (2) ou Bård Finne (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
@@ -2193,9 +1743,8 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Bård Finne a marqué 2 buts",
       "⚽️ Sævar Atli Magnússon a marqué 2 buts",
-      "⚽⚽ Bård Finne / Sævar Atli Magnússon Double chance buteur"
+      "⚽⚽ Sævar Atli Magnússon / Bård Finne Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ James Tavernier a marqué 2 buts",
@@ -2289,36 +1838,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Abdoul Ouattara",
-        "team": "RC Strasbourg",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Diego Moreira",
-        "team": "RC Strasbourg",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Diego Moreira",
-        "team": "RC Strasbourg",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Joaquin Panichelli",
         "team": "RC Strasbourg",
         "description": "a marqué 5 buts sur les 5 derniers matchs (8 depuis début saison)",
@@ -2329,11 +1848,11 @@
       },
       {
         "type": "assister",
-        "player": "Félix Lemaréchal",
+        "player": "Diego Moreira",
         "team": "RC Strasbourg",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
-          "goals": 0,
+          "goals": 1,
           "assists": 2
         }
       },
@@ -2384,42 +1903,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Sergio Lozano",
-        "team": "Jagiellonia Białystok",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Jesús Imaz",
         "team": "Jagiellonia Białystok",
         "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jesús Imaz",
-        "team": "Jagiellonia Białystok",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Afimico Pululu",
-        "team": "Jagiellonia Białystok",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
         }
       },
       {
@@ -2435,39 +1924,39 @@
       {
         "type": "double_scorer",
         "players": [
-          "Sergio Lozano",
-          "Jesús Imaz"
+          "Jesús Imaz",
+          "Sergio Lozano"
         ],
         "team": "Jagiellonia Białystok",
-        "description": "Double chance buteur : Sergio Lozano (4) ou Jesús Imaz (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Jesús Imaz (3) ou Sergio Lozano (4) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 0
-          },
           {
             "goals": 3,
             "assists": 1
+          },
+          {
+            "goals": 4,
+            "assists": 0
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
-          "Sergio Lozano",
           "Jesús Imaz",
+          "Sergio Lozano",
           "Afimico Pululu"
         ],
         "team": "Jagiellonia Białystok",
-        "description": "Triple chance buteur : Sergio Lozano (4), Jesús Imaz (3), Afimico Pululu (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Jesús Imaz (3), Sergio Lozano (4), Afimico Pululu (2) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 0
-          },
           {
             "goals": 3,
             "assists": 1
+          },
+          {
+            "goals": 4,
+            "assists": 0
           },
           {
             "goals": 2,
@@ -2477,22 +1966,16 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Abdoul Ouattara a marqué 3 buts",
-      "⚽️ Diego Moreira a marqué 1 buts",
-      "🅰️ Diego Moreira a délivré 2 assists",
       "⚽️ Joaquin Panichelli a marqué 5 buts",
-      "🅰️ Félix Lemaréchal a délivré 2 assists",
+      "🅰️ Diego Moreira a délivré 2 assists",
       "⚽⚽ Joaquin Panichelli / Abdoul Ouattara Double chance buteur",
       "⚽⚽⚽ Joaquin Panichelli / Abdoul Ouattara / Diego Moreira Triple chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Sergio Lozano a marqué 4 buts",
       "⚽️ Jesús Imaz a marqué 3 buts",
-      "🅰️ Jesús Imaz a délivré 1 assists",
-      "⚽️ Afimico Pululu a marqué 2 buts",
       "🅰️ Afimico Pululu a délivré 2 assists",
-      "⚽⚽ Sergio Lozano / Jesús Imaz Double chance buteur",
-      "⚽⚽⚽ Sergio Lozano / Jesús Imaz / Afimico Pululu Triple chance buteur"
+      "⚽⚽ Jesús Imaz / Sergio Lozano Double chance buteur",
+      "⚽⚽⚽ Jesús Imaz / Sergio Lozano / Afimico Pululu Triple chance buteur"
     ]
   },
   {
@@ -2556,26 +2039,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Daniel Adu-Adjei",
-        "team": "HNK Rijeka",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Daniel Adu-Adjei",
-        "team": "HNK Rijeka",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Toni Fruk",
@@ -2597,36 +2060,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Patrik Vydra",
-        "team": "AC Sparta Praha",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Matěj Ryneš",
-        "team": "AC Sparta Praha",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Albion Rrahmani",
-        "team": "AC Sparta Praha",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "scorer",
         "player": "Veljko Birmančević",
         "team": "AC Sparta Praha",
@@ -2637,50 +2070,30 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Lukáš Sadílek",
-        "team": "AC Sparta Praha",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
         "type": "assister",
-        "player": "Lukáš Sadílek",
+        "player": "Patrik Vydra",
         "team": "AC Sparta Praha",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
+          "goals": 0,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Martin Suchomel",
-        "team": "AC Sparta Praha",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
         "type": "double_scorer",
         "players": [
-          "Martin Suchomel",
-          "Veljko Birmančević"
+          "Veljko Birmančević",
+          "Martin Suchomel"
         ],
         "team": "AC Sparta Praha",
-        "description": "Double chance buteur : Martin Suchomel (3) ou Veljko Birmančević (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Veljko Birmančević (2) ou Martin Suchomel (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 0
           },
           {
-            "goals": 2,
+            "goals": 3,
             "assists": 0
           }
         ]
@@ -2688,19 +2101,19 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Martin Suchomel",
           "Veljko Birmančević",
+          "Martin Suchomel",
           "Albion Rrahmani"
         ],
         "team": "AC Sparta Praha",
-        "description": "Triple chance buteur : Martin Suchomel (3), Veljko Birmančević (2), Albion Rrahmani (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Veljko Birmančević (2), Martin Suchomel (3), Albion Rrahmani (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 0
           },
           {
-            "goals": 2,
+            "goals": 3,
             "assists": 0
           },
           {
@@ -2713,20 +2126,13 @@
     "homePhrases": [
       "⚽️ Toni Fruk a marqué 2 buts",
       "🅰️ Toni Fruk a délivré 1 assists",
-      "⚽️ Daniel Adu-Adjei a marqué 2 buts",
-      "🅰️ Daniel Adu-Adjei a délivré 1 assists",
       "⚽⚽ Toni Fruk / Daniel Adu-Adjei Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Patrik Vydra a délivré 2 assists",
-      "🅰️ Matěj Ryneš a délivré 2 assists",
-      "⚽️ Albion Rrahmani a marqué 1 buts",
       "⚽️ Veljko Birmančević a marqué 2 buts",
-      "⚽️ Lukáš Sadílek a marqué 1 buts",
-      "🅰️ Lukáš Sadílek a délivré 2 assists",
-      "⚽️ Martin Suchomel a marqué 3 buts",
-      "⚽⚽ Martin Suchomel / Veljko Birmančević Double chance buteur",
-      "⚽⚽⚽ Martin Suchomel / Veljko Birmančević / Albion Rrahmani Triple chance buteur"
+      "🅰️ Patrik Vydra a délivré 2 assists",
+      "⚽⚽ Veljko Birmančević / Martin Suchomel Double chance buteur",
+      "⚽⚽⚽ Veljko Birmančević / Martin Suchomel / Albion Rrahmani Triple chance buteur"
     ]
   },
   {
@@ -2770,16 +2176,6 @@
     "bttsProb": 0.46,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Niclas Eliasson",
-        "team": "AEK Athens",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Frantzdy Pierrot",
         "team": "AEK Athens",
@@ -2787,6 +2183,16 @@
         "recentMatches": {
           "goals": 2,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Niclas Eliasson",
+        "team": "AEK Athens",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -2822,8 +2228,8 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Niclas Eliasson a délivré 2 assists",
       "⚽️ Frantzdy Pierrot a marqué 2 buts",
+      "🅰️ Niclas Eliasson a délivré 2 assists",
       "⚽⚽ Frantzdy Pierrot / Niclas Eliasson Double chance buteur"
     ],
     "awayPhrases": [
@@ -2903,26 +2309,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Ryan Mmaee",
-        "team": "Omonia Nicosia",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ryan Mmaee",
-        "team": "Omonia Nicosia",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Willy Semedo",
@@ -2948,8 +2334,6 @@
     "awayPhrases": [
       "⚽️ Willy Semedo a marqué 3 buts",
       "🅰️ Willy Semedo a délivré 2 assists",
-      "⚽️ Ryan Mmaee a marqué 2 buts",
-      "🅰️ Ryan Mmaee a délivré 1 assists",
       "⚽⚽ Willy Semedo / Ryan Mmaee Double chance buteur"
     ]
   },
@@ -3016,26 +2400,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Agon Sadiku",
-        "team": "KuPS",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Mohamed Toure",
-        "team": "KuPS",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Piotr Parzyszek",
@@ -3084,8 +2448,6 @@
     ],
     "awayPhrases": [
       "⚽️ Piotr Parzyszek a marqué 4 buts",
-      "⚽️ Agon Sadiku a marqué 2 buts",
-      "⚽️ Mohamed Toure a marqué 4 buts",
       "⚽⚽ Piotr Parzyszek / Mohamed Toure Double chance buteur",
       "⚽⚽⚽ Piotr Parzyszek / Mohamed Toure / Agon Sadiku Triple chance buteur"
     ]
@@ -3141,16 +2503,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Fabrice Tamba",
-        "team": "KF Shkëndija",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Besart Ibraimi",
@@ -3173,12 +2525,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Kerr Mcinroy",
+        "player": "Harry Wood",
         "team": "Shelbourne",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (3 depuis début saison)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 1,
-          "assists": 4
+          "assists": 1
         }
       },
       {
@@ -3192,56 +2544,33 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Harry Wood",
-        "team": "Shelbourne",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Harry Wood",
-        "team": "Shelbourne",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Kerr Mcinroy",
-          "Harry Wood"
+          "Harry Wood",
+          "Kerr Mcinroy"
         ],
         "team": "Shelbourne",
-        "description": "Double chance buteur : Kerr Mcinroy (1) ou Harry Wood (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Harry Wood (1) ou Kerr Mcinroy (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 1,
-            "assists": 4
+            "assists": 1
           },
           {
             "goals": 1,
-            "assists": 1
+            "assists": 4
           }
         ]
       }
     ],
     "homePhrases": [
       "⚽️ Besart Ibraimi a marqué 2 buts",
-      "⚽️ Fabrice Tamba a marqué 1 buts",
       "⚽⚽ Besart Ibraimi / Fabrice Tamba Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Kerr Mcinroy a marqué 1 buts",
-      "🅰️ Kerr Mcinroy a délivré 4 assists",
       "⚽️ Harry Wood a marqué 1 buts",
-      "🅰️ Harry Wood a délivré 1 assists",
-      "⚽⚽ Kerr Mcinroy / Harry Wood Double chance buteur"
+      "🅰️ Kerr Mcinroy a délivré 4 assists",
+      "⚽⚽ Harry Wood / Kerr Mcinroy Double chance buteur"
     ]
   },
   {
@@ -3298,12 +2627,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Unai López",
+        "player": "Jorge de Frutos",
         "team": "Rayo Vallecano",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (4 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (16 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 2,
+          "assists": 0
         }
       },
       {
@@ -3314,36 +2643,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Jorge de Frutos",
-        "team": "Rayo Vallecano",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (16 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Álvaro García",
-        "team": "Rayo Vallecano",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Álvaro García",
-        "team": "Rayo Vallecano",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
         }
       },
       {
@@ -3394,11 +2693,8 @@
       "⚽️ Mikkel Rygaard a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Unai López a marqué 1 buts",
-      "🅰️ Unai López a délivré 2 assists",
       "⚽️ Jorge de Frutos a marqué 2 buts",
-      "⚽️ Álvaro García a marqué 2 buts",
-      "🅰️ Álvaro García a délivré 1 assists",
+      "🅰️ Unai López a délivré 2 assists",
       "⚽⚽ Jorge de Frutos / Álvaro García Double chance buteur",
       "⚽⚽⚽ Jorge de Frutos / Álvaro García / Unai López Triple chance buteur"
     ]
@@ -3446,42 +2742,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Franck Kessié",
+        "player": "Ivan Toney",
         "team": "Al-Ahli",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (41 depuis début saison)",
         "recentMatches": {
           "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Riyad Mahrez",
-        "team": "Al-Ahli",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
           "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Riyad Mahrez",
-        "team": "Al-Ahli",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (25 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Matheus Gonçalves",
-        "team": "Al-Ahli",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
         }
       },
       {
@@ -3495,61 +2761,41 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Ivan Toney",
-        "team": "Al-Ahli",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (41 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ivan Toney",
-        "team": "Al-Ahli",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Franck Kessié",
-          "Ivan Toney"
+          "Ivan Toney",
+          "Franck Kessié"
         ],
         "team": "Al-Ahli",
-        "description": "Double chance buteur : Franck Kessié (2) ou Ivan Toney (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ivan Toney (2) ou Franck Kessié (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           }
         ]
       },
       {
         "type": "triple_scorer",
         "players": [
-          "Franck Kessié",
           "Ivan Toney",
+          "Franck Kessié",
           "Riyad Mahrez"
         ],
         "team": "Al-Ahli",
-        "description": "Triple chance buteur : Franck Kessié (2), Ivan Toney (2), Riyad Mahrez (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Ivan Toney (2), Franck Kessié (2), Riyad Mahrez (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           },
           {
             "goals": 1,
@@ -3560,15 +2806,10 @@
     ],
     "homePhrases": [],
     "awayPhrases": [
-      "⚽️ Franck Kessié a marqué 2 buts",
-      "⚽️ Riyad Mahrez a marqué 1 buts",
-      "🅰️ Riyad Mahrez a délivré 1 assists",
-      "⚽️ Matheus Gonçalves a marqué 1 buts",
-      "🅰️ Matheus Gonçalves a délivré 3 assists",
       "⚽️ Ivan Toney a marqué 2 buts",
-      "🅰️ Ivan Toney a délivré 1 assists",
-      "⚽⚽ Franck Kessié / Ivan Toney Double chance buteur",
-      "⚽⚽⚽ Franck Kessié / Ivan Toney / Riyad Mahrez Triple chance buteur"
+      "🅰️ Matheus Gonçalves a délivré 3 assists",
+      "⚽⚽ Ivan Toney / Franck Kessié Double chance buteur",
+      "⚽⚽⚽ Ivan Toney / Franck Kessié / Riyad Mahrez Triple chance buteur"
     ]
   },
   {
@@ -3634,26 +2875,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Amar Memić",
-        "team": "Viktoria Plzeň",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Matěj Vydra",
-        "team": "Viktoria Plzeň",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (30 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "scorer",
         "player": "Rafiu Durosinmi",
         "team": "Viktoria Plzeň",
@@ -3661,6 +2882,16 @@
         "recentMatches": {
           "goals": 4,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Amar Memić",
+        "team": "Viktoria Plzeň",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -3712,9 +2943,8 @@
       "🅰️ Matías Soulé a délivré 1 assists"
     ],
     "awayPhrases": [
-      "🅰️ Amar Memić a délivré 2 assists",
-      "⚽️ Matěj Vydra a marqué 1 buts",
       "⚽️ Rafiu Durosinmi a marqué 4 buts",
+      "🅰️ Amar Memić a délivré 2 assists",
       "⚽⚽ Rafiu Durosinmi / Matěj Vydra Double chance buteur",
       "⚽⚽⚽ Rafiu Durosinmi / Matěj Vydra / Amar Memić Triple chance buteur"
     ]
@@ -3770,42 +3000,12 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Olivier Giroud",
-        "team": "Lille",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
         "type": "assister",
         "player": "Olivier Giroud",
         "team": "Lille",
         "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
         "recentMatches": {
           "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Hamza Igamane",
-        "team": "Lille",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Hamza Igamane",
-        "team": "Lille",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
           "assists": 1
         }
       },
@@ -3856,12 +3056,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Andrija Živković",
+        "player": "Giannis Konstantelias",
         "team": "PAOK",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (14 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 2,
+          "assists": 0
         }
       },
       {
@@ -3872,16 +3072,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Giannis Konstantelias",
-        "team": "PAOK",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
         }
       },
       {
@@ -3906,17 +3096,13 @@
     ],
     "homePhrases": [
       "⚽️ Hakon Arnar Haraldsson a marqué 2 buts",
-      "⚽️ Olivier Giroud a marqué 1 buts",
       "🅰️ Olivier Giroud a délivré 1 assists",
-      "⚽️ Hamza Igamane a marqué 2 buts",
-      "🅰️ Hamza Igamane a délivré 1 assists",
       "⚽⚽ Hakon Arnar Haraldsson / Hamza Igamane Double chance buteur",
       "⚽⚽⚽ Hakon Arnar Haraldsson / Hamza Igamane / Olivier Giroud Triple chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Andrija Živković a marqué 1 buts",
-      "🅰️ Andrija Živković a délivré 2 assists",
       "⚽️ Giannis Konstantelias a marqué 2 buts",
+      "🅰️ Andrija Živković a délivré 2 assists",
       "⚽⚽ Giannis Konstantelias / Andrija Živković Double chance buteur"
     ]
   },
@@ -3974,26 +3160,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Tomi Horvat",
-        "team": "SK Sturm Graz",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Tomi Horvat",
-        "team": "SK Sturm Graz",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (14 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Otar Kiteishvili",
         "team": "SK Sturm Graz",
         "description": "a marqué 3 buts sur les 5 derniers matchs (22 depuis début saison)",
@@ -4004,12 +3170,12 @@
       },
       {
         "type": "assister",
-        "player": "Otar Kiteishvili",
+        "player": "Tomi Horvat",
         "team": "SK Sturm Graz",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (14 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 1
+          "goals": 1,
+          "assists": 3
         }
       },
       {
@@ -4036,10 +3202,8 @@
       "⚽️ Kelechi Iheanacho a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Tomi Horvat a marqué 1 buts",
-      "🅰️ Tomi Horvat a délivré 3 assists",
       "⚽️ Otar Kiteishvili a marqué 3 buts",
-      "🅰️ Otar Kiteishvili a délivré 1 assists",
+      "🅰️ Tomi Horvat a délivré 3 assists",
       "⚽⚽ Otar Kiteishvili / Tomi Horvat Double chance buteur"
     ]
   },
@@ -4097,52 +3261,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Mads Bech Sørensen",
+        "player": "Franculino Djú",
         "team": "FC Midtjylland",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Mads Bech Sørensen",
-        "team": "FC Midtjylland",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Valdemar Byskov",
-        "team": "FC Midtjylland",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (34 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Darío Osorio",
-        "team": "FC Midtjylland",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Darío Osorio",
-        "team": "FC Midtjylland",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
         }
       },
       {
@@ -4156,33 +3280,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Franculino Djú",
-        "team": "FC Midtjylland",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (34 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Ousmane Diao",
-        "team": "FC Midtjylland",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Valdemar Byskov",
-          "Franculino Djú"
+          "Franculino Djú",
+          "Valdemar Byskov"
         ],
         "team": "FC Midtjylland",
-        "description": "Double chance buteur : Valdemar Byskov (3) ou Franculino Djú (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Franculino Djú (3) ou Valdemar Byskov (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
@@ -4197,12 +3301,12 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Valdemar Byskov",
           "Franculino Djú",
+          "Valdemar Byskov",
           "Ousmane Diao"
         ],
         "team": "FC Midtjylland",
-        "description": "Triple chance buteur : Valdemar Byskov (3), Franculino Djú (3), Ousmane Diao (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Franculino Djú (3), Valdemar Byskov (3), Ousmane Diao (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
@@ -4223,16 +3327,10 @@
       "⚽️ Ido Shahar a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Mads Bech Sørensen a marqué 1 buts",
-      "🅰️ Mads Bech Sørensen a délivré 2 assists",
-      "⚽️ Valdemar Byskov a marqué 3 buts",
-      "⚽️ Darío Osorio a marqué 1 buts",
-      "🅰️ Darío Osorio a délivré 3 assists",
-      "🅰️ Aral Şimşir a délivré 4 assists",
       "⚽️ Franculino Djú a marqué 3 buts",
-      "⚽️ Ousmane Diao a marqué 2 buts",
-      "⚽⚽ Valdemar Byskov / Franculino Djú Double chance buteur",
-      "⚽⚽⚽ Valdemar Byskov / Franculino Djú / Ousmane Diao Triple chance buteur"
+      "🅰️ Aral Şimşir a délivré 4 assists",
+      "⚽⚽ Franculino Djú / Valdemar Byskov Double chance buteur",
+      "⚽⚽⚽ Franculino Djú / Valdemar Byskov / Ousmane Diao Triple chance buteur"
     ]
   },
   {
@@ -4276,16 +3374,6 @@
     "bttsProb": 0.62,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Edimilson Fernandes",
-        "team": "Young Boys",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Chris Bedia",
         "team": "Young Boys",
@@ -4293,6 +3381,16 @@
         "recentMatches": {
           "goals": 3,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Edimilson Fernandes",
+        "team": "Young Boys",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -4327,16 +3425,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Ivajlo Chochev",
-        "team": "Ludogorets",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
         "type": "assister",
         "player": "Ivajlo Chochev",
         "team": "Ludogorets",
@@ -4367,13 +3455,12 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Edimilson Fernandes a délivré 2 assists",
       "⚽️ Chris Bedia a marqué 3 buts",
+      "🅰️ Edimilson Fernandes a délivré 2 assists",
       "⚽⚽ Chris Bedia / Edimilson Fernandes Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Petar Stanić a marqué 2 buts",
-      "⚽️ Ivajlo Chochev a marqué 1 buts",
       "🅰️ Ivajlo Chochev a délivré 1 assists",
       "⚽⚽ Petar Stanić / Ivajlo Chochev Double chance buteur"
     ]
@@ -4487,16 +3574,6 @@
     "bttsProb": 0.52,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Morgan Gibbs-White",
-        "team": "Nottingham Forest",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (21 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Igor Jesus",
         "team": "Nottingham Forest",
@@ -4504,6 +3581,16 @@
         "recentMatches": {
           "goals": 2,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Morgan Gibbs-White",
+        "team": "Nottingham Forest",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (21 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -4528,26 +3615,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Pepê",
-        "team": "FC Porto",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "William Gomes",
-        "team": "FC Porto",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "scorer",
         "player": "Samu Aghehowa",
         "team": "FC Porto",
@@ -4555,6 +3622,16 @@
         "recentMatches": {
           "goals": 4,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Pepê",
+        "team": "FC Porto",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -4602,14 +3679,13 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Morgan Gibbs-White a délivré 2 assists",
       "⚽️ Igor Jesus a marqué 2 buts",
+      "🅰️ Morgan Gibbs-White a délivré 2 assists",
       "⚽⚽ Igor Jesus / Morgan Gibbs-White Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Pepê a délivré 2 assists",
-      "⚽️ William Gomes a marqué 2 buts",
       "⚽️ Samu Aghehowa a marqué 4 buts",
+      "🅰️ Pepê a délivré 2 assists",
       "⚽⚽ Samu Aghehowa / William Gomes Double chance buteur",
       "⚽⚽⚽ Samu Aghehowa / William Gomes / Pepê Triple chance buteur"
     ]
@@ -4655,16 +3731,6 @@
     "bttsProb": 0.56,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Óscar Mingueza",
-        "team": "Celta Vigo",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Borja Iglesias",
         "team": "Celta Vigo",
@@ -4675,13 +3741,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Iago Aspas",
+        "type": "assister",
+        "player": "Óscar Mingueza",
         "team": "Celta Vigo",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -4750,16 +3816,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Terem Moffi",
-        "team": "Nice",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Sofiane Diop",
@@ -4780,16 +3836,14 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Óscar Mingueza a délivré 2 assists",
       "⚽️ Borja Iglesias a marqué 3 buts",
-      "⚽️ Iago Aspas a marqué 2 buts",
+      "🅰️ Óscar Mingueza a délivré 2 assists",
       "⚽⚽ Borja Iglesias / Iago Aspas Double chance buteur",
       "⚽⚽⚽ Borja Iglesias / Iago Aspas / Óscar Mingueza Triple chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Sofiane Diop a marqué 4 buts",
       "🅰️ Sofiane Diop a délivré 1 assists",
-      "⚽️ Terem Moffi a marqué 2 buts",
       "⚽⚽ Sofiane Diop / Terem Moffi Double chance buteur"
     ]
   },
@@ -4847,52 +3901,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Monsef Bakrar",
+        "player": "Dion Drena Beljo",
         "team": "GNK Dinamo Zagreb",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
+          "goals": 3,
           "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Monsef Bakrar",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Sandro Kulenović",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (32 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Sandro Kulenović",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Arber Hoxha",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
         }
       },
       {
@@ -4906,60 +3920,20 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Dejan Ljubičić",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Dejan Ljubičić",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Dion Drena Beljo",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Dion Drena Beljo",
-        "team": "GNK Dinamo Zagreb",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Dion Drena Beljo",
-          "Monsef Bakrar"
+          "Sandro Kulenović"
         ],
         "team": "GNK Dinamo Zagreb",
-        "description": "Double chance buteur : Dion Drena Beljo (3) ou Monsef Bakrar (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Dion Drena Beljo (3) ou Sandro Kulenović (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 1
           },
           {
-            "goals": 2,
+            "goals": 1,
             "assists": 1
           }
         ]
@@ -4968,23 +3942,23 @@
         "type": "triple_scorer",
         "players": [
           "Dion Drena Beljo",
-          "Monsef Bakrar",
-          "Dejan Ljubičić"
+          "Sandro Kulenović",
+          "Monsef Bakrar"
         ],
         "team": "GNK Dinamo Zagreb",
-        "description": "Triple chance buteur : Dion Drena Beljo (3), Monsef Bakrar (2), Dejan Ljubičić (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Dion Drena Beljo (3), Sandro Kulenović (1), Monsef Bakrar (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
             "assists": 1
           },
           {
-            "goals": 2,
+            "goals": 1,
             "assists": 1
           },
           {
             "goals": 2,
-            "assists": 2
+            "assists": 1
           }
         ]
       }
@@ -4993,18 +3967,10 @@
       "⚽️ Emmanuel Ekong a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Monsef Bakrar a marqué 2 buts",
-      "🅰️ Monsef Bakrar a délivré 1 assists",
-      "⚽️ Sandro Kulenović a marqué 1 buts",
-      "🅰️ Sandro Kulenović a délivré 1 assists",
-      "⚽️ Arber Hoxha a marqué 1 buts",
-      "🅰️ Arber Hoxha a délivré 2 assists",
-      "⚽️ Dejan Ljubičić a marqué 2 buts",
-      "🅰️ Dejan Ljubičić a délivré 2 assists",
       "⚽️ Dion Drena Beljo a marqué 3 buts",
-      "🅰️ Dion Drena Beljo a délivré 1 assists",
-      "⚽⚽ Dion Drena Beljo / Monsef Bakrar Double chance buteur",
-      "⚽⚽⚽ Dion Drena Beljo / Monsef Bakrar / Dejan Ljubičić Triple chance buteur"
+      "🅰️ Arber Hoxha a délivré 2 assists",
+      "⚽⚽ Dion Drena Beljo / Sandro Kulenović Double chance buteur",
+      "⚽⚽⚽ Dion Drena Beljo / Sandro Kulenović / Monsef Bakrar Triple chance buteur"
     ]
   },
   {
@@ -5048,26 +4014,6 @@
     "bttsProb": 0.76,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Sven Mijnans",
-        "team": "AZ Alkmaar",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Troy Parrott",
-        "team": "AZ Alkmaar",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (31 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "scorer",
         "player": "Mexx Meerdink",
         "team": "AZ Alkmaar",
@@ -5079,12 +4025,12 @@
       },
       {
         "type": "assister",
-        "player": "Mexx Meerdink",
+        "player": "Sven Mijnans",
         "team": "AZ Alkmaar",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (15 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -5153,36 +4099,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Nino Marcelli",
-        "team": "ŠK Slovan Bratislava",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Nino Marcelli",
-        "team": "ŠK Slovan Bratislava",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Mykola Kukharevych",
-        "team": "ŠK Slovan Bratislava",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Tigran Barseghyan",
@@ -5227,19 +4143,14 @@
       }
     ],
     "homePhrases": [
-      "🅰️ Sven Mijnans a délivré 2 assists",
-      "⚽️ Troy Parrott a marqué 1 buts",
       "⚽️ Mexx Meerdink a marqué 2 buts",
-      "🅰️ Mexx Meerdink a délivré 1 assists",
+      "🅰️ Sven Mijnans a délivré 2 assists",
       "⚽⚽ Mexx Meerdink / Troy Parrott Double chance buteur",
       "⚽⚽⚽ Mexx Meerdink / Troy Parrott / Sven Mijnans Triple chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Tigran Barseghyan a marqué 3 buts",
       "🅰️ Tigran Barseghyan a délivré 2 assists",
-      "⚽️ Nino Marcelli a marqué 3 buts",
-      "🅰️ Nino Marcelli a délivré 1 assists",
-      "⚽️ Mykola Kukharevych a marqué 1 buts",
       "⚽⚽ Tigran Barseghyan / Nino Marcelli Double chance buteur",
       "⚽⚽⚽ Tigran Barseghyan / Nino Marcelli / Mykola Kukharevych Triple chance buteur"
     ]
@@ -5286,12 +4197,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Daniel Mandroiu",
+        "player": "Graham Burke",
         "team": "Shamrock Rovers",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (20 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 2
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -5302,16 +4213,6 @@
         "recentMatches": {
           "goals": 2,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Graham Burke",
-        "team": "Shamrock Rovers",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -5337,12 +4238,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Mario Kvesić",
+        "player": "Franko Kovačević",
         "team": "NK Celje",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (15 depuis début saison)",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (20 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 6,
+          "assists": 0
         }
       },
       {
@@ -5353,36 +4254,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Franko Kovačević",
-        "team": "NK Celje",
-        "description": "a marqué 6 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 6,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Damjan Vuklišević",
-        "team": "NK Celje",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Matej Poplatnik",
-        "team": "NK Celje",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
         }
       },
       {
@@ -5430,17 +4301,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Daniel Mandroiu a marqué 2 buts",
-      "🅰️ Daniel Mandroiu a délivré 2 assists",
       "⚽️ Graham Burke a marqué 3 buts",
+      "🅰️ Daniel Mandroiu a délivré 2 assists",
       "⚽⚽ Graham Burke / Daniel Mandroiu Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Mario Kvesić a marqué 1 buts",
-      "🅰️ Mario Kvesić a délivré 2 assists",
       "⚽️ Franko Kovačević a marqué 6 buts",
-      "⚽️ Damjan Vuklišević a marqué 2 buts",
-      "⚽️ Matej Poplatnik a marqué 5 buts",
+      "🅰️ Mario Kvesić a délivré 2 assists",
       "⚽⚽ Franko Kovačević / Matej Poplatnik Double chance buteur",
       "⚽⚽⚽ Franko Kovačević / Matej Poplatnik / Damjan Vuklišević Triple chance buteur"
     ]
@@ -5506,16 +4373,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Armindo Sieb",
-        "team": "1. FSV Mainz 05",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Nadiem Amiri",
@@ -5560,7 +4417,6 @@
     "homePhrases": [
       "⚽️ Nadiem Amiri a marqué 2 buts",
       "🅰️ Nadiem Amiri a délivré 1 assists",
-      "⚽️ Armindo Sieb a marqué 2 buts",
       "⚽⚽ Nadiem Amiri / Armindo Sieb Double chance buteur"
     ],
     "awayPhrases": [
@@ -5610,51 +4466,11 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Kike Gómez",
-        "team": "Lincoln Red Imps",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Boubacar Sidik Dabo",
-        "team": "Lincoln Red Imps",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Bernardo Lopes",
-        "team": "Lincoln Red Imps",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Tjay De Barr",
         "team": "Lincoln Red Imps",
         "description": "a marqué 7 buts sur les 5 derniers matchs (21 depuis début saison)",
         "recentMatches": {
           "goals": 7,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Toni García",
-        "team": "Lincoln Red Imps",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (14 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
           "assists": 0
         }
       },
@@ -5682,10 +4498,10 @@
         "players": [
           "Tjay De Barr",
           "Toni García",
-          "Boubacar Sidik Dabo"
+          "Kike Gómez"
         ],
         "team": "Lincoln Red Imps",
-        "description": "Triple chance buteur : Tjay De Barr (7), Toni García (5), Boubacar Sidik Dabo (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Tjay De Barr (7), Toni García (5), Kike Gómez (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 7,
@@ -5696,43 +4512,13 @@
             "assists": 0
           },
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 0
           }
         ]
       }
     ],
     "awaySpots": [
-      {
-        "type": "assister",
-        "player": "Filip Jagiełło",
-        "team": "Lech Poznań",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Luis Palma",
-        "team": "Lech Poznań",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Luis Palma",
-        "team": "Lech Poznań",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
       {
         "type": "scorer",
         "player": "Mikael Ishak",
@@ -5744,13 +4530,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Leo Bengtsson",
+        "type": "assister",
+        "player": "Filip Jagiełło",
         "team": "Lech Poznań",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
-          "assists": 0
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -5798,20 +4584,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Kike Gómez a marqué 2 buts",
-      "⚽️ Boubacar Sidik Dabo a marqué 3 buts",
-      "⚽️ Bernardo Lopes a marqué 2 buts",
       "⚽️ Tjay De Barr a marqué 7 buts",
-      "⚽️ Toni García a marqué 5 buts",
       "⚽⚽ Tjay De Barr / Toni García Double chance buteur",
-      "⚽⚽⚽ Tjay De Barr / Toni García / Boubacar Sidik Dabo Triple chance buteur"
+      "⚽⚽⚽ Tjay De Barr / Toni García / Kike Gómez Triple chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Filip Jagiełło a délivré 3 assists",
-      "⚽️ Luis Palma a marqué 2 buts",
-      "🅰️ Luis Palma a délivré 3 assists",
       "⚽️ Mikael Ishak a marqué 3 buts",
-      "⚽️ Leo Bengtsson a marqué 3 buts",
+      "🅰️ Filip Jagiełło a délivré 3 assists",
       "⚽⚽ Mikael Ishak / Leo Bengtsson Double chance buteur",
       "⚽⚽⚽ Mikael Ishak / Leo Bengtsson / Luis Palma Triple chance buteur"
     ]
@@ -5877,16 +4656,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Anthony Musaba",
-        "team": "Samsunspor",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Carlo Holse",
@@ -5928,26 +4697,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Oleksandr Pikhalyonok",
-        "team": "Dynamo Kyiv",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Oleksandr Pikhalyonok",
-        "team": "Dynamo Kyiv",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Oleksandr Karavayev",
@@ -5970,14 +4719,11 @@
     "homePhrases": [
       "⚽️ Carlo Holse a marqué 2 buts",
       "🅰️ Carlo Holse a délivré 1 assists",
-      "⚽️ Anthony Musaba a marqué 2 buts",
       "⚽⚽ Carlo Holse / Anthony Musaba Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Oleksandr Karavayev a marqué 2 buts",
       "🅰️ Oleksandr Karavayev a délivré 2 assists",
-      "⚽️ Oleksandr Pikhalyonok a marqué 1 buts",
-      "🅰️ Oleksandr Pikhalyonok a délivré 2 assists",
       "⚽⚽ Oleksandr Karavayev / Oleksandr Pikhalyonok Double chance buteur"
     ]
   },
@@ -6035,22 +4781,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Beyatt Lekoueiry",
+        "player": "Thelonius Bair",
         "team": "FC Lausanne-Sport",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
+          "goals": 5,
           "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Gaoussou Diakite",
-        "team": "FC Lausanne-Sport",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
         }
       },
       {
@@ -6064,33 +4800,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Thelonius Bair",
-        "team": "FC Lausanne-Sport",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Alban Ajdini",
-        "team": "FC Lausanne-Sport",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Thelonius Bair",
-          "Beyatt Lekoueiry"
+          "Gaoussou Diakite"
         ],
         "team": "FC Lausanne-Sport",
-        "description": "Double chance buteur : Thelonius Bair (5) ou Beyatt Lekoueiry (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Thelonius Bair (5) ou Gaoussou Diakite (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
@@ -6098,7 +4814,7 @@
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           }
         ]
       },
@@ -6106,11 +4822,11 @@
         "type": "triple_scorer",
         "players": [
           "Thelonius Bair",
-          "Beyatt Lekoueiry",
-          "Gaoussou Diakite"
+          "Gaoussou Diakite",
+          "Beyatt Lekoueiry"
         ],
         "team": "FC Lausanne-Sport",
-        "description": "Triple chance buteur : Thelonius Bair (5), Beyatt Lekoueiry (2), Gaoussou Diakite (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Thelonius Bair (5), Gaoussou Diakite (2), Beyatt Lekoueiry (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
@@ -6118,11 +4834,11 @@
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           }
         ]
       }
@@ -6131,13 +4847,10 @@
       "⚽️ N'Dri Koffi a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Beyatt Lekoueiry a marqué 2 buts",
-      "⚽️ Gaoussou Diakite a marqué 2 buts",
-      "🅰️ Gaoussou Diakite a délivré 1 assists",
       "⚽️ Thelonius Bair a marqué 5 buts",
-      "⚽️ Alban Ajdini a marqué 2 buts",
-      "⚽⚽ Thelonius Bair / Beyatt Lekoueiry Double chance buteur",
-      "⚽⚽⚽ Thelonius Bair / Beyatt Lekoueiry / Gaoussou Diakite Triple chance buteur"
+      "🅰️ Gaoussou Diakite a délivré 1 assists",
+      "⚽⚽ Thelonius Bair / Gaoussou Diakite Double chance buteur",
+      "⚽⚽⚽ Thelonius Bair / Gaoussou Diakite / Beyatt Lekoueiry Triple chance buteur"
     ]
   },
   {
@@ -6318,16 +5031,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Nikolay Minkov",
-        "team": "Botev Plovdiv",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
         "type": "scorer",
         "player": "Armstrong Oko-Flex",
         "team": "Botev Plovdiv",
@@ -6335,6 +5038,16 @@
         "recentMatches": {
           "goals": 4,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Nikolay Minkov",
+        "team": "Botev Plovdiv",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -6361,8 +5074,8 @@
       "⚽️ Berna a marqué 2 buts"
     ],
     "awayPhrases": [
-      "🅰️ Nikolay Minkov a délivré 3 assists",
       "⚽️ Armstrong Oko-Flex a marqué 4 buts",
+      "🅰️ Nikolay Minkov a délivré 3 assists",
       "⚽⚽ Armstrong Oko-Flex / Nikolay Minkov Double chance buteur"
     ]
   },
@@ -6417,16 +5130,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Matías Vargas",
-        "team": "Al-Fateh",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "assister",
         "player": "Matías Vargas",
         "team": "Al-Fateh",
@@ -6468,16 +5171,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Khalid Al-Ghannam",
-        "team": "Al-Ettifaq",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
         "type": "assister",
         "player": "Khalid Al-Ghannam",
         "team": "Al-Ettifaq",
@@ -6490,34 +5183,32 @@
       {
         "type": "double_scorer",
         "players": [
-          "Khalid Al-Ghannam",
-          "Georginio Wijnaldum"
+          "Georginio Wijnaldum",
+          "Khalid Al-Ghannam"
         ],
         "team": "Al-Ettifaq",
-        "description": "Double chance buteur : Khalid Al-Ghannam (3) ou Georginio Wijnaldum (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Georginio Wijnaldum (2) ou Khalid Al-Ghannam (3) buts sur les 5 derniers matchs",
         "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
           {
             "goals": 2,
             "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 1
           }
         ]
       }
     ],
     "homePhrases": [
       "⚽️ Sofiane Bendebka a marqué 2 buts",
-      "⚽️ Matías Vargas a marqué 2 buts",
       "🅰️ Matías Vargas a délivré 1 assists",
       "⚽⚽ Sofiane Bendebka / Matías Vargas Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Georginio Wijnaldum a marqué 2 buts",
-      "⚽️ Khalid Al-Ghannam a marqué 3 buts",
       "🅰️ Khalid Al-Ghannam a délivré 1 assists",
-      "⚽⚽ Khalid Al-Ghannam / Georginio Wijnaldum Double chance buteur"
+      "⚽⚽ Georginio Wijnaldum / Khalid Al-Ghannam Double chance buteur"
     ]
   },
   {
@@ -6562,12 +5253,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Meïssa Diop",
+        "player": "Marko Regža",
         "team": "Riga FC",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (5 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (39 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 2,
+          "assists": 0
         }
       },
       {
@@ -6581,33 +5272,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Reginaldo Ramires",
-        "team": "Riga FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (34 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Marko Regža",
-        "team": "Riga FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (39 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Reginaldo Ramires",
-          "Marko Regža"
+          "Marko Regža",
+          "Reginaldo Ramires"
         ],
         "team": "Riga FC",
-        "description": "Double chance buteur : Reginaldo Ramires (2) ou Marko Regža (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Marko Regža (2) ou Reginaldo Ramires (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
@@ -6622,12 +5293,12 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Reginaldo Ramires",
           "Marko Regža",
+          "Reginaldo Ramires",
           "Meïssa Diop"
         ],
         "team": "Riga FC",
-        "description": "Triple chance buteur : Reginaldo Ramires (2), Marko Regža (2), Meïssa Diop (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Marko Regža (2), Reginaldo Ramires (2), Meïssa Diop (1) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
@@ -6667,12 +5338,10 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Meïssa Diop a marqué 1 buts",
-      "🅰️ Meïssa Diop a délivré 2 assists",
-      "⚽️ Reginaldo Ramires a marqué 2 buts",
       "⚽️ Marko Regža a marqué 2 buts",
-      "⚽⚽ Reginaldo Ramires / Marko Regža Double chance buteur",
-      "⚽⚽⚽ Reginaldo Ramires / Marko Regža / Meïssa Diop Triple chance buteur"
+      "🅰️ Meïssa Diop a délivré 2 assists",
+      "⚽⚽ Marko Regža / Reginaldo Ramires Double chance buteur",
+      "⚽⚽⚽ Marko Regža / Reginaldo Ramires / Meïssa Diop Triple chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Ingars Pulis a marqué 2 buts",
@@ -6742,36 +5411,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Pedro Rebocho",
-        "team": "Al-Khaleej",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Paolo Fernandes",
-        "team": "Al-Khaleej",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Paolo Fernandes",
-        "team": "Al-Khaleej",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Joshua King",
         "team": "Al-Khaleej",
@@ -6779,16 +5418,6 @@
         "recentMatches": {
           "goals": 5,
           "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Kostas Fortounis",
-        "team": "Al-Khaleej",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 5
         }
       },
       {
@@ -6850,11 +5479,7 @@
       "🅰️ Alexandre Lacazette a délivré 1 assists"
     ],
     "awayPhrases": [
-      "🅰️ Pedro Rebocho a délivré 2 assists",
-      "⚽️ Paolo Fernandes a marqué 3 buts",
-      "🅰️ Paolo Fernandes a délivré 2 assists",
       "⚽️ Joshua King a marqué 5 buts",
-      "⚽️ Kostas Fortounis a marqué 1 buts",
       "🅰️ Kostas Fortounis a délivré 5 assists",
       "⚽⚽ Joshua King / Paolo Fernandes Double chance buteur",
       "⚽⚽⚽ Joshua King / Paolo Fernandes / Kostas Fortounis Triple chance buteur"
@@ -6902,12 +5527,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Felix Klaus",
+        "player": "Noel Futkeu",
         "team": "SpVgg Greuther Fürth",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (24 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 3
+          "goals": 2,
+          "assists": 0
         }
       },
       {
@@ -6918,16 +5543,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Noel Futkeu",
-        "team": "SpVgg Greuther Fürth",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
         }
       },
       {
@@ -6953,11 +5568,11 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Lilian Egloff",
+        "player": "Fabian Schleusener",
         "team": "Karlsruher SC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (16 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
+          "goals": 3,
           "assists": 0
         }
       },
@@ -6969,16 +5584,6 @@
         "recentMatches": {
           "goals": 0,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Fabian Schleusener",
-        "team": "Karlsruher SC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (16 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -7026,15 +5631,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Felix Klaus a marqué 1 buts",
-      "🅰️ Felix Klaus a délivré 3 assists",
       "⚽️ Noel Futkeu a marqué 2 buts",
+      "🅰️ Felix Klaus a délivré 3 assists",
       "⚽⚽ Noel Futkeu / Felix Klaus Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Lilian Egloff a marqué 2 buts",
-      "🅰️ David Herold a délivré 2 assists",
       "⚽️ Fabian Schleusener a marqué 3 buts",
+      "🅰️ David Herold a délivré 2 assists",
       "⚽⚽ Fabian Schleusener / Lilian Egloff Double chance buteur",
       "⚽⚽⚽ Fabian Schleusener / Lilian Egloff / David Herold Triple chance buteur"
     ]
@@ -7103,26 +5706,6 @@
       },
       {
         "type": "assister",
-        "player": "Isac Lidberg",
-        "team": "Darmstadt 98",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Fraser Hornby",
-        "team": "Darmstadt 98",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
         "player": "Fraser Hornby",
         "team": "Darmstadt 98",
         "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis début saison)",
@@ -7156,8 +5739,6 @@
     ],
     "awayPhrases": [
       "⚽️ Isac Lidberg a marqué 4 buts",
-      "🅰️ Isac Lidberg a délivré 1 assists",
-      "⚽️ Fraser Hornby a marqué 1 buts",
       "🅰️ Fraser Hornby a délivré 1 assists",
       "⚽⚽ Isac Lidberg / Fraser Hornby Double chance buteur"
     ]
@@ -7204,12 +5785,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Felix Beijmo",
+        "player": "Kristian Arnstad",
         "team": "AGF",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (5 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (7 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -7220,36 +5801,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Tobias Bech",
-        "team": "AGF",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Tobias Bech",
-        "team": "AGF",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Kristian Arnstad",
-        "team": "AGF",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -7299,12 +5850,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Nicklas Røjkjær",
+        "player": "Alexander Lind",
         "team": "FC Nordsjælland",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (1 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 3
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -7315,16 +5866,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Alexander Lind",
-        "team": "FC Nordsjælland",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -7348,18 +5889,14 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Felix Beijmo a marqué 1 buts",
-      "🅰️ Felix Beijmo a délivré 2 assists",
-      "⚽️ Tobias Bech a marqué 2 buts",
-      "🅰️ Tobias Bech a délivré 1 assists",
       "⚽️ Kristian Arnstad a marqué 3 buts",
+      "🅰️ Felix Beijmo a délivré 2 assists",
       "⚽⚽ Kristian Arnstad / Tobias Bech Double chance buteur",
       "⚽⚽⚽ Kristian Arnstad / Tobias Bech / Felix Beijmo Triple chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Nicklas Røjkjær a marqué 1 buts",
-      "🅰️ Nicklas Røjkjær a délivré 3 assists",
       "⚽️ Alexander Lind a marqué 3 buts",
+      "🅰️ Nicklas Røjkjær a délivré 3 assists",
       "⚽⚽ Alexander Lind / Nicklas Røjkjær Double chance buteur"
     ]
   },
@@ -7404,16 +5941,6 @@
     "bttsProb": 0.49,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Sam Larsson",
-        "team": "Fatih Karagümrük",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "David Datro Fofana",
         "team": "Fatih Karagümrük",
@@ -7421,6 +5948,16 @@
         "recentMatches": {
           "goals": 3,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Sam Larsson",
+        "team": "Fatih Karagümrük",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -7445,8 +5982,8 @@
     ],
     "awaySpots": [],
     "homePhrases": [
-      "🅰️ Sam Larsson a délivré 2 assists",
       "⚽️ David Datro Fofana a marqué 3 buts",
+      "🅰️ Sam Larsson a délivré 2 assists",
       "⚽⚽ David Datro Fofana / Sam Larsson Double chance buteur"
     ],
     "awayPhrases": []
@@ -7494,12 +6031,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Julien Lamy",
+        "player": "Juan Perea",
         "team": "Lokomotiv Plovdiv",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (14 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -7510,16 +6047,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Juan Perea",
-        "team": "Lokomotiv Plovdiv",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -7544,9 +6071,8 @@
     ],
     "homePhrases": [],
     "awayPhrases": [
-      "⚽️ Julien Lamy a marqué 1 buts",
-      "🅰️ Julien Lamy a délivré 2 assists",
       "⚽️ Juan Perea a marqué 3 buts",
+      "🅰️ Julien Lamy a délivré 2 assists",
       "⚽⚽ Juan Perea / Julien Lamy Double chance buteur"
     ]
   },
@@ -7592,26 +6118,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Jacob Trenskow",
-        "team": "SC Heerenveen",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jacob Trenskow",
-        "team": "SC Heerenveen",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Dylan Vente",
         "team": "SC Heerenveen",
         "description": "a marqué 6 buts sur les 5 derniers matchs (9 depuis début saison)",
@@ -7622,11 +6128,11 @@
       },
       {
         "type": "assister",
-        "player": "Dylan Vente",
+        "player": "Jacob Trenskow",
         "team": "SC Heerenveen",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
-          "goals": 6,
+          "goals": 4,
           "assists": 1
         }
       },
@@ -7663,10 +6169,8 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Jacob Trenskow a marqué 4 buts",
-      "🅰️ Jacob Trenskow a délivré 1 assists",
       "⚽️ Dylan Vente a marqué 6 buts",
-      "🅰️ Dylan Vente a délivré 1 assists",
+      "🅰️ Jacob Trenskow a délivré 1 assists",
       "⚽⚽ Dylan Vente / Jacob Trenskow Double chance buteur"
     ],
     "awayPhrases": [
@@ -7734,16 +6238,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Omar Sadik",
-        "team": "Pau FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Giovani Versini",
@@ -7766,26 +6260,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Enzo Bardeli",
-        "team": "USL Dunkerque",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (14 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Enzo Bardeli",
-        "team": "USL Dunkerque",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Marco Essimi",
         "team": "USL Dunkerque",
         "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
@@ -7796,11 +6270,11 @@
       },
       {
         "type": "assister",
-        "player": "Marco Essimi",
+        "player": "Enzo Bardeli",
         "team": "USL Dunkerque",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
+          "goals": 2,
           "assists": 1
         }
       },
@@ -7827,14 +6301,11 @@
     "homePhrases": [
       "⚽️ Giovani Versini a marqué 3 buts",
       "🅰️ Giovani Versini a délivré 1 assists",
-      "⚽️ Omar Sadik a marqué 2 buts",
       "⚽⚽ Giovani Versini / Omar Sadik Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Enzo Bardeli a marqué 2 buts",
-      "🅰️ Enzo Bardeli a délivré 1 assists",
       "⚽️ Marco Essimi a marqué 3 buts",
-      "🅰️ Marco Essimi a délivré 1 assists",
+      "🅰️ Enzo Bardeli a délivré 1 assists",
       "⚽⚽ Marco Essimi / Enzo Bardeli Double chance buteur"
     ]
   },
@@ -7880,12 +6351,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Amine Hemia",
+        "player": "Louis Mafouta",
         "team": "Guingamp",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (14 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
-          "assists": 4
+          "assists": 0
         }
       },
       {
@@ -7899,31 +6370,21 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Louis Mafouta",
-        "team": "Guingamp",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Amine Hemia",
-          "Louis Mafouta"
+          "Louis Mafouta",
+          "Amine Hemia"
         ],
         "team": "Guingamp",
-        "description": "Double chance buteur : Amine Hemia (2) ou Louis Mafouta (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Louis Mafouta (2) ou Amine Hemia (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 4
+            "assists": 0
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 4
           }
         ]
       }
@@ -7941,10 +6402,9 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Amine Hemia a marqué 2 buts",
-      "🅰️ Amine Hemia a délivré 4 assists",
       "⚽️ Louis Mafouta a marqué 2 buts",
-      "⚽⚽ Amine Hemia / Louis Mafouta Double chance buteur"
+      "🅰️ Amine Hemia a délivré 4 assists",
+      "⚽⚽ Louis Mafouta / Amine Hemia Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Abdoul Kader Bamba a marqué 2 buts"
@@ -8036,26 +6496,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Teddy Teuma",
-        "team": "Stade de Reims",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Teddy Teuma",
-        "team": "Stade de Reims",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Keito Nakamura",
         "team": "Stade de Reims",
         "description": "a marqué 3 buts sur les 5 derniers matchs (20 depuis début saison)",
@@ -8066,11 +6506,11 @@
       },
       {
         "type": "assister",
-        "player": "Keito Nakamura",
+        "player": "Teddy Teuma",
         "team": "Stade de Reims",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
-          "goals": 3,
+          "goals": 2,
           "assists": 2
         }
       },
@@ -8096,36 +6536,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Martin Adeline",
-        "team": "Troyes",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Jaures Assoumou",
-        "team": "Troyes",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jaures Assoumou",
-        "team": "Troyes",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
         "type": "scorer",
         "player": "Tawfik Bentayeb",
         "team": "Troyes",
@@ -8137,22 +6547,12 @@
       },
       {
         "type": "assister",
-        "player": "Tawfik Bentayeb",
+        "player": "Martin Adeline",
         "team": "Troyes",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
-          "goals": 4,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Mounaim El Idrissy",
-        "team": "Troyes",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -8200,19 +6600,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Teddy Teuma a marqué 2 buts",
-      "🅰️ Teddy Teuma a délivré 2 assists",
       "⚽️ Keito Nakamura a marqué 3 buts",
-      "🅰️ Keito Nakamura a délivré 2 assists",
+      "🅰️ Teddy Teuma a délivré 2 assists",
       "⚽⚽ Keito Nakamura / Teddy Teuma Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Martin Adeline a délivré 3 assists",
-      "⚽️ Jaures Assoumou a marqué 3 buts",
-      "🅰️ Jaures Assoumou a délivré 1 assists",
       "⚽️ Tawfik Bentayeb a marqué 4 buts",
-      "🅰️ Tawfik Bentayeb a délivré 1 assists",
-      "⚽️ Mounaim El Idrissy a marqué 2 buts",
+      "🅰️ Martin Adeline a délivré 3 assists",
       "⚽⚽ Tawfik Bentayeb / Jaures Assoumou Double chance buteur",
       "⚽⚽⚽ Tawfik Bentayeb / Jaures Assoumou / Mounaim El Idrissy Triple chance buteur"
     ]
@@ -8406,16 +6800,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Moussa Diaby",
-        "team": "Al-Ittihad",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
         "type": "assister",
         "player": "Moussa Diaby",
         "team": "Al-Ittihad",
@@ -8448,12 +6832,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Kalidou Koulibaly",
+        "player": "Marcos Leonardo",
         "team": "Al-Hilal",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (4 depuis début saison)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (34 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 2
+          "goals": 5,
+          "assists": 0
         }
       },
       {
@@ -8467,100 +6851,16 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Theo Hernández",
-        "team": "Al-Hilal",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Sergej Milinković-Savić",
-        "team": "Al-Hilal",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (22 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Sergej Milinković-Savić",
-        "team": "Al-Hilal",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Marcos Leonardo",
-        "team": "Al-Hilal",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (34 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Darwin Núñez",
-        "team": "Al-Hilal",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Darwin Núñez",
-        "team": "Al-Hilal",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Marcos Leonardo",
-          "Theo Hernández"
-        ],
-        "team": "Al-Hilal",
-        "description": "Double chance buteur : Marcos Leonardo (5) ou Theo Hernández (2) buts sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Marcos Leonardo",
-          "Theo Hernández",
           "Sergej Milinković-Savić"
         ],
         "team": "Al-Hilal",
-        "description": "Triple chance buteur : Marcos Leonardo (5), Theo Hernández (2), Sergej Milinković-Savić (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Marcos Leonardo (5) ou Sergej Milinković-Savić (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 2,
             "assists": 0
           },
           {
@@ -8568,25 +6868,42 @@
             "assists": 2
           }
         ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Marcos Leonardo",
+          "Sergej Milinković-Savić",
+          "Theo Hernández"
+        ],
+        "team": "Al-Hilal",
+        "description": "Triple chance buteur : Marcos Leonardo (5), Sergej Milinković-Savić (2), Theo Hernández (2) buts sur les 5 derniers matchs",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "goals": 2,
+            "assists": 0
+          }
+        ]
       }
     ],
     "homePhrases": [
       "⚽️ Houssem Aouar a marqué 2 buts",
-      "⚽️ Moussa Diaby a marqué 1 buts",
       "🅰️ Moussa Diaby a délivré 3 assists",
       "⚽⚽ Houssem Aouar / Moussa Diaby Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Kalidou Koulibaly a marqué 1 buts",
-      "🅰️ Kalidou Koulibaly a délivré 2 assists",
-      "⚽️ Theo Hernández a marqué 2 buts",
-      "⚽️ Sergej Milinković-Savić a marqué 2 buts",
-      "🅰️ Sergej Milinković-Savić a délivré 2 assists",
       "⚽️ Marcos Leonardo a marqué 5 buts",
-      "⚽️ Darwin Núñez a marqué 2 buts",
-      "🅰️ Darwin Núñez a délivré 1 assists",
-      "⚽⚽ Marcos Leonardo / Theo Hernández Double chance buteur",
-      "⚽⚽⚽ Marcos Leonardo / Theo Hernández / Sergej Milinković-Savić Triple chance buteur"
+      "🅰️ Kalidou Koulibaly a délivré 2 assists",
+      "⚽⚽ Marcos Leonardo / Sergej Milinković-Savić Double chance buteur",
+      "⚽⚽⚽ Marcos Leonardo / Sergej Milinković-Savić / Theo Hernández Triple chance buteur"
     ]
   },
   {
@@ -8662,30 +6979,20 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Oliver Burke",
-        "team": "1. FC Union Berlin",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Oliver Burke",
-          "Ilyas Ansah"
+          "Ilyas Ansah",
+          "Oliver Burke"
         ],
         "team": "1. FC Union Berlin",
-        "description": "Double chance buteur : Oliver Burke (3) ou Ilyas Ansah (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ilyas Ansah (2) ou Oliver Burke (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 0
           },
           {
-            "goals": 2,
+            "goals": 3,
             "assists": 0
           }
         ]
@@ -8693,19 +7000,19 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Oliver Burke",
           "Ilyas Ansah",
+          "Oliver Burke",
           "Andrej Ilić"
         ],
         "team": "1. FC Union Berlin",
-        "description": "Triple chance buteur : Oliver Burke (3), Ilyas Ansah (2), Andrej Ilić (0) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Ilyas Ansah (2), Oliver Burke (3), Andrej Ilić (0) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 3,
+            "goals": 2,
             "assists": 0
           },
           {
-            "goals": 2,
+            "goals": 3,
             "assists": 0
           },
           {
@@ -8721,9 +7028,8 @@
     "awayPhrases": [
       "⚽️ Ilyas Ansah a marqué 2 buts",
       "🅰️ Andrej Ilić a délivré 3 assists",
-      "⚽️ Oliver Burke a marqué 3 buts",
-      "⚽⚽ Oliver Burke / Ilyas Ansah Double chance buteur",
-      "⚽⚽⚽ Oliver Burke / Ilyas Ansah / Andrej Ilić Triple chance buteur"
+      "⚽⚽ Ilyas Ansah / Oliver Burke Double chance buteur",
+      "⚽⚽⚽ Ilyas Ansah / Oliver Burke / Andrej Ilić Triple chance buteur"
     ]
   },
   {
@@ -8834,16 +7140,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Pedro Mendes",
-        "team": "Modena",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Ettore Gliozzi",
@@ -8865,16 +7161,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Rareș Ilie",
-        "team": "Empoli",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
         "type": "scorer",
         "player": "Stiven Shpendi",
         "team": "Empoli",
@@ -8882,6 +7168,16 @@
         "recentMatches": {
           "goals": 3,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Rareș Ilie",
+        "team": "Empoli",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 3
         }
       },
       {
@@ -8906,12 +7202,11 @@
     ],
     "homePhrases": [
       "⚽️ Ettore Gliozzi a marqué 3 buts",
-      "⚽️ Pedro Mendes a marqué 1 buts",
       "⚽⚽ Ettore Gliozzi / Pedro Mendes Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Rareș Ilie a délivré 3 assists",
       "⚽️ Stiven Shpendi a marqué 3 buts",
+      "🅰️ Rareș Ilie a délivré 3 assists",
       "⚽⚽ Stiven Shpendi / Rareș Ilie Double chance buteur"
     ]
   },
@@ -8969,12 +7264,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Pádraig Amond",
+        "player": "Tom Lonergan",
         "team": "Waterford FC",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (30 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 1
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -8985,16 +7280,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Tom Lonergan",
-        "team": "Waterford FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -9021,9 +7306,8 @@
       "⚽️ Mason Melia a marqué 2 buts"
     ],
     "awayPhrases": [
-      "⚽️ Pádraig Amond a marqué 1 buts",
-      "🅰️ Pádraig Amond a délivré 1 assists",
       "⚽️ Tom Lonergan a marqué 3 buts",
+      "🅰️ Pádraig Amond a délivré 1 assists",
       "⚽⚽ Tom Lonergan / Pádraig Amond Double chance buteur"
     ]
   },
@@ -9078,16 +7362,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Stephen Walsh",
-        "team": "Galway United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "David Hurley",
@@ -9121,7 +7395,6 @@
     ],
     "homePhrases": [
       "⚽️ David Hurley a marqué 3 buts",
-      "⚽️ Stephen Walsh a marqué 2 buts",
       "⚽⚽ David Hurley / Stephen Walsh Double chance buteur"
     ],
     "awayPhrases": [
@@ -9170,16 +7443,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Rafael Leão",
-        "team": "Milan",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (33 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Christian Pulišić",
         "team": "Milan",
         "description": "a marqué 4 buts sur les 5 derniers matchs (38 depuis début saison)",
@@ -9220,7 +7483,6 @@
     ],
     "awaySpots": [],
     "homePhrases": [
-      "⚽️ Rafael Leão a marqué 2 buts",
       "⚽️ Christian Pulišić a marqué 4 buts",
       "🅰️ Christian Pulišić a délivré 2 assists",
       "⚽⚽ Christian Pulišić / Rafael Leão Double chance buteur"
@@ -9326,26 +7588,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Ilan Kebbal",
-        "team": "Paris FC",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Ilan Kebbal",
-        "team": "Paris FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Jean-Philippe Krasso",
         "team": "Paris FC",
         "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis début saison)",
@@ -9356,12 +7598,12 @@
       },
       {
         "type": "assister",
-        "player": "Jean-Philippe Krasso",
+        "player": "Ilan Kebbal",
         "team": "Paris FC",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
+          "goals": 1,
+          "assists": 2
         }
       },
       {
@@ -9386,10 +7628,8 @@
     ],
     "awaySpots": [],
     "homePhrases": [
-      "⚽️ Ilan Kebbal a marqué 1 buts",
-      "🅰️ Ilan Kebbal a délivré 2 assists",
       "⚽️ Jean-Philippe Krasso a marqué 2 buts",
-      "🅰️ Jean-Philippe Krasso a délivré 1 assists",
+      "🅰️ Ilan Kebbal a délivré 2 assists",
       "⚽⚽ Jean-Philippe Krasso / Ilan Kebbal Double chance buteur"
     ],
     "awayPhrases": []
@@ -9436,9 +7676,9 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Declan Osagie",
+        "player": "Adam Brennan",
         "team": "University College Dublin",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -9455,33 +7695,13 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Adam Brennan",
-        "team": "University College Dublin",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Jake Doyle",
-        "team": "University College Dublin",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Declan Osagie",
-          "Adam Brennan"
+          "Adam Brennan",
+          "Jake Doyle"
         ],
         "team": "University College Dublin",
-        "description": "Double chance buteur : Declan Osagie (2) ou Adam Brennan (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Adam Brennan (2) ou Jake Doyle (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
@@ -9496,12 +7716,12 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Declan Osagie",
           "Adam Brennan",
-          "Jake Doyle"
+          "Jake Doyle",
+          "Declan Osagie"
         ],
         "team": "University College Dublin",
-        "description": "Triple chance buteur : Declan Osagie (2), Adam Brennan (2), Jake Doyle (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Adam Brennan (2), Jake Doyle (2), Declan Osagie (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
@@ -9531,12 +7751,10 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Declan Osagie a marqué 2 buts",
-      "🅰️ Ciaran Behan a délivré 4 assists",
       "⚽️ Adam Brennan a marqué 2 buts",
-      "⚽️ Jake Doyle a marqué 2 buts",
-      "⚽⚽ Declan Osagie / Adam Brennan Double chance buteur",
-      "⚽⚽⚽ Declan Osagie / Adam Brennan / Jake Doyle Triple chance buteur"
+      "🅰️ Ciaran Behan a délivré 4 assists",
+      "⚽⚽ Adam Brennan / Jake Doyle Double chance buteur",
+      "⚽⚽⚽ Adam Brennan / Jake Doyle / Declan Osagie Triple chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Billy O'Neill a marqué 6 buts"
@@ -9642,12 +7860,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Callum O'Hare",
+        "player": "Tyrese Campbell",
         "team": "Sheffield United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (7 depuis début saison)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 2,
-          "assists": 1
+          "assists": 0
         }
       },
       {
@@ -9661,41 +7879,30 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Tyrese Campbell",
-        "team": "Sheffield United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Callum O'Hare",
-          "Tyrese Campbell"
+          "Tyrese Campbell",
+          "Callum O'Hare"
         ],
         "team": "Sheffield United",
-        "description": "Double chance buteur : Callum O'Hare (2) ou Tyrese Campbell (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tyrese Campbell (2) ou Callum O'Hare (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           },
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           }
         ]
       }
     ],
     "homePhrases": [],
     "awayPhrases": [
-      "⚽️ Callum O'Hare a marqué 2 buts",
-      "🅰️ Callum O'Hare a délivré 1 assists",
       "⚽️ Tyrese Campbell a marqué 2 buts",
-      "⚽⚽ Callum O'Hare / Tyrese Campbell Double chance buteur"
+      "🅰️ Callum O'Hare a délivré 1 assists",
+      "⚽⚽ Tyrese Campbell / Callum O'Hare Double chance buteur"
     ]
   },
   {
@@ -9752,26 +7959,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "José Ángel Carmona",
-        "team": "Sevilla",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "José Ángel Carmona",
-        "team": "Sevilla",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Ruben Vargas",
         "team": "Sevilla",
         "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
@@ -9782,22 +7969,12 @@
       },
       {
         "type": "assister",
-        "player": "Ruben Vargas",
+        "player": "José Ángel Carmona",
         "team": "Sevilla",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis début saison)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Akor Adams",
-        "team": "Sevilla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 1,
+          "assists": 3
         }
       },
       {
@@ -9848,11 +8025,8 @@
       "🅰️ Ander Barrenetxea a délivré 2 assists"
     ],
     "awayPhrases": [
-      "⚽️ José Ángel Carmona a marqué 1 buts",
-      "🅰️ José Ángel Carmona a délivré 3 assists",
       "⚽️ Ruben Vargas a marqué 2 buts",
-      "🅰️ Ruben Vargas a délivré 1 assists",
-      "⚽️ Akor Adams a marqué 2 buts",
+      "🅰️ José Ángel Carmona a délivré 3 assists",
       "⚽⚽ Ruben Vargas / Akor Adams Double chance buteur",
       "⚽⚽⚽ Ruben Vargas / Akor Adams / José Ángel Carmona Triple chance buteur"
     ]
@@ -9967,12 +8141,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Edwin Torres",
+        "player": "Carlos Gonzalez",
         "team": "Alianza Valledupar FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -9983,16 +8157,6 @@
         "recentMatches": {
           "goals": 2,
           "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Carlos Gonzalez",
-        "team": "Alianza Valledupar FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -10017,9 +8181,8 @@
     ],
     "awaySpots": [],
     "homePhrases": [
-      "⚽️ Edwin Torres a marqué 2 buts",
-      "🅰️ Edwin Torres a délivré 1 assists",
       "⚽️ Carlos Gonzalez a marqué 3 buts",
+      "🅰️ Edwin Torres a délivré 1 assists",
       "⚽⚽ Carlos Gonzalez / Edwin Torres Double chance buteur"
     ],
     "awayPhrases": []
@@ -10191,16 +8354,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Guilherme Castilho",
-        "team": "FC Juárez",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Óscar Estupiñán",
         "team": "FC Juárez",
         "description": "a marqué 3 buts sur les 5 derniers matchs (18 depuis début saison)",
@@ -10242,26 +8395,6 @@
       },
       {
         "type": "assister",
-        "player": "Emiliano Gómez",
-        "team": "Club Puebla",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Ricardo Marín",
-        "team": "Club Puebla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
         "player": "Ricardo Marín",
         "team": "Club Puebla",
         "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis début saison)",
@@ -10291,14 +8424,11 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Guilherme Castilho a marqué 2 buts",
       "⚽️ Óscar Estupiñán a marqué 3 buts",
       "⚽⚽ Óscar Estupiñán / Guilherme Castilho Double chance buteur"
     ],
     "awayPhrases": [
       "⚽️ Emiliano Gómez a marqué 3 buts",
-      "🅰️ Emiliano Gómez a délivré 1 assists",
-      "⚽️ Ricardo Marín a marqué 2 buts",
       "🅰️ Ricardo Marín a délivré 2 assists",
       "⚽⚽ Emiliano Gómez / Ricardo Marín Double chance buteur"
     ]
@@ -10376,16 +8506,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Steven Rodríguez",
-        "team": "Junior Barranquilla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "José Enamorado",
@@ -10411,7 +8531,6 @@
     ],
     "awayPhrases": [
       "⚽️ José Enamorado a marqué 2 buts",
-      "⚽️ Steven Rodríguez a marqué 2 buts",
       "⚽⚽ José Enamorado / Steven Rodríguez Double chance buteur"
     ]
   },
@@ -10498,36 +8617,6 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Yony González",
-        "team": "Rionegro Águilas Doradas",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Matías Ramírez",
-        "team": "Rionegro Águilas Doradas",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Matías Ramírez",
-        "team": "Rionegro Águilas Doradas",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Jorge Rivaldo",
         "team": "Rionegro Águilas Doradas",
         "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
@@ -10538,12 +8627,12 @@
       },
       {
         "type": "assister",
-        "player": "Jorge Rivaldo",
+        "player": "Matías Ramírez",
         "team": "Rionegro Águilas Doradas",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 1
+          "goals": 1,
+          "assists": 3
         }
       },
       {
@@ -10596,11 +8685,8 @@
       "⚽⚽ Darwin Quintero / Edwin Velasco Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Yony González a marqué 1 buts",
-      "⚽️ Matías Ramírez a marqué 1 buts",
-      "🅰️ Matías Ramírez a délivré 3 assists",
       "⚽️ Jorge Rivaldo a marqué 2 buts",
-      "🅰️ Jorge Rivaldo a délivré 1 assists",
+      "🅰️ Matías Ramírez a délivré 3 assists",
       "⚽⚽ Jorge Rivaldo / Yony González Double chance buteur",
       "⚽⚽⚽ Jorge Rivaldo / Yony González / Matías Ramírez Triple chance buteur"
     ]
@@ -10657,16 +8743,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Alejandro Zendejas",
-        "team": "Club América",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
         "type": "assister",
         "player": "Alejandro Zendejas",
         "team": "Club América",
@@ -10699,7 +8775,6 @@
     "homePhrases": [],
     "awayPhrases": [
       "⚽️ Brian Rodríguez a marqué 3 buts",
-      "⚽️ Alejandro Zendejas a marqué 2 buts",
       "🅰️ Alejandro Zendejas a délivré 1 assists",
       "⚽⚽ Brian Rodríguez / Alejandro Zendejas Double chance buteur"
     ]
@@ -10745,40 +8820,10 @@
     "bttsProb": 0.53,
     "homeSpots": [
       {
-        "type": "assister",
-        "player": "Yusei Yamanouchi",
-        "team": "Kashiwa Reysol",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
-        "player": "Diego",
+        "player": "Mao Hosoya",
         "team": "Kashiwa Reysol",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Diego",
-        "team": "Kashiwa Reysol",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Yoshio Koizumi",
-        "team": "Kashiwa Reysol",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -10795,57 +8840,17 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Yuki Kakita",
-        "team": "Kashiwa Reysol",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Mao Hosoya",
-        "team": "Kashiwa Reysol",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Hayato Nakama",
-        "team": "Kashiwa Reysol",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Hayato Nakama",
-        "team": "Kashiwa Reysol",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Diego",
+          "Mao Hosoya",
           "Yoshio Koizumi"
         ],
         "team": "Kashiwa Reysol",
-        "description": "Double chance buteur : Diego (3) ou Yoshio Koizumi (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Mao Hosoya (3) ou Yoshio Koizumi (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
-            "assists": 1
+            "assists": 0
           },
           {
             "goals": 3,
@@ -10856,41 +8861,34 @@
       {
         "type": "triple_scorer",
         "players": [
-          "Diego",
+          "Mao Hosoya",
           "Yoshio Koizumi",
-          "Mao Hosoya"
+          "Diego"
         ],
         "team": "Kashiwa Reysol",
-        "description": "Triple chance buteur : Diego (3), Yoshio Koizumi (3), Mao Hosoya (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Mao Hosoya (3), Yoshio Koizumi (3), Diego (3) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 3,
             "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 0
           }
         ]
       }
     ],
     "awaySpots": [],
     "homePhrases": [
-      "🅰️ Yusei Yamanouchi a délivré 2 assists",
-      "⚽️ Diego a marqué 3 buts",
-      "🅰️ Diego a délivré 1 assists",
-      "⚽️ Yoshio Koizumi a marqué 3 buts",
-      "🅰️ Tomoya Koyamatsu a délivré 3 assists",
-      "⚽️ Yuki Kakita a marqué 2 buts",
       "⚽️ Mao Hosoya a marqué 3 buts",
-      "⚽️ Hayato Nakama a marqué 1 buts",
-      "🅰️ Hayato Nakama a délivré 3 assists",
-      "⚽⚽ Diego / Yoshio Koizumi Double chance buteur",
-      "⚽⚽⚽ Diego / Yoshio Koizumi / Mao Hosoya Triple chance buteur"
+      "🅰️ Tomoya Koyamatsu a délivré 3 assists",
+      "⚽⚽ Mao Hosoya / Yoshio Koizumi Double chance buteur",
+      "⚽⚽⚽ Mao Hosoya / Yoshio Koizumi / Diego Triple chance buteur"
     ],
     "awayPhrases": []
   },
@@ -10993,12 +8991,12 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Jordy Croux",
+        "player": "Kaina Tanimura",
         "team": "Yokohama F. Marinos",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (1 depuis début saison)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
-          "goals": 1,
-          "assists": 4
+          "goals": 3,
+          "assists": 0
         }
       },
       {
@@ -11009,16 +9007,6 @@
         "recentMatches": {
           "goals": 1,
           "assists": 4
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Kaina Tanimura",
-        "team": "Yokohama F. Marinos",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
         }
       },
       {
@@ -11043,9 +9031,8 @@
     ],
     "awaySpots": [],
     "homePhrases": [
-      "⚽️ Jordy Croux a marqué 1 buts",
-      "🅰️ Jordy Croux a délivré 4 assists",
       "⚽️ Kaina Tanimura a marqué 3 buts",
+      "🅰️ Jordy Croux a délivré 4 assists",
       "⚽⚽ Kaina Tanimura / Jordy Croux Double chance buteur"
     ],
     "awayPhrases": []
@@ -11195,12 +9182,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Shuto Abe",
+        "player": "Deniz Hümmet",
         "team": "Gamba Osaka",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
-          "goals": 2,
-          "assists": 0
+          "goals": 1,
+          "assists": 1
         }
       },
       {
@@ -11214,50 +9201,20 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Takashi Usami",
-        "team": "Gamba Osaka",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (23 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Deniz Hümmet",
-        "team": "Gamba Osaka",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Deniz Hümmet",
-        "team": "Gamba Osaka",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
-          "Shuto Abe",
-          "Takashi Usami"
+          "Deniz Hümmet",
+          "Shuto Abe"
         ],
         "team": "Gamba Osaka",
-        "description": "Double chance buteur : Shuto Abe (2) ou Takashi Usami (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Deniz Hümmet (1) ou Shuto Abe (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
-            "goals": 2,
-            "assists": 0
+            "goals": 1,
+            "assists": 1
           },
           {
-            "goals": 1,
+            "goals": 2,
             "assists": 0
           }
         ]
@@ -11265,13 +9222,17 @@
       {
         "type": "triple_scorer",
         "players": [
+          "Deniz Hümmet",
           "Shuto Abe",
-          "Takashi Usami",
-          "Deniz Hümmet"
+          "Takashi Usami"
         ],
         "team": "Gamba Osaka",
-        "description": "Triple chance buteur : Shuto Abe (2), Takashi Usami (1), Deniz Hümmet (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Deniz Hümmet (1), Shuto Abe (2), Takashi Usami (1) buts sur les 5 derniers matchs",
         "recentMatches": [
+          {
+            "goals": 1,
+            "assists": 1
+          },
           {
             "goals": 2,
             "assists": 0
@@ -11279,10 +9240,6 @@
           {
             "goals": 1,
             "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 1
           }
         ]
       }
@@ -11292,13 +9249,10 @@
       "🅰️ Sho Inagaki a délivré 1 assists"
     ],
     "awayPhrases": [
-      "⚽️ Shuto Abe a marqué 2 buts",
-      "🅰️ Ryoya Yamashita a délivré 3 assists",
-      "⚽️ Takashi Usami a marqué 1 buts",
       "⚽️ Deniz Hümmet a marqué 1 buts",
-      "🅰️ Deniz Hümmet a délivré 1 assists",
-      "⚽⚽ Shuto Abe / Takashi Usami Double chance buteur",
-      "⚽⚽⚽ Shuto Abe / Takashi Usami / Deniz Hümmet Triple chance buteur"
+      "🅰️ Ryoya Yamashita a délivré 3 assists",
+      "⚽⚽ Deniz Hümmet / Shuto Abe Double chance buteur",
+      "⚽⚽⚽ Deniz Hümmet / Shuto Abe / Takashi Usami Triple chance buteur"
     ]
   },
   {
@@ -11444,16 +9398,6 @@
     "homeSpots": [
       {
         "type": "scorer",
-        "player": "Andrea Compagno",
-        "team": "Jeonbuk Hyundai Motors",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (18 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Tiago Orobó",
         "team": "Jeonbuk Hyundai Motors",
         "description": "a marqué 2 buts sur les 5 derniers matchs (21 depuis début saison)",
@@ -11475,34 +9419,24 @@
       {
         "type": "double_scorer",
         "players": [
-          "Andrea Compagno",
-          "Tiago Orobó"
+          "Tiago Orobó",
+          "Andrea Compagno"
         ],
         "team": "Jeonbuk Hyundai Motors",
-        "description": "Double chance buteur : Andrea Compagno (2) ou Tiago Orobó (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tiago Orobó (2) ou Andrea Compagno (2) buts sur les 5 derniers matchs",
         "recentMatches": [
           {
             "goals": 2,
-            "assists": 0
+            "assists": 1
           },
           {
             "goals": 2,
-            "assists": 1
+            "assists": 0
           }
         ]
       }
     ],
     "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Seung-seob Kim",
-        "team": "Gimcheon Sangmu FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
       {
         "type": "scorer",
         "player": "Dong-gyeong Lee",
@@ -11521,16 +9455,6 @@
         "recentMatches": {
           "goals": 3,
           "assists": 3
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Ki-jong Won",
-        "team": "Gimcheon Sangmu FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
         }
       },
       {
@@ -11578,16 +9502,13 @@
       }
     ],
     "homePhrases": [
-      "⚽️ Andrea Compagno a marqué 2 buts",
       "⚽️ Tiago Orobó a marqué 2 buts",
       "🅰️ Tiago Orobó a délivré 1 assists",
-      "⚽⚽ Andrea Compagno / Tiago Orobó Double chance buteur"
+      "⚽⚽ Tiago Orobó / Andrea Compagno Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Seung-seob Kim a marqué 2 buts",
       "⚽️ Dong-gyeong Lee a marqué 3 buts",
       "🅰️ Dong-gyeong Lee a délivré 3 assists",
-      "⚽️ Ki-jong Won a marqué 2 buts",
       "⚽⚽ Dong-gyeong Lee / Seung-seob Kim Double chance buteur",
       "⚽⚽⚽ Dong-gyeong Lee / Seung-seob Kim / Ki-jong Won Triple chance buteur"
     ]
@@ -11674,16 +9595,6 @@
     ],
     "awaySpots": [
       {
-        "type": "assister",
-        "player": "Dong-jin Kim",
-        "team": "FC Anyang",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      },
-      {
         "type": "scorer",
         "player": "Bruno Mota",
         "team": "FC Anyang",
@@ -11691,6 +9602,16 @@
         "recentMatches": {
           "goals": 3,
           "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Dong-jin Kim",
+        "team": "FC Anyang",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 2
         }
       },
       {
@@ -11719,8 +9640,8 @@
       "⚽⚽ Reis / Chang-mu Shin Double chance buteur"
     ],
     "awayPhrases": [
-      "🅰️ Dong-jin Kim a délivré 2 assists",
       "⚽️ Bruno Mota a marqué 3 buts",
+      "🅰️ Dong-jin Kim a délivré 2 assists",
       "⚽⚽ Bruno Mota / Dong-jin Kim Double chance buteur"
     ]
   },
@@ -11775,16 +9696,6 @@
         }
       },
       {
-        "type": "scorer",
-        "player": "Vitor Bueno",
-        "team": "Cerezo Osaka",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
         "type": "double_scorer",
         "players": [
           "Rafael Ratão",
@@ -11807,52 +9718,12 @@
     "awaySpots": [
       {
         "type": "scorer",
-        "player": "Sai Van Wermeskerken",
-        "team": "Kawasaki Frontale",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Sai Van Wermeskerken",
-        "team": "Kawasaki Frontale",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "scorer",
         "player": "Tatsuya Ito",
         "team": "Kawasaki Frontale",
         "description": "a marqué 4 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 0
-        }
-      },
-      {
-        "type": "scorer",
-        "player": "Yasuto Wakizaka",
-        "team": "Kawasaki Frontale",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Yasuto Wakizaka",
-        "team": "Kawasaki Frontale",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (14 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
         }
       },
       {
@@ -11911,15 +9782,10 @@
     ],
     "homePhrases": [
       "⚽️ Rafael Ratão a marqué 3 buts",
-      "⚽️ Vitor Bueno a marqué 2 buts",
       "⚽⚽ Rafael Ratão / Vitor Bueno Double chance buteur"
     ],
     "awayPhrases": [
-      "⚽️ Sai Van Wermeskerken a marqué 1 buts",
-      "🅰️ Sai Van Wermeskerken a délivré 2 assists",
       "⚽️ Tatsuya Ito a marqué 4 buts",
-      "⚽️ Yasuto Wakizaka a marqué 3 buts",
-      "🅰️ Yasuto Wakizaka a délivré 1 assists",
       "🅰️ Marcinho a délivré 2 assists",
       "⚽⚽ Tatsuya Ito / Yasuto Wakizaka Double chance buteur",
       "⚽⚽⚽ Tatsuya Ito / Yasuto Wakizaka / Sai Van Wermeskerken Triple chance buteur"
