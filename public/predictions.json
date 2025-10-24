@@ -8,41 +8,45 @@
     "awayTeam": "1. FC Union Berlin",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 41,
-    "awayMatchesUsed": 41,
-    "homeGoalsFor": 54,
-    "homeGoalsAgainst": 57,
-    "awayGoalsFor": 36,
-    "awayGoalsAgainst": 50,
-    "homeProb": 0.46,
-    "drawProb": 0.26,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 1.478048780487805,
-    "expectedAwayGoals": 1.0829268292682928,
+    "homeMatchesUsed": 56,
+    "awayMatchesUsed": 54,
+    "homeGoalsFor": 83,
+    "homeGoalsAgainst": 79,
+    "awayGoalsFor": 58,
+    "awayGoalsAgainst": 60,
+    "homeRank": 5,
+    "awayRank": 4,
+    "leagueStandingsUsed": "Bundesliga||Bundesliga 25/26",
+    "homeProb": 0.33,
+    "drawProb": 0.23,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 1.4620631651101488,
+    "expectedAwayGoals": 1.7372868685332883,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-0",
         "prob": 0.11
       },
       {
-        "score": "2-1",
+        "score": "1-2",
         "prob": 0.09
+      },
+      {
+        "score": "2-1",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.49,
-    "under25Prob": 0.51,
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.57,
+    "under25Prob": 0.43,
+    "bttsProb": 0.63,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Jens Stage",
         "team": "SV Werder Bremen",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis 2024-08-19)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -54,7 +58,7 @@
         "type": "scorer",
         "player": "Ilyas Ansah",
         "team": "1. FC Union Berlin",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2025-07-13)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -64,7 +68,7 @@
         "type": "assister",
         "player": "Andrej Ilić",
         "team": "1. FC Union Berlin",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis 2025-01-05)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 3
@@ -77,7 +81,7 @@
           "Oliver Burke"
         ],
         "team": "1. FC Union Berlin",
-        "description": "Double chance buteur : Ilyas Ansah (2) ou Oliver Burke (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ilyas Ansah (2) ou Oliver Burke (3)",
         "recentMatches": [
           {
             "goals": 2,
@@ -97,7 +101,7 @@
           "Andrej Ilić"
         ],
         "team": "1. FC Union Berlin",
-        "description": "Triple chance buteur : Ilyas Ansah (2), Oliver Burke (3), Andrej Ilić (0) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Ilyas Ansah, Oliver Burke, Andrej Ilić",
         "recentMatches": [
           {
             "goals": 2,
@@ -113,6 +117,15 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Jens Stage a marqué 2 buts"
+    ],
+    "awayPhrases": [
+      "⚽️ Ilyas Ansah a marqué 2 buts",
+      "🅰️ Andrej Ilić a délivré 3 assists",
+      "⚽⚽ Ilyas Ansah / Oliver Burke Double chance buteur",
+      "⚽⚽⚽ Ilyas Ansah / Oliver Burke / Andrej Ilić Triple chance buteur"
     ]
   },
   {
@@ -124,47 +137,55 @@
     "awayTeam": "Las Palmas",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 51,
+    "homeMatchesUsed": 61,
     "awayMatchesUsed": 10,
-    "homeGoalsFor": 58,
-    "homeGoalsAgainst": 49,
+    "homeGoalsFor": 70,
+    "homeGoalsAgainst": 56,
     "awayGoalsFor": 11,
     "awayGoalsAgainst": 6,
-    "homeProb": 0.37,
-    "drawProb": 0.29,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.1223529411764706,
-    "expectedAwayGoals": 1.0443137254901962,
+    "homeRank": 3,
+    "awayRank": 9,
+    "leagueStandingsUsed": "LaLiga 2||LaLiga 2 25/26",
+    "homeProb": 0.28,
+    "drawProb": 0.3,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 0.9017154384808792,
+    "expectedAwayGoals": 1.195748261841859,
     "scoreScenarios": [
       {
-        "score": "1-0",
+        "score": "0-1",
+        "prob": 0.14
+      },
+      {
+        "score": "0-0",
         "prob": 0.14
       },
       {
         "score": "1-1",
         "prob": 0.13
-      },
-      {
-        "score": "0-0",
-        "prob": 0.13
       }
     ],
-    "over15Prob": 0.6,
-    "under15Prob": 0.4,
-    "over25Prob": 0.33,
-    "under25Prob": 0.67,
+    "over15Prob": 0.59,
+    "under15Prob": 0.41,
+    "over25Prob": 0.32,
+    "under25Prob": 0.68,
+    "bttsProb": 0.41,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Ale García",
         "team": "Las Palmas",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis 2025-07-17)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Ale García a marqué 2 buts"
     ]
   },
   {
@@ -175,42 +196,46 @@
     "homeTeam": "Modena",
     "awayTeam": "Empoli",
     "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 46,
-    "awayMatchesUsed": 58,
-    "homeGoalsFor": 48,
-    "homeGoalsAgainst": 50,
-    "awayGoalsFor": 77,
-    "awayGoalsAgainst": 97,
-    "homeProb": 0.43,
-    "drawProb": 0.25,
-    "awayProb": 0.31,
-    "expectedHomeGoals": 1.4950524737631186,
-    "expectedAwayGoals": 1.2313343328335833,
+    "awaySeasonUsed": 2026,
+    "homeMatchesUsed": 52,
+    "awayMatchesUsed": 10,
+    "homeGoalsFor": 63,
+    "homeGoalsAgainst": 56,
+    "awayGoalsFor": 16,
+    "awayGoalsAgainst": 18,
+    "homeRank": 7,
+    "awayRank": 6,
+    "leagueStandingsUsed": "Serie B||Serie B 25/26",
+    "homeProb": 0.5,
+    "drawProb": 0.23,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 1.7921615163991798,
+    "expectedAwayGoals": 1.257306777417157,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-0",
-        "prob": 0.09
+        "prob": 0.11
       },
       {
         "score": "2-1",
-        "prob": 0.09
+        "prob": 0.1
+      },
+      {
+        "score": "1-0",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.76,
-    "under15Prob": 0.24,
-    "over25Prob": 0.52,
-    "under25Prob": 0.48,
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.58,
+    "under25Prob": 0.42,
+    "bttsProb": 0.6,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Ettore Gliozzi",
         "team": "Modena",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis 2024-01-13)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -223,7 +248,7 @@
           "Pedro Mendes"
         ],
         "team": "Modena",
-        "description": "Double chance buteur : Ettore Gliozzi (3) ou Pedro Mendes (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ettore Gliozzi (3) ou Pedro Mendes (1)",
         "recentMatches": [
           {
             "goals": 3,
@@ -241,7 +266,7 @@
         "type": "scorer",
         "player": "Stiven Shpendi",
         "team": "Empoli",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (6 depuis 2024-08-10)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -251,7 +276,7 @@
         "type": "assister",
         "player": "Rareș Ilie",
         "team": "Empoli",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis 2025-07-21)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 3
@@ -264,7 +289,7 @@
           "Rareș Ilie"
         ],
         "team": "Empoli",
-        "description": "Double chance buteur : Stiven Shpendi (3) ou Rareș Ilie (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Stiven Shpendi (3) ou Rareș Ilie (0)",
         "recentMatches": [
           {
             "goals": 3,
@@ -276,6 +301,15 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Ettore Gliozzi a marqué 3 buts",
+      "⚽⚽ Ettore Gliozzi / Pedro Mendes Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Stiven Shpendi a marqué 3 buts",
+      "🅰️ Rareș Ilie a délivré 3 assists",
+      "⚽⚽ Stiven Shpendi / Rareș Ilie Double chance buteur"
     ]
   },
   {
@@ -285,19 +319,22 @@
     "season": 2025,
     "homeTeam": "St. Patrick's Athletic",
     "awayTeam": "Waterford FC",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 101,
-    "awayMatchesUsed": 83,
-    "homeGoalsFor": 156,
-    "homeGoalsAgainst": 105,
-    "awayGoalsFor": 106,
-    "awayGoalsAgainst": 124,
-    "homeProb": 0.5,
-    "drawProb": 0.24,
-    "awayProb": 0.26,
-    "expectedHomeGoals": 1.72432303471311,
-    "expectedAwayGoals": 1.1821066443993797,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 52,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 81,
+    "homeGoalsAgainst": 46,
+    "awayGoalsFor": 54,
+    "awayGoalsAgainst": 72,
+    "homeRank": 2,
+    "awayRank": 7,
+    "leagueStandingsUsed": "Premier Division||Premier Division 2025",
+    "homeProb": 0.54,
+    "drawProb": 0.23,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.7722480632989441,
+    "expectedAwayGoals": 1.0573584708051078,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -305,7 +342,7 @@
       },
       {
         "score": "1-0",
-        "prob": 0.1
+        "prob": 0.11
       },
       {
         "score": "2-1",
@@ -314,14 +351,15 @@
     ],
     "over15Prob": 0.77,
     "under15Prob": 0.23,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
+    "over25Prob": 0.53,
+    "under25Prob": 0.47,
+    "bttsProb": 0.54,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Mason Melia",
         "team": "St. Patrick's Athletic",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (21 depuis 2024-01-22)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (21 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -333,7 +371,7 @@
         "type": "scorer",
         "player": "Tom Lonergan",
         "team": "Waterford FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis 2025-02-01)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -343,7 +381,7 @@
         "type": "assister",
         "player": "Pádraig Amond",
         "team": "Waterford FC",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis 2024-02-16)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 1
@@ -356,7 +394,7 @@
           "Pádraig Amond"
         ],
         "team": "Waterford FC",
-        "description": "Double chance buteur : Tom Lonergan (3) ou Pádraig Amond (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tom Lonergan (3) ou Pádraig Amond (1)",
         "recentMatches": [
           {
             "goals": 3,
@@ -368,6 +406,14 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Mason Melia a marqué 2 buts"
+    ],
+    "awayPhrases": [
+      "⚽️ Tom Lonergan a marqué 3 buts",
+      "🅰️ Pádraig Amond a délivré 1 assists",
+      "⚽⚽ Tom Lonergan / Pádraig Amond Double chance buteur"
     ]
   },
   {
@@ -377,19 +423,22 @@
     "season": 2025,
     "homeTeam": "Galway United",
     "awayTeam": "Drogheda United",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 78,
-    "awayMatchesUsed": 91,
-    "homeGoalsFor": 95,
-    "homeGoalsAgainst": 82,
-    "awayGoalsFor": 136,
-    "awayGoalsAgainst": 118,
-    "homeProb": 0.4,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 40,
+    "awayMatchesUsed": 44,
+    "homeGoalsFor": 52,
+    "homeGoalsAgainst": 47,
+    "awayGoalsFor": 58,
+    "awayGoalsAgainst": 51,
+    "homeRank": 6,
+    "awayRank": 5,
+    "leagueStandingsUsed": "Premier Division||Premier Division 2025",
+    "homeProb": 0.34,
     "drawProb": 0.25,
-    "awayProb": 0.34,
-    "expectedHomeGoals": 1.4494505494505496,
-    "expectedAwayGoals": 1.3172161172161174,
+    "awayProb": 0.4,
+    "expectedHomeGoals": 1.3217331534779195,
+    "expectedAwayGoals": 1.4520827229285638,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -397,23 +446,24 @@
       },
       {
         "score": "0-1",
-        "prob": 0.1
+        "prob": 0.11
       },
       {
         "score": "1-2",
         "prob": 0.09
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
     "over25Prob": 0.5,
     "under25Prob": 0.5,
+    "bttsProb": 0.56,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "David Hurley",
         "team": "Galway United",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (11 depuis 2024-02-16)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -426,7 +476,7 @@
           "Stephen Walsh"
         ],
         "team": "Galway United",
-        "description": "Double chance buteur : David Hurley (3) ou Stephen Walsh (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : David Hurley (3) ou Stephen Walsh (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -444,12 +494,19 @@
         "type": "scorer",
         "player": "Dare Kareem",
         "team": "Drogheda United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis 2025-03-07)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [
+      "⚽️ David Hurley a marqué 3 buts",
+      "⚽⚽ David Hurley / Stephen Walsh Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Dare Kareem a marqué 2 buts"
     ]
   },
   {
@@ -460,42 +517,46 @@
     "homeTeam": "Milan",
     "awayTeam": "Pisa",
     "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 45,
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 67,
     "awayMatchesUsed": 55,
-    "homeGoalsFor": 61,
-    "homeGoalsAgainst": 43,
-    "awayGoalsFor": 82,
-    "awayGoalsAgainst": 58,
-    "homeProb": 0.41,
-    "drawProb": 0.26,
-    "awayProb": 0.34,
-    "expectedHomeGoals": 1.4351515151515153,
-    "expectedAwayGoals": 1.2767676767676768,
+    "homeGoalsFor": 110,
+    "homeGoalsAgainst": 73,
+    "awayGoalsFor": 77,
+    "awayGoalsAgainst": 46,
+    "homeRank": 7,
+    "awayRank": 11,
+    "leagueStandingsUsed": "Serie A||Serie A 25/26",
+    "homeProb": 0.57,
+    "drawProb": 0.24,
+    "awayProb": 0.19,
+    "expectedHomeGoals": 1.7147212572456032,
+    "expectedAwayGoals": 0.8846607579117266,
     "scoreScenarios": [
       {
-        "score": "1-1",
+        "score": "1-0",
+        "prob": 0.13
+      },
+      {
+        "score": "2-0",
         "prob": 0.12
       },
       {
-        "score": "1-0",
+        "score": "1-1",
         "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
       }
     ],
-    "over15Prob": 0.74,
-    "under15Prob": 0.26,
-    "over25Prob": 0.49,
-    "under25Prob": 0.51,
+    "over15Prob": 0.75,
+    "under15Prob": 0.25,
+    "over25Prob": 0.5,
+    "under25Prob": 0.5,
+    "bttsProb": 0.48,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Christian Pulišić",
         "team": "Milan",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (38 depuis 2023-08-21)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (38 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 2
@@ -505,7 +566,7 @@
         "type": "assister",
         "player": "Christian Pulišić",
         "team": "Milan",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (23 depuis 2023-08-21)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (23 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 2
@@ -518,7 +579,7 @@
           "Rafael Leão"
         ],
         "team": "Milan",
-        "description": "Double chance buteur : Christian Pulišić (4) ou Rafael Leão (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Christian Pulišić (4) ou Rafael Leão (2)",
         "recentMatches": [
           {
             "goals": 4,
@@ -531,7 +592,13 @@
         ]
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Christian Pulišić a marqué 4 buts",
+      "🅰️ Christian Pulišić a délivré 2 assists",
+      "⚽⚽ Christian Pulišić / Rafael Leão Double chance buteur"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 14035926,
@@ -542,48 +609,56 @@
     "awayTeam": "RSC Anderlecht",
     "homeSeasonUsed": 2026,
     "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 11,
-    "awayMatchesUsed": 11,
-    "homeGoalsFor": 14,
-    "homeGoalsAgainst": 17,
-    "awayGoalsFor": 17,
-    "awayGoalsAgainst": 11,
-    "homeProb": 0.34,
-    "drawProb": 0.25,
-    "awayProb": 0.42,
-    "expectedHomeGoals": 1.3636363636363638,
-    "expectedAwayGoals": 1.5454545454545454,
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 17,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 19,
+    "awayGoalsFor": 26,
+    "awayGoalsAgainst": 21,
+    "homeRank": 9,
+    "awayRank": 7,
+    "leagueStandingsUsed": "Pro League||Pro League 25/26",
+    "homeProb": 0.31,
+    "drawProb": 0.27,
+    "awayProb": 0.43,
+    "expectedHomeGoals": 1.1140032009635048,
+    "expectedAwayGoals": 1.3673165476315075,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
+        "prob": 0.13
       },
       {
         "score": "0-1",
-        "prob": 0.1
+        "prob": 0.12
       },
       {
         "score": "1-0",
-        "prob": 0.09
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.48,
-    "under25Prob": 0.52,
+    "over15Prob": 0.66,
+    "under15Prob": 0.34,
+    "over25Prob": 0.39,
+    "under25Prob": 0.61,
+    "bttsProb": 0.5,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Patrick Pflücke",
         "team": "RC Sporting Charleroi",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis 2025-09-14)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Patrick Pflücke a marqué 2 buts"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 14167923,
@@ -592,43 +667,47 @@
     "season": 2026,
     "homeTeam": "Paris FC",
     "awayTeam": "Nantes",
-    "homeSeasonUsed": "ALL",
+    "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 49,
-    "awayMatchesUsed": 42,
-    "homeGoalsFor": 83,
-    "homeGoalsAgainst": 60,
-    "awayGoalsFor": 39,
-    "awayGoalsAgainst": 52,
-    "homeProb": 0.53,
+    "awayMatchesUsed": 49,
+    "homeGoalsFor": 70,
+    "homeGoalsAgainst": 45,
+    "awayGoalsFor": 51,
+    "awayGoalsAgainst": 63,
+    "homeRank": 4,
+    "awayRank": 13,
+    "leagueStandingsUsed": "Ligue 1||Ligue 1 25/26",
+    "homeProb": 0.45,
     "drawProb": 0.24,
-    "awayProb": 0.23,
-    "expectedHomeGoals": 1.7115646258503403,
-    "expectedAwayGoals": 1.0469387755102042,
+    "awayProb": 0.31,
+    "expectedHomeGoals": 1.6279605033724478,
+    "expectedAwayGoals": 1.309357255922756,
     "scoreScenarios": [
       {
         "score": "1-1",
         "prob": 0.11
       },
       {
-        "score": "1-0",
-        "prob": 0.1
+        "score": "2-1",
+        "prob": 0.09
       },
       {
-        "score": "2-1",
-        "prob": 0.1
+        "score": "1-0",
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.76,
-    "under15Prob": 0.24,
-    "over25Prob": 0.53,
-    "under25Prob": 0.47,
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.57,
+    "under25Prob": 0.43,
+    "bttsProb": 0.59,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Jean-Philippe Krasso",
         "team": "Paris FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis 2024-08-17)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -638,7 +717,7 @@
         "type": "assister",
         "player": "Ilan Kebbal",
         "team": "Paris FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (11 depuis 2024-08-17)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 2
@@ -651,7 +730,7 @@
           "Ilan Kebbal"
         ],
         "team": "Paris FC",
-        "description": "Double chance buteur : Jean-Philippe Krasso (2) ou Ilan Kebbal (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Jean-Philippe Krasso (2) ou Ilan Kebbal (1)",
         "recentMatches": [
           {
             "goals": 2,
@@ -664,7 +743,13 @@
         ]
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Jean-Philippe Krasso a marqué 2 buts",
+      "🅰️ Ilan Kebbal a délivré 2 assists",
+      "⚽⚽ Jean-Philippe Krasso / Ilan Kebbal Double chance buteur"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 14914961,
@@ -673,23 +758,26 @@
     "season": 2025,
     "homeTeam": "University College Dublin",
     "awayTeam": "Bray Wanderers",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 86,
-    "awayMatchesUsed": 87,
-    "homeGoalsFor": 108,
-    "homeGoalsAgainst": 108,
-    "awayGoalsFor": 142,
-    "awayGoalsAgainst": 121,
-    "homeProb": 0.38,
-    "drawProb": 0.24,
-    "awayProb": 0.37,
-    "expectedHomeGoals": 1.509810211173483,
-    "expectedAwayGoals": 1.481635926222935,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 52,
+    "homeGoalsAgainst": 57,
+    "awayGoalsFor": 76,
+    "awayGoalsAgainst": 62,
+    "homeRank": null,
+    "awayRank": null,
+    "leagueStandingsUsed": "Premier Division, Relegation/Promotion||Premier Division 2025",
+    "homeProb": 0.37,
+    "drawProb": 0.22,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 1.7799263472208817,
+    "expectedAwayGoals": 1.8808829451358633,
     "scoreScenarios": [
       {
-        "score": "1-1",
-        "prob": 0.09
+        "score": "2-2",
+        "prob": 0.08
       },
       {
         "score": "2-1",
@@ -697,19 +785,20 @@
       },
       {
         "score": "1-2",
-        "prob": 0.08
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.68,
-    "under25Prob": 0.32,
+    "over15Prob": 0.91,
+    "under15Prob": 0.09,
+    "over25Prob": 0.76,
+    "under25Prob": 0.24,
+    "bttsProb": 0.7,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Adam Brennan",
         "team": "University College Dublin",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2024-04-26)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -719,7 +808,7 @@
         "type": "assister",
         "player": "Ciaran Behan",
         "team": "University College Dublin",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (12 depuis 2024-02-16)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 4
@@ -732,7 +821,7 @@
           "Jake Doyle"
         ],
         "team": "University College Dublin",
-        "description": "Double chance buteur : Adam Brennan (2) ou Jake Doyle (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Adam Brennan (2) ou Jake Doyle (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -752,7 +841,7 @@
           "Declan Osagie"
         ],
         "team": "University College Dublin",
-        "description": "Triple chance buteur : Adam Brennan (2), Jake Doyle (2), Declan Osagie (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Adam Brennan, Jake Doyle, Declan Osagie",
         "recentMatches": [
           {
             "goals": 2,
@@ -774,12 +863,21 @@
         "type": "scorer",
         "player": "Billy O'Neill",
         "team": "Bray Wanderers",
-        "description": "a marqué 6 buts sur les 5 derniers matchs (12 depuis 2024-06-28)",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 6,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [
+      "⚽️ Adam Brennan a marqué 2 buts",
+      "🅰️ Ciaran Behan a délivré 4 assists",
+      "⚽⚽ Adam Brennan / Jake Doyle Double chance buteur",
+      "⚽⚽⚽ Adam Brennan / Jake Doyle / Declan Osagie Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Billy O'Neill a marqué 6 buts"
     ]
   },
   {
@@ -789,49 +887,57 @@
     "season": 2026,
     "homeTeam": "Leeds United",
     "awayTeam": "West Ham United",
-    "homeSeasonUsed": "ALL",
+    "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
     "homeMatchesUsed": 61,
-    "awayMatchesUsed": 46,
-    "homeGoalsFor": 106,
-    "homeGoalsAgainst": 54,
-    "awayGoalsFor": 46,
-    "awayGoalsAgainst": 62,
-    "homeProb": 0.57,
-    "drawProb": 0.23,
-    "awayProb": 0.2,
-    "expectedHomeGoals": 1.781753385602281,
-    "expectedAwayGoals": 0.9540983606557377,
+    "awayMatchesUsed": 55,
+    "homeGoalsFor": 98,
+    "homeGoalsAgainst": 37,
+    "awayGoalsFor": 63,
+    "awayGoalsAgainst": 78,
+    "homeRank": 9,
+    "awayRank": 31,
+    "leagueStandingsUsed": "Premier League||Premier League 25/26",
+    "homeProb": 0.44,
+    "drawProb": 0.24,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.6544605486617796,
+    "expectedAwayGoals": 1.401643610422092,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-0",
         "prob": 0.11
       },
       {
         "score": "2-1",
-        "prob": 0.1
+        "prob": 0.09
+      },
+      {
+        "score": "1-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.49,
-    "under25Prob": 0.51,
+    "over15Prob": 0.8,
+    "under15Prob": 0.2,
+    "over25Prob": 0.58,
+    "under25Prob": 0.42,
+    "bttsProb": 0.61,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Jarrod Bowen",
         "team": "West Ham United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis 2024-08-17)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Jarrod Bowen a marqué 2 buts"
     ]
   },
   {
@@ -843,42 +949,46 @@
     "awayTeam": "Sheffield United",
     "homeSeasonUsed": 2026,
     "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 11,
-    "awayMatchesUsed": 11,
-    "homeGoalsFor": 12,
-    "homeGoalsAgainst": 10,
-    "awayGoalsFor": 7,
-    "awayGoalsAgainst": 17,
-    "homeProb": 0.54,
-    "drawProb": 0.27,
-    "awayProb": 0.19,
-    "expectedHomeGoals": 1.4727272727272727,
-    "expectedAwayGoals": 0.7454545454545454,
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 12,
+    "homeGoalsFor": 15,
+    "homeGoalsAgainst": 13,
+    "awayGoalsFor": 8,
+    "awayGoalsAgainst": 19,
+    "homeRank": 3,
+    "awayRank": 11,
+    "leagueStandingsUsed": "Championship||Championship 25/26",
+    "homeProb": 0.5,
+    "drawProb": 0.28,
+    "awayProb": 0.22,
+    "expectedHomeGoals": 1.3263713910486168,
+    "expectedAwayGoals": 0.7786975232247448,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.2
+        "prob": 0.19
       },
       {
         "score": "0-0",
-        "prob": 0.15
+        "prob": 0.16
       },
       {
         "score": "2-0",
-        "prob": 0.13
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0.56,
-    "under15Prob": 0.44,
-    "over25Prob": 0.29,
-    "under25Prob": 0.71,
+    "over15Prob": 0.55,
+    "under15Prob": 0.45,
+    "over25Prob": 0.28,
+    "under25Prob": 0.72,
+    "bttsProb": 0.4,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Tyrese Campbell",
         "team": "Sheffield United",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis 2024-08-24)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -888,7 +998,7 @@
         "type": "assister",
         "player": "Callum O'Hare",
         "team": "Sheffield United",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (9 depuis 2024-08-09)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (9 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -901,7 +1011,7 @@
           "Callum O'Hare"
         ],
         "team": "Sheffield United",
-        "description": "Double chance buteur : Tyrese Campbell (2) ou Callum O'Hare (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tyrese Campbell (2) ou Callum O'Hare (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -913,6 +1023,12 @@
           }
         ]
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Tyrese Campbell a marqué 2 buts",
+      "🅰️ Callum O'Hare a délivré 1 assists",
+      "⚽⚽ Tyrese Campbell / Callum O'Hare Double chance buteur"
     ]
   },
   {
@@ -922,44 +1038,48 @@
     "season": 2025,
     "homeTeam": "Sarmiento",
     "awayTeam": "Rosario Central",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 72,
-    "awayMatchesUsed": 89,
-    "homeGoalsFor": 51,
-    "homeGoalsAgainst": 85,
-    "awayGoalsFor": 99,
-    "awayGoalsAgainst": 90,
-    "homeProb": 0.33,
-    "drawProb": 0.29,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.029494382022472,
-    "expectedAwayGoals": 1.139637952559301,
+    "homeSeasonUsed": "2025+2024",
+    "awaySeasonUsed": "2025+2024",
+    "homeMatchesUsed": 43,
+    "awayMatchesUsed": 57,
+    "homeGoalsFor": 31,
+    "homeGoalsAgainst": 52,
+    "awayGoalsFor": 59,
+    "awayGoalsAgainst": 70,
+    "homeRank": 26,
+    "awayRank": 19,
+    "leagueStandingsUsed": "Liga Profesional, Clausura||Torneo Clausura",
+    "homeProb": 0.27,
+    "drawProb": 0.32,
+    "awayProb": 0.41,
+    "expectedHomeGoals": 0.7988916547189251,
+    "expectedAwayGoals": 1.0655052526377893,
     "scoreScenarios": [
       {
-        "score": "0-0",
-        "prob": 0.15
-      },
-      {
         "score": "0-1",
-        "prob": 0.15
+        "prob": 0.2
       },
       {
-        "score": "1-0",
-        "prob": 0.14
+        "score": "0-0",
+        "prob": 0.19
+      },
+      {
+        "score": "1-1",
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0.57,
-    "under15Prob": 0.43,
-    "over25Prob": 0.3,
-    "under25Prob": 0.7,
+    "over15Prob": 0.49,
+    "under15Prob": 0.51,
+    "over25Prob": 0.23,
+    "under25Prob": 0.77,
+    "bttsProb": 0.36,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Alejo Véliz",
         "team": "Rosario Central",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (5 depuis 2025-07-12)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 0
@@ -969,7 +1089,7 @@
         "type": "assister",
         "player": "Ángel Di María",
         "team": "Rosario Central",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2025-07-12)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 2
@@ -982,7 +1102,7 @@
           "Ángel Di María"
         ],
         "team": "Rosario Central",
-        "description": "Double chance buteur : Alejo Véliz (4) ou Ángel Di María (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Alejo Véliz (4) ou Ángel Di María (1)",
         "recentMatches": [
           {
             "goals": 4,
@@ -1002,7 +1122,7 @@
           "Ignacio Malcorra"
         ],
         "team": "Rosario Central",
-        "description": "Triple chance buteur : Alejo Véliz (4), Ángel Di María (1), Ignacio Malcorra (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Alejo Véliz, Ángel Di María, Ignacio Malcorra",
         "recentMatches": [
           {
             "goals": 4,
@@ -1018,6 +1138,13 @@
           }
         ]
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Alejo Véliz a marqué 4 buts",
+      "🅰️ Ángel Di María a délivré 2 assists",
+      "⚽⚽ Alejo Véliz / Ángel Di María Double chance buteur",
+      "⚽⚽⚽ Alejo Véliz / Ángel Di María / Ignacio Malcorra Triple chance buteur"
     ]
   },
   {
@@ -1029,41 +1156,45 @@
     "awayTeam": "Sevilla",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 47,
-    "awayMatchesUsed": 47,
-    "homeGoalsFor": 35,
-    "homeGoalsAgainst": 46,
-    "awayGoalsFor": 42,
-    "awayGoalsAgainst": 55,
-    "homeProb": 0.4,
-    "drawProb": 0.3,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.1148936170212767,
-    "expectedAwayGoals": 0.9276595744680851,
+    "homeMatchesUsed": 73,
+    "awayMatchesUsed": 57,
+    "homeGoalsFor": 85,
+    "homeGoalsAgainst": 73,
+    "awayGoalsFor": 64,
+    "awayGoalsAgainst": 71,
+    "homeRank": 11,
+    "awayRank": 19,
+    "leagueStandingsUsed": "LaLiga||LaLiga 25/26",
+    "homeProb": 0.29,
+    "drawProb": 0.24,
+    "awayProb": 0.47,
+    "expectedHomeGoals": 1.2556303499816701,
+    "expectedAwayGoals": 1.683963175215247,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.13
+        "prob": 0.11
+      },
+      {
+        "score": "1-2",
+        "prob": 0.1
       },
       {
         "score": "0-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.12
+        "prob": 0.09
       }
     ],
-    "over15Prob": 0.64,
-    "under15Prob": 0.36,
-    "over25Prob": 0.37,
-    "under25Prob": 0.63,
+    "over15Prob": 0.79,
+    "under15Prob": 0.21,
+    "over25Prob": 0.56,
+    "under25Prob": 0.44,
+    "bttsProb": 0.58,
     "homeSpots": [
       {
         "type": "assister",
         "player": "Ander Barrenetxea",
         "team": "Real Sociedad",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis 2024-08-18)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (9 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -1075,7 +1206,7 @@
         "type": "scorer",
         "player": "Ruben Vargas",
         "team": "Sevilla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2025-01-11)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -1085,7 +1216,7 @@
         "type": "assister",
         "player": "José Ángel Carmona",
         "team": "Sevilla",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis 2024-08-16)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 3
@@ -1098,7 +1229,7 @@
           "Akor Adams"
         ],
         "team": "Sevilla",
-        "description": "Double chance buteur : Ruben Vargas (2) ou Akor Adams (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ruben Vargas (2) ou Akor Adams (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -1118,7 +1249,7 @@
           "José Ángel Carmona"
         ],
         "team": "Sevilla",
-        "description": "Triple chance buteur : Ruben Vargas (2), Akor Adams (2), José Ángel Carmona (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Ruben Vargas, Akor Adams, José Ángel Carmona",
         "recentMatches": [
           {
             "goals": 2,
@@ -1134,6 +1265,15 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "🅰️ Ander Barrenetxea a délivré 2 assists"
+    ],
+    "awayPhrases": [
+      "⚽️ Ruben Vargas a marqué 2 buts",
+      "🅰️ José Ángel Carmona a délivré 3 assists",
+      "⚽⚽ Ruben Vargas / Akor Adams Double chance buteur",
+      "⚽⚽⚽ Ruben Vargas / Akor Adams / José Ángel Carmona Triple chance buteur"
     ]
   },
   {
@@ -1144,43 +1284,47 @@
     "homeTeam": "Palestino",
     "awayTeam": "Everton de Viña del Mar",
     "homeSeasonUsed": 2025,
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 21,
-    "awayMatchesUsed": 67,
-    "homeGoalsFor": 28,
-    "homeGoalsAgainst": 17,
-    "awayGoalsFor": 91,
-    "awayGoalsAgainst": 100,
-    "homeProb": 0.48,
-    "drawProb": 0.25,
-    "awayProb": 0.27,
-    "expectedHomeGoals": 1.5970149253731345,
-    "expectedAwayGoals": 1.1387348969438522,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 40,
+    "awayMatchesUsed": 30,
+    "homeGoalsFor": 56,
+    "homeGoalsAgainst": 59,
+    "awayGoalsFor": 34,
+    "awayGoalsAgainst": 46,
+    "homeRank": 15,
+    "awayRank": 11,
+    "leagueStandingsUsed": "Liga de Primera||Liga de Primera 2025",
+    "homeProb": 0.37,
+    "drawProb": 0.26,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 1.3538513710949525,
+    "expectedAwayGoals": 1.34121578101071,
     "scoreScenarios": [
       {
         "score": "1-1",
         "prob": 0.12
       },
       {
-        "score": "1-0",
-        "prob": 0.09
+        "score": "0-1",
+        "prob": 0.1
       },
       {
-        "score": "2-1",
+        "score": "1-2",
         "prob": 0.09
       }
     ],
     "over15Prob": 0.75,
     "under15Prob": 0.25,
-    "over25Prob": 0.51,
-    "under25Prob": 0.49,
+    "over25Prob": 0.5,
+    "under25Prob": 0.5,
+    "bttsProb": 0.55,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Sebastián Sosa",
         "team": "Everton de Viña del Mar",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-07-18)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -1190,12 +1334,17 @@
         "type": "assister",
         "player": "Sebastián Sosa",
         "team": "Everton de Viña del Mar",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis 2025-07-18)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Sebastián Sosa a marqué 3 buts",
+      "🅰️ Sebastián Sosa a délivré 1 assists"
     ]
   },
   {
@@ -1205,43 +1354,47 @@
     "season": 2025,
     "homeTeam": "Alianza Valledupar FC",
     "awayTeam": "Deportivo La Equidad",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 89,
-    "awayMatchesUsed": 87,
-    "homeGoalsFor": 95,
-    "homeGoalsAgainst": 120,
-    "awayGoalsFor": 70,
-    "awayGoalsAgainst": 123,
-    "homeProb": 0.46,
-    "drawProb": 0.27,
-    "awayProb": 0.27,
-    "expectedHomeGoals": 1.4059666795815575,
-    "expectedAwayGoals": 1.0220844633862844,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 41,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 52,
+    "awayGoalsFor": 25,
+    "awayGoalsAgainst": 67,
+    "homeRank": 8,
+    "awayRank": 9,
+    "leagueStandingsUsed": "Primera A, Clausura||Primera A, Clausura 2025",
+    "homeProb": 0.52,
+    "drawProb": 0.24,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 1.6692481396907668,
+    "expectedAwayGoals": 1.0520506752381746,
     "scoreScenarios": [
       {
-        "score": "1-0",
-        "prob": 0.12
-      },
-      {
         "score": "1-1",
-        "prob": 0.12
+        "prob": 0.11
       },
       {
-        "score": "2-0",
+        "score": "1-0",
+        "prob": 0.11
+      },
+      {
+        "score": "2-1",
         "prob": 0.1
       }
     ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.48,
-    "under25Prob": 0.52,
+    "over15Prob": 0.77,
+    "under15Prob": 0.23,
+    "over25Prob": 0.53,
+    "under25Prob": 0.47,
+    "bttsProb": 0.53,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Carlos Gonzalez",
         "team": "Alianza Valledupar FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis 2025-07-13)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -1251,7 +1404,7 @@
         "type": "assister",
         "player": "Edwin Torres",
         "team": "Alianza Valledupar FC",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis 2024-07-18)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -1264,7 +1417,7 @@
           "Edwin Torres"
         ],
         "team": "Alianza Valledupar FC",
-        "description": "Double chance buteur : Carlos Gonzalez (3) ou Edwin Torres (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Carlos Gonzalez (3) ou Edwin Torres (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -1277,7 +1430,13 @@
         ]
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Carlos Gonzalez a marqué 3 buts",
+      "🅰️ Edwin Torres a délivré 1 assists",
+      "⚽⚽ Carlos Gonzalez / Edwin Torres Double chance buteur"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 14878735,
@@ -1286,44 +1445,48 @@
     "season": 2025,
     "homeTeam": "CA Independiente",
     "awayTeam": "Platense",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 89,
-    "awayMatchesUsed": 77,
-    "homeGoalsFor": 112,
-    "homeGoalsAgainst": 73,
-    "awayGoalsFor": 75,
-    "awayGoalsAgainst": 75,
-    "homeProb": 0.47,
-    "drawProb": 0.28,
-    "awayProb": 0.25,
-    "expectedHomeGoals": 1.3446665693856708,
-    "expectedAwayGoals": 0.9125054720560338,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": "2025+2024",
+    "homeMatchesUsed": 13,
+    "awayMatchesUsed": 45,
+    "homeGoalsFor": 29,
+    "homeGoalsAgainst": 14,
+    "awayGoalsFor": 38,
+    "awayGoalsAgainst": 39,
+    "homeRank": 23,
+    "awayRank": 9,
+    "leagueStandingsUsed": "Liga Profesional, Clausura||Torneo Clausura",
+    "homeProb": 0.44,
+    "drawProb": 0.22,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 1.9138023446464616,
+    "expectedAwayGoals": 1.6508677530939437,
     "scoreScenarios": [
       {
-        "score": "1-0",
-        "prob": 0.14
-      },
-      {
         "score": "1-1",
-        "prob": 0.13
+        "prob": 0.1
       },
       {
-        "score": "0-0",
-        "prob": 0.12
+        "score": "2-1",
+        "prob": 0.08
+      },
+      {
+        "score": "1-2",
+        "prob": 0.08
       }
     ],
-    "over15Prob": 0.62,
-    "under15Prob": 0.38,
-    "over25Prob": 0.35,
-    "under25Prob": 0.65,
+    "over15Prob": 0.86,
+    "under15Prob": 0.14,
+    "over25Prob": 0.67,
+    "under25Prob": 0.33,
+    "bttsProb": 0.69,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Ronaldo Martinez",
         "team": "Platense",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis 2024-01-27)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -1333,13 +1496,92 @@
         "type": "assister",
         "player": "Ronaldo Martinez",
         "team": "Platense",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2024-01-27)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Ronaldo Martinez a marqué 3 buts",
+      "🅰️ Ronaldo Martinez a délivré 1 assists"
     ]
+  },
+  {
+    "matchId": 14442052,
+    "date": "25/10/2025 00:30",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Toronto Raptors",
+    "awayTeam": "Milwaukee Bucks",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 90,
+    "awayMatchesUsed": 91,
+    "homeGoalsFor": 9838,
+    "homeGoalsAgainst": 10110,
+    "awayGoalsFor": 10248,
+    "awayGoalsAgainst": 10159,
+    "homeRank": 19,
+    "awayRank": 3,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.56,
+    "drawProb": 0,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 129.93,
+    "expectedAwayGoals": 126.91,
+    "over200": 1,
+    "under200": 0,
+    "over210": 1,
+    "under210": 0,
+    "over220": 1,
+    "under220": 0,
+    "over230": 0.99,
+    "under230": 0.01,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442635,
+    "date": "25/10/2025 01:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Orlando Magic",
+    "awayTeam": "Atlanta Hawks",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 93,
+    "awayMatchesUsed": 88,
+    "homeGoalsFor": 9590,
+    "homeGoalsAgainst": 9668,
+    "awayGoalsFor": 10160,
+    "awayGoalsAgainst": 10311,
+    "homeRank": 6,
+    "awayRank": 24,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.56,
+    "drawProb": 0,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 120.2,
+    "expectedAwayGoals": 117.09,
+    "over200": 1,
+    "under200": 0,
+    "over210": 0.99,
+    "under210": 0.01,
+    "over220": 0.93,
+    "under220": 0.07,
+    "over230": 0.73,
+    "under230": 0.27,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
   },
   {
     "matchId": 14200751,
@@ -1350,41 +1592,45 @@
     "awayTeam": "San Jose Sharks",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 94,
-    "awayMatchesUsed": 89,
-    "homeGoalsFor": 253,
-    "homeGoalsAgainst": 241,
-    "awayGoalsFor": 210,
-    "awayGoalsAgainst": 315,
-    "homeProb": 0.53,
+    "homeMatchesUsed": 101,
+    "awayMatchesUsed": 95,
+    "homeGoalsFor": 274,
+    "homeGoalsAgainst": 260,
+    "awayGoalsFor": 226,
+    "awayGoalsAgainst": 332,
+    "homeRank": 8,
+    "awayRank": 30,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.54,
     "drawProb": 0.17,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 3.2306239540999284,
-    "expectedAwayGoals": 2.441262251972269,
+    "awayProb": 0.29,
+    "expectedHomeGoals": 4.087511079108164,
+    "expectedAwayGoals": 3.0452451756584593,
     "scoreScenarios": [
       {
-        "score": "3-2",
+        "score": "3-3",
         "prob": 0.06
       },
       {
-        "score": "2-2",
-        "prob": 0.05
+        "score": "4-3",
+        "prob": 0.06
       },
       {
-        "score": "3-3",
-        "prob": 0.05
+        "score": "3-2",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
-    "over25Prob": 0.77,
-    "under25Prob": 0.23,
+    "over15Prob": 0.99,
+    "under15Prob": 0.01,
+    "over25Prob": 0.96,
+    "under25Prob": 0.04,
+    "bttsProb": 0.94,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Jack Hughes",
         "team": "New Jersey Devils",
-        "description": "a marqué 6 buts sur les 5 derniers matchs (33 depuis 2024-10-04)",
+        "description": "a marqué 6 buts sur les 5 derniers matchs (33 depuis début saison)",
         "recentMatches": {
           "goals": 6,
           "assists": 2
@@ -1394,7 +1640,7 @@
         "type": "assister",
         "player": "Jesper Bratt",
         "team": "New Jersey Devils",
-        "description": "a délivré 6 assists sur les 5 derniers matchs (78 depuis 2024-10-04)",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (78 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 6
@@ -1407,7 +1653,7 @@
           "Dawson Mercer"
         ],
         "team": "New Jersey Devils",
-        "description": "Double chance buteur : Jack Hughes (6) ou Dawson Mercer (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Jack Hughes (6) ou Dawson Mercer (3)",
         "recentMatches": [
           {
             "goals": 6,
@@ -1427,7 +1673,7 @@
           "Timo Meier"
         ],
         "team": "New Jersey Devils",
-        "description": "Triple chance buteur : Jack Hughes (6), Dawson Mercer (3), Timo Meier (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Jack Hughes, Dawson Mercer, Timo Meier",
         "recentMatches": [
           {
             "goals": 6,
@@ -1442,22 +1688,6 @@
             "assists": 3
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "Jesper Bratt et Jack Hughes",
-        "team": "New Jersey Devils",
-        "description": "ont marqué 8 et 8 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 6
-          },
-          {
-            "goals": 6,
-            "assists": 2
-          }
-        ]
       }
     ],
     "awaySpots": [
@@ -1465,7 +1695,7 @@
         "type": "scorer",
         "player": "Macklin Celebrini",
         "team": "San Jose Sharks",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (30 depuis 2024-10-11)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (30 depuis début saison)",
         "recentMatches": {
           "goals": 5,
           "assists": 3
@@ -1475,7 +1705,7 @@
         "type": "assister",
         "player": "Dmitry Orlov",
         "team": "San Jose Sharks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (7 depuis 2025-09-27)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (7 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 4
@@ -1488,7 +1718,7 @@
           "Adam Gaudette"
         ],
         "team": "San Jose Sharks",
-        "description": "Double chance buteur : Macklin Celebrini (5) ou Adam Gaudette (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Macklin Celebrini (5) ou Adam Gaudette (2)",
         "recentMatches": [
           {
             "goals": 5,
@@ -1508,7 +1738,7 @@
           "Will Smith"
         ],
         "team": "San Jose Sharks",
-        "description": "Triple chance buteur : Macklin Celebrini (5), Adam Gaudette (2), Will Smith (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Macklin Celebrini, Adam Gaudette, Will Smith",
         "recentMatches": [
           {
             "goals": 5,
@@ -1523,23 +1753,19 @@
             "assists": 3
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "Macklin Celebrini et Will Smith",
-        "team": "San Jose Sharks",
-        "description": "ont marqué 8 et 5 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 3
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          }
-        ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Jack Hughes a marqué 6 buts",
+      "🅰️ Jesper Bratt a délivré 6 assists",
+      "⚽⚽ Jack Hughes / Dawson Mercer Double chance buteur",
+      "⚽⚽⚽ Jack Hughes / Dawson Mercer / Timo Meier Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Macklin Celebrini a marqué 5 buts",
+      "🅰️ Dmitry Orlov a délivré 4 assists",
+      "⚽⚽ Macklin Celebrini / Adam Gaudette Double chance buteur",
+      "⚽⚽⚽ Macklin Celebrini / Adam Gaudette / Will Smith Triple chance buteur"
     ]
   },
   {
@@ -1551,41 +1777,45 @@
     "awayTeam": "Toronto Maple Leafs",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 89,
-    "awayMatchesUsed": 102,
-    "homeGoalsFor": 269,
-    "homeGoalsAgainst": 289,
-    "awayGoalsFor": 304,
-    "awayGoalsAgainst": 273,
-    "homeProb": 0.41,
-    "drawProb": 0.18,
-    "awayProb": 0.41,
-    "expectedHomeGoals": 3.0840713813615332,
-    "expectedAwayGoals": 3.0871116986120293,
+    "homeMatchesUsed": 95,
+    "awayMatchesUsed": 108,
+    "homeGoalsFor": 289,
+    "homeGoalsAgainst": 307,
+    "awayGoalsFor": 325,
+    "awayGoalsAgainst": 294,
+    "homeRank": 6,
+    "awayRank": 11,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.37,
+    "drawProb": 0.17,
+    "awayProb": 0.45,
+    "expectedHomeGoals": 3.089544289004884,
+    "expectedAwayGoals": 3.3751567620593637,
     "scoreScenarios": [
       {
         "score": "2-3",
-        "prob": 0.05
-      },
-      {
-        "score": "2-2",
-        "prob": 0.05
+        "prob": 0.06
       },
       {
         "score": "3-3",
-        "prob": 0.05
+        "prob": 0.06
+      },
+      {
+        "score": "2-2",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
+    "over15Prob": 0.98,
+    "under15Prob": 0.02,
+    "over25Prob": 0.94,
+    "under25Prob": 0.06,
+    "bttsProb": 0.92,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Jason Zucker",
         "team": "Buffalo Sabres",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (27 depuis 2024-10-04)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (27 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -1595,7 +1825,7 @@
         "type": "assister",
         "player": "Rasmus Dahlin",
         "team": "Buffalo Sabres",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (56 depuis 2024-10-04)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (56 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 5
@@ -1608,7 +1838,7 @@
           "Jack Quinn"
         ],
         "team": "Buffalo Sabres",
-        "description": "Double chance buteur : Jason Zucker (3) ou Jack Quinn (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Jason Zucker (3) ou Jack Quinn (3)",
         "recentMatches": [
           {
             "goals": 3,
@@ -1628,7 +1858,7 @@
           "Josh Doan"
         ],
         "team": "Buffalo Sabres",
-        "description": "Triple chance buteur : Jason Zucker (3), Jack Quinn (3), Josh Doan (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Jason Zucker, Jack Quinn, Josh Doan",
         "recentMatches": [
           {
             "goals": 3,
@@ -1643,22 +1873,6 @@
             "assists": 3
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "Zach Benson et Josh Doan",
-        "team": "Buffalo Sabres",
-        "description": "ont marqué 7 et 6 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 0,
-            "assists": 7
-          },
-          {
-            "goals": 3,
-            "assists": 3
-          }
-        ]
       }
     ],
     "awaySpots": [
@@ -1666,7 +1880,7 @@
         "type": "scorer",
         "player": "John Tavares",
         "team": "Toronto Maple Leafs",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (48 depuis 2024-10-09)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (48 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 3
@@ -1676,7 +1890,7 @@
         "type": "assister",
         "player": "William Nylander",
         "team": "Toronto Maple Leafs",
-        "description": "a délivré 8 assists sur les 5 derniers matchs (59 depuis 2024-10-09)",
+        "description": "a délivré 8 assists sur les 5 derniers matchs (59 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 8
@@ -1689,7 +1903,7 @@
           "Auston Matthews"
         ],
         "team": "Toronto Maple Leafs",
-        "description": "Double chance buteur : John Tavares (4) ou Auston Matthews (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : John Tavares (4) ou Auston Matthews (3)",
         "recentMatches": [
           {
             "goals": 4,
@@ -1709,7 +1923,7 @@
           "Calle Jarnkrok"
         ],
         "team": "Toronto Maple Leafs",
-        "description": "Triple chance buteur : John Tavares (4), Auston Matthews (3), Calle Jarnkrok (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : John Tavares, Auston Matthews, Calle Jarnkrok",
         "recentMatches": [
           {
             "goals": 4,
@@ -1724,23 +1938,19 @@
             "assists": 0
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "William Nylander et Matthew Knies",
-        "team": "Toronto Maple Leafs",
-        "description": "ont marqué 9 et 7 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 8
-          },
-          {
-            "goals": 2,
-            "assists": 5
-          }
-        ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Jason Zucker a marqué 3 buts",
+      "🅰️ Rasmus Dahlin a délivré 5 assists",
+      "⚽⚽ Jason Zucker / Jack Quinn Double chance buteur",
+      "⚽⚽⚽ Jason Zucker / Jack Quinn / Josh Doan Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ John Tavares a marqué 4 buts",
+      "🅰️ William Nylander a délivré 8 assists",
+      "⚽⚽ John Tavares / Auston Matthews Double chance buteur",
+      "⚽⚽⚽ John Tavares / Auston Matthews / Calle Jarnkrok Triple chance buteur"
     ]
   },
   {
@@ -1752,41 +1962,45 @@
     "awayTeam": "Washington Capitals",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 99,
-    "homeGoalsFor": 273,
-    "homeGoalsAgainst": 268,
-    "awayGoalsFor": 313,
-    "awayGoalsAgainst": 259,
-    "homeProb": 0.41,
+    "homeMatchesUsed": 95,
+    "awayMatchesUsed": 105,
+    "homeGoalsFor": 287,
+    "homeGoalsAgainst": 286,
+    "awayGoalsFor": 333,
+    "awayGoalsAgainst": 271,
+    "homeRank": 27,
+    "awayRank": 17,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.38,
     "drawProb": 0.18,
-    "awayProb": 0.41,
-    "expectedHomeGoals": 3.107828282828283,
-    "expectedAwayGoals": 3.1151515151515152,
+    "awayProb": 0.44,
+    "expectedHomeGoals": 2.7758624534363108,
+    "expectedAwayGoals": 2.958784434217911,
     "scoreScenarios": [
       {
-        "score": "3-2",
-        "prob": 0.05
-      },
-      {
-        "score": "3-3",
-        "prob": 0.05
-      },
-      {
         "score": "2-2",
-        "prob": 0.05
+        "prob": 0.06
+      },
+      {
+        "score": "3-2",
+        "prob": 0.06
+      },
+      {
+        "score": "2-3",
+        "prob": 0.06
       }
     ],
-    "over15Prob": 0.8,
-    "under15Prob": 0.2,
-    "over25Prob": 0.76,
-    "under25Prob": 0.24,
+    "over15Prob": 0.98,
+    "under15Prob": 0.02,
+    "over25Prob": 0.91,
+    "under25Prob": 0.09,
+    "bttsProb": 0.89,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Kirill Marchenko",
         "team": "Columbus Blue Jackets",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (36 depuis 2024-10-11)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (36 depuis début saison)",
         "recentMatches": {
           "goals": 5,
           "assists": 3
@@ -1796,7 +2010,7 @@
         "type": "assister",
         "player": "Zach Werenski",
         "team": "Columbus Blue Jackets",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (67 depuis 2024-10-11)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (67 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 3
@@ -1809,7 +2023,7 @@
           "Dmitri Voronkov"
         ],
         "team": "Columbus Blue Jackets",
-        "description": "Double chance buteur : Kirill Marchenko (5) ou Dmitri Voronkov (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Kirill Marchenko (5) ou Dmitri Voronkov (2)",
         "recentMatches": [
           {
             "goals": 5,
@@ -1829,7 +2043,7 @@
           "Adam Fantilli"
         ],
         "team": "Columbus Blue Jackets",
-        "description": "Triple chance buteur : Kirill Marchenko (5), Dmitri Voronkov (2), Adam Fantilli (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Kirill Marchenko, Dmitri Voronkov, Adam Fantilli",
         "recentMatches": [
           {
             "goals": 5,
@@ -1842,22 +2056,6 @@
           {
             "goals": 2,
             "assists": 3
-          }
-        ]
-      },
-      {
-        "type": "duo",
-        "players": "Kirill Marchenko et Boone Jenner",
-        "team": "Columbus Blue Jackets",
-        "description": "ont marqué 8 et 6 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 3
-          },
-          {
-            "goals": 2,
-            "assists": 4
           }
         ]
       }
@@ -1867,7 +2065,7 @@
         "type": "scorer",
         "player": "Tom Wilson",
         "team": "Washington Capitals",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (41 depuis 2024-10-12)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (41 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 5
@@ -1877,7 +2075,7 @@
         "type": "assister",
         "player": "Dylan Strome",
         "team": "Washington Capitals",
-        "description": "a délivré 7 assists sur les 5 derniers matchs (68 depuis 2024-10-12)",
+        "description": "a délivré 7 assists sur les 5 derniers matchs (68 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 7
@@ -1890,7 +2088,7 @@
           "Jakob Chychrun"
         ],
         "team": "Washington Capitals",
-        "description": "Double chance buteur : Tom Wilson (3) ou Jakob Chychrun (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tom Wilson (3) ou Jakob Chychrun (3)",
         "recentMatches": [
           {
             "goals": 3,
@@ -1910,7 +2108,7 @@
           "Aliaksei Protas"
         ],
         "team": "Washington Capitals",
-        "description": "Triple chance buteur : Tom Wilson (3), Jakob Chychrun (3), Aliaksei Protas (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Tom Wilson, Jakob Chychrun, Aliaksei Protas",
         "recentMatches": [
           {
             "goals": 3,
@@ -1925,23 +2123,19 @@
             "assists": 2
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "Dylan Strome et Tom Wilson",
-        "team": "Washington Capitals",
-        "description": "ont marqué 9 et 8 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 7
-          },
-          {
-            "goals": 3,
-            "assists": 5
-          }
-        ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Kirill Marchenko a marqué 5 buts",
+      "🅰️ Zach Werenski a délivré 3 assists",
+      "⚽⚽ Kirill Marchenko / Dmitri Voronkov Double chance buteur",
+      "⚽⚽⚽ Kirill Marchenko / Dmitri Voronkov / Adam Fantilli Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Tom Wilson a marqué 3 buts",
+      "🅰️ Dylan Strome a délivré 7 assists",
+      "⚽⚽ Tom Wilson / Jakob Chychrun Double chance buteur",
+      "⚽⚽⚽ Tom Wilson / Jakob Chychrun / Aliaksei Protas Triple chance buteur"
     ]
   },
   {
@@ -1951,19 +2145,22 @@
     "season": 2025,
     "homeTeam": "Fortaleza CEIF",
     "awayTeam": "Deportivo Pasto",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 86,
-    "awayMatchesUsed": 90,
-    "homeGoalsFor": 92,
-    "homeGoalsAgainst": 92,
-    "awayGoalsFor": 95,
-    "awayGoalsAgainst": 103,
-    "homeProb": 0.42,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 42,
+    "homeGoalsFor": 42,
+    "homeGoalsAgainst": 44,
+    "awayGoalsFor": 47,
+    "awayGoalsAgainst": 54,
+    "homeRank": 4,
+    "awayRank": 10,
+    "leagueStandingsUsed": "Primera A, Clausura||Primera A, Clausura 2025",
+    "homeProb": 0.36,
     "drawProb": 0.28,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.299638242894057,
-    "expectedAwayGoals": 1.0612403100775194,
+    "awayProb": 0.36,
+    "expectedHomeGoals": 1.171522798848562,
+    "expectedAwayGoals": 1.1762229097615717,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -1971,30 +2168,220 @@
       },
       {
         "score": "1-0",
-        "prob": 0.12
+        "prob": 0.11
       },
       {
         "score": "0-1",
-        "prob": 0.1
+        "prob": 0.11
       }
     ],
     "over15Prob": 0.68,
     "under15Prob": 0.32,
     "over25Prob": 0.42,
     "under25Prob": 0.58,
+    "bttsProb": 0.48,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Yoshan Valois",
         "team": "Deportivo Pasto",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis 2025-07-12)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Yoshan Valois a marqué 2 buts"
     ]
+  },
+  {
+    "matchId": 14434379,
+    "date": "25/10/2025 01:30",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "New York Knicks",
+    "awayTeam": "Boston Celtics",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 106,
+    "awayMatchesUsed": 99,
+    "homeGoalsFor": 11876,
+    "homeGoalsAgainst": 11584,
+    "awayGoalsFor": 11159,
+    "awayGoalsAgainst": 10272,
+    "homeRank": 4,
+    "awayRank": 21,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.52,
+    "drawProb": 0,
+    "awayProb": 0.48,
+    "expectedHomeGoals": 116.18,
+    "expectedAwayGoals": 115.26,
+    "over200": 1,
+    "under200": 0,
+    "over210": 0.96,
+    "under210": 0.04,
+    "over220": 0.83,
+    "under220": 0.17,
+    "over230": 0.55,
+    "under230": 0.45,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14441950,
+    "date": "25/10/2025 01:30",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Brooklyn Nets",
+    "awayTeam": "Cleveland Cavaliers",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 88,
+    "awayMatchesUsed": 97,
+    "homeGoalsFor": 9105,
+    "homeGoalsAgainst": 9641,
+    "awayGoalsFor": 11505,
+    "awayGoalsAgainst": 10659,
+    "homeRank": 16,
+    "awayRank": 14,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.54,
+    "drawProb": 0,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 114.03,
+    "expectedAwayGoals": 112.23,
+    "over200": 0.99,
+    "under200": 0.01,
+    "over210": 0.91,
+    "under210": 0.09,
+    "over220": 0.7,
+    "under220": 0.3,
+    "over230": 0.38,
+    "under230": 0.62,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442021,
+    "date": "25/10/2025 02:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "New Orleans Pelicans",
+    "awayTeam": "San Antonio Spurs",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 88,
+    "awayMatchesUsed": 92,
+    "homeGoalsFor": 9528,
+    "homeGoalsAgainst": 10265,
+    "awayGoalsFor": 10222,
+    "awayGoalsAgainst": 10341,
+    "homeRank": 13,
+    "awayRank": 18,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.44,
+    "drawProb": 0,
+    "awayProb": 0.56,
+    "expectedHomeGoals": 119.1,
+    "expectedAwayGoals": 122.25,
+    "over200": 1,
+    "under200": 0,
+    "over210": 1,
+    "under210": 0,
+    "over220": 0.96,
+    "under220": 0.04,
+    "over230": 0.83,
+    "under230": 0.17,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442400,
+    "date": "25/10/2025 02:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Houston Rockets",
+    "awayTeam": "Detroit Pistons",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 93,
+    "awayMatchesUsed": 94,
+    "homeGoalsFor": 10439,
+    "homeGoalsAgainst": 10096,
+    "awayGoalsFor": 10577,
+    "awayGoalsAgainst": 10400,
+    "homeRank": 9,
+    "awayRank": 12,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.7,
+    "drawProb": 0,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 122.07,
+    "expectedAwayGoals": 111.24,
+    "over200": 1,
+    "under200": 0,
+    "over210": 0.97,
+    "under210": 0.03,
+    "over220": 0.87,
+    "under220": 0.13,
+    "over230": 0.61,
+    "under230": 0.39,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442572,
+    "date": "25/10/2025 02:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Memphis Grizzlies",
+    "awayTeam": "Miami Heat",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 98,
+    "awayMatchesUsed": 99,
+    "homeGoalsFor": 11486,
+    "homeGoalsAgainst": 11186,
+    "awayGoalsFor": 10588,
+    "awayGoalsAgainst": 10745,
+    "homeRank": 5,
+    "awayRank": 10,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.65,
+    "drawProb": 0,
+    "awayProb": 0.35,
+    "expectedHomeGoals": 125.11,
+    "expectedAwayGoals": 117.58,
+    "over200": 1,
+    "under200": 0,
+    "over210": 1,
+    "under210": 0,
+    "over220": 0.97,
+    "under220": 0.03,
+    "over230": 0.85,
+    "under230": 0.15,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
   },
   {
     "matchId": 14200755,
@@ -2005,41 +2392,45 @@
     "awayTeam": "Calgary Flames",
     "homeSeasonUsed": "2026+2025",
     "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 102,
-    "awayMatchesUsed": 91,
-    "homeGoalsFor": 312,
-    "homeGoalsAgainst": 231,
-    "awayGoalsFor": 225,
-    "awayGoalsAgainst": 238,
-    "homeProb": 0.52,
-    "drawProb": 0.18,
-    "awayProb": 0.31,
-    "expectedHomeGoals": 3.0814479638009047,
-    "expectedAwayGoals": 2.38939883645766,
+    "homeMatchesUsed": 108,
+    "awayMatchesUsed": 99,
+    "homeGoalsFor": 327,
+    "homeGoalsAgainst": 250,
+    "awayGoalsFor": 242,
+    "awayGoalsAgainst": 265,
+    "homeRank": 26,
+    "awayRank": 25,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.6,
+    "drawProb": 0.16,
+    "awayProb": 0.24,
+    "expectedHomeGoals": 3.5328852011558016,
+    "expectedAwayGoals": 2.249763620750381,
     "scoreScenarios": [
       {
         "score": "3-2",
+        "prob": 0.07
+      },
+      {
+        "score": "3-1",
         "prob": 0.06
       },
       {
-        "score": "2-2",
+        "score": "4-2",
         "prob": 0.06
-      },
-      {
-        "score": "3-3",
-        "prob": 0.05
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
+    "over15Prob": 0.97,
+    "under15Prob": 0.03,
+    "over25Prob": 0.91,
+    "under25Prob": 0.09,
+    "bttsProb": 0.87,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Mark Scheifele",
         "team": "Winnipeg Jets",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (51 depuis 2024-10-10)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (51 depuis début saison)",
         "recentMatches": {
           "goals": 5,
           "assists": 0
@@ -2049,7 +2440,7 @@
         "type": "assister",
         "player": "Kyle Connor",
         "team": "Winnipeg Jets",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (74 depuis 2024-10-10)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (74 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 5
@@ -2062,7 +2453,7 @@
           "Vladislav Namestnikov"
         ],
         "team": "Winnipeg Jets",
-        "description": "Double chance buteur : Mark Scheifele (5) ou Vladislav Namestnikov (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Mark Scheifele (5) ou Vladislav Namestnikov (2)",
         "recentMatches": [
           {
             "goals": 5,
@@ -2082,7 +2473,7 @@
           "Morgan Barron"
         ],
         "team": "Winnipeg Jets",
-        "description": "Triple chance buteur : Mark Scheifele (5), Vladislav Namestnikov (2), Morgan Barron (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Mark Scheifele, Vladislav Namestnikov, Morgan Barron",
         "recentMatches": [
           {
             "goals": 5,
@@ -2097,22 +2488,6 @@
             "assists": 1
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "Nino Niederreiter et Kyle Connor",
-        "team": "Winnipeg Jets",
-        "description": "ont marqué 6 et 5 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 4
-          },
-          {
-            "goals": 0,
-            "assists": 5
-          }
-        ]
       }
     ],
     "awaySpots": [
@@ -2120,7 +2495,7 @@
         "type": "scorer",
         "player": "Rasmus Andersson",
         "team": "Calgary Flames",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis 2024-10-10)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -2130,7 +2505,7 @@
         "type": "assister",
         "player": "Morgan Frost",
         "team": "Calgary Flames",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (16 depuis 2025-02-02)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (16 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -2143,7 +2518,7 @@
           "Nazem Kadri"
         ],
         "team": "Calgary Flames",
-        "description": "Double chance buteur : Rasmus Andersson (2) ou Nazem Kadri (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Rasmus Andersson (2) ou Nazem Kadri (0)",
         "recentMatches": [
           {
             "goals": 2,
@@ -2163,7 +2538,7 @@
           "Morgan Frost"
         ],
         "team": "Calgary Flames",
-        "description": "Triple chance buteur : Rasmus Andersson (2), Nazem Kadri (0), Morgan Frost (0) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Rasmus Andersson, Nazem Kadri, Morgan Frost",
         "recentMatches": [
           {
             "goals": 2,
@@ -2178,23 +2553,19 @@
             "assists": 2
           }
         ]
-      },
-      {
-        "type": "duo",
-        "players": "MacKenzie Weegar et Morgan Frost",
-        "team": "Calgary Flames",
-        "description": "ont marqué 2 et 2 points sur les 5 derniers matchs",
-        "recentMatches": [
-          {
-            "goals": 0,
-            "assists": 2
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Mark Scheifele a marqué 5 buts",
+      "🅰️ Kyle Connor a délivré 5 assists",
+      "⚽⚽ Mark Scheifele / Vladislav Namestnikov Double chance buteur",
+      "⚽⚽⚽ Mark Scheifele / Vladislav Namestnikov / Morgan Barron Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Rasmus Andersson a marqué 2 buts",
+      "🅰️ Morgan Frost a délivré 2 assists",
+      "⚽⚽ Rasmus Andersson / Nazem Kadri Double chance buteur",
+      "⚽⚽⚽ Rasmus Andersson / Nazem Kadri / Morgan Frost Triple chance buteur"
     ]
   },
   {
@@ -2204,43 +2575,47 @@
     "season": 2025,
     "homeTeam": "Orense SC",
     "awayTeam": "Universidad Católica del Ecuador",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 65,
-    "awayMatchesUsed": 90,
-    "homeGoalsFor": 65,
-    "homeGoalsAgainst": 75,
-    "awayGoalsFor": 173,
-    "awayGoalsAgainst": 120,
-    "homeProb": 0.32,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 34,
+    "awayMatchesUsed": 46,
+    "homeGoalsFor": 36,
+    "homeGoalsAgainst": 39,
+    "awayGoalsFor": 84,
+    "awayGoalsAgainst": 57,
+    "homeRank": 2,
+    "awayRank": 3,
+    "leagueStandingsUsed": "Serie A, Championship Round||LigaPro Primera A 2025",
+    "homeProb": 0.25,
     "drawProb": 0.24,
-    "awayProb": 0.44,
-    "expectedHomeGoals": 1.3333333333333335,
-    "expectedAwayGoals": 1.6148717948717948,
+    "awayProb": 0.52,
+    "expectedHomeGoals": 1.1130048354302415,
+    "expectedAwayGoals": 1.724360526028156,
     "scoreScenarios": [
+      {
+        "score": "0-1",
+        "prob": 0.11
+      },
       {
         "score": "1-1",
         "prob": 0.11
       },
       {
-        "score": "1-2",
+        "score": "0-2",
         "prob": 0.1
-      },
-      {
-        "score": "0-1",
-        "prob": 0.09
       }
     ],
     "over15Prob": 0.78,
     "under15Prob": 0.22,
-    "over25Prob": 0.55,
-    "under25Prob": 0.45,
+    "over25Prob": 0.54,
+    "under25Prob": 0.46,
+    "bttsProb": 0.55,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Agustin Herrera",
         "team": "Orense SC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis 2024-03-02)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2250,7 +2625,7 @@
         "type": "assister",
         "player": "Agustin Herrera",
         "team": "Orense SC",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis 2024-03-02)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2262,7 +2637,7 @@
         "type": "scorer",
         "player": "Mauricio Alonso",
         "team": "Universidad Católica del Ecuador",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis 2025-06-29)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -2272,7 +2647,7 @@
         "type": "assister",
         "player": "Azarias Londoño",
         "team": "Universidad Católica del Ecuador",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (10 depuis 2025-01-26)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -2285,7 +2660,7 @@
           "Azarias Londoño"
         ],
         "team": "Universidad Católica del Ecuador",
-        "description": "Double chance buteur : Mauricio Alonso (3) ou Azarias Londoño (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Mauricio Alonso (3) ou Azarias Londoño (3)",
         "recentMatches": [
           {
             "goals": 3,
@@ -2305,7 +2680,7 @@
           "José Fajardo"
         ],
         "team": "Universidad Católica del Ecuador",
-        "description": "Triple chance buteur : Mauricio Alonso (3), Azarias Londoño (3), José Fajardo (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Mauricio Alonso, Azarias Londoño, José Fajardo",
         "recentMatches": [
           {
             "goals": 3,
@@ -2321,6 +2696,16 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Agustin Herrera a marqué 2 buts",
+      "🅰️ Agustin Herrera a délivré 1 assists"
+    ],
+    "awayPhrases": [
+      "⚽️ Mauricio Alonso a marqué 3 buts",
+      "🅰️ Azarias Londoño a délivré 1 assists",
+      "⚽⚽ Mauricio Alonso / Azarias Londoño Double chance buteur",
+      "⚽⚽⚽ Mauricio Alonso / Azarias Londoño / José Fajardo Triple chance buteur"
     ]
   },
   {
@@ -2330,19 +2715,22 @@
     "season": 2025,
     "homeTeam": "Inter Miami CF",
     "awayTeam": "Nashville SC",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 108,
-    "awayMatchesUsed": 90,
-    "homeGoalsFor": 245,
-    "homeGoalsAgainst": 182,
-    "awayGoalsFor": 147,
-    "awayGoalsAgainst": 131,
-    "homeProb": 0.49,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 57,
+    "awayMatchesUsed": 45,
+    "homeGoalsFor": 134,
+    "homeGoalsAgainst": 94,
+    "awayGoalsFor": 85,
+    "awayGoalsAgainst": 56,
+    "homeRank": null,
+    "awayRank": null,
+    "leagueStandingsUsed": "MLS, Playoffs||MLS 2025",
+    "homeProb": 0.46,
     "drawProb": 0.21,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 2.1433333333333335,
-    "expectedAwayGoals": 1.654074074074074,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 2.100213420958783,
+    "expectedAwayGoals": 1.7739801842509204,
     "scoreScenarios": [
       {
         "score": "2-1",
@@ -2357,16 +2745,17 @@
         "prob": 0.07
       }
     ],
-    "over15Prob": 0.87,
-    "under15Prob": 0.13,
-    "over25Prob": 0.71,
-    "under25Prob": 0.29,
+    "over15Prob": 0.9,
+    "under15Prob": 0.1,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26,
+    "bttsProb": 0.73,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Lionel Messi",
         "team": "Inter Miami CF",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (63 depuis 2024-01-22)",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (63 depuis début saison)",
         "recentMatches": {
           "goals": 5,
           "assists": 5
@@ -2376,7 +2765,7 @@
         "type": "assister",
         "player": "Lionel Messi",
         "team": "Inter Miami CF",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (34 depuis 2024-01-22)",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (34 depuis début saison)",
         "recentMatches": {
           "goals": 5,
           "assists": 5
@@ -2389,7 +2778,7 @@
           "Luis Suárez"
         ],
         "team": "Inter Miami CF",
-        "description": "Double chance buteur : Lionel Messi (5) ou Luis Suárez (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Lionel Messi (5) ou Luis Suárez (3)",
         "recentMatches": [
           {
             "goals": 5,
@@ -2409,7 +2798,7 @@
           "Jordi Alba"
         ],
         "team": "Inter Miami CF",
-        "description": "Triple chance buteur : Lionel Messi (5), Luis Suárez (3), Jordi Alba (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Lionel Messi, Luis Suárez, Jordi Alba",
         "recentMatches": [
           {
             "goals": 5,
@@ -2431,7 +2820,7 @@
         "type": "scorer",
         "player": "Sam Surridge",
         "team": "Nashville SC",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (51 depuis 2024-02-07)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (51 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 0
@@ -2441,7 +2830,7 @@
         "type": "assister",
         "player": "Daniel Lovitz",
         "team": "Nashville SC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis 2024-02-25)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -2454,7 +2843,7 @@
           "Hany Mukhtar"
         ],
         "team": "Nashville SC",
-        "description": "Double chance buteur : Sam Surridge (4) ou Hany Mukhtar (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Sam Surridge (4) ou Hany Mukhtar (3)",
         "recentMatches": [
           {
             "goals": 4,
@@ -2474,7 +2863,7 @@
           "Jacob Shaffelburg"
         ],
         "team": "Nashville SC",
-        "description": "Triple chance buteur : Sam Surridge (4), Hany Mukhtar (3), Jacob Shaffelburg (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Sam Surridge, Hany Mukhtar, Jacob Shaffelburg",
         "recentMatches": [
           {
             "goals": 4,
@@ -2490,7 +2879,56 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Lionel Messi a marqué 5 buts",
+      "🅰️ Lionel Messi a délivré 5 assists",
+      "⚽⚽ Lionel Messi / Luis Suárez Double chance buteur",
+      "⚽⚽⚽ Lionel Messi / Luis Suárez / Jordi Alba Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Sam Surridge a marqué 4 buts",
+      "🅰️ Daniel Lovitz a délivré 2 assists",
+      "⚽⚽ Sam Surridge / Hany Mukhtar Double chance buteur",
+      "⚽⚽⚽ Sam Surridge / Hany Mukhtar / Jacob Shaffelburg Triple chance buteur"
     ]
+  },
+  {
+    "matchId": 14442309,
+    "date": "25/10/2025 02:30",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Dallas Mavericks",
+    "awayTeam": "Washington Wizards",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 89,
+    "awayMatchesUsed": 87,
+    "homeGoalsFor": 9849,
+    "homeGoalsAgainst": 9934,
+    "awayGoalsFor": 9192,
+    "awayGoalsAgainst": 10173,
+    "homeRank": 25,
+    "awayRank": 15,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.2,
+    "drawProb": 0,
+    "awayProb": 0.8,
+    "expectedHomeGoals": 97.63,
+    "expectedAwayGoals": 115.33,
+    "over200": 0.86,
+    "under200": 0.14,
+    "over210": 0.6,
+    "under210": 0.4,
+    "over220": 0.28,
+    "under220": 0.72,
+    "over230": 0.08,
+    "under230": 0.92,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
   },
   {
     "matchId": 13984963,
@@ -2499,43 +2937,47 @@
     "season": 2026,
     "homeTeam": "FC Juárez",
     "awayTeam": "Club Puebla",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 49,
-    "awayMatchesUsed": 51,
-    "homeGoalsFor": 70,
-    "homeGoalsAgainst": 86,
-    "awayGoalsFor": 51,
-    "awayGoalsAgainst": 94,
-    "homeProb": 0.49,
-    "drawProb": 0.23,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 1.7943977591036417,
-    "expectedAwayGoals": 1.3020408163265307,
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 36,
+    "awayMatchesUsed": 38,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 59,
+    "awayGoalsFor": 39,
+    "awayGoalsAgainst": 71,
+    "homeRank": 1,
+    "awayRank": 6,
+    "leagueStandingsUsed": "Liga MX, Apertura||Liga MX, Apertura 2025",
+    "homeProb": 0.33,
+    "drawProb": 0.46,
+    "awayProb": 0.21,
+    "expectedHomeGoals": 0.5867834387522958,
+    "expectedAwayGoals": 0.4061724001824437,
     "scoreScenarios": [
       {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.1
+        "score": "0-0",
+        "prob": 0.39
       },
       {
         "score": "1-0",
-        "prob": 0.09
+        "prob": 0.23
+      },
+      {
+        "score": "0-1",
+        "prob": 0.14
       }
     ],
-    "over15Prob": 0.78,
-    "under15Prob": 0.22,
-    "over25Prob": 0.56,
-    "under25Prob": 0.44,
+    "over15Prob": 0.24,
+    "under15Prob": 0.76,
+    "over25Prob": 0.07,
+    "under25Prob": 0.93,
+    "bttsProb": 0.15,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Óscar Estupiñán",
         "team": "FC Juárez",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (18 depuis 2024-08-31)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (18 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -2548,7 +2990,7 @@
           "Guilherme Castilho"
         ],
         "team": "FC Juárez",
-        "description": "Double chance buteur : Óscar Estupiñán (3) ou Guilherme Castilho (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Óscar Estupiñán (3) ou Guilherme Castilho (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -2566,7 +3008,7 @@
         "type": "scorer",
         "player": "Emiliano Gómez",
         "team": "Club Puebla",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (11 depuis 2024-09-14)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 1
@@ -2576,7 +3018,7 @@
         "type": "assister",
         "player": "Ricardo Marín",
         "team": "Club Puebla",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis 2025-02-02)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 2
@@ -2589,7 +3031,7 @@
           "Ricardo Marín"
         ],
         "team": "Club Puebla",
-        "description": "Double chance buteur : Emiliano Gómez (3) ou Ricardo Marín (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Emiliano Gómez (3) ou Ricardo Marín (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -2601,6 +3043,15 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Óscar Estupiñán a marqué 3 buts",
+      "⚽⚽ Óscar Estupiñán / Guilherme Castilho Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Emiliano Gómez a marqué 3 buts",
+      "🅰️ Ricardo Marín a délivré 2 assists",
+      "⚽⚽ Emiliano Gómez / Ricardo Marín Double chance buteur"
     ]
   },
   {
@@ -2610,43 +3061,47 @@
     "season": 2025,
     "homeTeam": "América de Cali",
     "awayTeam": "Junior Barranquilla",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 117,
-    "awayMatchesUsed": 113,
-    "homeGoalsFor": 155,
-    "homeGoalsAgainst": 113,
-    "awayGoalsFor": 163,
-    "awayGoalsAgainst": 143,
-    "homeProb": 0.43,
-    "drawProb": 0.25,
-    "awayProb": 0.32,
-    "expectedHomeGoals": 1.5010664851372817,
-    "expectedAwayGoals": 1.2518115119885032,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 62,
+    "awayMatchesUsed": 51,
+    "homeGoalsFor": 87,
+    "homeGoalsAgainst": 62,
+    "awayGoalsFor": 90,
+    "awayGoalsAgainst": 76,
+    "homeRank": 5,
+    "awayRank": 6,
+    "leagueStandingsUsed": "Primera A, Clausura||Primera A, Clausura 2025",
+    "homeProb": 0.3,
+    "drawProb": 0.23,
+    "awayProb": 0.46,
+    "expectedHomeGoals": 1.3701243942859833,
+    "expectedAwayGoals": 1.7494453291007843,
     "scoreScenarios": [
       {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
         "score": "1-2",
-        "prob": 0.09
+        "prob": 0.1
       },
       {
-        "score": "0-1",
+        "score": "1-1",
+        "prob": 0.1
+      },
+      {
+        "score": "0-2",
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.8,
-    "under15Prob": 0.2,
-    "over25Prob": 0.58,
-    "under25Prob": 0.42,
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.64,
+    "under25Prob": 0.36,
+    "bttsProb": 0.62,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Luis Ramos",
         "team": "América de Cali",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis 2025-02-15)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2656,7 +3111,7 @@
         "type": "assister",
         "player": "Luis Ramos",
         "team": "América de Cali",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis 2025-02-15)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2668,7 +3123,7 @@
         "type": "scorer",
         "player": "José Enamorado",
         "team": "Junior Barranquilla",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2024-01-19)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -2681,7 +3136,7 @@
           "Steven Rodríguez"
         ],
         "team": "Junior Barranquilla",
-        "description": "Double chance buteur : José Enamorado (2) ou Steven Rodríguez (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : José Enamorado (2) ou Steven Rodríguez (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -2693,6 +3148,14 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Luis Ramos a marqué 2 buts",
+      "🅰️ Luis Ramos a délivré 1 assists"
+    ],
+    "awayPhrases": [
+      "⚽️ José Enamorado a marqué 2 buts",
+      "⚽⚽ José Enamorado / Steven Rodríguez Double chance buteur"
     ]
   },
   {
@@ -2702,19 +3165,22 @@
     "season": 2025,
     "homeTeam": "Deportivo Pereira",
     "awayTeam": "Rionegro Águilas Doradas",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 96,
-    "awayMatchesUsed": 85,
-    "homeGoalsFor": 121,
-    "homeGoalsAgainst": 107,
-    "awayGoalsFor": 91,
-    "awayGoalsAgainst": 107,
-    "homeProb": 0.46,
-    "drawProb": 0.26,
-    "awayProb": 0.28,
-    "expectedHomeGoals": 1.459779411764706,
-    "expectedAwayGoals": 1.0881862745098039,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 46,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 60,
+    "homeGoalsAgainst": 56,
+    "awayGoalsFor": 47,
+    "awayGoalsAgainst": 52,
+    "homeRank": 1,
+    "awayRank": 7,
+    "leagueStandingsUsed": "Primera A, Clausura||Primera A, Clausura 2025",
+    "homeProb": 0.42,
+    "drawProb": 0.25,
+    "awayProb": 0.33,
+    "expectedHomeGoals": 1.493095659348966,
+    "expectedAwayGoals": 1.2937946529035291,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -2722,23 +3188,24 @@
       },
       {
         "score": "1-0",
-        "prob": 0.11
+        "prob": 0.1
       },
       {
         "score": "2-1",
         "prob": 0.09
       }
     ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.48,
-    "under25Prob": 0.52,
+    "over15Prob": 0.76,
+    "under15Prob": 0.24,
+    "over25Prob": 0.52,
+    "under25Prob": 0.48,
+    "bttsProb": 0.56,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Darwin Quintero",
         "team": "Deportivo Pereira",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (24 depuis 2024-01-20)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (24 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -2748,7 +3215,7 @@
         "type": "assister",
         "player": "Edwin Velasco",
         "team": "Deportivo Pereira",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis 2025-07-06)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (3 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 3
@@ -2761,7 +3228,7 @@
           "Edwin Velasco"
         ],
         "team": "Deportivo Pereira",
-        "description": "Double chance buteur : Darwin Quintero (3) ou Edwin Velasco (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Darwin Quintero (3) ou Edwin Velasco (0)",
         "recentMatches": [
           {
             "goals": 3,
@@ -2779,7 +3246,7 @@
         "type": "scorer",
         "player": "Jorge Rivaldo",
         "team": "Rionegro Águilas Doradas",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis 2025-07-22)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2789,7 +3256,7 @@
         "type": "assister",
         "player": "Matías Ramírez",
         "team": "Rionegro Águilas Doradas",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis 2025-08-04)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 3
@@ -2802,7 +3269,7 @@
           "Yony González"
         ],
         "team": "Rionegro Águilas Doradas",
-        "description": "Double chance buteur : Jorge Rivaldo (2) ou Yony González (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Jorge Rivaldo (2) ou Yony González (1)",
         "recentMatches": [
           {
             "goals": 2,
@@ -2822,7 +3289,7 @@
           "Matías Ramírez"
         ],
         "team": "Rionegro Águilas Doradas",
-        "description": "Triple chance buteur : Jorge Rivaldo (2), Yony González (1), Matías Ramírez (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Jorge Rivaldo, Yony González, Matías Ramírez",
         "recentMatches": [
           {
             "goals": 2,
@@ -2838,7 +3305,166 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Darwin Quintero a marqué 3 buts",
+      "🅰️ Edwin Velasco a délivré 3 assists",
+      "⚽⚽ Darwin Quintero / Edwin Velasco Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Jorge Rivaldo a marqué 2 buts",
+      "🅰️ Matías Ramírez a délivré 3 assists",
+      "⚽⚽ Jorge Rivaldo / Yony González Double chance buteur",
+      "⚽⚽⚽ Jorge Rivaldo / Yony González / Matías Ramírez Triple chance buteur"
     ]
+  },
+  {
+    "matchId": 14434381,
+    "date": "25/10/2025 04:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Los Angeles Lakers",
+    "awayTeam": "Minnesota Timberwolves",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 98,
+    "awayMatchesUsed": 105,
+    "homeGoalsFor": 10662,
+    "homeGoalsAgainst": 10643,
+    "awayGoalsFor": 11756,
+    "awayGoalsAgainst": 11214,
+    "homeRank": 23,
+    "awayRank": 20,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.34,
+    "drawProb": 0,
+    "awayProb": 0.66,
+    "expectedHomeGoals": 108.56,
+    "expectedAwayGoals": 116.77,
+    "over200": 0.98,
+    "under200": 0.02,
+    "over210": 0.9,
+    "under210": 0.1,
+    "over220": 0.67,
+    "under220": 0.33,
+    "over230": 0.35,
+    "under230": 0.65,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14439203,
+    "date": "25/10/2025 04:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Sacramento Kings",
+    "awayTeam": "Utah Jazz",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 90,
+    "awayMatchesUsed": 91,
+    "homeGoalsFor": 10166,
+    "homeGoalsAgainst": 10096,
+    "awayGoalsFor": 9972,
+    "awayGoalsAgainst": 10723,
+    "homeRank": 11,
+    "awayRank": 1,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.32,
+    "drawProb": 0,
+    "awayProb": 0.68,
+    "expectedHomeGoals": 114.61,
+    "expectedAwayGoals": 124.09,
+    "over200": 1,
+    "under200": 0,
+    "over210": 0.99,
+    "under210": 0.01,
+    "over220": 0.94,
+    "under220": 0.06,
+    "over230": 0.77,
+    "under230": 0.23,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442660,
+    "date": "25/10/2025 04:00",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Portland Trail Blazers",
+    "awayTeam": "Golden State Warriors",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 88,
+    "awayMatchesUsed": 105,
+    "homeGoalsFor": 9624,
+    "homeGoalsAgainst": 9832,
+    "awayGoalsFor": 11385,
+    "awayGoalsAgainst": 11167,
+    "homeRank": 22,
+    "awayRank": 2,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.34,
+    "drawProb": 0,
+    "awayProb": 0.66,
+    "expectedHomeGoals": 113.62,
+    "expectedAwayGoals": 122.03,
+    "over200": 1,
+    "under200": 0,
+    "over210": 0.98,
+    "under210": 0.02,
+    "over220": 0.9,
+    "under220": 0.1,
+    "over230": 0.68,
+    "under230": 0.32,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
+  },
+  {
+    "matchId": 14442650,
+    "date": "25/10/2025 04:30",
+    "league": "NBA",
+    "season": 2026,
+    "homeTeam": "Los Angeles Clippers",
+    "awayTeam": "Phoenix Suns",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 95,
+    "awayMatchesUsed": 88,
+    "homeGoalsFor": 10464,
+    "homeGoalsAgainst": 10035,
+    "awayGoalsFor": 9795,
+    "awayGoalsAgainst": 10034,
+    "homeRank": 17,
+    "awayRank": 7,
+    "leagueStandingsUsed": "NBA||NBA 25/26",
+    "homeProb": 0.32,
+    "drawProb": 0,
+    "awayProb": 0.68,
+    "expectedHomeGoals": 108.1,
+    "expectedAwayGoals": 117.44,
+    "over200": 0.98,
+    "under200": 0.02,
+    "over210": 0.9,
+    "under210": 0.1,
+    "over220": 0.68,
+    "under220": 0.32,
+    "over230": 0.36,
+    "under230": 0.64,
+    "bttsProb": 1,
+    "homeSpots": [],
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
   },
   {
     "matchId": 13984964,
@@ -2847,44 +3473,48 @@
     "season": 2026,
     "homeTeam": "Mazatlán FC",
     "awayTeam": "Club América",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 50,
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 37,
     "awayMatchesUsed": 32,
-    "homeGoalsFor": 59,
-    "homeGoalsAgainst": 79,
+    "homeGoalsFor": 51,
+    "homeGoalsAgainst": 68,
     "awayGoalsFor": 65,
     "awayGoalsAgainst": 49,
-    "homeProb": 0.32,
-    "drawProb": 0.23,
-    "awayProb": 0.46,
-    "expectedHomeGoals": 1.5205000000000002,
-    "expectedAwayGoals": 1.8507500000000001,
+    "homeRank": 3,
+    "awayRank": 7,
+    "leagueStandingsUsed": "Liga MX, Apertura||Liga MX, Apertura 2025",
+    "homeProb": 0.22,
+    "drawProb": 0.44,
+    "awayProb": 0.34,
+    "expectedHomeGoals": 0.46264813201199645,
+    "expectedAwayGoals": 0.649150731062092,
     "scoreScenarios": [
       {
-        "score": "1-1",
-        "prob": 0.09
+        "score": "0-0",
+        "prob": 0.33
       },
       {
-        "score": "1-2",
-        "prob": 0.09
+        "score": "0-1",
+        "prob": 0.21
       },
       {
-        "score": "2-1",
-        "prob": 0.07
+        "score": "1-0",
+        "prob": 0.15
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.65,
-    "under25Prob": 0.35,
+    "over15Prob": 0.3,
+    "under15Prob": 0.7,
+    "over25Prob": 0.1,
+    "under25Prob": 0.9,
+    "bttsProb": 0.18,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Brian Rodríguez",
         "team": "Club América",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-07-27)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -2894,7 +3524,7 @@
         "type": "assister",
         "player": "Alejandro Zendejas",
         "team": "Club América",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis 2025-07-27)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -2907,7 +3537,7 @@
           "Alejandro Zendejas"
         ],
         "team": "Club América",
-        "description": "Double chance buteur : Brian Rodríguez (3) ou Alejandro Zendejas (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Brian Rodríguez (3) ou Alejandro Zendejas (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -2919,6 +3549,12 @@
           }
         ]
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Brian Rodríguez a marqué 3 buts",
+      "🅰️ Alejandro Zendejas a délivré 1 assists",
+      "⚽⚽ Brian Rodríguez / Alejandro Zendejas Double chance buteur"
     ]
   },
   {
@@ -2928,43 +3564,47 @@
     "season": 2025,
     "homeTeam": "Kashiwa Reysol",
     "awayTeam": "Yokohama FC",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 92,
-    "awayMatchesUsed": 88,
-    "homeGoalsFor": 129,
-    "homeGoalsAgainst": 103,
-    "awayGoalsFor": 120,
-    "awayGoalsAgainst": 101,
-    "homeProb": 0.43,
-    "drawProb": 0.25,
-    "awayProb": 0.32,
-    "expectedHomeGoals": 1.5003952569169963,
-    "expectedAwayGoals": 1.26600790513834,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 46,
+    "awayMatchesUsed": 46,
+    "homeGoalsFor": 79,
+    "homeGoalsAgainst": 44,
+    "awayGoalsFor": 48,
+    "awayGoalsAgainst": 61,
+    "homeRank": 16,
+    "awayRank": 5,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.53,
+    "drawProb": 0.24,
+    "awayProb": 0.23,
+    "expectedHomeGoals": 1.6876832123345817,
+    "expectedAwayGoals": 1.013196819342596,
     "scoreScenarios": [
+      {
+        "score": "1-0",
+        "prob": 0.11
+      },
       {
         "score": "1-1",
         "prob": 0.11
       },
       {
-        "score": "2-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-0",
+        "score": "2-0",
         "prob": 0.1
       }
     ],
     "over15Prob": 0.77,
     "under15Prob": 0.23,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
+    "over25Prob": 0.53,
+    "under25Prob": 0.47,
+    "bttsProb": 0.52,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Mao Hosoya",
         "team": "Kashiwa Reysol",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis 2024-02-25)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -2974,7 +3614,7 @@
         "type": "assister",
         "player": "Tomoya Koyamatsu",
         "team": "Kashiwa Reysol",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (12 depuis 2024-02-25)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 3
@@ -2987,7 +3627,7 @@
           "Yoshio Koizumi"
         ],
         "team": "Kashiwa Reysol",
-        "description": "Double chance buteur : Mao Hosoya (3) ou Yoshio Koizumi (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Mao Hosoya (3) ou Yoshio Koizumi (3)",
         "recentMatches": [
           {
             "goals": 3,
@@ -3007,7 +3647,7 @@
           "Diego"
         ],
         "team": "Kashiwa Reysol",
-        "description": "Triple chance buteur : Mao Hosoya (3), Yoshio Koizumi (3), Diego (3) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Mao Hosoya, Yoshio Koizumi, Diego",
         "recentMatches": [
           {
             "goals": 3,
@@ -3024,7 +3664,14 @@
         ]
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Mao Hosoya a marqué 3 buts",
+      "🅰️ Tomoya Koyamatsu a délivré 3 assists",
+      "⚽⚽ Mao Hosoya / Yoshio Koizumi Double chance buteur",
+      "⚽⚽⚽ Mao Hosoya / Yoshio Koizumi / Diego Triple chance buteur"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 13379033,
@@ -3033,23 +3680,26 @@
     "season": 2025,
     "homeTeam": "Urawa Red Diamonds",
     "awayTeam": "Machida Zelvia",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 89,
-    "homeGoalsFor": 118,
-    "homeGoalsAgainst": 113,
-    "awayGoalsFor": 131,
-    "awayGoalsAgainst": 92,
-    "homeProb": 0.38,
-    "drawProb": 0.25,
-    "awayProb": 0.37,
-    "expectedHomeGoals": 1.4180286006128704,
-    "expectedAwayGoals": 1.396782431052094,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 44,
+    "awayMatchesUsed": 40,
+    "homeGoalsFor": 60,
+    "homeGoalsAgainst": 56,
+    "awayGoalsFor": 60,
+    "awayGoalsAgainst": 41,
+    "homeRank": 1,
+    "awayRank": 20,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.31,
+    "drawProb": 0.23,
+    "awayProb": 0.45,
+    "expectedHomeGoals": 1.412242756262065,
+    "expectedAwayGoals": 1.7486756266995933,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.11
+        "prob": 0.1
       },
       {
         "score": "1-2",
@@ -3057,25 +3707,30 @@
       },
       {
         "score": "2-1",
-        "prob": 0.08
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.81,
-    "under15Prob": 0.19,
-    "over25Prob": 0.59,
-    "under25Prob": 0.41,
+    "over15Prob": 0.85,
+    "under15Prob": 0.15,
+    "over25Prob": 0.65,
+    "under25Prob": 0.35,
+    "bttsProb": 0.62,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Yuki Soma",
         "team": "Machida Zelvia",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis 2024-08-07)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Yuki Soma a marqué 2 buts"
     ]
   },
   {
@@ -3085,43 +3740,47 @@
     "season": 2025,
     "homeTeam": "Yokohama F. Marinos",
     "awayTeam": "Sanfrecce Hiroshima",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 107,
-    "awayMatchesUsed": 112,
-    "homeGoalsFor": 185,
-    "homeGoalsAgainst": 175,
-    "awayGoalsFor": 221,
-    "awayGoalsAgainst": 116,
-    "homeProb": 0.35,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 51,
+    "awayMatchesUsed": 59,
+    "homeGoalsFor": 70,
+    "homeGoalsAgainst": 71,
+    "awayGoalsFor": 108,
+    "awayGoalsAgainst": 51,
+    "homeRank": 7,
+    "awayRank": 19,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.22,
     "drawProb": 0.22,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.651668891855808,
-    "expectedAwayGoals": 1.838134178905207,
+    "awayProb": 0.56,
+    "expectedHomeGoals": 1.1088204577245555,
+    "expectedAwayGoals": 1.9137471175370309,
     "scoreScenarios": [
+      {
+        "score": "0-2",
+        "prob": 0.11
+      },
       {
         "score": "1-2",
         "prob": 0.1
       },
       {
-        "score": "1-1",
-        "prob": 0.09
-      },
-      {
-        "score": "0-2",
-        "prob": 0.07
+        "score": "0-1",
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.64,
-    "under25Prob": 0.36,
+    "over15Prob": 0.81,
+    "under15Prob": 0.19,
+    "over25Prob": 0.58,
+    "under25Prob": 0.42,
+    "bttsProb": 0.57,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Kaina Tanimura",
         "team": "Yokohama F. Marinos",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis 2025-07-20)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (5 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -3131,7 +3790,7 @@
         "type": "assister",
         "player": "Jordy Croux",
         "team": "Yokohama F. Marinos",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (4 depuis 2025-08-23)",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 4
@@ -3144,7 +3803,7 @@
           "Jordy Croux"
         ],
         "team": "Yokohama F. Marinos",
-        "description": "Double chance buteur : Kaina Tanimura (3) ou Jordy Croux (1) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Kaina Tanimura (3) ou Jordy Croux (1)",
         "recentMatches": [
           {
             "goals": 3,
@@ -3157,7 +3816,13 @@
         ]
       }
     ],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [
+      "⚽️ Kaina Tanimura a marqué 3 buts",
+      "🅰️ Jordy Croux a délivré 4 assists",
+      "⚽⚽ Kaina Tanimura / Jordy Croux Double chance buteur"
+    ],
+    "awayPhrases": []
   },
   {
     "matchId": 13379035,
@@ -3166,43 +3831,47 @@
     "season": 2025,
     "homeTeam": "Shimizu S-Pulse",
     "awayTeam": "Tokyo Verdy",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 83,
-    "awayMatchesUsed": 85,
-    "homeGoalsFor": 133,
-    "homeGoalsAgainst": 101,
-    "awayGoalsFor": 98,
-    "awayGoalsAgainst": 106,
-    "homeProb": 0.49,
-    "drawProb": 0.24,
-    "awayProb": 0.27,
-    "expectedHomeGoals": 1.6602693125442949,
-    "expectedAwayGoals": 1.1785116938341602,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 50,
+    "homeGoalsAgainst": 54,
+    "awayGoalsFor": 39,
+    "awayGoalsAgainst": 51,
+    "homeRank": 9,
+    "awayRank": 8,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.45,
+    "drawProb": 0.29,
+    "awayProb": 0.26,
+    "expectedHomeGoals": 1.2451986113150346,
+    "expectedAwayGoals": 0.863260147626193,
     "scoreScenarios": [
       {
         "score": "1-0",
-        "prob": 0.13
+        "prob": 0.18
+      },
+      {
+        "score": "0-0",
+        "prob": 0.14
       },
       {
         "score": "1-1",
         "prob": 0.12
-      },
-      {
-        "score": "2-0",
-        "prob": 0.1
       }
     ],
-    "over15Prob": 0.7,
-    "under15Prob": 0.3,
-    "over25Prob": 0.44,
-    "under25Prob": 0.56,
+    "over15Prob": 0.58,
+    "under15Prob": 0.42,
+    "over25Prob": 0.3,
+    "under25Prob": 0.7,
+    "bttsProb": 0.41,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Toshiki Takahashi",
         "team": "Shimizu S-Pulse",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis 2025-08-06)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -3214,7 +3883,7 @@
         "type": "scorer",
         "player": "Itsuki Someno",
         "team": "Tokyo Verdy",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis 2024-02-25)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 2
@@ -3224,12 +3893,19 @@
         "type": "assister",
         "player": "Itsuki Someno",
         "team": "Tokyo Verdy",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis 2024-02-25)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 2
         }
       }
+    ],
+    "homePhrases": [
+      "⚽️ Toshiki Takahashi a marqué 2 buts"
+    ],
+    "awayPhrases": [
+      "⚽️ Itsuki Someno a marqué 2 buts",
+      "🅰️ Itsuki Someno a délivré 2 assists"
     ]
   },
   {
@@ -3239,43 +3915,47 @@
     "season": 2025,
     "homeTeam": "Nagoya Grampus",
     "awayTeam": "Gamba Osaka",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 88,
-    "awayMatchesUsed": 91,
-    "homeGoalsFor": 128,
-    "homeGoalsAgainst": 126,
-    "awayGoalsFor": 137,
-    "awayGoalsAgainst": 118,
-    "homeProb": 0.4,
-    "drawProb": 0.24,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 1.5914085914085916,
-    "expectedAwayGoals": 1.476023976023976,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 40,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 60,
+    "homeGoalsAgainst": 63,
+    "awayGoalsFor": 66,
+    "awayGoalsAgainst": 72,
+    "homeRank": 3,
+    "awayRank": 2,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.36,
+    "drawProb": 0.21,
+    "awayProb": 0.42,
+    "expectedHomeGoals": 1.8136887897480374,
+    "expectedAwayGoals": 1.9782533939619074,
     "scoreScenarios": [
       {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
         "score": "1-2",
-        "prob": 0.09
+        "prob": 0.08
       },
       {
-        "score": "2-1",
+        "score": "1-1",
         "prob": 0.08
+      },
+      {
+        "score": "2-2",
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.65,
-    "under25Prob": 0.35,
+    "over15Prob": 0.9,
+    "under15Prob": 0.1,
+    "over25Prob": 0.74,
+    "under25Prob": 0.26,
+    "bttsProb": 0.72,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Sho Inagaki",
         "team": "Nagoya Grampus",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis 2024-02-23)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -3285,7 +3965,7 @@
         "type": "assister",
         "player": "Sho Inagaki",
         "team": "Nagoya Grampus",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis 2024-02-23)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (7 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -3297,7 +3977,7 @@
         "type": "scorer",
         "player": "Deniz Hümmet",
         "team": "Gamba Osaka",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis 2025-03-16)",
+        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
         "recentMatches": {
           "goals": 1,
           "assists": 1
@@ -3307,7 +3987,7 @@
         "type": "assister",
         "player": "Ryoya Yamashita",
         "team": "Gamba Osaka",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis 2024-04-20)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 3
@@ -3320,7 +4000,7 @@
           "Shuto Abe"
         ],
         "team": "Gamba Osaka",
-        "description": "Double chance buteur : Deniz Hümmet (1) ou Shuto Abe (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Deniz Hümmet (1) ou Shuto Abe (2)",
         "recentMatches": [
           {
             "goals": 1,
@@ -3340,7 +4020,7 @@
           "Takashi Usami"
         ],
         "team": "Gamba Osaka",
-        "description": "Triple chance buteur : Deniz Hümmet (1), Shuto Abe (2), Takashi Usami (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Deniz Hümmet, Shuto Abe, Takashi Usami",
         "recentMatches": [
           {
             "goals": 1,
@@ -3356,6 +4036,16 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Sho Inagaki a marqué 2 buts",
+      "🅰️ Sho Inagaki a délivré 1 assists"
+    ],
+    "awayPhrases": [
+      "⚽️ Deniz Hümmet a marqué 1 buts",
+      "🅰️ Ryoya Yamashita a délivré 3 assists",
+      "⚽⚽ Deniz Hümmet / Shuto Abe Double chance buteur",
+      "⚽⚽⚽ Deniz Hümmet / Shuto Abe / Takashi Usami Triple chance buteur"
     ]
   },
   {
@@ -3365,19 +4055,22 @@
     "season": 2025,
     "homeTeam": "Kyoto Sanga FC",
     "awayTeam": "Kashima Antlers",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 86,
-    "awayMatchesUsed": 87,
-    "homeGoalsFor": 133,
-    "homeGoalsAgainst": 115,
-    "awayGoalsFor": 142,
-    "awayGoalsAgainst": 95,
-    "homeProb": 0.39,
-    "drawProb": 0.24,
-    "awayProb": 0.37,
-    "expectedHomeGoals": 1.5646885859395887,
-    "expectedAwayGoals": 1.5141940657578186,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 41,
+    "awayMatchesUsed": 43,
+    "homeGoalsFor": 74,
+    "homeGoalsAgainst": 49,
+    "awayGoalsFor": 74,
+    "awayGoalsAgainst": 45,
+    "homeRank": 18,
+    "awayRank": 4,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.52,
+    "drawProb": 0.22,
+    "awayProb": 0.27,
+    "expectedHomeGoals": 2.005677414472203,
+    "expectedAwayGoals": 1.3848564354823827,
     "scoreScenarios": [
       {
         "score": "2-1",
@@ -3385,29 +4078,34 @@
       },
       {
         "score": "1-1",
-        "prob": 0.09
+        "prob": 0.08
       },
       {
-        "score": "2-2",
+        "score": "3-1",
         "prob": 0.07
       }
     ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.66,
-    "under25Prob": 0.34,
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.71,
+    "under25Prob": 0.29,
+    "bttsProb": 0.65,
     "homeSpots": [],
     "awaySpots": [
       {
         "type": "scorer",
         "player": "Léo Ceará",
         "team": "Kashima Antlers",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (18 depuis 2025-02-15)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (18 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [],
+    "awayPhrases": [
+      "⚽️ Léo Ceará a marqué 2 buts"
     ]
   },
   {
@@ -3417,39 +4115,45 @@
     "season": 2025,
     "homeTeam": "FC Tokyo",
     "awayTeam": "Fagiano Okayama",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 85,
-    "awayMatchesUsed": 80,
-    "homeGoalsFor": 118,
-    "homeGoalsAgainst": 114,
-    "awayGoalsFor": 98,
-    "awayGoalsAgainst": 90,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 41,
+    "awayMatchesUsed": 37,
+    "homeGoalsFor": 49,
+    "homeGoalsAgainst": 51,
+    "awayGoalsFor": 34,
+    "awayGoalsAgainst": 45,
+    "homeRank": 14,
+    "awayRank": 10,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
     "homeProb": 0.42,
-    "drawProb": 0.25,
-    "awayProb": 0.33,
-    "expectedHomeGoals": 1.4829411764705884,
-    "expectedAwayGoals": 1.2714705882352941,
+    "drawProb": 0.26,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 1.3857863903404486,
+    "expectedAwayGoals": 1.1720535563916588,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
+        "prob": 0.13
       },
       {
         "score": "1-0",
-        "prob": 0.1
+        "prob": 0.11
       },
       {
         "score": "0-1",
-        "prob": 0.09
+        "prob": 0.1
       }
     ],
-    "over15Prob": 0.73,
-    "under15Prob": 0.27,
-    "over25Prob": 0.48,
-    "under25Prob": 0.52,
+    "over15Prob": 0.71,
+    "under15Prob": 0.29,
+    "over25Prob": 0.45,
+    "under25Prob": 0.55,
+    "bttsProb": 0.52,
     "homeSpots": [],
-    "awaySpots": []
+    "awaySpots": [],
+    "homePhrases": [],
+    "awayPhrases": []
   },
   {
     "matchId": 14924009,
@@ -3458,19 +4162,22 @@
     "season": 2025,
     "homeTeam": "Jeonbuk Hyundai Motors",
     "awayTeam": "Gimcheon Sangmu FC",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 94,
-    "awayMatchesUsed": 75,
-    "homeGoalsFor": 150,
-    "homeGoalsAgainst": 107,
-    "awayGoalsFor": 117,
-    "awayGoalsAgainst": 87,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 48,
+    "awayMatchesUsed": 35,
+    "homeGoalsFor": 90,
+    "homeGoalsAgainst": 40,
+    "awayGoalsFor": 56,
+    "awayGoalsAgainst": 40,
+    "homeRank": null,
+    "awayRank": null,
+    "leagueStandingsUsed": "K League 1, Championship Round||K-League 1 2025",
     "homeProb": 0.43,
     "drawProb": 0.24,
     "awayProb": 0.33,
-    "expectedHomeGoals": 1.6214468085106384,
-    "expectedAwayGoals": 1.3913191489361703,
+    "expectedHomeGoals": 1.6781161025566333,
+    "expectedAwayGoals": 1.4298660015071294,
     "scoreScenarios": [
       {
         "score": "1-1",
@@ -3485,16 +4192,17 @@
         "prob": 0.08
       }
     ],
-    "over15Prob": 0.82,
-    "under15Prob": 0.18,
-    "over25Prob": 0.61,
-    "under25Prob": 0.39,
+    "over15Prob": 0.84,
+    "under15Prob": 0.16,
+    "over25Prob": 0.64,
+    "under25Prob": 0.36,
+    "bttsProb": 0.62,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Tiago Orobó",
         "team": "Jeonbuk Hyundai Motors",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (21 depuis 2024-02-14)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (21 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -3504,7 +4212,7 @@
         "type": "assister",
         "player": "Tiago Orobó",
         "team": "Jeonbuk Hyundai Motors",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis 2024-02-14)",
+        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -3517,7 +4225,7 @@
           "Andrea Compagno"
         ],
         "team": "Jeonbuk Hyundai Motors",
-        "description": "Double chance buteur : Tiago Orobó (2) ou Andrea Compagno (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tiago Orobó (2) ou Andrea Compagno (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -3535,7 +4243,7 @@
         "type": "scorer",
         "player": "Dong-gyeong Lee",
         "team": "Gimcheon Sangmu FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis 2024-06-19)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 3
@@ -3545,7 +4253,7 @@
         "type": "assister",
         "player": "Dong-gyeong Lee",
         "team": "Gimcheon Sangmu FC",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (13 depuis 2024-06-19)",
+        "description": "a délivré 3 assists sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 3
@@ -3558,7 +4266,7 @@
           "Seung-seob Kim"
         ],
         "team": "Gimcheon Sangmu FC",
-        "description": "Double chance buteur : Dong-gyeong Lee (3) ou Seung-seob Kim (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Dong-gyeong Lee (3) ou Seung-seob Kim (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -3578,7 +4286,7 @@
           "Ki-jong Won"
         ],
         "team": "Gimcheon Sangmu FC",
-        "description": "Triple chance buteur : Dong-gyeong Lee (3), Seung-seob Kim (2), Ki-jong Won (2) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Dong-gyeong Lee, Seung-seob Kim, Ki-jong Won",
         "recentMatches": [
           {
             "goals": 3,
@@ -3594,6 +4302,17 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Tiago Orobó a marqué 2 buts",
+      "🅰️ Tiago Orobó a délivré 1 assists",
+      "⚽⚽ Tiago Orobó / Andrea Compagno Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Dong-gyeong Lee a marqué 3 buts",
+      "🅰️ Dong-gyeong Lee a délivré 3 assists",
+      "⚽⚽ Dong-gyeong Lee / Seung-seob Kim Double chance buteur",
+      "⚽⚽⚽ Dong-gyeong Lee / Seung-seob Kim / Ki-jong Won Triple chance buteur"
     ]
   },
   {
@@ -3603,43 +4322,47 @@
     "season": 2025,
     "homeTeam": "Gwangju FC",
     "awayTeam": "FC Anyang",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 91,
-    "awayMatchesUsed": 73,
-    "homeGoalsFor": 115,
-    "homeGoalsAgainst": 122,
-    "awayGoalsFor": 96,
-    "awayGoalsAgainst": 80,
-    "homeProb": 0.39,
-    "drawProb": 0.26,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 1.39659792262532,
-    "expectedAwayGoals": 1.3253048321541472,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 49,
+    "awayMatchesUsed": 35,
+    "homeGoalsFor": 65,
+    "homeGoalsAgainst": 66,
+    "awayGoalsFor": 44,
+    "awayGoalsAgainst": 43,
+    "homeRank": null,
+    "awayRank": null,
+    "leagueStandingsUsed": "K League 1, Relegation Round||K-League 1 2025",
+    "homeProb": 0.35,
+    "drawProb": 0.28,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 1.1809713058974824,
+    "expectedAwayGoals": 1.2240291698892691,
     "scoreScenarios": [
       {
         "score": "1-1",
         "prob": 0.13
       },
       {
-        "score": "1-0",
-        "prob": 0.11
+        "score": "0-1",
+        "prob": 0.12
       },
       {
-        "score": "0-1",
-        "prob": 0.1
+        "score": "1-0",
+        "prob": 0.12
       }
     ],
-    "over15Prob": 0.7,
-    "under15Prob": 0.3,
-    "over25Prob": 0.45,
-    "under25Prob": 0.55,
+    "over15Prob": 0.66,
+    "under15Prob": 0.34,
+    "over25Prob": 0.39,
+    "under25Prob": 0.61,
+    "bttsProb": 0.49,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Reis",
         "team": "Gwangju FC",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis 2025-02-11)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -3649,7 +4372,7 @@
         "type": "assister",
         "player": "Chang-mu Shin",
         "team": "Gwangju FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis 2024-06-15)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -3662,7 +4385,7 @@
           "Chang-mu Shin"
         ],
         "team": "Gwangju FC",
-        "description": "Double chance buteur : Reis (2) ou Chang-mu Shin (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Reis (2) ou Chang-mu Shin (0)",
         "recentMatches": [
           {
             "goals": 2,
@@ -3680,7 +4403,7 @@
         "type": "scorer",
         "player": "Bruno Mota",
         "team": "FC Anyang",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis 2025-02-16)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (13 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -3690,7 +4413,7 @@
         "type": "assister",
         "player": "Dong-jin Kim",
         "team": "FC Anyang",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis 2024-03-30)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -3703,7 +4426,7 @@
           "Dong-jin Kim"
         ],
         "team": "FC Anyang",
-        "description": "Double chance buteur : Bruno Mota (3) ou Dong-jin Kim (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Bruno Mota (3) ou Dong-jin Kim (0)",
         "recentMatches": [
           {
             "goals": 3,
@@ -3715,6 +4438,16 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Reis a marqué 2 buts",
+      "🅰️ Chang-mu Shin a délivré 2 assists",
+      "⚽⚽ Reis / Chang-mu Shin Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Bruno Mota a marqué 3 buts",
+      "🅰️ Dong-jin Kim a délivré 2 assists",
+      "⚽⚽ Bruno Mota / Dong-jin Kim Double chance buteur"
     ]
   },
   {
@@ -3724,43 +4457,47 @@
     "season": 2025,
     "homeTeam": "Cerezo Osaka",
     "awayTeam": "Kawasaki Frontale",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 86,
-    "awayMatchesUsed": 104,
-    "homeGoalsFor": 129,
-    "homeGoalsAgainst": 118,
-    "awayGoalsFor": 190,
-    "awayGoalsAgainst": 153,
-    "homeProb": 0.39,
-    "drawProb": 0.23,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.6884615384615387,
-    "expectedAwayGoals": 1.6449910554561717,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 42,
+    "awayMatchesUsed": 56,
+    "homeGoalsFor": 77,
+    "homeGoalsAgainst": 62,
+    "awayGoalsFor": 110,
+    "awayGoalsAgainst": 78,
+    "homeRank": 6,
+    "awayRank": 17,
+    "leagueStandingsUsed": "J1 League||J.League 2025",
+    "homeProb": 0.34,
+    "drawProb": 0.22,
+    "awayProb": 0.45,
+    "expectedHomeGoals": 1.6801243340809207,
+    "expectedAwayGoals": 1.9640953535944374,
     "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.09
-      },
       {
         "score": "1-2",
         "prob": 0.09
       },
       {
-        "score": "2-1",
+        "score": "1-1",
+        "prob": 0.08
+      },
+      {
+        "score": "2-2",
         "prob": 0.07
       }
     ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.66,
-    "under25Prob": 0.34,
+    "over15Prob": 0.88,
+    "under15Prob": 0.12,
+    "over25Prob": 0.71,
+    "under25Prob": 0.29,
+    "bttsProb": 0.7,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Rafael Ratão",
         "team": "Cerezo Osaka",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (19 depuis 2025-02-14)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (19 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -3773,7 +4510,7 @@
           "Vitor Bueno"
         ],
         "team": "Cerezo Osaka",
-        "description": "Double chance buteur : Rafael Ratão (3) ou Vitor Bueno (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Rafael Ratão (3) ou Vitor Bueno (2)",
         "recentMatches": [
           {
             "goals": 3,
@@ -3791,7 +4528,7 @@
         "type": "scorer",
         "player": "Tatsuya Ito",
         "team": "Kawasaki Frontale",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (17 depuis 2025-02-11)",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (17 depuis début saison)",
         "recentMatches": {
           "goals": 4,
           "assists": 0
@@ -3801,7 +4538,7 @@
         "type": "assister",
         "player": "Marcinho",
         "team": "Kawasaki Frontale",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis 2024-02-13)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -3814,7 +4551,7 @@
           "Yasuto Wakizaka"
         ],
         "team": "Kawasaki Frontale",
-        "description": "Double chance buteur : Tatsuya Ito (4) ou Yasuto Wakizaka (3) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Tatsuya Ito (4) ou Yasuto Wakizaka (3)",
         "recentMatches": [
           {
             "goals": 4,
@@ -3834,7 +4571,7 @@
           "Sai Van Wermeskerken"
         ],
         "team": "Kawasaki Frontale",
-        "description": "Triple chance buteur : Tatsuya Ito (4), Yasuto Wakizaka (3), Sai Van Wermeskerken (1) buts sur les 5 derniers matchs",
+        "description": "Triple chance buteur : Tatsuya Ito, Yasuto Wakizaka, Sai Van Wermeskerken",
         "recentMatches": [
           {
             "goals": 4,
@@ -3850,6 +4587,16 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Rafael Ratão a marqué 3 buts",
+      "⚽⚽ Rafael Ratão / Vitor Bueno Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Tatsuya Ito a marqué 4 buts",
+      "🅰️ Marcinho a délivré 2 assists",
+      "⚽⚽ Tatsuya Ito / Yasuto Wakizaka Double chance buteur",
+      "⚽⚽⚽ Tatsuya Ito / Yasuto Wakizaka / Sai Van Wermeskerken Triple chance buteur"
     ]
   },
   {
@@ -3859,43 +4606,47 @@
     "season": 2025,
     "homeTeam": "Tianjin Jinmen Tiger",
     "awayTeam": "Changchun Yatai",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 63,
-    "awayMatchesUsed": 60,
-    "homeGoalsFor": 93,
-    "homeGoalsAgainst": 94,
-    "awayGoalsFor": 82,
-    "awayGoalsAgainst": 116,
-    "homeProb": 0.48,
-    "drawProb": 0.23,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.8590476190476193,
-    "expectedAwayGoals": 1.4168253968253968,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 30,
+    "awayMatchesUsed": 28,
+    "homeGoalsFor": 39,
+    "homeGoalsAgainst": 37,
+    "awayGoalsFor": 28,
+    "awayGoalsAgainst": 50,
+    "homeRank": 4,
+    "awayRank": 9,
+    "leagueStandingsUsed": "Chinese Super League||Chinese Super League 2025",
+    "homeProb": 0.43,
+    "drawProb": 0.28,
+    "awayProb": 0.3,
+    "expectedHomeGoals": 1.3215368732771016,
+    "expectedAwayGoals": 1.0605177137833537,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "2-1",
-        "prob": 0.09
+        "prob": 0.13
       },
       {
         "score": "1-0",
-        "prob": 0.09
+        "prob": 0.13
+      },
+      {
+        "score": "0-1",
+        "prob": 0.11
       }
     ],
-    "over15Prob": 0.77,
-    "under15Prob": 0.23,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
+    "over15Prob": 0.65,
+    "under15Prob": 0.35,
+    "over25Prob": 0.38,
+    "under25Prob": 0.62,
+    "bttsProb": 0.48,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Alberto Quiles",
         "team": "Tianjin Jinmen Tiger",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis 2025-02-23)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (15 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 0
@@ -3908,7 +4659,7 @@
           "Qiuming Wang"
         ],
         "team": "Tianjin Jinmen Tiger",
-        "description": "Double chance buteur : Alberto Quiles (2) ou Qiuming Wang (2) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Alberto Quiles (2) ou Qiuming Wang (2)",
         "recentMatches": [
           {
             "goals": 2,
@@ -3926,7 +4677,7 @@
         "type": "scorer",
         "player": "Ohi Omoijuanfo",
         "team": "Changchun Yatai",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis 2025-02-22)",
+        "description": "a marqué 2 buts sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 2,
           "assists": 1
@@ -3936,7 +4687,7 @@
         "type": "assister",
         "player": "Xinli Peng",
         "team": "Changchun Yatai",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis 2025-09-12)",
+        "description": "a délivré 2 assists sur les 5 derniers matchs (2 depuis début saison)",
         "recentMatches": {
           "goals": 0,
           "assists": 2
@@ -3949,7 +4700,7 @@
           "Xinli Peng"
         ],
         "team": "Changchun Yatai",
-        "description": "Double chance buteur : Ohi Omoijuanfo (2) ou Xinli Peng (0) buts sur les 5 derniers matchs",
+        "description": "Double chance buteur : Ohi Omoijuanfo (2) ou Xinli Peng (0)",
         "recentMatches": [
           {
             "goals": 2,
@@ -3961,6 +4712,15 @@
           }
         ]
       }
+    ],
+    "homePhrases": [
+      "⚽️ Alberto Quiles a marqué 2 buts",
+      "⚽⚽ Alberto Quiles / Qiuming Wang Double chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Ohi Omoijuanfo a marqué 2 buts",
+      "🅰️ Xinli Peng a délivré 2 assists",
+      "⚽⚽ Ohi Omoijuanfo / Xinli Peng Double chance buteur"
     ]
   },
   {
@@ -3970,23 +4730,26 @@
     "season": 2025,
     "homeTeam": "Suwon FC",
     "awayTeam": "Jeju SK",
-    "homeSeasonUsed": "ALL",
-    "awaySeasonUsed": "ALL",
-    "homeMatchesUsed": 74,
-    "awayMatchesUsed": 77,
-    "homeGoalsFor": 108,
-    "homeGoalsAgainst": 117,
-    "awayGoalsFor": 91,
-    "awayGoalsAgainst": 118,
-    "homeProb": 0.46,
-    "drawProb": 0.24,
-    "awayProb": 0.31,
-    "expectedHomeGoals": 1.688662688662689,
-    "expectedAwayGoals": 1.3415233415233416,
+    "homeSeasonUsed": 2025,
+    "awaySeasonUsed": 2025,
+    "homeMatchesUsed": 35,
+    "awayMatchesUsed": 34,
+    "homeGoalsFor": 54,
+    "homeGoalsAgainst": 59,
+    "awayGoalsFor": 35,
+    "awayGoalsAgainst": 48,
+    "homeRank": null,
+    "awayRank": null,
+    "leagueStandingsUsed": "K League 1, Relegation Round||K-League 1 2025",
+    "homeProb": 0.45,
+    "drawProb": 0.23,
+    "awayProb": 0.32,
+    "expectedHomeGoals": 1.7658204126723611,
+    "expectedAwayGoals": 1.4530318784536067,
     "scoreScenarios": [
       {
         "score": "1-1",
-        "prob": 0.11
+        "prob": 0.1
       },
       {
         "score": "2-1",
@@ -3994,19 +4757,20 @@
       },
       {
         "score": "1-0",
-        "prob": 0.08
+        "prob": 0.07
       }
     ],
-    "over15Prob": 0.81,
-    "under15Prob": 0.19,
-    "over25Prob": 0.59,
-    "under25Prob": 0.41,
+    "over15Prob": 0.83,
+    "under15Prob": 0.17,
+    "over25Prob": 0.63,
+    "under25Prob": 0.37,
+    "bttsProb": 0.64,
     "homeSpots": [
       {
         "type": "scorer",
         "player": "Pablo Sabbag",
         "team": "Suwon FC",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis 2025-02-15)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
@@ -4018,12 +4782,18 @@
         "type": "scorer",
         "player": "Tae Hee Nam",
         "team": "Jeju SK",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (6 depuis 2024-08-10)",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (6 depuis début saison)",
         "recentMatches": {
           "goals": 3,
           "assists": 0
         }
       }
+    ],
+    "homePhrases": [
+      "⚽️ Pablo Sabbag a marqué 3 buts"
+    ],
+    "awayPhrases": [
+      "⚽️ Tae Hee Nam a marqué 3 buts"
     ]
   }
 ]
