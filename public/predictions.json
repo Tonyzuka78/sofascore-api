@@ -1,3507 +1,5 @@
 [
   {
-    "matchId": 13981500,
-    "date": "26/10/2025 20:45",
-    "league": "Serie A",
-    "season": 2026,
-    "homeTeam": "Lazio",
-    "awayTeam": "Juventus",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 64,
-    "awayMatchesUsed": 10,
-    "homeGoalsFor": 95,
-    "homeGoalsAgainst": 68,
-    "awayGoalsFor": 15,
-    "awayGoalsAgainst": 14,
-    "homeRank": 8,
-    "awayRank": 6,
-    "leagueStandingsUsed": "Serie A||Serie A 25/26",
-    "homeProb": 0.38,
-    "drawProb": 0.25,
-    "awayProb": 0.37,
-    "expectedHomeGoals": 1.4469853641960297,
-    "expectedAwayGoals": 1.4067075978232404,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "0-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.78,
-    "under15Prob": 0.22,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
-    "bttsProb": 0.58,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Matteo Cancellieri",
-        "team": "Lazio",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Valentín Castellanos",
-        "team": "Lazio",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Matteo Cancellieri",
-          "Mattia Zaccagni"
-        ],
-        "team": "Lazio",
-        "description": "Double chance buteur : Matteo Cancellieri (3) ou Mattia Zaccagni (2)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Matteo Cancellieri",
-          "Mattia Zaccagni",
-          "Valentín Castellanos"
-        ],
-        "team": "Lazio",
-        "description": "Triple chance buteur : Matteo Cancellieri, Mattia Zaccagni, Valentín Castellanos",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Francisco Conceição",
-        "team": "Juventus",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Matteo Cancellieri a marqué 3 buts",
-      "🅰️ Valentín Castellanos a délivré 3 assists",
-      "⚽⚽ Matteo Cancellieri / Mattia Zaccagni Double chance buteur",
-      "⚽⚽⚽ Matteo Cancellieri / Mattia Zaccagni / Valentín Castellanos Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Francisco Conceição a marqué 2 buts"
-    ]
-  },
-  {
-    "matchId": 14167911,
-    "date": "26/10/2025 20:45",
-    "league": "Ligue 1",
-    "season": 2026,
-    "homeTeam": "Olympique Lyonnais",
-    "awayTeam": "RC Strasbourg",
-    "homeSeasonUsed": 2026,
-    "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 11,
-    "awayMatchesUsed": 12,
-    "homeGoalsFor": 16,
-    "homeGoalsAgainst": 8,
-    "awayGoalsFor": 23,
-    "awayGoalsAgainst": 14,
-    "homeRank": 7,
-    "awayRank": 13,
-    "leagueStandingsUsed": "Ligue 1||Ligue 1 25/26",
-    "homeProb": 0.37,
-    "drawProb": 0.25,
-    "awayProb": 0.38,
-    "expectedHomeGoals": 1.4308492486187194,
-    "expectedAwayGoals": 1.4429243586474303,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.81,
-    "under15Prob": 0.19,
-    "over25Prob": 0.59,
-    "under25Prob": 0.41,
-    "bttsProb": 0.58,
-    "homeSpots": [],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Joaquin Panichelli",
-        "team": "RC Strasbourg",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Guéla Doué",
-        "team": "RC Strasbourg",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Joaquin Panichelli",
-          "Abdoul Ouattara"
-        ],
-        "team": "RC Strasbourg",
-        "description": "Double chance buteur : Joaquin Panichelli (5) ou Abdoul Ouattara (3)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Joaquin Panichelli",
-          "Abdoul Ouattara",
-          "Guéla Doué"
-        ],
-        "team": "RC Strasbourg",
-        "description": "Triple chance buteur : Joaquin Panichelli, Abdoul Ouattara, Guéla Doué",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [],
-    "awayPhrases": [
-      "⚽️ Joaquin Panichelli a marqué 5 buts",
-      "🅰️ Guéla Doué a délivré 3 assists",
-      "⚽⚽ Joaquin Panichelli / Abdoul Ouattara Double chance buteur",
-      "⚽⚽⚽ Joaquin Panichelli / Abdoul Ouattara / Guéla Doué Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14083291,
-    "date": "26/10/2025 21:00",
-    "league": "LaLiga 2",
-    "season": 2026,
-    "homeTeam": "Deportivo La Coruña",
-    "awayTeam": "Real Valladolid",
-    "homeSeasonUsed": 2026,
-    "awaySeasonUsed": 2026,
-    "homeMatchesUsed": 10,
-    "awayMatchesUsed": 10,
-    "homeGoalsFor": 18,
-    "homeGoalsAgainst": 11,
-    "awayGoalsFor": 12,
-    "awayGoalsAgainst": 9,
-    "homeRank": 6,
-    "awayRank": 11,
-    "leagueStandingsUsed": "LaLiga 2||LaLiga 2 25/26",
-    "homeProb": 0.5,
-    "drawProb": 0.25,
-    "awayProb": 0.25,
-    "expectedHomeGoals": 1.6386479302865016,
-    "expectedAwayGoals": 1.0735657773315612,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
-        "score": "1-0",
-        "prob": 0.11
-      },
-      {
-        "score": "2-1",
-        "prob": 0.1
-      }
-    ],
-    "over15Prob": 0.77,
-    "under15Prob": 0.23,
-    "over25Prob": 0.54,
-    "under25Prob": 0.46,
-    "bttsProb": 0.53,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Yeremay Hernández",
-        "team": "Deportivo La Coruña",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Zakaria Eddahchouri",
-        "team": "Deportivo La Coruña",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (2 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 1
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Yeremay Hernández",
-          "Zakaria Eddahchouri"
-        ],
-        "team": "Deportivo La Coruña",
-        "description": "Double chance buteur : Yeremay Hernández (2) ou Zakaria Eddahchouri (1)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [],
-    "homePhrases": [
-      "⚽️ Yeremay Hernández a marqué 2 buts",
-      "🅰️ Zakaria Eddahchouri a délivré 1 assists",
-      "⚽⚽ Yeremay Hernández / Zakaria Eddahchouri Double chance buteur"
-    ],
-    "awayPhrases": []
-  },
-  {
-    "matchId": 14083721,
-    "date": "26/10/2025 21:00",
-    "league": "LaLiga",
-    "season": 2026,
-    "homeTeam": "Rayo Vallecano",
-    "awayTeam": "Deportivo Alavés",
-    "homeSeasonUsed": 2026,
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 13,
-    "awayMatchesUsed": 54,
-    "homeGoalsFor": 20,
-    "homeGoalsAgainst": 12,
-    "awayGoalsFor": 46,
-    "awayGoalsAgainst": 57,
-    "homeRank": 17,
-    "awayRank": 11,
-    "leagueStandingsUsed": "LaLiga||LaLiga 25/26",
-    "homeProb": 0.42,
-    "drawProb": 0.28,
-    "awayProb": 0.29,
-    "expectedHomeGoals": 1.2588676508491214,
-    "expectedAwayGoals": 0.9941075655172446,
-    "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.14
-      },
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "0-0",
-        "prob": 0.12
-      }
-    ],
-    "over15Prob": 0.63,
-    "under15Prob": 0.37,
-    "over25Prob": 0.36,
-    "under25Prob": 0.64,
-    "bttsProb": 0.45,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Álvaro García",
-        "team": "Rayo Vallecano",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Álvaro García",
-        "team": "Rayo Vallecano",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Álvaro García",
-          "Jorge de Frutos"
-        ],
-        "team": "Rayo Vallecano",
-        "description": "Double chance buteur : Álvaro García (2) ou Jorge de Frutos (2)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Carlos Vicente",
-        "team": "Deportivo Alavés",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Álvaro García a marqué 2 buts",
-      "🅰️ Álvaro García a délivré 1 assists",
-      "⚽⚽ Álvaro García / Jorge de Frutos Double chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Carlos Vicente a marqué 2 buts"
-    ]
-  },
-  {
-    "matchId": 14668180,
-    "date": "26/10/2025 21:30",
-    "league": "Primera División, Clausura",
-    "season": 2025,
-    "homeTeam": "Olimpia",
-    "awayTeam": "Guaraní",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 50,
-    "awayMatchesUsed": 51,
-    "homeGoalsFor": 69,
-    "homeGoalsAgainst": 72,
-    "awayGoalsFor": 87,
-    "awayGoalsAgainst": 62,
-    "homeRank": 1,
-    "awayRank": 4,
-    "leagueStandingsUsed": "Primera División, Clausura||Division de Honor, Clausura 2025",
-    "homeProb": 0.28,
-    "drawProb": 0.23,
-    "awayProb": 0.49,
-    "expectedHomeGoals": 1.2729609275625748,
-    "expectedAwayGoals": 1.776257408820602,
-    "scoreScenarios": [
-      {
-        "score": "1-2",
-        "prob": 0.1
-      },
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "0-2",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.62,
-    "under25Prob": 0.38,
-    "bttsProb": 0.6,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Rodney Redes",
-        "team": "Olimpia",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (19 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      }
-    ],
-    "awaySpots": [],
-    "homePhrases": [
-      "⚽️ Rodney Redes a marqué 3 buts"
-    ],
-    "awayPhrases": []
-  },
-  {
-    "matchId": 14896805,
-    "date": "26/10/2025 21:30",
-    "league": "Serie A, Qualifying Round",
-    "season": 2025,
-    "homeTeam": "El Nacional",
-    "awayTeam": "Macará",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 41,
-    "awayMatchesUsed": 33,
-    "homeGoalsFor": 58,
-    "homeGoalsAgainst": 74,
-    "awayGoalsFor": 45,
-    "awayGoalsAgainst": 39,
-    "homeRank": 5,
-    "awayRank": 3,
-    "leagueStandingsUsed": "Serie A, Qualifying Round||LigaPro Primera A 2025",
-    "homeProb": 0.22,
-    "drawProb": 0.21,
-    "awayProb": 0.58,
-    "expectedHomeGoals": 1.2154248102838652,
-    "expectedAwayGoals": 2.1097183183638135,
-    "scoreScenarios": [
-      {
-        "score": "1-2",
-        "prob": 0.1
-      },
-      {
-        "score": "0-2",
-        "prob": 0.09
-      },
-      {
-        "score": "1-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.66,
-    "under25Prob": 0.34,
-    "bttsProb": 0.62,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Djorkaeff Reasco",
-        "team": "El Nacional",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Federico Paz",
-        "team": "Macará",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (10 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Mateo Viera",
-        "team": "Macará",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Federico Paz",
-          "Pablo González"
-        ],
-        "team": "Macará",
-        "description": "Double chance buteur : Federico Paz (5) ou Pablo González (3)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Federico Paz",
-          "Pablo González",
-          "Mateo Viera"
-        ],
-        "team": "Macará",
-        "description": "Triple chance buteur : Federico Paz, Pablo González, Mateo Viera",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Djorkaeff Reasco a marqué 3 buts"
-    ],
-    "awayPhrases": [
-      "⚽️ Federico Paz a marqué 5 buts",
-      "🅰️ Mateo Viera a délivré 3 assists",
-      "⚽⚽ Federico Paz / Pablo González Double chance buteur",
-      "⚽⚽⚽ Federico Paz / Pablo González / Mateo Viera Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200774,
-    "date": "26/10/2025 22:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Tampa Bay Lightning",
-    "awayTeam": "Vegas Golden Knights",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 101,
-    "awayMatchesUsed": 106,
-    "homeGoalsFor": 329,
-    "homeGoalsAgainst": 258,
-    "awayGoalsFor": 314,
-    "awayGoalsAgainst": 272,
-    "homeRank": 25,
-    "awayRank": 19,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.34,
-    "drawProb": 0.17,
-    "awayProb": 0.49,
-    "expectedHomeGoals": 3.016373873726303,
-    "expectedAwayGoals": 3.592492562264547,
-    "scoreScenarios": [
-      {
-        "score": "3-3",
-        "prob": 0.06
-      },
-      {
-        "score": "2-3",
-        "prob": 0.06
-      },
-      {
-        "score": "3-2",
-        "prob": 0.05
-      }
-    ],
-    "over15Prob": 0.98,
-    "under15Prob": 0.02,
-    "over25Prob": 0.94,
-    "under25Prob": 0.06,
-    "bttsProb": 0.92,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Anthony Cirelli",
-        "team": "Tampa Bay Lightning",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (32 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Victor Hedman",
-        "team": "Tampa Bay Lightning",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (61 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Anthony Cirelli",
-          "Jake Guentzel"
-        ],
-        "team": "Tampa Bay Lightning",
-        "description": "Double chance buteur : Anthony Cirelli (3) ou Jake Guentzel (1)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Anthony Cirelli",
-          "Jake Guentzel",
-          "Nikita Kucherov"
-        ],
-        "team": "Tampa Bay Lightning",
-        "description": "Triple chance buteur : Anthony Cirelli, Jake Guentzel, Nikita Kucherov",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          },
-          {
-            "goals": 0,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Jack Eichel",
-        "team": "Vegas Golden Knights",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (36 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 7
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Mark Stone",
-        "team": "Vegas Golden Knights",
-        "description": "a délivré 9 assists sur les 5 derniers matchs (64 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 9
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Jack Eichel",
-          "Pavel Dorofeyev"
-        ],
-        "team": "Vegas Golden Knights",
-        "description": "Double chance buteur : Jack Eichel (4) ou Pavel Dorofeyev (3)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 7
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Jack Eichel",
-          "Pavel Dorofeyev",
-          "Tomas Hertl"
-        ],
-        "team": "Vegas Golden Knights",
-        "description": "Triple chance buteur : Jack Eichel, Pavel Dorofeyev, Tomas Hertl",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 7
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Anthony Cirelli a marqué 3 buts",
-      "🅰️ Victor Hedman a délivré 3 assists",
-      "⚽⚽ Anthony Cirelli / Jake Guentzel Double chance buteur",
-      "⚽⚽⚽ Anthony Cirelli / Jake Guentzel / Nikita Kucherov Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Jack Eichel a marqué 4 buts",
-      "🅰️ Mark Stone a délivré 9 assists",
-      "⚽⚽ Jack Eichel / Pavel Dorofeyev Double chance buteur",
-      "⚽⚽⚽ Jack Eichel / Pavel Dorofeyev / Tomas Hertl Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 13443633,
-    "date": "26/10/2025 22:30",
-    "league": "Liga de Primera",
-    "season": 2025,
-    "homeTeam": "Unión La Calera",
-    "awayTeam": "Ñublense",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 32,
-    "awayMatchesUsed": 38,
-    "homeGoalsFor": 29,
-    "homeGoalsAgainst": 38,
-    "awayGoalsFor": 46,
-    "awayGoalsAgainst": 54,
-    "homeRank": 6,
-    "awayRank": 14,
-    "leagueStandingsUsed": "Liga de Primera||Liga de Primera 2025",
-    "homeProb": 0.3,
-    "drawProb": 0.28,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.0457332952277538,
-    "expectedAwayGoals": 1.316445103310823,
-    "scoreScenarios": [
-      {
-        "score": "0-1",
-        "prob": 0.15
-      },
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "0-0",
-        "prob": 0.11
-      }
-    ],
-    "over15Prob": 0.64,
-    "under15Prob": 0.36,
-    "over25Prob": 0.37,
-    "under25Prob": 0.63,
-    "bttsProb": 0.47,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Sebastián Sáez",
-        "team": "Unión La Calera",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Sebastián Sáez",
-        "team": "Unión La Calera",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Patricio Rubio",
-        "team": "Ñublense",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Patricio Rubio",
-        "team": "Ñublense",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Sebastián Sáez a marqué 2 buts",
-      "🅰️ Sebastián Sáez a délivré 1 assists"
-    ],
-    "awayPhrases": [
-      "⚽️ Patricio Rubio a marqué 2 buts",
-      "🅰️ Patricio Rubio a délivré 1 assists"
-    ]
-  },
-  {
-    "matchId": 13443635,
-    "date": "26/10/2025 22:30",
-    "league": "Liga de Primera",
-    "season": 2025,
-    "homeTeam": "O'Higgins",
-    "awayTeam": "Coquimbo Unido",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 31,
-    "awayMatchesUsed": 36,
-    "homeGoalsFor": 39,
-    "homeGoalsAgainst": 34,
-    "awayGoalsFor": 57,
-    "awayGoalsAgainst": 27,
-    "homeRank": 9,
-    "awayRank": 13,
-    "leagueStandingsUsed": "Liga de Primera||Liga de Primera 2025",
-    "homeProb": 0.32,
-    "drawProb": 0.26,
-    "awayProb": 0.43,
-    "expectedHomeGoals": 1.2419969299580589,
-    "expectedAwayGoals": 1.4815216754953096,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.11
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.8,
-    "under15Prob": 0.2,
-    "over25Prob": 0.57,
-    "under25Prob": 0.43,
-    "bttsProb": 0.55,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Arnaldo Castillo",
-        "team": "O'Higgins",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (9 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Arnaldo Castillo",
-        "team": "O'Higgins",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Arnaldo Castillo",
-          "Martín Sarrafiore"
-        ],
-        "team": "O'Higgins",
-        "description": "Double chance buteur : Arnaldo Castillo (3) ou Martín Sarrafiore (2)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Nicolás Johansen",
-        "team": "Coquimbo Unido",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Cristián Zavala",
-        "team": "Coquimbo Unido",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Nicolás Johansen",
-          "Cecilio Waterman"
-        ],
-        "team": "Coquimbo Unido",
-        "description": "Double chance buteur : Nicolás Johansen (1) ou Cecilio Waterman (1)",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Nicolás Johansen",
-          "Cecilio Waterman",
-          "Juan Cornejo"
-        ],
-        "team": "Coquimbo Unido",
-        "description": "Triple chance buteur : Nicolás Johansen, Cecilio Waterman, Juan Cornejo",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Arnaldo Castillo a marqué 3 buts",
-      "🅰️ Arnaldo Castillo a délivré 1 assists",
-      "⚽⚽ Arnaldo Castillo / Martín Sarrafiore Double chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Nicolás Johansen a marqué 1 buts",
-      "🅰️ Cristián Zavala a délivré 4 assists",
-      "⚽⚽ Nicolás Johansen / Cecilio Waterman Double chance buteur",
-      "⚽⚽⚽ Nicolás Johansen / Cecilio Waterman / Juan Cornejo Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 13472841,
-    "date": "26/10/2025 22:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Red Bull Bragantino",
-    "awayTeam": "Vasco da Gama",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 49,
-    "awayMatchesUsed": 58,
-    "homeGoalsFor": 66,
-    "homeGoalsAgainst": 72,
-    "awayGoalsFor": 94,
-    "awayGoalsAgainst": 80,
-    "homeRank": 9,
-    "awayRank": 7,
-    "leagueStandingsUsed": "Brasileirão Betano||Brasileiro Serie A 2025",
-    "homeProb": 0.29,
-    "drawProb": 0.21,
-    "awayProb": 0.5,
-    "expectedHomeGoals": 1.6337789827934224,
-    "expectedAwayGoals": 2.1874919984335905,
-    "scoreScenarios": [
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "1-3",
-        "prob": 0.08
-      },
-      {
-        "score": "2-2",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.92,
-    "under15Prob": 0.08,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
-    "bttsProb": 0.71,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Jhon Jhon",
-        "team": "Red Bull Bragantino",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (14 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jhon Jhon",
-        "team": "Red Bull Bragantino",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Rayan",
-        "team": "Vasco da Gama",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (18 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Paulo Henrique",
-        "team": "Vasco da Gama",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Rayan",
-          "Nuno Moreira"
-        ],
-        "team": "Vasco da Gama",
-        "description": "Double chance buteur : Rayan (5) ou Nuno Moreira (2)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Rayan",
-          "Nuno Moreira",
-          "Paulo Henrique"
-        ],
-        "team": "Vasco da Gama",
-        "description": "Triple chance buteur : Rayan, Nuno Moreira, Paulo Henrique",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Jhon Jhon a marqué 3 buts",
-      "🅰️ Jhon Jhon a délivré 1 assists"
-    ],
-    "awayPhrases": [
-      "⚽️ Rayan a marqué 5 buts",
-      "🅰️ Paulo Henrique a délivré 3 assists",
-      "⚽⚽ Rayan / Nuno Moreira Double chance buteur",
-      "⚽⚽⚽ Rayan / Nuno Moreira / Paulo Henrique Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14918359,
-    "date": "26/10/2025 22:30",
-    "league": "MLS, Playoffs",
-    "season": 2025,
-    "homeTeam": "Philadelphia Union",
-    "awayTeam": "Chicago Fire",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 44,
-    "awayMatchesUsed": 44,
-    "homeGoalsFor": 77,
-    "homeGoalsAgainst": 55,
-    "awayGoalsFor": 87,
-    "awayGoalsAgainst": 68,
-    "homeRank": null,
-    "awayRank": 1,
-    "leagueStandingsUsed": "MLS, Playoffs||MLS 2025",
-    "homeProb": 0.35,
-    "drawProb": 0.23,
-    "awayProb": 0.42,
-    "expectedHomeGoals": 1.5969033720891315,
-    "expectedAwayGoals": 1.7480756994307738,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.85,
-    "under15Prob": 0.15,
-    "over25Prob": 0.65,
-    "under25Prob": 0.35,
-    "bttsProb": 0.66,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Mikael Uhre",
-        "team": "Philadelphia Union",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (20 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Milan Iloski",
-        "team": "Philadelphia Union",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Mikael Uhre",
-          "Bruno Damiani"
-        ],
-        "team": "Philadelphia Union",
-        "description": "Double chance buteur : Mikael Uhre (2) ou Bruno Damiani (2)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Mikael Uhre",
-          "Bruno Damiani",
-          "Indiana Vassilev"
-        ],
-        "team": "Philadelphia Union",
-        "description": "Triple chance buteur : Mikael Uhre, Bruno Damiani, Indiana Vassilev",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Hugo Cuypers",
-        "team": "Chicago Fire",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (31 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Philip Zinckernagel",
-        "team": "Chicago Fire",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Hugo Cuypers",
-          "Brian Gutierrez"
-        ],
-        "team": "Chicago Fire",
-        "description": "Double chance buteur : Hugo Cuypers (3) ou Brian Gutierrez (2)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Hugo Cuypers",
-          "Brian Gutierrez",
-          "Philip Zinckernagel"
-        ],
-        "team": "Chicago Fire",
-        "description": "Triple chance buteur : Hugo Cuypers, Brian Gutierrez, Philip Zinckernagel",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Mikael Uhre a marqué 2 buts",
-      "🅰️ Milan Iloski a délivré 2 assists",
-      "⚽⚽ Mikael Uhre / Bruno Damiani Double chance buteur",
-      "⚽⚽⚽ Mikael Uhre / Bruno Damiani / Indiana Vassilev Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Hugo Cuypers a marqué 3 buts",
-      "🅰️ Philip Zinckernagel a délivré 3 assists",
-      "⚽⚽ Hugo Cuypers / Brian Gutierrez Double chance buteur",
-      "⚽⚽⚽ Hugo Cuypers / Brian Gutierrez / Philip Zinckernagel Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200773,
-    "date": "26/10/2025 23:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Minnesota Wild",
-    "awayTeam": "San Jose Sharks",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 101,
-    "awayMatchesUsed": 96,
-    "homeGoalsFor": 261,
-    "homeGoalsAgainst": 275,
-    "awayGoalsFor": 226,
-    "awayGoalsAgainst": 332,
-    "homeRank": 13,
-    "awayRank": 27,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.48,
-    "drawProb": 0.17,
-    "awayProb": 0.35,
-    "expectedHomeGoals": 3.6624025012449963,
-    "expectedAwayGoals": 3.1777732346572085,
-    "scoreScenarios": [
-      {
-        "score": "3-3",
-        "prob": 0.06
-      },
-      {
-        "score": "3-2",
-        "prob": 0.06
-      },
-      {
-        "score": "4-3",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.99,
-    "under15Prob": 0.01,
-    "over25Prob": 0.95,
-    "under25Prob": 0.05,
-    "bttsProb": 0.93,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Kirill Kaprizov",
-        "team": "Minnesota Wild",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (36 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Matt Boldy",
-        "team": "Minnesota Wild",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (60 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Kirill Kaprizov",
-          "Matt Boldy"
-        ],
-        "team": "Minnesota Wild",
-        "description": "Double chance buteur : Kirill Kaprizov (3) ou Matt Boldy (2)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Kirill Kaprizov",
-          "Matt Boldy",
-          "Vladimir Tarasenko"
-        ],
-        "team": "Minnesota Wild",
-        "description": "Triple chance buteur : Kirill Kaprizov, Matt Boldy, Vladimir Tarasenko",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Macklin Celebrini",
-        "team": "San Jose Sharks",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (30 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 4
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Macklin Celebrini",
-        "team": "San Jose Sharks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (47 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Macklin Celebrini",
-          "Adam Gaudette"
-        ],
-        "team": "San Jose Sharks",
-        "description": "Double chance buteur : Macklin Celebrini (5) ou Adam Gaudette (2)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 4
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Macklin Celebrini",
-          "Adam Gaudette",
-          "Will Smith"
-        ],
-        "team": "San Jose Sharks",
-        "description": "Triple chance buteur : Macklin Celebrini, Adam Gaudette, Will Smith",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 4
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Kirill Kaprizov a marqué 3 buts",
-      "🅰️ Matt Boldy a délivré 2 assists",
-      "⚽⚽ Kirill Kaprizov / Matt Boldy Double chance buteur",
-      "⚽⚽⚽ Kirill Kaprizov / Matt Boldy / Vladimir Tarasenko Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Macklin Celebrini a marqué 5 buts",
-      "🅰️ Macklin Celebrini a délivré 4 assists",
-      "⚽⚽ Macklin Celebrini / Adam Gaudette Double chance buteur",
-      "⚽⚽⚽ Macklin Celebrini / Adam Gaudette / Will Smith Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200776,
-    "date": "26/10/2025 23:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Winnipeg Jets",
-    "awayTeam": "Utah Mammoth",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 109,
-    "awayMatchesUsed": 96,
-    "homeGoalsFor": 327,
-    "homeGoalsAgainst": 250,
-    "awayGoalsFor": 257,
-    "awayGoalsAgainst": 276,
-    "homeRank": 17,
-    "awayRank": 3,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.46,
-    "drawProb": 0.18,
-    "awayProb": 0.36,
-    "expectedHomeGoals": 3.128048894315345,
-    "expectedAwayGoals": 2.7907990762765604,
-    "scoreScenarios": [
-      {
-        "score": "3-2",
-        "prob": 0.06
-      },
-      {
-        "score": "2-2",
-        "prob": 0.06
-      },
-      {
-        "score": "3-3",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.98,
-    "under15Prob": 0.02,
-    "over25Prob": 0.93,
-    "under25Prob": 0.07,
-    "bttsProb": 0.9,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Mark Scheifele",
-        "team": "Winnipeg Jets",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (51 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Kyle Connor",
-        "team": "Winnipeg Jets",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (74 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Mark Scheifele",
-          "Vladislav Namestnikov"
-        ],
-        "team": "Winnipeg Jets",
-        "description": "Double chance buteur : Mark Scheifele (4) ou Vladislav Namestnikov (3)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Mark Scheifele",
-          "Vladislav Namestnikov",
-          "Kyle Connor"
-        ],
-        "team": "Winnipeg Jets",
-        "description": "Triple chance buteur : Mark Scheifele, Vladislav Namestnikov, Kyle Connor",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Nick Schmaltz",
-        "team": "Utah Mammoth",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 4
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Clayton Keller",
-        "team": "Utah Mammoth",
-        "description": "a délivré 6 assists sur les 5 derniers matchs (68 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 6
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Nick Schmaltz",
-          "Dylan Guenther"
-        ],
-        "team": "Utah Mammoth",
-        "description": "Double chance buteur : Nick Schmaltz (4) ou Dylan Guenther (2)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 4
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Nick Schmaltz",
-          "Dylan Guenther",
-          "Clayton Keller"
-        ],
-        "team": "Utah Mammoth",
-        "description": "Triple chance buteur : Nick Schmaltz, Dylan Guenther, Clayton Keller",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 4
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 6
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Mark Scheifele a marqué 4 buts",
-      "🅰️ Kyle Connor a délivré 4 assists",
-      "⚽⚽ Mark Scheifele / Vladislav Namestnikov Double chance buteur",
-      "⚽⚽⚽ Mark Scheifele / Vladislav Namestnikov / Kyle Connor Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Nick Schmaltz a marqué 4 buts",
-      "🅰️ Clayton Keller a délivré 6 assists",
-      "⚽⚽ Nick Schmaltz / Dylan Guenther Double chance buteur",
-      "⚽⚽⚽ Nick Schmaltz / Dylan Guenther / Clayton Keller Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200775,
-    "date": "27/10/2025 00:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Nashville Predators",
-    "awayTeam": "Dallas Stars",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 95,
-    "awayMatchesUsed": 112,
-    "homeGoalsFor": 232,
-    "homeGoalsAgainst": 290,
-    "awayGoalsFor": 341,
-    "awayGoalsAgainst": 298,
-    "homeRank": 14,
-    "awayRank": 29,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.35,
-    "drawProb": 0.17,
-    "awayProb": 0.48,
-    "expectedHomeGoals": 2.960333671264966,
-    "expectedAwayGoals": 3.4446650198274504,
-    "scoreScenarios": [
-      {
-        "score": "2-3",
-        "prob": 0.06
-      },
-      {
-        "score": "3-3",
-        "prob": 0.06
-      },
-      {
-        "score": "2-4",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.98,
-    "under15Prob": 0.02,
-    "over25Prob": 0.94,
-    "under25Prob": 0.06,
-    "bttsProb": 0.92,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Jonathan Marchessault",
-        "team": "Nashville Predators",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Roman Josi",
-        "team": "Nashville Predators",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (34 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Jonathan Marchessault",
-          "Ryan O'Reilly"
-        ],
-        "team": "Nashville Predators",
-        "description": "Double chance buteur : Jonathan Marchessault (2) ou Ryan O'Reilly (1)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Jonathan Marchessault",
-          "Ryan O'Reilly",
-          "Filip Forsberg"
-        ],
-        "team": "Nashville Predators",
-        "description": "Triple chance buteur : Jonathan Marchessault, Ryan O'Reilly, Filip Forsberg",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Wyatt Johnston",
-        "team": "Dallas Stars",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (44 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Thomas Harley",
-        "team": "Dallas Stars",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (50 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Wyatt Johnston",
-          "Jason Robertson"
-        ],
-        "team": "Dallas Stars",
-        "description": "Double chance buteur : Wyatt Johnston (3) ou Jason Robertson (1)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Wyatt Johnston",
-          "Jason Robertson",
-          "Mikko Rantanen"
-        ],
-        "team": "Dallas Stars",
-        "description": "Triple chance buteur : Wyatt Johnston, Jason Robertson, Mikko Rantanen",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Jonathan Marchessault a marqué 2 buts",
-      "🅰️ Roman Josi a délivré 3 assists",
-      "⚽⚽ Jonathan Marchessault / Ryan O'Reilly Double chance buteur",
-      "⚽⚽⚽ Jonathan Marchessault / Ryan O'Reilly / Filip Forsberg Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Wyatt Johnston a marqué 3 buts",
-      "🅰️ Thomas Harley a délivré 3 assists",
-      "⚽⚽ Wyatt Johnston / Jason Robertson Double chance buteur",
-      "⚽⚽⚽ Wyatt Johnston / Jason Robertson / Mikko Rantanen Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200777,
-    "date": "27/10/2025 00:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Chicago Blackhawks",
-    "awayTeam": "Los Angeles Kings",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 95,
-    "awayMatchesUsed": 103,
-    "homeGoalsFor": 239,
-    "homeGoalsAgainst": 312,
-    "awayGoalsFor": 295,
-    "awayGoalsAgainst": 248,
-    "homeRank": 11,
-    "awayRank": 30,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.43,
-    "drawProb": 0.18,
-    "awayProb": 0.39,
-    "expectedHomeGoals": 3.0854002546434196,
-    "expectedAwayGoals": 2.950869860873941,
-    "scoreScenarios": [
-      {
-        "score": "2-2",
-        "prob": 0.06
-      },
-      {
-        "score": "2-3",
-        "prob": 0.06
-      },
-      {
-        "score": "3-2",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.98,
-    "under15Prob": 0.02,
-    "over25Prob": 0.92,
-    "under25Prob": 0.08,
-    "bttsProb": 0.9,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Frank Nazar",
-        "team": "Chicago Blackhawks",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (19 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Teuvo Teravainen",
-        "team": "Chicago Blackhawks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (51 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Frank Nazar",
-          "Ryan Donato"
-        ],
-        "team": "Chicago Blackhawks",
-        "description": "Double chance buteur : Frank Nazar (2) ou Ryan Donato (3)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Frank Nazar",
-          "Ryan Donato",
-          "Ilya Mikheyev"
-        ],
-        "team": "Chicago Blackhawks",
-        "description": "Triple chance buteur : Frank Nazar, Ryan Donato, Ilya Mikheyev",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Kevin Fiala",
-        "team": "Los Angeles Kings",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (44 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Adrian Kempe",
-        "team": "Los Angeles Kings",
-        "description": "a délivré 5 assists sur les 5 derniers matchs (50 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 5
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Kevin Fiala",
-          "Adrian Kempe"
-        ],
-        "team": "Los Angeles Kings",
-        "description": "Double chance buteur : Kevin Fiala (3) ou Adrian Kempe (3)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 5
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Kevin Fiala",
-          "Adrian Kempe",
-          "Quinton Byfield"
-        ],
-        "team": "Los Angeles Kings",
-        "description": "Triple chance buteur : Kevin Fiala, Adrian Kempe, Quinton Byfield",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 5
-          },
-          {
-            "goals": 1,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Frank Nazar a marqué 2 buts",
-      "🅰️ Teuvo Teravainen a délivré 4 assists",
-      "⚽⚽ Frank Nazar / Ryan Donato Double chance buteur",
-      "⚽⚽⚽ Frank Nazar / Ryan Donato / Ilya Mikheyev Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Kevin Fiala a marqué 3 buts",
-      "🅰️ Adrian Kempe a délivré 5 assists",
-      "⚽⚽ Kevin Fiala / Adrian Kempe Double chance buteur",
-      "⚽⚽⚽ Kevin Fiala / Adrian Kempe / Quinton Byfield Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 13984970,
-    "date": "27/10/2025 00:00",
-    "league": "Liga MX, Apertura",
-    "season": 2026,
-    "homeTeam": "Santos Laguna",
-    "awayTeam": "Querétaro FC",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 36,
-    "awayMatchesUsed": 36,
-    "homeGoalsFor": 37,
-    "homeGoalsAgainst": 72,
-    "awayGoalsFor": 34,
-    "awayGoalsAgainst": 57,
-    "homeRank": 1,
-    "awayRank": 6,
-    "leagueStandingsUsed": "Liga MX, Apertura||Liga MX, Apertura 2025",
-    "homeProb": 0.26,
-    "drawProb": 0.49,
-    "awayProb": 0.25,
-    "expectedHomeGoals": 0.45360987825532334,
-    "expectedAwayGoals": 0.44571899337946963,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.44
-      },
-      {
-        "score": "0-1",
-        "prob": 0.18
-      },
-      {
-        "score": "1-0",
-        "prob": 0.18
-      }
-    ],
-    "over15Prob": 0.2,
-    "under15Prob": 0.8,
-    "over25Prob": 0.05,
-    "under25Prob": 0.95,
-    "bttsProb": 0.13,
-    "homeSpots": [
-      {
-        "type": "assister",
-        "player": "José Abella",
-        "team": "Santos Laguna",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (6 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 2
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Ali Ávila",
-        "team": "Querétaro FC",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (4 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Ali Ávila",
-          "Santiago Homenchenko"
-        ],
-        "team": "Querétaro FC",
-        "description": "Double chance buteur : Ali Ávila (4) ou Santiago Homenchenko (2)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "🅰️ José Abella a délivré 2 assists"
-    ],
-    "awayPhrases": [
-      "⚽️ Ali Ávila a marqué 4 buts",
-      "⚽⚽ Ali Ávila / Santiago Homenchenko Double chance buteur"
-    ]
-  },
-  {
-    "matchId": 14668176,
-    "date": "27/10/2025 00:00",
-    "league": "Primera División, Clausura",
-    "season": 2025,
-    "homeTeam": "Recoleta FC",
-    "awayTeam": "Libertad",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 40,
-    "awayMatchesUsed": 50,
-    "homeGoalsFor": 55,
-    "homeGoalsAgainst": 56,
-    "awayGoalsFor": 73,
-    "awayGoalsAgainst": 49,
-    "homeRank": 7,
-    "awayRank": 12,
-    "leagueStandingsUsed": "Primera División, Clausura||Division de Honor, Clausura 2025",
-    "homeProb": 0.34,
-    "drawProb": 0.26,
-    "awayProb": 0.4,
-    "expectedHomeGoals": 1.2266431912198719,
-    "expectedAwayGoals": 1.3625936292356633,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.13
-      },
-      {
-        "score": "0-1",
-        "prob": 0.13
-      },
-      {
-        "score": "1-0",
-        "prob": 0.1
-      }
-    ],
-    "over15Prob": 0.68,
-    "under15Prob": 0.32,
-    "over25Prob": 0.42,
-    "under25Prob": 0.58,
-    "bttsProb": 0.53,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Lucas González",
-        "team": "Recoleta FC",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (26 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Lucas González",
-        "team": "Recoleta FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (7 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Hugo Fernández",
-        "team": "Libertad",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (5 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Lucas González a marqué 1 buts",
-      "🅰️ Lucas González a délivré 2 assists"
-    ],
-    "awayPhrases": [
-      "⚽️ Hugo Fernández a marqué 2 buts"
-    ]
-  },
-  {
-    "matchId": 14896808,
-    "date": "27/10/2025 00:00",
-    "league": "Serie A, Qualifying Round",
-    "season": 2025,
-    "homeTeam": "Emelec",
-    "awayTeam": "Delfín",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 40,
-    "awayMatchesUsed": 34,
-    "homeGoalsFor": 44,
-    "homeGoalsAgainst": 51,
-    "awayGoalsFor": 31,
-    "awayGoalsAgainst": 54,
-    "homeRank": 1,
-    "awayRank": 6,
-    "leagueStandingsUsed": "Serie A, Qualifying Round||LigaPro Primera A 2025",
-    "homeProb": 0.49,
-    "drawProb": 0.26,
-    "awayProb": 0.25,
-    "expectedHomeGoals": 1.5215619588070965,
-    "expectedAwayGoals": 0.9987095879143447,
-    "scoreScenarios": [
-      {
-        "score": "1-0",
-        "prob": 0.14
-      },
-      {
-        "score": "1-1",
-        "prob": 0.12
-      },
-      {
-        "score": "2-0",
-        "prob": 0.11
-      }
-    ],
-    "over15Prob": 0.69,
-    "under15Prob": 0.31,
-    "over25Prob": 0.43,
-    "under25Prob": 0.57,
-    "bttsProb": 0.49,
-    "homeSpots": [],
-    "awaySpots": [],
-    "homePhrases": [],
-    "awayPhrases": []
-  },
-  {
-    "matchId": 13472838,
-    "date": "27/10/2025 00:30",
-    "league": "Brasileirão Betano",
-    "season": 2025,
-    "homeTeam": "Palmeiras",
-    "awayTeam": "Cruzeiro",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 64,
-    "awayMatchesUsed": 56,
-    "homeGoalsFor": 114,
-    "homeGoalsAgainst": 53,
-    "awayGoalsFor": 76,
-    "awayGoalsAgainst": 46,
-    "homeRank": 15,
-    "awayRank": 10,
-    "leagueStandingsUsed": "Brasileirão Betano||Brasileiro Serie A 2025",
-    "homeProb": 0.46,
-    "drawProb": 0.24,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 1.6152268151284974,
-    "expectedAwayGoals": 1.2642117900858234,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "2-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-0",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.64,
-    "under25Prob": 0.36,
-    "bttsProb": 0.57,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Vitor Roque",
-        "team": "Palmeiras",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Mauricio",
-        "team": "Palmeiras",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Vitor Roque",
-          "José López"
-        ],
-        "team": "Palmeiras",
-        "description": "Double chance buteur : Vitor Roque (5) ou José López (4)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 4,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Vitor Roque",
-          "José López",
-          "Felipe Anderson"
-        ],
-        "team": "Palmeiras",
-        "description": "Triple chance buteur : Vitor Roque, José López, Felipe Anderson",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 0
-          },
-          {
-            "goals": 4,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "awaySpots": [],
-    "homePhrases": [
-      "⚽️ Vitor Roque a marqué 5 buts",
-      "🅰️ Mauricio a délivré 4 assists",
-      "⚽⚽ Vitor Roque / José López Double chance buteur",
-      "⚽⚽⚽ Vitor Roque / José López / Felipe Anderson Triple chance buteur"
-    ],
-    "awayPhrases": []
-  },
-  {
-    "matchId": 14115404,
-    "date": "27/10/2025 00:30",
-    "league": "Primera A, Clausura",
-    "season": 2025,
-    "homeTeam": "Atlético Nacional",
-    "awayTeam": "Independiente Medellín",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 57,
-    "awayMatchesUsed": 50,
-    "homeGoalsFor": 97,
-    "homeGoalsAgainst": 60,
-    "awayGoalsFor": 71,
-    "awayGoalsAgainst": 43,
-    "homeRank": 12,
-    "awayRank": 19,
-    "leagueStandingsUsed": "Primera A, Clausura||Primera A, Clausura 2025",
-    "homeProb": 0.39,
-    "drawProb": 0.24,
-    "awayProb": 0.37,
-    "expectedHomeGoals": 1.5162555629924748,
-    "expectedAwayGoals": 1.478770481985009,
-    "scoreScenarios": [
-      {
-        "score": "1-1",
-        "prob": 0.1
-      },
-      {
-        "score": "1-2",
-        "prob": 0.09
-      },
-      {
-        "score": "2-1",
-        "prob": 0.08
-      }
-    ],
-    "over15Prob": 0.84,
-    "under15Prob": 0.16,
-    "over25Prob": 0.63,
-    "under25Prob": 0.37,
-    "bttsProb": 0.6,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Andrés Sarmiento",
-        "team": "Atlético Nacional",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (16 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Andrés Sarmiento",
-          "Alfredo Morelos"
-        ],
-        "team": "Atlético Nacional",
-        "description": "Double chance buteur : Andrés Sarmiento (2) ou Alfredo Morelos (1)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Francisco Fydriszewski",
-        "team": "Independiente Medellín",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 2
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Brayan Léon Muñiz",
-        "team": "Independiente Medellín",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (12 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Francisco Fydriszewski",
-          "Brayan Léon Muñiz"
-        ],
-        "team": "Independiente Medellín",
-        "description": "Double chance buteur : Francisco Fydriszewski (5) ou Brayan Léon Muñiz (3)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 4
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Francisco Fydriszewski",
-          "Brayan Léon Muñiz",
-          "Francisco Chaverra"
-        ],
-        "team": "Independiente Medellín",
-        "description": "Triple chance buteur : Francisco Fydriszewski, Brayan Léon Muñiz, Francisco Chaverra",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 2
-          },
-          {
-            "goals": 3,
-            "assists": 4
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Andrés Sarmiento a marqué 2 buts",
-      "⚽⚽ Andrés Sarmiento / Alfredo Morelos Double chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Francisco Fydriszewski a marqué 5 buts",
-      "🅰️ Brayan Léon Muñiz a délivré 4 assists",
-      "⚽⚽ Francisco Fydriszewski / Brayan Léon Muñiz Double chance buteur",
-      "⚽⚽⚽ Francisco Fydriszewski / Brayan Léon Muñiz / Francisco Chaverra Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 14917321,
-    "date": "27/10/2025 00:30",
-    "league": "MLS, Playoffs",
-    "season": 2025,
-    "homeTeam": "Vancouver Whitecaps",
-    "awayTeam": "FC Dallas",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 52,
-    "awayMatchesUsed": 41,
-    "homeGoalsFor": 101,
-    "homeGoalsAgainst": 63,
-    "awayGoalsFor": 72,
-    "awayGoalsAgainst": 73,
-    "homeRank": null,
-    "awayRank": null,
-    "leagueStandingsUsed": "MLS, Playoffs||MLS 2025",
-    "homeProb": 0.49,
-    "drawProb": 0.21,
-    "awayProb": 0.3,
-    "expectedHomeGoals": 2.127509503559243,
-    "expectedAwayGoals": 1.6528071605900923,
-    "scoreScenarios": [
-      {
-        "score": "2-1",
-        "prob": 0.08
-      },
-      {
-        "score": "2-2",
-        "prob": 0.07
-      },
-      {
-        "score": "1-1",
-        "prob": 0.07
-      }
-    ],
-    "over15Prob": 0.92,
-    "under15Prob": 0.08,
-    "over25Prob": 0.78,
-    "under25Prob": 0.22,
-    "bttsProb": 0.71,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Thomas Müller",
-        "team": "Vancouver Whitecaps",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Sebastian Berhalter",
-        "team": "Vancouver Whitecaps",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Thomas Müller",
-          "Brian White"
-        ],
-        "team": "Vancouver Whitecaps",
-        "description": "Double chance buteur : Thomas Müller (4) ou Brian White (1)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Thomas Müller",
-          "Brian White",
-          "Sebastian Berhalter"
-        ],
-        "team": "Vancouver Whitecaps",
-        "description": "Triple chance buteur : Thomas Müller, Brian White, Sebastian Berhalter",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Petar Musa",
-        "team": "FC Dallas",
-        "description": "a marqué 4 buts sur les 5 derniers matchs (37 depuis début saison)",
-        "recentMatches": {
-          "goals": 4,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Patrickson Delgado",
-        "team": "FC Dallas",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Petar Musa",
-          "Patrickson Delgado"
-        ],
-        "team": "FC Dallas",
-        "description": "Double chance buteur : Petar Musa (4) ou Patrickson Delgado (1)",
-        "recentMatches": [
-          {
-            "goals": 4,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Thomas Müller a marqué 4 buts",
-      "🅰️ Sebastian Berhalter a délivré 2 assists",
-      "⚽⚽ Thomas Müller / Brian White Double chance buteur",
-      "⚽⚽⚽ Thomas Müller / Brian White / Sebastian Berhalter Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Petar Musa a marqué 4 buts",
-      "🅰️ Patrickson Delgado a délivré 2 assists",
-      "⚽⚽ Petar Musa / Patrickson Delgado Double chance buteur"
-    ]
-  },
-  {
-    "matchId": 14200779,
-    "date": "27/10/2025 01:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Calgary Flames",
-    "awayTeam": "New York Rangers",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 100,
-    "awayMatchesUsed": 96,
-    "homeGoalsFor": 242,
-    "homeGoalsAgainst": 265,
-    "awayGoalsFor": 274,
-    "awayGoalsAgainst": 277,
-    "homeRank": 15,
-    "awayRank": 31,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.27,
-    "drawProb": 0.17,
-    "awayProb": 0.56,
-    "expectedHomeGoals": 2.148760104278981,
-    "expectedAwayGoals": 3.0707544182144018,
-    "scoreScenarios": [
-      {
-        "score": "2-3",
-        "prob": 0.07
-      },
-      {
-        "score": "2-2",
-        "prob": 0.07
-      },
-      {
-        "score": "1-3",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.96,
-    "under15Prob": 0.04,
-    "over25Prob": 0.87,
-    "under25Prob": 0.13,
-    "bttsProb": 0.84,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Rasmus Andersson",
-        "team": "Calgary Flames",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (13 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Morgan Frost",
-        "team": "Calgary Flames",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (17 depuis début saison)",
-        "recentMatches": {
-          "goals": 0,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Rasmus Andersson",
-          "Nazem Kadri"
-        ],
-        "team": "Calgary Flames",
-        "description": "Double chance buteur : Rasmus Andersson (2) ou Nazem Kadri (1)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Rasmus Andersson",
-          "Nazem Kadri",
-          "Morgan Frost"
-        ],
-        "team": "Calgary Flames",
-        "description": "Triple chance buteur : Rasmus Andersson, Nazem Kadri, Morgan Frost",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 0
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "goals": 0,
-            "assists": 3
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Artemi Panarin",
-        "team": "New York Rangers",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (39 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Artemi Panarin",
-        "team": "New York Rangers",
-        "description": "a délivré 3 assists sur les 5 derniers matchs (57 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 3
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Artemi Panarin",
-          "Mika Zibanejad"
-        ],
-        "team": "New York Rangers",
-        "description": "Double chance buteur : Artemi Panarin (2) ou Mika Zibanejad (1)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Artemi Panarin",
-          "Mika Zibanejad",
-          "Adam Fox"
-        ],
-        "team": "New York Rangers",
-        "description": "Triple chance buteur : Artemi Panarin, Mika Zibanejad, Adam Fox",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          },
-          {
-            "goals": 0,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Rasmus Andersson a marqué 2 buts",
-      "🅰️ Morgan Frost a délivré 3 assists",
-      "⚽⚽ Rasmus Andersson / Nazem Kadri Double chance buteur",
-      "⚽⚽⚽ Rasmus Andersson / Nazem Kadri / Morgan Frost Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Artemi Panarin a marqué 2 buts",
-      "🅰️ Artemi Panarin a délivré 3 assists",
-      "⚽⚽ Artemi Panarin / Mika Zibanejad Double chance buteur",
-      "⚽⚽⚽ Artemi Panarin / Mika Zibanejad / Adam Fox Triple chance buteur"
-    ]
-  },
-  {
-    "matchId": 13984967,
-    "date": "27/10/2025 02:00",
-    "league": "Liga MX, Apertura",
-    "season": 2026,
-    "homeTeam": "CD Toluca",
-    "awayTeam": "CF Pachuca",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 44,
-    "awayMatchesUsed": 43,
-    "homeGoalsFor": 114,
-    "homeGoalsAgainst": 59,
-    "awayGoalsFor": 68,
-    "awayGoalsAgainst": 65,
-    "homeRank": 13,
-    "awayRank": 18,
-    "leagueStandingsUsed": "Liga MX, Apertura||Liga MX, Apertura 2025",
-    "homeProb": 0.41,
-    "drawProb": 0.41,
-    "awayProb": 0.18,
-    "expectedHomeGoals": 0.770148915303709,
-    "expectedAwayGoals": 0.42038635120546936,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.31
-      },
-      {
-        "score": "1-0",
-        "prob": 0.26
-      },
-      {
-        "score": "2-0",
-        "prob": 0.11
-      }
-    ],
-    "over15Prob": 0.33,
-    "under15Prob": 0.67,
-    "over25Prob": 0.12,
-    "under25Prob": 0.88,
-    "bttsProb": 0.18,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Paulinho",
-        "team": "CD Toluca",
-        "description": "a marqué 7 buts sur les 5 derniers matchs (39 depuis début saison)",
-        "recentMatches": {
-          "goals": 7,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Alexis Vega",
-        "team": "CD Toluca",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Paulinho",
-          "Jesús Ricardo Angulo"
-        ],
-        "team": "CD Toluca",
-        "description": "Double chance buteur : Paulinho (7) ou Jesús Ricardo Angulo (2)",
-        "recentMatches": [
-          {
-            "goals": 7,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Paulinho",
-          "Jesús Ricardo Angulo",
-          "Alexis Vega"
-        ],
-        "team": "CD Toluca",
-        "description": "Triple chance buteur : Paulinho, Jesús Ricardo Angulo, Alexis Vega",
-        "recentMatches": [
-          {
-            "goals": 7,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 2,
-            "assists": 1
-          }
-        ]
-      }
-    ],
-    "awaySpots": [],
-    "homePhrases": [
-      "⚽️ Paulinho a marqué 7 buts",
-      "🅰️ Alexis Vega a délivré 1 assists",
-      "⚽⚽ Paulinho / Jesús Ricardo Angulo Double chance buteur",
-      "⚽⚽⚽ Paulinho / Jesús Ricardo Angulo / Alexis Vega Triple chance buteur"
-    ],
-    "awayPhrases": []
-  },
-  {
-    "matchId": 13984971,
-    "date": "27/10/2025 02:00",
-    "league": "Liga MX, Apertura",
-    "season": 2026,
-    "homeTeam": "Atlético San Luis",
-    "awayTeam": "Club Necaxa",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 34,
-    "awayMatchesUsed": 38,
-    "homeGoalsFor": 48,
-    "homeGoalsAgainst": 60,
-    "awayGoalsFor": 71,
-    "awayGoalsAgainst": 75,
-    "homeRank": 17,
-    "awayRank": 3,
-    "leagueStandingsUsed": "Liga MX, Apertura||Liga MX, Apertura 2025",
-    "homeProb": 0.3,
-    "drawProb": 0.44,
-    "awayProb": 0.26,
-    "expectedHomeGoals": 0.5908824380704514,
-    "expectedAwayGoals": 0.5308558444895872,
-    "scoreScenarios": [
-      {
-        "score": "0-0",
-        "prob": 0.37
-      },
-      {
-        "score": "1-0",
-        "prob": 0.21
-      },
-      {
-        "score": "0-1",
-        "prob": 0.16
-      }
-    ],
-    "over15Prob": 0.26,
-    "under15Prob": 0.74,
-    "over25Prob": 0.08,
-    "under25Prob": 0.92,
-    "bttsProb": 0.18,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "João Pedro Galvão",
-        "team": "Atlético San Luis",
-        "description": "a marqué 1 buts sur les 5 derniers matchs (11 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 0
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "João Pedro Galvão",
-          "Sébastien Salles-Lamonge"
-        ],
-        "team": "Atlético San Luis",
-        "description": "Double chance buteur : João Pedro Galvão (1) ou Sébastien Salles-Lamonge (2)",
-        "recentMatches": [
-          {
-            "goals": 1,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 0
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Diber Cambindo",
-        "team": "Club Necaxa",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (15 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Diber Cambindo",
-        "team": "Club Necaxa",
-        "description": "a délivré 1 assists sur les 5 derniers matchs (1 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 1
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ João Pedro Galvão a marqué 1 buts",
-      "⚽⚽ João Pedro Galvão / Sébastien Salles-Lamonge Double chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Diber Cambindo a marqué 3 buts",
-      "🅰️ Diber Cambindo a délivré 1 assists"
-    ]
-  },
-  {
-    "matchId": 14918354,
-    "date": "27/10/2025 02:30",
-    "league": "MLS, Playoffs",
-    "season": 2025,
-    "homeTeam": "San Diego FC",
-    "awayTeam": "Portland Timbers",
-    "homeSeasonUsed": 2025,
-    "awaySeasonUsed": 2025,
-    "homeMatchesUsed": 41,
-    "awayMatchesUsed": 46,
-    "homeGoalsFor": 80,
-    "homeGoalsAgainst": 54,
-    "awayGoalsFor": 63,
-    "awayGoalsAgainst": 63,
-    "homeRank": null,
-    "awayRank": 2,
-    "leagueStandingsUsed": "MLS, Playoffs||MLS 2025",
-    "homeProb": 0.57,
-    "drawProb": 0.21,
-    "awayProb": 0.21,
-    "expectedHomeGoals": 2.054626731456171,
-    "expectedAwayGoals": 1.1793657704781144,
-    "scoreScenarios": [
-      {
-        "score": "2-1",
-        "prob": 0.1
-      },
-      {
-        "score": "2-0",
-        "prob": 0.1
-      },
-      {
-        "score": "1-1",
-        "prob": 0.09
-      }
-    ],
-    "over15Prob": 0.83,
-    "under15Prob": 0.17,
-    "over25Prob": 0.62,
-    "under25Prob": 0.38,
-    "bttsProb": 0.6,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Anders Dreyer",
-        "team": "San Diego FC",
-        "description": "a marqué 5 buts sur les 5 derniers matchs (21 depuis début saison)",
-        "recentMatches": {
-          "goals": 5,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Jeppe Tverskov",
-        "team": "San Diego FC",
-        "description": "a délivré 2 assists sur les 5 derniers matchs (8 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 2
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Anders Dreyer",
-          "Amahl Pellegrino"
-        ],
-        "team": "San Diego FC",
-        "description": "Double chance buteur : Anders Dreyer (5) ou Amahl Pellegrino (3)",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 3
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Anders Dreyer",
-          "Amahl Pellegrino",
-          "Jeppe Tverskov"
-        ],
-        "team": "San Diego FC",
-        "description": "Triple chance buteur : Anders Dreyer, Amahl Pellegrino, Jeppe Tverskov",
-        "recentMatches": [
-          {
-            "goals": 5,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 3
-          },
-          {
-            "goals": 1,
-            "assists": 2
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Felipe Mora",
-        "team": "Portland Timbers",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (24 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 0
-        }
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Anders Dreyer a marqué 5 buts",
-      "🅰️ Jeppe Tverskov a délivré 2 assists",
-      "⚽⚽ Anders Dreyer / Amahl Pellegrino Double chance buteur",
-      "⚽⚽⚽ Anders Dreyer / Amahl Pellegrino / Jeppe Tverskov Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Felipe Mora a marqué 2 buts"
-    ]
-  },
-  {
-    "matchId": 14200778,
-    "date": "27/10/2025 03:00",
-    "league": "NHL",
-    "season": 2026,
-    "homeTeam": "Vancouver Canucks",
-    "awayTeam": "Edmonton Oilers",
-    "homeSeasonUsed": "2026+2025",
-    "awaySeasonUsed": "2026+2025",
-    "homeMatchesUsed": 95,
-    "awayMatchesUsed": 119,
-    "homeGoalsFor": 260,
-    "homeGoalsAgainst": 268,
-    "awayGoalsFor": 362,
-    "awayGoalsAgainst": 328,
-    "homeRank": 22,
-    "awayRank": 12,
-    "leagueStandingsUsed": "NHL||NHL 25/26",
-    "homeProb": 0.43,
-    "drawProb": 0.18,
-    "awayProb": 0.39,
-    "expectedHomeGoals": 2.993696404413719,
-    "expectedAwayGoals": 2.856002969163609,
-    "scoreScenarios": [
-      {
-        "score": "3-2",
-        "prob": 0.06
-      },
-      {
-        "score": "2-2",
-        "prob": 0.06
-      },
-      {
-        "score": "3-3",
-        "prob": 0.06
-      }
-    ],
-    "over15Prob": 0.98,
-    "under15Prob": 0.02,
-    "over25Prob": 0.92,
-    "under25Prob": 0.08,
-    "bttsProb": 0.9,
-    "homeSpots": [
-      {
-        "type": "scorer",
-        "player": "Kiefer Sherwood",
-        "team": "Vancouver Canucks",
-        "description": "a marqué 3 buts sur les 5 derniers matchs (23 depuis début saison)",
-        "recentMatches": {
-          "goals": 3,
-          "assists": 0
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Quinn Hughes",
-        "team": "Vancouver Canucks",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (71 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Kiefer Sherwood",
-          "Max Sasson"
-        ],
-        "team": "Vancouver Canucks",
-        "description": "Double chance buteur : Kiefer Sherwood (3) ou Max Sasson (4)",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 4,
-            "assists": 0
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Kiefer Sherwood",
-          "Max Sasson",
-          "Conor Garland"
-        ],
-        "team": "Vancouver Canucks",
-        "description": "Triple chance buteur : Kiefer Sherwood, Max Sasson, Conor Garland",
-        "recentMatches": [
-          {
-            "goals": 3,
-            "assists": 0
-          },
-          {
-            "goals": 4,
-            "assists": 0
-          },
-          {
-            "goals": 2,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "awaySpots": [
-      {
-        "type": "scorer",
-        "player": "Leon Draisaitl",
-        "team": "Edmonton Oilers",
-        "description": "a marqué 2 buts sur les 5 derniers matchs (70 depuis début saison)",
-        "recentMatches": {
-          "goals": 2,
-          "assists": 1
-        }
-      },
-      {
-        "type": "assister",
-        "player": "Connor McDavid",
-        "team": "Edmonton Oilers",
-        "description": "a délivré 4 assists sur les 5 derniers matchs (112 depuis début saison)",
-        "recentMatches": {
-          "goals": 1,
-          "assists": 4
-        }
-      },
-      {
-        "type": "double_scorer",
-        "players": [
-          "Leon Draisaitl",
-          "Ryan Nugent-Hopkins"
-        ],
-        "team": "Edmonton Oilers",
-        "description": "Double chance buteur : Leon Draisaitl (2) ou Ryan Nugent-Hopkins (3)",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          }
-        ]
-      },
-      {
-        "type": "triple_scorer",
-        "players": [
-          "Leon Draisaitl",
-          "Ryan Nugent-Hopkins",
-          "Connor McDavid"
-        ],
-        "team": "Edmonton Oilers",
-        "description": "Triple chance buteur : Leon Draisaitl, Ryan Nugent-Hopkins, Connor McDavid",
-        "recentMatches": [
-          {
-            "goals": 2,
-            "assists": 1
-          },
-          {
-            "goals": 3,
-            "assists": 1
-          },
-          {
-            "goals": 1,
-            "assists": 4
-          }
-        ]
-      }
-    ],
-    "homePhrases": [
-      "⚽️ Kiefer Sherwood a marqué 3 buts",
-      "🅰️ Quinn Hughes a délivré 4 assists",
-      "⚽⚽ Kiefer Sherwood / Max Sasson Double chance buteur",
-      "⚽⚽⚽ Kiefer Sherwood / Max Sasson / Conor Garland Triple chance buteur"
-    ],
-    "awayPhrases": [
-      "⚽️ Leon Draisaitl a marqué 2 buts",
-      "🅰️ Connor McDavid a délivré 4 assists",
-      "⚽⚽ Leon Draisaitl / Ryan Nugent-Hopkins Double chance buteur",
-      "⚽⚽⚽ Leon Draisaitl / Ryan Nugent-Hopkins / Connor McDavid Triple chance buteur"
-    ]
-  },
-  {
     "matchId": 13554154,
     "date": "27/10/2025 15:00",
     "league": "Erovnuli Liga",
@@ -5541,6 +2039,191 @@
     ]
   },
   {
+    "matchId": 14200781,
+    "date": "28/10/2025 00:00",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Pittsburgh Penguins",
+    "awayTeam": "St. Louis Blues",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": "2026+2025",
+    "homeMatchesUsed": 98,
+    "awayMatchesUsed": 103,
+    "homeGoalsFor": 264,
+    "homeGoalsAgainst": 310,
+    "awayGoalsFor": 299,
+    "awayGoalsAgainst": 270,
+    "homeRank": 19,
+    "awayRank": 31,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.45,
+    "drawProb": 0.17,
+    "awayProb": 0.37,
+    "expectedHomeGoals": 3.4082685858748447,
+    "expectedAwayGoals": 3.1186100256251326,
+    "scoreScenarios": [
+      {
+        "score": "3-3",
+        "prob": 0.06
+      },
+      {
+        "score": "3-2",
+        "prob": 0.06
+      },
+      {
+        "score": "2-3",
+        "prob": 0.06
+      }
+    ],
+    "over15Prob": 0.99,
+    "under15Prob": 0.01,
+    "over25Prob": 0.94,
+    "under25Prob": 0.06,
+    "bttsProb": 0.92,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Sidney Crosby",
+        "team": "Pittsburgh Penguins",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (42 depuis début saison)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 2
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Evgeni Malkin",
+        "team": "Pittsburgh Penguins",
+        "description": "a délivré 6 assists sur les 5 derniers matchs (47 depuis début saison)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 6
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Sidney Crosby",
+          "Connor Dewar"
+        ],
+        "team": "Pittsburgh Penguins",
+        "description": "Double chance buteur : Sidney Crosby (5) ou Connor Dewar (3)",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Sidney Crosby",
+          "Connor Dewar",
+          "Anthony Mantha"
+        ],
+        "team": "Pittsburgh Penguins",
+        "description": "Triple chance buteur : Sidney Crosby, Connor Dewar, Anthony Mantha",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 2
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Jake Neighbours",
+        "team": "St. Louis Blues",
+        "description": "a marqué 3 buts sur les 5 derniers matchs (29 depuis début saison)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Robert Thomas",
+        "team": "St. Louis Blues",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (75 depuis début saison)",
+        "recentMatches": {
+          "goals": 0,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Jake Neighbours",
+          "Jordan Kyrou"
+        ],
+        "team": "St. Louis Blues",
+        "description": "Double chance buteur : Jake Neighbours (3) ou Jordan Kyrou (2)",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Jake Neighbours",
+          "Jordan Kyrou",
+          "Pavel Buchnevich"
+        ],
+        "team": "St. Louis Blues",
+        "description": "Triple chance buteur : Jake Neighbours, Jordan Kyrou, Pavel Buchnevich",
+        "recentMatches": [
+          {
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "goals": 2,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "homePhrases": [
+      "⚽️ Sidney Crosby a marqué 5 buts",
+      "🅰️ Evgeni Malkin a délivré 6 assists",
+      "⚽⚽ Sidney Crosby / Connor Dewar Double chance buteur",
+      "⚽⚽⚽ Sidney Crosby / Connor Dewar / Anthony Mantha Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Jake Neighbours a marqué 3 buts",
+      "🅰️ Robert Thomas a délivré 4 assists",
+      "⚽⚽ Jake Neighbours / Jordan Kyrou Double chance buteur",
+      "⚽⚽⚽ Jake Neighbours / Jordan Kyrou / Pavel Buchnevich Triple chance buteur"
+    ]
+  },
+  {
     "matchId": 14668178,
     "date": "28/10/2025 00:00",
     "league": "Primera División, Clausura",
@@ -5629,6 +2312,191 @@
       "⚽️ Jonathan Torres a marqué 2 buts",
       "🅰️ Cecilio Domínguez a délivré 2 assists",
       "⚽⚽ Jonathan Torres / Cecilio Domínguez Double chance buteur"
+    ]
+  },
+  {
+    "matchId": 14200782,
+    "date": "28/10/2025 00:30",
+    "league": "NHL",
+    "season": 2026,
+    "homeTeam": "Ottawa Senators",
+    "awayTeam": "Boston Bruins",
+    "homeSeasonUsed": "2026+2025",
+    "awaySeasonUsed": 2026,
+    "homeMatchesUsed": 103,
+    "awayMatchesUsed": 10,
+    "homeGoalsFor": 271,
+    "homeGoalsAgainst": 272,
+    "awayGoalsFor": 32,
+    "awayGoalsAgainst": 35,
+    "homeRank": 15,
+    "awayRank": 5,
+    "leagueStandingsUsed": "NHL||NHL 25/26",
+    "homeProb": 0.36,
+    "drawProb": 0.17,
+    "awayProb": 0.47,
+    "expectedHomeGoals": 3.139888064870733,
+    "expectedAwayGoals": 3.541325503293076,
+    "scoreScenarios": [
+      {
+        "score": "3-3",
+        "prob": 0.06
+      },
+      {
+        "score": "2-3",
+        "prob": 0.06
+      },
+      {
+        "score": "3-2",
+        "prob": 0.05
+      }
+    ],
+    "over15Prob": 0.99,
+    "under15Prob": 0.01,
+    "over25Prob": 0.94,
+    "under25Prob": 0.06,
+    "bttsProb": 0.93,
+    "homeSpots": [
+      {
+        "type": "scorer",
+        "player": "Dylan Cozens",
+        "team": "Ottawa Senators",
+        "description": "a marqué 5 buts sur les 5 derniers matchs (12 depuis début saison)",
+        "recentMatches": {
+          "goals": 5,
+          "assists": 1
+        }
+      },
+      {
+        "type": "assister",
+        "player": "Drake Batherson",
+        "team": "Ottawa Senators",
+        "description": "a délivré 5 assists sur les 5 derniers matchs (50 depuis début saison)",
+        "recentMatches": {
+          "goals": 2,
+          "assists": 5
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Dylan Cozens",
+          "Shane Pinto"
+        ],
+        "team": "Ottawa Senators",
+        "description": "Double chance buteur : Dylan Cozens (5) ou Shane Pinto (3)",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Dylan Cozens",
+          "Shane Pinto",
+          "David Perron"
+        ],
+        "team": "Ottawa Senators",
+        "description": "Triple chance buteur : Dylan Cozens, Shane Pinto, David Perron",
+        "recentMatches": [
+          {
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "goals": 2,
+            "assists": 3
+          }
+        ]
+      }
+    ],
+    "awaySpots": [
+      {
+        "type": "scorer",
+        "player": "Morgan Geekie",
+        "team": "Boston Bruins",
+        "description": "a marqué 4 buts sur les 5 derniers matchs (41 depuis début saison)",
+        "recentMatches": {
+          "goals": 4,
+          "assists": 0
+        }
+      },
+      {
+        "type": "assister",
+        "player": "David Pastrnak",
+        "team": "Boston Bruins",
+        "description": "a délivré 4 assists sur les 5 derniers matchs (73 depuis début saison)",
+        "recentMatches": {
+          "goals": 3,
+          "assists": 4
+        }
+      },
+      {
+        "type": "double_scorer",
+        "players": [
+          "Morgan Geekie",
+          "David Pastrnak"
+        ],
+        "team": "Boston Bruins",
+        "description": "Double chance buteur : Morgan Geekie (4) ou David Pastrnak (3)",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 4
+          }
+        ]
+      },
+      {
+        "type": "triple_scorer",
+        "players": [
+          "Morgan Geekie",
+          "David Pastrnak",
+          "Elias Lindholm"
+        ],
+        "team": "Boston Bruins",
+        "description": "Triple chance buteur : Morgan Geekie, David Pastrnak, Elias Lindholm",
+        "recentMatches": [
+          {
+            "goals": 4,
+            "assists": 0
+          },
+          {
+            "goals": 3,
+            "assists": 4
+          },
+          {
+            "goals": 1,
+            "assists": 2
+          }
+        ]
+      }
+    ],
+    "homePhrases": [
+      "⚽️ Dylan Cozens a marqué 5 buts",
+      "🅰️ Drake Batherson a délivré 5 assists",
+      "⚽⚽ Dylan Cozens / Shane Pinto Double chance buteur",
+      "⚽⚽⚽ Dylan Cozens / Shane Pinto / David Perron Triple chance buteur"
+    ],
+    "awayPhrases": [
+      "⚽️ Morgan Geekie a marqué 4 buts",
+      "🅰️ David Pastrnak a délivré 4 assists",
+      "⚽⚽ Morgan Geekie / David Pastrnak Double chance buteur",
+      "⚽⚽⚽ Morgan Geekie / David Pastrnak / Elias Lindholm Triple chance buteur"
     ]
   },
   {
