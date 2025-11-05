@@ -53,12 +53,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "New York Rangers_or_Draw_and_over15": 0,
-      "Carolina Hurricanes_or_Draw_and_over15": 0,
-      "New York Rangers_and_over15": 0,
-      "Carolina Hurricanes_and_over15": 0,
-      "New York Rangers_or_Draw_and_BTTS": 0,
-      "Carolina Hurricanes_or_Draw_and_BTTS": 0
+      "New York Rangers_or_Draw_and_over15": null,
+      "Carolina Hurricanes_or_Draw_and_over15": null,
+      "New York Rangers_and_over15": null,
+      "Carolina Hurricanes_and_over15": null,
+      "New York Rangers_or_Draw_and_BTTS": 0.374,
+      "Carolina Hurricanes_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [
@@ -1204,12 +1204,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "New York Islanders_or_Draw_and_over15": 0,
-      "Boston Bruins_or_Draw_and_over15": 0,
-      "New York Islanders_and_over15": 0,
-      "Boston Bruins_and_over15": 0,
-      "New York Islanders_or_Draw_and_BTTS": 0,
-      "Boston Bruins_or_Draw_and_BTTS": 0
+      "New York Islanders_or_Draw_and_over15": null,
+      "Boston Bruins_or_Draw_and_over15": null,
+      "New York Islanders_and_over15": null,
+      "Boston Bruins_and_over15": null,
+      "New York Islanders_or_Draw_and_BTTS": 0.374,
+      "Boston Bruins_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Bo Horvat (70%)",
@@ -2651,12 +2651,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Buffalo Sabres_or_Draw_and_over15": 0,
-      "Utah Mammoth_or_Draw_and_over15": 0,
-      "Buffalo Sabres_and_over15": 0,
-      "Utah Mammoth_and_over15": 0,
-      "Buffalo Sabres_or_Draw_and_BTTS": 0,
-      "Utah Mammoth_or_Draw_and_BTTS": 0
+      "Buffalo Sabres_or_Draw_and_over15": null,
+      "Utah Mammoth_or_Draw_and_over15": null,
+      "Buffalo Sabres_and_over15": null,
+      "Utah Mammoth_and_over15": null,
+      "Buffalo Sabres_or_Draw_and_BTTS": 0.374,
+      "Utah Mammoth_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Zach Benson (80%)",
@@ -4086,12 +4086,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Montréal Canadiens_or_Draw_and_over15": 0,
-      "Philadelphia Flyers_or_Draw_and_over15": 0,
-      "Montréal Canadiens_and_over15": 0,
-      "Philadelphia Flyers_and_over15": 0,
-      "Montréal Canadiens_or_Draw_and_BTTS": 0,
-      "Philadelphia Flyers_or_Draw_and_BTTS": 0
+      "Montréal Canadiens_or_Draw_and_over15": null,
+      "Philadelphia Flyers_or_Draw_and_over15": null,
+      "Montréal Canadiens_and_over15": null,
+      "Philadelphia Flyers_and_over15": null,
+      "Montréal Canadiens_or_Draw_and_BTTS": 0.374,
+      "Philadelphia Flyers_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Nick Suzuki (100%)",
@@ -5449,12 +5449,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 62,
     "comboPredictions": {
-      "LDU_or_Draw_and_over15": 0,
-      "Orense SC_or_Draw_and_over15": 0,
-      "LDU_and_over15": 0,
-      "Orense SC_and_over15": 0,
-      "LDU_or_Draw_and_BTTS": 0,
-      "Orense SC_or_Draw_and_BTTS": 0
+      "LDU_or_Draw_and_over15": null,
+      "Orense SC_or_Draw_and_over15": null,
+      "LDU_and_over15": null,
+      "Orense SC_and_over15": null,
+      "LDU_or_Draw_and_BTTS": 0.374,
+      "Orense SC_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -5699,6 +5699,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 213,
+    "over200Prob": 0.8967136150234741,
+    "over210Prob": 0.784037558685446,
+    "over220Prob": 0.6338028169014085,
+    "over230Prob": 0.4084507042253521,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -5718,12 +5722,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Toronto Raptors_or_Draw_and_over15": 0,
-      "Milwaukee Bucks_or_Draw_and_over15": 0,
-      "Toronto Raptors_and_over15": 0,
-      "Milwaukee Bucks_and_over15": 0,
-      "Toronto Raptors_or_Draw_and_BTTS": 0,
-      "Milwaukee Bucks_or_Draw_and_BTTS": 0
+      "Toronto Raptors_over200": 1,
+      "Milwaukee Bucks_over200": 0,
+      "Toronto Raptors_over210": 1,
+      "Milwaukee Bucks_over210": 0,
+      "Toronto Raptors_over220": 1,
+      "Milwaukee Bucks_over220": 0,
+      "Toronto Raptors_over230": 1,
+      "Milwaukee Bucks_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -5765,6 +5771,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 205,
+    "over200Prob": 0.8585365853658536,
+    "over210Prob": 0.7560975609756098,
+    "over220Prob": 0.5121951219512195,
+    "over230Prob": 0.36585365853658536,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -5784,12 +5794,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "New Orleans Pelicans_or_Draw_and_over15": 0,
-      "Charlotte Hornets_or_Draw_and_over15": 0,
-      "New Orleans Pelicans_and_over15": 0,
-      "Charlotte Hornets_and_over15": 0,
-      "New Orleans Pelicans_or_Draw_and_BTTS": 0,
-      "Charlotte Hornets_or_Draw_and_BTTS": 0
+      "New Orleans Pelicans_over200": 1,
+      "Charlotte Hornets_over200": 0,
+      "New Orleans Pelicans_over210": 1,
+      "Charlotte Hornets_over210": 0,
+      "New Orleans Pelicans_over220": 1,
+      "Charlotte Hornets_over220": 0,
+      "New Orleans Pelicans_over230": 1,
+      "Charlotte Hornets_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -5831,6 +5843,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 210,
+    "over200Prob": 0.9047619047619048,
+    "over210Prob": 0.7952380952380952,
+    "over220Prob": 0.6857142857142857,
+    "over230Prob": 0.49047619047619045,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -5850,12 +5866,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Chicago Bulls_or_Draw_and_over15": 0,
-      "Philadelphia 76ers_or_Draw_and_over15": 0,
-      "Chicago Bulls_and_over15": 0,
-      "Philadelphia 76ers_and_over15": 0,
-      "Chicago Bulls_or_Draw_and_BTTS": 0,
-      "Philadelphia 76ers_or_Draw_and_BTTS": 0
+      "Chicago Bulls_over200": 1,
+      "Philadelphia 76ers_over200": 0,
+      "Chicago Bulls_over210": 1,
+      "Philadelphia 76ers_over210": 0,
+      "Chicago Bulls_over220": 1,
+      "Philadelphia 76ers_over220": 0,
+      "Chicago Bulls_over230": 1,
+      "Philadelphia 76ers_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -5897,6 +5915,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 211,
+    "over200Prob": 0.8341232227488151,
+    "over210Prob": 0.6966824644549763,
+    "over220Prob": 0.5402843601895735,
+    "over230Prob": 0.3981042654028436,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -5916,12 +5938,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Atlanta Hawks_or_Draw_and_over15": 0,
-      "Orlando Magic_or_Draw_and_over15": 0,
-      "Atlanta Hawks_and_over15": 0,
-      "Orlando Magic_and_over15": 0,
-      "Atlanta Hawks_or_Draw_and_BTTS": 0,
-      "Orlando Magic_or_Draw_and_BTTS": 0
+      "Atlanta Hawks_over200": 1,
+      "Orlando Magic_over200": 0,
+      "Atlanta Hawks_over210": 1,
+      "Orlando Magic_over210": 0,
+      "Atlanta Hawks_over220": 1,
+      "Orlando Magic_over220": 0,
+      "Atlanta Hawks_over230": 1,
+      "Orlando Magic_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -5982,12 +6006,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Dallas Stars_or_Draw_and_over15": 0,
-      "Edmonton Oilers_or_Draw_and_over15": 0,
-      "Dallas Stars_and_over15": 0,
-      "Edmonton Oilers_and_over15": 0,
-      "Dallas Stars_or_Draw_and_BTTS": 0,
-      "Edmonton Oilers_or_Draw_and_BTTS": 0
+      "Dallas Stars_or_Draw_and_over15": null,
+      "Edmonton Oilers_or_Draw_and_over15": null,
+      "Dallas Stars_and_over15": null,
+      "Edmonton Oilers_and_over15": null,
+      "Dallas Stars_or_Draw_and_BTTS": 0.374,
+      "Edmonton Oilers_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Mikko Rantanen (80%)",
@@ -6937,12 +6961,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Minnesota Wild_or_Draw_and_over15": 0,
-      "Nashville Predators_or_Draw_and_over15": 0,
-      "Minnesota Wild_and_over15": 0,
-      "Nashville Predators_and_over15": 0,
-      "Minnesota Wild_or_Draw_and_BTTS": 0,
-      "Nashville Predators_or_Draw_and_BTTS": 0
+      "Minnesota Wild_or_Draw_and_over15": null,
+      "Nashville Predators_or_Draw_and_over15": null,
+      "Minnesota Wild_and_over15": null,
+      "Nashville Predators_and_over15": null,
+      "Minnesota Wild_or_Draw_and_BTTS": 0.374,
+      "Nashville Predators_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Marcus Johansson (70%)",
@@ -8226,12 +8250,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Colorado Avalanche_or_Draw_and_over15": 0,
-      "Tampa Bay Lightning_or_Draw_and_over15": 0,
-      "Colorado Avalanche_and_over15": 0,
-      "Tampa Bay Lightning_and_over15": 0,
-      "Colorado Avalanche_or_Draw_and_BTTS": 0,
-      "Tampa Bay Lightning_or_Draw_and_BTTS": 0
+      "Colorado Avalanche_or_Draw_and_over15": null,
+      "Tampa Bay Lightning_or_Draw_and_over15": null,
+      "Colorado Avalanche_and_over15": null,
+      "Tampa Bay Lightning_and_over15": null,
+      "Colorado Avalanche_or_Draw_and_BTTS": 0.374,
+      "Tampa Bay Lightning_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Cale Makar (90%)",
@@ -9394,12 +9418,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Vegas Golden Knights_or_Draw_and_over15": 0,
-      "Detroit Red Wings_or_Draw_and_over15": 0,
-      "Vegas Golden Knights_and_over15": 0,
-      "Detroit Red Wings_and_over15": 0,
-      "Vegas Golden Knights_or_Draw_and_BTTS": 0,
-      "Detroit Red Wings_or_Draw_and_BTTS": 0
+      "Vegas Golden Knights_or_Draw_and_over15": null,
+      "Detroit Red Wings_or_Draw_and_over15": null,
+      "Vegas Golden Knights_and_over15": null,
+      "Detroit Red Wings_and_over15": null,
+      "Vegas Golden Knights_or_Draw_and_BTTS": 0.374,
+      "Detroit Red Wings_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Jack Eichel (70%)",
@@ -10490,12 +10514,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Anaheim Ducks_or_Draw_and_over15": 0,
-      "Florida Panthers_or_Draw_and_over15": 0,
-      "Anaheim Ducks_and_over15": 0,
-      "Florida Panthers_and_over15": 0,
-      "Anaheim Ducks_or_Draw_and_BTTS": 0,
-      "Florida Panthers_or_Draw_and_BTTS": 0
+      "Anaheim Ducks_or_Draw_and_over15": null,
+      "Florida Panthers_or_Draw_and_over15": null,
+      "Anaheim Ducks_and_over15": null,
+      "Florida Panthers_and_over15": null,
+      "Anaheim Ducks_or_Draw_and_BTTS": 0.374,
+      "Florida Panthers_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Leo Carlsson (90%)",
@@ -11831,6 +11855,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 224,
+    "over200Prob": 0.8348214285714286,
+    "over210Prob": 0.7232142857142857,
+    "over220Prob": 0.5669642857142857,
+    "over230Prob": 0.42410714285714285,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -11850,12 +11878,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Golden State Warriors_or_Draw_and_over15": 0,
-      "Phoenix Suns_or_Draw_and_over15": 0,
-      "Golden State Warriors_and_over15": 0,
-      "Phoenix Suns_and_over15": 0,
-      "Golden State Warriors_or_Draw_and_BTTS": 0,
-      "Phoenix Suns_or_Draw_and_BTTS": 0
+      "Golden State Warriors_over200": 1,
+      "Phoenix Suns_over200": 0,
+      "Golden State Warriors_over210": 1,
+      "Phoenix Suns_over210": 0,
+      "Golden State Warriors_over220": 1,
+      "Phoenix Suns_over220": 0,
+      "Golden State Warriors_over230": 1,
+      "Phoenix Suns_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -11916,12 +11946,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Los Angeles Kings_or_Draw_and_over15": 0,
-      "Winnipeg Jets_or_Draw_and_over15": 0,
-      "Los Angeles Kings_and_over15": 0,
-      "Winnipeg Jets_and_over15": 0,
-      "Los Angeles Kings_or_Draw_and_BTTS": 0,
-      "Winnipeg Jets_or_Draw_and_BTTS": 0
+      "Los Angeles Kings_or_Draw_and_over15": null,
+      "Winnipeg Jets_or_Draw_and_over15": null,
+      "Los Angeles Kings_and_over15": null,
+      "Winnipeg Jets_and_over15": null,
+      "Los Angeles Kings_or_Draw_and_BTTS": 0.374,
+      "Winnipeg Jets_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "📈 Pointeur : Adrian Kempe (80%)",
@@ -13124,6 +13154,10 @@
     "over25Prob": null,
     "over55Prob": null,
     "overNb": 241,
+    "over200Prob": 0.8091286307053942,
+    "over210Prob": 0.6804979253112033,
+    "over220Prob": 0.5186721991701245,
+    "over230Prob": 0.3360995850622407,
     "rawHomeHeadPct": 0,
     "homeHeadPct": 0,
     "homeHeadMatches": 0,
@@ -13143,12 +13177,14 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Los Angeles Clippers_or_Draw_and_over15": 0,
-      "Oklahoma City Thunder_or_Draw_and_over15": 0,
-      "Los Angeles Clippers_and_over15": 0,
-      "Oklahoma City Thunder_and_over15": 0,
-      "Los Angeles Clippers_or_Draw_and_BTTS": 0,
-      "Oklahoma City Thunder_or_Draw_and_BTTS": 0
+      "Los Angeles Clippers_over200": 1,
+      "Oklahoma City Thunder_over200": 0,
+      "Los Angeles Clippers_over210": 1,
+      "Oklahoma City Thunder_over210": 0,
+      "Los Angeles Clippers_over220": 1,
+      "Oklahoma City Thunder_over220": 0,
+      "Los Angeles Clippers_over230": 1,
+      "Oklahoma City Thunder_over230": 0
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -13209,12 +13245,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 67.5,
     "comboPredictions": {
-      "FK Javor Ivanjica_or_Draw_and_over15": 0,
-      "FK Partizan_or_Draw_and_over15": 0,
-      "FK Javor Ivanjica_and_over15": 0,
-      "FK Partizan_and_over15": 0,
-      "FK Javor Ivanjica_or_Draw_and_BTTS": 0,
-      "FK Partizan_or_Draw_and_BTTS": 0
+      "FK Javor Ivanjica_or_Draw_and_over15": null,
+      "FK Partizan_or_Draw_and_over15": null,
+      "FK Javor Ivanjica_and_over15": null,
+      "FK Partizan_and_over15": null,
+      "FK Javor Ivanjica_or_Draw_and_BTTS": 0.374,
+      "FK Partizan_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Buteur : Bayere Loue (60%)"
@@ -13684,12 +13720,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 40,
     "comboPredictions": {
-      "Qarabağ FK_or_Draw_and_over15": 0,
-      "Chelsea_or_Draw_and_over15": 0,
-      "Qarabağ FK_and_over15": 0,
-      "Chelsea_and_over15": 0,
-      "Qarabağ FK_or_Draw_and_BTTS": 0,
-      "Chelsea_or_Draw_and_BTTS": 0
+      "Qarabağ FK_or_Draw_and_over15": null,
+      "Chelsea_or_Draw_and_over15": null,
+      "Qarabağ FK_and_over15": null,
+      "Chelsea_and_over15": null,
+      "Qarabağ FK_or_Draw_and_BTTS": 0.374,
+      "Chelsea_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -13952,12 +13988,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "Pafos FC_or_Draw_and_over15": 0,
-      "Villarreal_or_Draw_and_over15": 0,
-      "Pafos FC_and_over15": 0,
-      "Villarreal_and_over15": 0,
-      "Pafos FC_or_Draw_and_BTTS": 0,
-      "Villarreal_or_Draw_and_BTTS": 0
+      "Pafos FC_or_Draw_and_over15": null,
+      "Villarreal_or_Draw_and_over15": null,
+      "Pafos FC_and_over15": null,
+      "Villarreal_and_over15": null,
+      "Pafos FC_or_Draw_and_BTTS": 0.374,
+      "Villarreal_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14018,12 +14054,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 56,
     "comboPredictions": {
-      "Sport Recife_or_Draw_and_over15": 0,
-      "Juventude_or_Draw_and_over15": 0,
-      "Sport Recife_and_over15": 0,
-      "Juventude_and_over15": 0,
-      "Sport Recife_or_Draw_and_BTTS": 0,
-      "Juventude_or_Draw_and_BTTS": 0
+      "Sport Recife_or_Draw_and_over15": null,
+      "Juventude_or_Draw_and_over15": null,
+      "Sport Recife_and_over15": null,
+      "Juventude_and_over15": null,
+      "Sport Recife_or_Draw_and_BTTS": 0.374,
+      "Juventude_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Buteur : Derik Lacerda (50%)"
@@ -14154,12 +14190,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 33.5,
     "comboPredictions": {
-      "Real Sociedad B U21_or_Draw_and_over15": 0,
-      "Huesca_or_Draw_and_over15": 0,
-      "Real Sociedad B U21_and_over15": 0,
-      "Huesca_and_over15": 0,
-      "Real Sociedad B U21_or_Draw_and_BTTS": 0,
-      "Huesca_or_Draw_and_BTTS": 0
+      "Real Sociedad B U21_or_Draw_and_over15": null,
+      "Huesca_or_Draw_and_over15": null,
+      "Real Sociedad B U21_and_over15": null,
+      "Huesca_and_over15": null,
+      "Real Sociedad B U21_or_Draw_and_BTTS": 0.374,
+      "Huesca_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14220,12 +14256,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 41,
     "comboPredictions": {
-      "Preston North End_or_Draw_and_over15": 0,
-      "Swansea City_or_Draw_and_over15": 0,
-      "Preston North End_and_over15": 0,
-      "Swansea City_and_over15": 0,
-      "Preston North End_or_Draw_and_BTTS": 0,
-      "Swansea City_or_Draw_and_BTTS": 0
+      "Preston North End_or_Draw_and_over15": null,
+      "Swansea City_or_Draw_and_over15": null,
+      "Preston North End_and_over15": null,
+      "Swansea City_and_over15": null,
+      "Preston North End_or_Draw_and_BTTS": 0.374,
+      "Swansea City_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14354,12 +14390,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 37,
     "comboPredictions": {
-      "Sheffield Wednesday_or_Draw_and_over15": 0,
-      "Norwich City_or_Draw_and_over15": 0,
-      "Sheffield Wednesday_and_over15": 0,
-      "Norwich City_and_over15": 0,
-      "Sheffield Wednesday_or_Draw_and_BTTS": 0,
-      "Norwich City_or_Draw_and_BTTS": 0
+      "Sheffield Wednesday_or_Draw_and_over15": null,
+      "Norwich City_or_Draw_and_over15": null,
+      "Sheffield Wednesday_and_over15": null,
+      "Norwich City_and_over15": null,
+      "Sheffield Wednesday_or_Draw_and_BTTS": 0.374,
+      "Norwich City_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14488,12 +14524,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 45,
     "comboPredictions": {
-      "Queens Park Rangers_or_Draw_and_over15": 0,
-      "Southampton_or_Draw_and_over15": 0,
-      "Queens Park Rangers_and_over15": 0,
-      "Southampton_and_over15": 0,
-      "Queens Park Rangers_or_Draw_and_BTTS": 0,
-      "Southampton_or_Draw_and_BTTS": 0
+      "Queens Park Rangers_or_Draw_and_over15": null,
+      "Southampton_or_Draw_and_over15": null,
+      "Queens Park Rangers_and_over15": null,
+      "Southampton_and_over15": null,
+      "Queens Park Rangers_or_Draw_and_BTTS": 0.374,
+      "Southampton_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14690,12 +14726,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 39,
     "comboPredictions": {
-      "Portsmouth_or_Draw_and_over15": 0,
-      "Wrexham_or_Draw_and_over15": 0,
-      "Portsmouth_and_over15": 0,
-      "Wrexham_and_over15": 0,
-      "Portsmouth_or_Draw_and_BTTS": 0,
-      "Wrexham_or_Draw_and_BTTS": 0
+      "Portsmouth_or_Draw_and_over15": null,
+      "Wrexham_or_Draw_and_over15": null,
+      "Portsmouth_and_over15": null,
+      "Wrexham_and_over15": null,
+      "Portsmouth_or_Draw_and_BTTS": 0.374,
+      "Wrexham_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -14756,12 +14792,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 38,
     "comboPredictions": {
-      "Inter_or_Draw_and_over15": 0,
-      "Kairat Almaty_or_Draw_and_over15": 0,
-      "Inter_and_over15": 0,
-      "Kairat Almaty_and_over15": 0,
-      "Inter_or_Draw_and_BTTS": 0,
-      "Kairat Almaty_or_Draw_and_BTTS": 0
+      "Inter_or_Draw_and_over15": null,
+      "Kairat Almaty_or_Draw_and_over15": null,
+      "Inter_and_over15": null,
+      "Kairat Almaty_and_over15": null,
+      "Inter_or_Draw_and_BTTS": 0.374,
+      "Kairat Almaty_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Double chance buteur : Hakan Çalhanoğlu / Lautaro Martínez (67%)"
@@ -14959,12 +14995,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 75,
     "comboPredictions": {
-      "Manchester City_or_Draw_and_over15": 0,
-      "Borussia Dortmund_or_Draw_and_over15": 0,
-      "Manchester City_and_over15": 0,
-      "Borussia Dortmund_and_over15": 0,
-      "Manchester City_or_Draw_and_BTTS": 0,
-      "Borussia Dortmund_or_Draw_and_BTTS": 0
+      "Manchester City_or_Draw_and_over15": null,
+      "Borussia Dortmund_or_Draw_and_over15": null,
+      "Manchester City_and_over15": null,
+      "Borussia Dortmund_and_over15": null,
+      "Manchester City_or_Draw_and_BTTS": 0.374,
+      "Borussia Dortmund_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Buteur : Erling Haaland (90%)"
@@ -15364,12 +15400,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 34,
     "comboPredictions": {
-      "Benfica_or_Draw_and_over15": 0,
-      "Bayer 04 Leverkusen_or_Draw_and_over15": 0,
-      "Benfica_and_over15": 0,
-      "Bayer 04 Leverkusen_and_over15": 0,
-      "Benfica_or_Draw_and_BTTS": 0,
-      "Bayer 04 Leverkusen_or_Draw_and_BTTS": 0
+      "Benfica_or_Draw_and_over15": null,
+      "Bayer 04 Leverkusen_or_Draw_and_over15": null,
+      "Benfica_and_over15": null,
+      "Bayer 04 Leverkusen_and_over15": null,
+      "Benfica_or_Draw_and_BTTS": 0.374,
+      "Bayer 04 Leverkusen_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -15632,12 +15668,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 41,
     "comboPredictions": {
-      "Club Brugge KV_or_Draw_and_over15": 0,
-      "Barcelona_or_Draw_and_over15": 0,
-      "Club Brugge KV_and_over15": 0,
-      "Barcelona_and_over15": 0,
-      "Club Brugge KV_or_Draw_and_BTTS": 0,
-      "Barcelona_or_Draw_and_BTTS": 0
+      "Club Brugge KV_or_Draw_and_over15": null,
+      "Barcelona_or_Draw_and_over15": null,
+      "Club Brugge KV_and_over15": null,
+      "Barcelona_and_over15": null,
+      "Club Brugge KV_or_Draw_and_BTTS": 0.374,
+      "Barcelona_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [
@@ -15835,12 +15871,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 69.5,
     "comboPredictions": {
-      "Olympique de Marseille_or_Draw_and_over15": 0,
-      "Atalanta_or_Draw_and_over15": 0,
-      "Olympique de Marseille_and_over15": 0,
-      "Atalanta_and_over15": 0,
-      "Olympique de Marseille_or_Draw_and_BTTS": 0,
-      "Atalanta_or_Draw_and_BTTS": 0
+      "Olympique de Marseille_or_Draw_and_over15": null,
+      "Atalanta_or_Draw_and_over15": null,
+      "Olympique de Marseille_and_over15": null,
+      "Atalanta_and_over15": null,
+      "Olympique de Marseille_or_Draw_and_BTTS": 0.374,
+      "Atalanta_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Double chance buteur : Mason Greenwood / Igor Paixão (60%)"
@@ -16172,12 +16208,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 0,
     "comboPredictions": {
-      "AFC Ajax_or_Draw_and_over15": 0,
-      "Galatasaray_or_Draw_and_over15": 0,
-      "AFC Ajax_and_over15": 0,
-      "Galatasaray_and_over15": 0,
-      "AFC Ajax_or_Draw_and_BTTS": 0,
-      "Galatasaray_or_Draw_and_BTTS": 0
+      "AFC Ajax_or_Draw_and_over15": null,
+      "Galatasaray_or_Draw_and_over15": null,
+      "AFC Ajax_and_over15": null,
+      "Galatasaray_and_over15": null,
+      "AFC Ajax_or_Draw_and_BTTS": 0.374,
+      "Galatasaray_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -16238,12 +16274,12 @@
     "awayTotalMatchesPenalty": 0,
     "combinedPenaltyPct": 26.5,
     "comboPredictions": {
-      "Newcastle United_or_Draw_and_over15": 0,
-      "Athletic Club_or_Draw_and_over15": 0,
-      "Newcastle United_and_over15": 0,
-      "Athletic Club_and_over15": 0,
-      "Newcastle United_or_Draw_and_BTTS": 0,
-      "Athletic Club_or_Draw_and_BTTS": 0
+      "Newcastle United_or_Draw_and_over15": null,
+      "Athletic Club_or_Draw_and_over15": null,
+      "Newcastle United_and_over15": null,
+      "Athletic Club_and_over15": null,
+      "Newcastle United_or_Draw_and_BTTS": 0.374,
+      "Athletic Club_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Buteur : Nick Woltemade (50%)"
@@ -16441,12 +16477,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 64,
     "comboPredictions": {
-      "Universidad de Chile_or_Draw_and_over15": 0,
-      "Everton de Viña del Mar_or_Draw_and_over15": 0,
-      "Universidad de Chile_and_over15": 0,
-      "Everton de Viña del Mar_and_over15": 0,
-      "Universidad de Chile_or_Draw_and_BTTS": 0,
-      "Everton de Viña del Mar_or_Draw_and_BTTS": 0
+      "Universidad de Chile_or_Draw_and_over15": null,
+      "Everton de Viña del Mar_or_Draw_and_over15": null,
+      "Universidad de Chile_and_over15": null,
+      "Everton de Viña del Mar_and_over15": null,
+      "Universidad de Chile_or_Draw_and_BTTS": 0.374,
+      "Everton de Viña del Mar_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [
@@ -16643,12 +16679,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 62.5,
     "comboPredictions": {
-      "Red Bull Bragantino_or_Draw_and_over15": 0,
-      "Corinthians_or_Draw_and_over15": 0,
-      "Red Bull Bragantino_and_over15": 0,
-      "Corinthians_and_over15": 0,
-      "Red Bull Bragantino_or_Draw_and_BTTS": 0,
-      "Corinthians_or_Draw_and_BTTS": 0
+      "Red Bull Bragantino_or_Draw_and_over15": null,
+      "Corinthians_or_Draw_and_over15": null,
+      "Red Bull Bragantino_and_over15": null,
+      "Corinthians_and_over15": null,
+      "Red Bull Bragantino_or_Draw_and_BTTS": 0.374,
+      "Corinthians_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [
       "⚽️ Buteur : Jhon Jhon (50%)"
@@ -16914,12 +16950,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 66.5,
     "comboPredictions": {
-      "Vitória_or_Draw_and_over15": 0,
-      "Internacional_or_Draw_and_over15": 0,
-      "Vitória_and_over15": 0,
-      "Internacional_and_over15": 0,
-      "Vitória_or_Draw_and_BTTS": 0,
-      "Internacional_or_Draw_and_BTTS": 0
+      "Vitória_or_Draw_and_over15": null,
+      "Internacional_or_Draw_and_over15": null,
+      "Vitória_and_over15": null,
+      "Internacional_and_over15": null,
+      "Vitória_or_Draw_and_BTTS": 0.374,
+      "Internacional_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -16980,12 +17016,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 53.5,
     "comboPredictions": {
-      "Botafogo_or_Draw_and_over15": 0,
-      "Vasco da Gama_or_Draw_and_over15": 0,
-      "Botafogo_and_over15": 0,
-      "Vasco da Gama_and_over15": 0,
-      "Botafogo_or_Draw_and_BTTS": 0,
-      "Vasco da Gama_or_Draw_and_BTTS": 0
+      "Botafogo_or_Draw_and_over15": null,
+      "Vasco da Gama_or_Draw_and_over15": null,
+      "Botafogo_and_over15": null,
+      "Vasco da Gama_and_over15": null,
+      "Botafogo_or_Draw_and_BTTS": 0.374,
+      "Vasco da Gama_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [
@@ -17385,12 +17421,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 61,
     "comboPredictions": {
-      "Atlético Mineiro_or_Draw_and_over15": 0,
-      "Esporte Clube Bahia_or_Draw_and_over15": 0,
-      "Atlético Mineiro_and_over15": 0,
-      "Esporte Clube Bahia_and_over15": 0,
-      "Atlético Mineiro_or_Draw_and_BTTS": 0,
-      "Esporte Clube Bahia_or_Draw_and_BTTS": 0
+      "Atlético Mineiro_or_Draw_and_over15": null,
+      "Esporte Clube Bahia_or_Draw_and_over15": null,
+      "Atlético Mineiro_and_over15": null,
+      "Esporte Clube Bahia_and_over15": null,
+      "Atlético Mineiro_or_Draw_and_BTTS": 0.374,
+      "Esporte Clube Bahia_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -17519,12 +17555,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 66,
     "comboPredictions": {
-      "Grêmio_or_Draw_and_over15": 0,
-      "Cruzeiro_or_Draw_and_over15": 0,
-      "Grêmio_and_over15": 0,
-      "Cruzeiro_and_over15": 0,
-      "Grêmio_or_Draw_and_BTTS": 0,
-      "Cruzeiro_or_Draw_and_BTTS": 0
+      "Grêmio_or_Draw_and_over15": null,
+      "Cruzeiro_or_Draw_and_over15": null,
+      "Grêmio_and_over15": null,
+      "Cruzeiro_and_over15": null,
+      "Grêmio_or_Draw_and_BTTS": 0.374,
+      "Cruzeiro_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
@@ -17585,12 +17621,12 @@
     "awayTotalMatchesPenalty": 50,
     "combinedPenaltyPct": 64.5,
     "comboPredictions": {
-      "São Paulo Futebol Clube_or_Draw_and_over15": 0,
-      "Flamengo_or_Draw_and_over15": 0,
-      "São Paulo Futebol Clube_and_over15": 0,
-      "Flamengo_and_over15": 0,
-      "São Paulo Futebol Clube_or_Draw_and_BTTS": 0,
-      "Flamengo_or_Draw_and_BTTS": 0
+      "São Paulo Futebol Clube_or_Draw_and_over15": null,
+      "Flamengo_or_Draw_and_over15": null,
+      "São Paulo Futebol Clube_and_over15": null,
+      "Flamengo_and_over15": null,
+      "São Paulo Futebol Clube_or_Draw_and_BTTS": 0.374,
+      "Flamengo_or_Draw_and_BTTS": 0.31350000000000006
     },
     "homePhrases": [],
     "awayPhrases": [],
