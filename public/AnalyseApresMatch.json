@@ -2,45 +2,75 @@
   "Pointeur": {
     ">=90%": {
       "total": 6,
-      "match0": 1
+      "match0": 3
     },
     ">=80%": {
-      "total": 12,
-      "match0": 2
-    },
-    ">=70%": {
-      "total": 21,
-      "match0": 4
-    },
-    ">=65%": {
-      "total": 21,
-      "match0": 4
-    },
-    ">=60%": {
-      "total": 39,
+      "total": 15,
       "match0": 8
     },
+    ">=70%": {
+      "total": 55,
+      "match0": 22
+    },
+    ">=65%": {
+      "total": 55,
+      "match0": 22
+    },
+    ">=60%": {
+      "total": 97,
+      "match0": 33
+    },
     ">=50%": {
-      "total": 61,
-      "match0": 11
+      "total": 162,
+      "match0": 40
     }
   },
   "Passeur": {
+    ">=80%": {
+      "total": 3,
+      "match0": 2
+    },
     ">=70%": {
-      "total": 9,
-      "match0": 1
+      "total": 12,
+      "match0": 8
     },
     ">=65%": {
-      "total": 9,
-      "match0": 1
+      "total": 12,
+      "match0": 8
     },
     ">=60%": {
-      "total": 11,
-      "match0": 1
+      "total": 24,
+      "match0": 10
     },
     ">=50%": {
-      "total": 16,
-      "match0": 3
+      "total": 47,
+      "match0": 14
+    }
+  },
+  "DoubleChance": {
+    ">=90%": {
+      "total": 1,
+      "match0": 1
+    },
+    ">=80%": {
+      "total": 8,
+      "match0": 6
+    },
+    ">=70%": {
+      "total": 18,
+      "match0": 10
+    },
+    ">=65%": {
+      "total": 20,
+      "match0": 11
+    },
+    ">=60%": {
+      "total": 22,
+      "match0": 13
+    },
+    ">=50%": {
+      "total": 22,
+      "match0": 13
     }
   },
   "DoubleChance2Equipes": {
@@ -49,71 +79,41 @@
       "match0": 3
     },
     ">=80%": {
-      "total": 7,
-      "match0": 5
-    },
-    ">=70%": {
-      "total": 14,
-      "match0": 11
-    },
-    ">=65%": {
-      "total": 14,
-      "match0": 11
-    },
-    ">=60%": {
-      "total": 14,
-      "match0": 11
-    },
-    ">=50%": {
-      "total": 14,
-      "match0": 11
-    }
-  },
-  "DoubleChance": {
-    ">=80%": {
-      "total": 4,
-      "match0": 3
-    },
-    ">=70%": {
       "total": 9,
-      "match0": 3
+      "match0": 6
+    },
+    ">=70%": {
+      "total": 23,
+      "match0": 14
     },
     ">=65%": {
-      "total": 12,
-      "match0": 3
+      "total": 23,
+      "match0": 14
     },
     ">=60%": {
-      "total": 12,
-      "match0": 3
+      "total": 23,
+      "match0": 14
     },
     ">=50%": {
-      "total": 12,
-      "match0": 3
+      "total": 23,
+      "match0": 14
     }
   },
   "Buteur": {
-    ">=70%": {
-      "total": 1,
-      "match0": 1
-    },
-    ">=65%": {
-      "total": 1,
-      "match0": 1
-    },
     ">=60%": {
-      "total": 3,
-      "match0": 1
+      "total": 5,
+      "match0": 3
     },
     ">=50%": {
-      "total": 10,
-      "match0": 3
+      "total": 17,
+      "match0": 7
     }
   },
   "topPerformances": [
+    "Sur 1 spots \"DoubleChance\" à >=90%, 1 sont validés",
     "Sur 3 spots \"DoubleChance2Equipes\" à >=90%, 3 sont validés",
-    "Sur 1 spots \"Buteur\" à >=70%, 1 sont validés",
-    "Sur 1 spots \"Buteur\" à >=65%, 1 sont validés",
-    "Sur 14 spots \"DoubleChance2Equipes\" à >=70%, 11 sont validés",
-    "Sur 14 spots \"DoubleChance2Equipes\" à >=65%, 11 sont validés"
+    "Sur 8 spots \"DoubleChance\" à >=80%, 6 sont validés",
+    "Sur 3 spots \"Passeur\" à >=80%, 2 sont validés",
+    "Sur 12 spots \"Passeur\" à >=70%, 8 sont validés"
   ]
 }
