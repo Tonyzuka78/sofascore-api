@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-12T07:04:48.315Z",
+  "generatedAt": "2025-12-22T09:21:04.462Z",
   "meta": {
     "recentWindow": 5,
     "midWindow": 10,
@@ -12,12 +12,34 @@
   },
   "results": [
     {
-      "matchId": 14201024,
-      "date": "13/12/2025 02:00",
-      "homeTeam": "St. Louis Blues",
-      "awayTeam": "Chicago Blackhawks",
+      "matchId": 14201038,
+      "date": "23/12/2025 01:00",
+      "homeTeam": "Tampa Bay Lightning",
+      "awayTeam": "St. Louis Blues",
       "lastMatchesDates": {
         "home": [
+          "21/12/2025 01:00:00",
+          "19/12/2025 01:00:00",
+          "16/12/2025 01:00:00",
+          "13/12/2025 21:30:00",
+          "12/12/2025 01:00:00",
+          "10/12/2025 01:00:00",
+          "09/12/2025 01:30:00",
+          "07/12/2025 01:00:00",
+          "05/12/2025 01:00:00",
+          "03/12/2025 01:00:00",
+          "29/11/2025 20:00:00",
+          "28/11/2025 18:00:00",
+          "27/11/2025 01:00:00",
+          "25/11/2025 01:00:00",
+          "23/11/2025 01:00:00"
+        ],
+        "away": [
+          "21/12/2025 00:00:00",
+          "19/12/2025 02:00:00",
+          "18/12/2025 02:00:00",
+          "16/12/2025 02:00:00",
+          "13/12/2025 02:00:00",
           "12/12/2025 02:00:00",
           "10/12/2025 02:00:00",
           "08/12/2025 01:00:00",
@@ -27,84 +49,266 @@
           "30/11/2025 02:00:00",
           "28/11/2025 22:00:00",
           "27/11/2025 01:00:00",
-          "25/11/2025 01:00:00",
-          "22/11/2025 21:30:00",
-          "21/11/2025 01:00:00",
-          "19/11/2025 01:00:00",
-          "16/11/2025 02:00:00",
-          "15/11/2025 02:00:00"
-        ],
-        "away": [
-          "11/12/2025 01:30:00",
-          "08/12/2025 02:00:00",
-          "07/12/2025 03:00:00",
-          "05/12/2025 04:00:00",
-          "03/12/2025 04:00:00",
-          "30/11/2025 21:30:00",
-          "29/11/2025 02:00:00",
-          "27/11/2025 02:30:00",
-          "24/11/2025 01:00:00",
-          "22/11/2025 01:00:00",
-          "21/11/2025 02:00:00",
-          "19/11/2025 02:30:00",
-          "16/11/2025 01:00:00",
-          "13/11/2025 03:30:00",
-          "09/11/2025 19:00:00"
+          "25/11/2025 01:00:00"
         ]
       },
       "summary": [
-        "St. Louis Blues vs Chicago Blackhawks (13/12)",
-        "Forme St. Louis Blues: 4.20gf/mt et 2.40ga/mt",
-        "Forme Chicago Blackhawks: 3.60gf/mt et 1.80ga/mt",
-        "xG estimée (home): 1.94, (away): 2.01",
+        "Tampa Bay Lightning vs St. Louis Blues (23/12)",
+        "Forme Tampa Bay Lightning: 3.60gf/mt et 3.80ga/mt",
+        "Forme St. Louis Blues: 2.20gf/mt et 2.60ga/mt",
+        "xG estimée (home): 2.37, (away): 1.98",
         "Match susceptible d'être ouvert (plus de buts attendus)",
-        "St. Louis Blues joueurs à surveiller: Robert Thomas (45%), Jake Neighbours (37%), Pavel Buchnevich (35.2%)",
-        "Chicago Blackhawks joueurs à surveiller: Connor Bedard (56.5%), Tyler Bertuzzi (50.4%), Louis Crevier (30.4%)"
+        "Tampa Bay Lightning joueurs à surveiller: Jake Guentzel (31.9%), Darren Raddysh (28.8%), Brandon Hagel (25.5%)",
+        "St. Louis Blues joueurs à surveiller: Jonatan Berggren (27.4%), Justin Faulk (24.1%), Robert Thomas (23.9%)"
       ],
       "predictions": {
         "home": {
           "topScorers": [
             {
-              "name": "Robert Thomas",
-              "prob": "45%",
+              "name": "Jake Guentzel",
+              "prob": "31.9%",
+              "recentMatches": 5,
+              "recentGoals": 3,
+              "recentAssists": 4,
+              "shotsPerMatch": 2.36,
+              "xgApprox": 0.25,
+              "ppImpact": 0.51,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 01:00:00",
+                  "goals": 2,
+                  "assists": 0,
+                  "shots": 5,
+                  "pp": 0
+                },
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 1
+                },
+                {
+                  "date": "16/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 21:30:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 6,
+                  "pp": 1
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 2,
+                  "shots": 2,
+                  "pp": 2
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 3 buts, 4 passes sur 5 matchs",
+                "Volume: 2.36 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.51",
+                "xG approximé (pondéré): 0.25",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Darren Raddysh",
+              "prob": "28.8%",
+              "recentMatches": 5,
+              "recentGoals": 2,
+              "recentAssists": 2,
+              "shotsPerMatch": 2.16,
+              "xgApprox": 0.24,
+              "ppImpact": 0.33,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "16/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 5,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 21:30:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 1
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 1,
+                  "pp": 1
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 2 buts, 2 passes sur 5 matchs",
+                "Volume: 2.16 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.33",
+                "xG approximé (pondéré): 0.24",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Brandon Hagel",
+              "prob": "25.5%",
+              "recentMatches": 3,
+              "recentGoals": 1,
+              "recentAssists": 1,
+              "shotsPerMatch": 2.06,
+              "xgApprox": 0.22,
+              "ppImpact": 0.06,
+              "recentMatchDetails": [
+                {
+                  "date": "16/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 21:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 3/5 récents (60%)",
+                "Forme offensive (recent): 1 buts, 1 passes sur 3 matchs",
+                "Volume: 2.06 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.06",
+                "xG approximé (pondéré): 0.22",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            }
+          ]
+        },
+        "away": {
+          "topScorers": [
+            {
+              "name": "Jonatan Berggren",
+              "prob": "27.4%",
+              "recentMatches": 3,
+              "recentGoals": 2,
+              "recentAssists": 2,
+              "shotsPerMatch": 1.24,
+              "xgApprox": 0.18,
+              "ppImpact": 0.21,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 00:00:00",
+                  "goals": 1,
+                  "assists": 2,
+                  "shots": 2,
+                  "pp": 1
+                },
+                {
+                  "date": "19/12/2025 02:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "18/12/2025 02:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 3/5 récents (60%)",
+                "Forme offensive (recent): 2 buts, 2 passes sur 3 matchs",
+                "Volume: 1.24 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.21",
+                "xG approximé (pondéré): 0.18",
+                "Matchup: adversaire concède ~3.80 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Justin Faulk",
+              "prob": "24.1%",
               "recentMatches": 5,
               "recentGoals": 3,
               "recentAssists": 1,
-              "shotsPerMatch": 1.4,
-              "xgApprox": 0.19,
-              "ppImpact": 0.13,
+              "shotsPerMatch": 1.24,
+              "xgApprox": 0.18,
+              "ppImpact": 0.01,
               "recentMatchDetails": [
                 {
-                  "date": "12/12/2025 02:00:00",
+                  "date": "21/12/2025 00:00:00",
                   "goals": 1,
                   "assists": 0,
                   "shots": 4,
                   "pp": 0
                 },
                 {
-                  "date": "10/12/2025 02:00:00",
-                  "goals": 2,
+                  "date": "19/12/2025 02:00:00",
+                  "goals": 0,
                   "assists": 0,
                   "shots": 2,
-                  "pp": 1
-                },
-                {
-                  "date": "08/12/2025 01:00:00",
-                  "goals": 0,
-                  "assists": 1,
-                  "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "07/12/2025 01:00:00",
-                  "goals": 0,
+                  "date": "18/12/2025 02:00:00",
+                  "goals": 1,
                   "assists": 0,
                   "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "05/12/2025 01:00:00",
+                  "date": "16/12/2025 02:00:00",
                   "goals": 0,
+                  "assists": 1,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 02:00:00",
+                  "goals": 1,
                   "assists": 0,
                   "shots": 2,
                   "pp": 0
@@ -114,113 +318,232 @@
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
                 "Forme offensive (recent): 3 buts, 1 passes sur 5 matchs",
-                "Volume: 1.40 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.13",
-                "xG approximé (pondéré): 0.19",
-                "Matchup: adversaire concède ~1.80 buts/match récents",
-                "→ Conclusion: fort candidat"
+                "Volume: 1.24 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.01",
+                "xG approximé (pondéré): 0.18",
+                "Matchup: adversaire concède ~3.80 buts/match récents",
+                "→ Conclusion: candidat moyen"
               ]
             },
             {
-              "name": "Jake Neighbours",
-              "prob": "37%",
+              "name": "Robert Thomas",
+              "prob": "23.9%",
               "recentMatches": 5,
               "recentGoals": 2,
-              "recentAssists": 1,
-              "shotsPerMatch": 1.59,
+              "recentAssists": 4,
+              "shotsPerMatch": 1.6,
               "xgApprox": 0.18,
-              "ppImpact": 0,
+              "ppImpact": 0.14,
               "recentMatchDetails": [
                 {
-                  "date": "12/12/2025 02:00:00",
-                  "goals": 0,
+                  "date": "21/12/2025 00:00:00",
+                  "goals": 2,
                   "assists": 1,
-                  "shots": 2,
+                  "shots": 4,
+                  "pp": 1
+                },
+                {
+                  "date": "19/12/2025 02:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 6,
                   "pp": 0
                 },
                 {
-                  "date": "10/12/2025 02:00:00",
+                  "date": "18/12/2025 02:00:00",
                   "goals": 0,
-                  "assists": 0,
+                  "assists": 1,
                   "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "08/12/2025 01:00:00",
+                  "date": "16/12/2025 02:00:00",
                   "goals": 0,
                   "assists": 0,
-                  "shots": 2,
+                  "shots": 0,
                   "pp": 0
                 },
                 {
-                  "date": "07/12/2025 01:00:00",
-                  "goals": 2,
-                  "assists": 0,
-                  "shots": 4,
-                  "pp": 0
-                },
-                {
-                  "date": "05/12/2025 01:00:00",
+                  "date": "13/12/2025 02:00:00",
                   "goals": 0,
-                  "assists": 0,
-                  "shots": 3,
+                  "assists": 2,
+                  "shots": 1,
                   "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 2 buts, 1 passes sur 5 matchs",
-                "Volume: 1.59 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.00",
+                "Forme offensive (recent): 2 buts, 4 passes sur 5 matchs",
+                "Volume: 1.60 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.14",
                 "xG approximé (pondéré): 0.18",
-                "Matchup: adversaire concède ~1.80 buts/match récents",
-                "→ Conclusion: fort candidat"
+                "Matchup: adversaire concède ~3.80 buts/match récents",
+                "→ Conclusion: candidat moyen"
               ]
-            },
+            }
+          ]
+        },
+        "matchLevel": {
+          "estimatedTotalXG": 4.35,
+          "likelyOpen": true,
+          "leagueAvgGoalsRecent": 2.99
+        }
+      }
+    },
+    {
+      "matchId": 14201035,
+      "date": "23/12/2025 01:30",
+      "homeTeam": "Philadelphia Flyers",
+      "awayTeam": "Vancouver Canucks",
+      "lastMatchesDates": {
+        "home": [
+          "20/12/2025 18:30:00",
+          "19/12/2025 01:30:00",
+          "17/12/2025 01:00:00",
+          "14/12/2025 23:00:00",
+          "14/12/2025 01:00:00",
+          "12/12/2025 01:00:00",
+          "10/12/2025 01:00:00",
+          "07/12/2025 19:00:00",
+          "04/12/2025 01:30:00",
+          "02/12/2025 01:00:00",
+          "30/11/2025 01:00:00",
+          "28/11/2025 22:00:00",
+          "27/11/2025 01:00:00",
+          "25/11/2025 01:00:00",
+          "23/11/2025 01:00:00"
+        ],
+        "away": [
+          "21/12/2025 01:00:00",
+          "20/12/2025 01:00:00",
+          "17/12/2025 01:00:00",
+          "14/12/2025 18:30:00",
+          "12/12/2025 04:00:00",
+          "09/12/2025 04:00:00",
+          "07/12/2025 04:00:00",
+          "06/12/2025 03:00:00",
+          "03/12/2025 03:00:00",
+          "30/11/2025 04:00:00",
+          "28/11/2025 22:00:00",
+          "27/11/2025 04:00:00",
+          "24/11/2025 03:00:00",
+          "21/11/2025 04:00:00",
+          "18/11/2025 01:00:00"
+        ]
+      },
+      "summary": [
+        "Philadelphia Flyers vs Vancouver Canucks (23/12)",
+        "Forme Philadelphia Flyers: 3.60gf/mt et 3.20ga/mt",
+        "Forme Vancouver Canucks: 1.80gf/mt et 3.20ga/mt",
+        "xG estimée (home): 1.86, (away): 1.74",
+        "Match susceptible d'être ouvert (plus de buts attendus)",
+        "Philadelphia Flyers joueurs à surveiller: Trevor Zegras (35.7%), Travis Konecny (29.4%), Carl Grundstrom (24.5%)",
+        "Vancouver Canucks joueurs à surveiller: Kiefer Sherwood (21.9%), Liam Ohgren (15.6%), Linus Karlsson (12%)"
+      ],
+      "predictions": {
+        "home": {
+          "topScorers": [
             {
-              "name": "Pavel Buchnevich",
-              "prob": "35.2%",
+              "name": "Trevor Zegras",
+              "prob": "35.7%",
               "recentMatches": 5,
-              "recentGoals": 2,
+              "recentGoals": 4,
               "recentAssists": 3,
-              "shotsPerMatch": 1.11,
-              "xgApprox": 0.14,
-              "ppImpact": 0.14,
+              "shotsPerMatch": 0.96,
+              "xgApprox": 0.18,
+              "ppImpact": 0.13,
               "recentMatchDetails": [
                 {
-                  "date": "12/12/2025 02:00:00",
-                  "goals": 0,
+                  "date": "20/12/2025 18:30:00",
+                  "goals": 1,
                   "assists": 0,
-                  "shots": 2,
-                  "pp": 0
-                },
-                {
-                  "date": "10/12/2025 02:00:00",
-                  "goals": 0,
-                  "assists": 2,
                   "shots": 2,
                   "pp": 1
                 },
                 {
-                  "date": "08/12/2025 01:00:00",
+                  "date": "19/12/2025 01:30:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
                   "goals": 1,
                   "assists": 0,
                   "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "07/12/2025 01:00:00",
-                  "goals": 0,
+                  "date": "14/12/2025 23:00:00",
+                  "goals": 1,
                   "assists": 1,
-                  "shots": 0,
+                  "shots": 2,
                   "pp": 0
                 },
                 {
-                  "date": "05/12/2025 01:00:00",
+                  "date": "14/12/2025 01:00:00",
                   "goals": 1,
+                  "assists": 1,
+                  "shots": 1,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 4 buts, 3 passes sur 5 matchs",
+                "Volume: 0.96 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.13",
+                "xG approximé (pondéré): 0.18",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Travis Konecny",
+              "prob": "29.4%",
+              "recentMatches": 5,
+              "recentGoals": 2,
+              "recentAssists": 3,
+              "shotsPerMatch": 1.79,
+              "xgApprox": 0.2,
+              "ppImpact": 0,
+              "recentMatchDetails": [
+                {
+                  "date": "20/12/2025 18:30:00",
+                  "goals": 0,
                   "assists": 0,
                   "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "19/12/2025 01:30:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 4,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 23:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 2,
                   "pp": 0
                 }
               ],
@@ -228,11 +551,68 @@
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
                 "Forme offensive (recent): 2 buts, 3 passes sur 5 matchs",
-                "Volume: 1.11 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.14",
-                "xG approximé (pondéré): 0.14",
-                "Matchup: adversaire concède ~1.80 buts/match récents",
+                "Volume: 1.79 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.00",
+                "xG approximé (pondéré): 0.20",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
                 "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Carl Grundstrom",
+              "prob": "24.5%",
+              "recentMatches": 5,
+              "recentGoals": 2,
+              "recentAssists": 0,
+              "shotsPerMatch": 1.18,
+              "xgApprox": 0.16,
+              "ppImpact": 0,
+              "recentMatchDetails": [
+                {
+                  "date": "20/12/2025 18:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "19/12/2025 01:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 23:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 2 buts, 0 passes sur 5 matchs",
+                "Volume: 1.18 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.00",
+                "xG approximé (pondéré): 0.16",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "→ Conclusion: candidat moyen"
               ]
             }
           ]
@@ -240,209 +620,207 @@
         "away": {
           "topScorers": [
             {
-              "name": "Connor Bedard",
-              "prob": "56.5%",
+              "name": "Kiefer Sherwood",
+              "prob": "21.9%",
               "recentMatches": 5,
-              "recentGoals": 3,
-              "recentAssists": 2,
-              "shotsPerMatch": 2.1,
-              "xgApprox": 0.25,
-              "ppImpact": 0.27,
-              "recentMatchDetails": [
-                {
-                  "date": "11/12/2025 01:30:00",
-                  "goals": 1,
-                  "assists": 1,
-                  "shots": 3,
-                  "pp": 0
-                },
-                {
-                  "date": "08/12/2025 02:00:00",
-                  "goals": 0,
-                  "assists": 1,
-                  "shots": 1,
-                  "pp": 1
-                },
-                {
-                  "date": "07/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 2,
-                  "pp": 0
-                },
-                {
-                  "date": "05/12/2025 04:00:00",
-                  "goals": 1,
-                  "assists": 0,
-                  "shots": 4,
-                  "pp": 1
-                },
-                {
-                  "date": "03/12/2025 04:00:00",
-                  "goals": 1,
-                  "assists": 0,
-                  "shots": 6,
-                  "pp": 0
-                }
-              ],
-              "explanations": [
-                "Fenêtre utilisée: recent=5, mid=10, total=15",
-                "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 3 buts, 2 passes sur 5 matchs",
-                "Volume: 2.10 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.27",
-                "xG approximé (pondéré): 0.25",
-                "Matchup: adversaire concède ~2.40 buts/match récents",
-                "→ Conclusion: fort candidat"
-              ]
-            },
-            {
-              "name": "Tyler Bertuzzi",
-              "prob": "50.4%",
-              "recentMatches": 5,
-              "recentGoals": 3,
-              "recentAssists": 2,
-              "shotsPerMatch": 1.58,
-              "xgApprox": 0.21,
-              "ppImpact": 0.27,
-              "recentMatchDetails": [
-                {
-                  "date": "11/12/2025 01:30:00",
-                  "goals": 1,
-                  "assists": 0,
-                  "shots": 2,
-                  "pp": 0
-                },
-                {
-                  "date": "08/12/2025 02:00:00",
-                  "goals": 1,
-                  "assists": 0,
-                  "shots": 3,
-                  "pp": 1
-                },
-                {
-                  "date": "07/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 2,
-                  "pp": 0
-                },
-                {
-                  "date": "05/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 1,
-                  "shots": 4,
-                  "pp": 1
-                },
-                {
-                  "date": "03/12/2025 04:00:00",
-                  "goals": 1,
-                  "assists": 1,
-                  "shots": 1,
-                  "pp": 0
-                }
-              ],
-              "explanations": [
-                "Fenêtre utilisée: recent=5, mid=10, total=15",
-                "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 3 buts, 2 passes sur 5 matchs",
-                "Volume: 1.58 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.27",
-                "xG approximé (pondéré): 0.21",
-                "Matchup: adversaire concède ~2.40 buts/match récents",
-                "→ Conclusion: fort candidat"
-              ]
-            },
-            {
-              "name": "Louis Crevier",
-              "prob": "30.4%",
-              "recentMatches": 5,
-              "recentGoals": 1,
+              "recentGoals": 4,
               "recentAssists": 0,
-              "shotsPerMatch": 2.06,
+              "shotsPerMatch": 1.78,
+              "xgApprox": 0.25,
+              "ppImpact": 0.26,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "20/12/2025 01:00:00",
+                  "goals": 3,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 1
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 18:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 1
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 4 buts, 0 passes sur 5 matchs",
+                "Volume: 1.78 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.26",
+                "xG approximé (pondéré): 0.25",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "→ Conclusion: candidat moyen"
+              ]
+            },
+            {
+              "name": "Liam Ohgren",
+              "prob": "15.6%",
+              "recentMatches": 4,
+              "recentGoals": 2,
+              "recentAssists": 1,
+              "shotsPerMatch": 1.25,
               "xgApprox": 0.18,
               "ppImpact": 0,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 01:30:00",
+                  "date": "21/12/2025 01:00:00",
                   "goals": 1,
-                  "assists": 0,
+                  "assists": 1,
                   "shots": 3,
                   "pp": 0
                 },
                 {
-                  "date": "08/12/2025 02:00:00",
+                  "date": "20/12/2025 01:00:00",
                   "goals": 0,
                   "assists": 0,
-                  "shots": 3,
+                  "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "07/12/2025 03:00:00",
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 18:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 4/5 récents (80%)",
+                "Forme offensive (recent): 2 buts, 1 passes sur 4 matchs",
+                "Volume: 1.25 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.00",
+                "xG approximé (pondéré): 0.18",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "→ Conclusion: candidat moyen"
+              ]
+            },
+            {
+              "name": "Linus Karlsson",
+              "prob": "12%",
+              "recentMatches": 5,
+              "recentGoals": 2,
+              "recentAssists": 2,
+              "shotsPerMatch": 1.12,
+              "xgApprox": 0.14,
+              "ppImpact": 0.13,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 01:00:00",
+                  "goals": 2,
+                  "assists": 1,
+                  "shots": 3,
+                  "pp": 1
+                },
+                {
+                  "date": "20/12/2025 01:00:00",
                   "goals": 0,
                   "assists": 0,
                   "shots": 4,
                   "pp": 0
                 },
                 {
-                  "date": "05/12/2025 04:00:00",
+                  "date": "17/12/2025 01:00:00",
                   "goals": 0,
-                  "assists": 0,
-                  "shots": 3,
+                  "assists": 1,
+                  "shots": 0,
                   "pp": 0
                 },
                 {
-                  "date": "03/12/2025 04:00:00",
+                  "date": "14/12/2025 18:30:00",
                   "goals": 0,
                   "assists": 0,
-                  "shots": 2,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
                   "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 1 buts, 0 passes sur 5 matchs",
-                "Volume: 2.06 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.00",
-                "xG approximé (pondéré): 0.18",
-                "Matchup: adversaire concède ~2.40 buts/match récents",
-                "→ Conclusion: fort candidat"
+                "Forme offensive (recent): 2 buts, 2 passes sur 5 matchs",
+                "Volume: 1.12 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.13",
+                "xG approximé (pondéré): 0.14",
+                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "→ Conclusion: candidat moyen"
               ]
             }
           ]
         },
         "matchLevel": {
-          "estimatedTotalXG": 3.94,
+          "estimatedTotalXG": 3.6,
           "likelyOpen": true,
-          "leagueAvgGoalsRecent": 3.04
+          "leagueAvgGoalsRecent": 2.99
         }
       }
     },
     {
-      "matchId": 14201025,
-      "date": "13/12/2025 03:00",
-      "homeTeam": "Utah Mammoth",
+      "matchId": 14201036,
+      "date": "23/12/2025 04:00",
+      "homeTeam": "Anaheim Ducks",
       "awayTeam": "Seattle Kraken",
       "lastMatchesDates": {
         "home": [
-          "11/12/2025 03:00:00",
-          "09/12/2025 03:00:00",
-          "07/12/2025 01:00:00",
-          "06/12/2025 03:00:00",
+          "21/12/2025 04:00:00",
+          "20/12/2025 04:00:00",
+          "17/12/2025 01:00:00",
+          "16/12/2025 01:00:00",
+          "13/12/2025 18:30:00",
+          "12/12/2025 01:00:00",
+          "10/12/2025 01:00:00",
+          "08/12/2025 02:00:00",
+          "06/12/2025 04:00:00",
           "04/12/2025 04:00:00",
-          "02/12/2025 04:00:00",
-          "30/11/2025 02:00:00",
-          "29/11/2025 02:00:00",
-          "27/11/2025 03:30:00",
-          "25/11/2025 03:00:00",
-          "23/11/2025 03:00:00",
-          "21/11/2025 03:00:00",
-          "19/11/2025 04:00:00",
-          "18/11/2025 04:00:00",
-          "15/11/2025 03:00:00"
+          "02/12/2025 02:00:00",
+          "30/11/2025 21:30:00",
+          "28/11/2025 22:00:00",
+          "27/11/2025 04:00:00",
+          "23/11/2025 04:00:00"
         ],
         "away": [
+          "21/12/2025 04:00:00",
+          "19/12/2025 03:00:00",
+          "17/12/2025 04:00:00",
+          "15/12/2025 02:00:00",
+          "13/12/2025 03:00:00",
           "11/12/2025 04:00:00",
           "09/12/2025 04:00:00",
           "07/12/2025 04:00:00",
@@ -452,195 +830,190 @@
           "23/11/2025 23:00:00",
           "23/11/2025 01:00:00",
           "21/11/2025 02:00:00",
-          "19/11/2025 01:00:00",
-          "16/11/2025 04:00:00",
-          "14/11/2025 04:00:00",
-          "12/11/2025 04:00:00",
-          "10/11/2025 01:00:00",
-          "09/11/2025 01:00:00"
+          "19/11/2025 01:00:00"
         ]
       },
       "summary": [
-        "Utah Mammoth vs Seattle Kraken (13/12)",
-        "Forme Utah Mammoth: 2.20gf/mt et 3.20ga/mt",
-        "Forme Seattle Kraken: 4.60gf/mt et 2.20ga/mt",
-        "xG estimée (home): 1.95, (away): 2.13",
+        "Anaheim Ducks vs Seattle Kraken (23/12)",
+        "Forme Anaheim Ducks: 4.00gf/mt et 3.00ga/mt",
+        "Forme Seattle Kraken: 3.80gf/mt et 2.60ga/mt",
+        "xG estimée (home): 2.05, (away): 2.28",
         "Match susceptible d'être ouvert (plus de buts attendus)",
-        "Utah Mammoth joueurs à surveiller: Dylan Guenther (26.2%), JJ Peterka (16.9%), Clayton Keller (16.7%)",
-        "Seattle Kraken joueurs à surveiller: Brandon Montour (45.8%), Jared McCann (40.5%), Jani Nyman (36.1%)"
+        "Anaheim Ducks joueurs à surveiller: Mikael Granlund (38%), Cutter Gauthier (32.6%), Jackson LaCombe (31.7%)",
+        "Seattle Kraken joueurs à surveiller: Chandler Stephenson (54.1%), Mason Marchment (39.5%), Jordan Eberle (29%)"
       ],
       "predictions": {
         "home": {
           "topScorers": [
             {
-              "name": "Dylan Guenther",
-              "prob": "26.2%",
+              "name": "Mikael Granlund",
+              "prob": "38%",
               "recentMatches": 5,
-              "recentGoals": 4,
+              "recentGoals": 3,
               "recentAssists": 2,
-              "shotsPerMatch": 1.66,
-              "xgApprox": 0.23,
-              "ppImpact": 0.38,
+              "shotsPerMatch": 1.5,
+              "xgApprox": 0.2,
+              "ppImpact": 0,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 03:00:00",
-                  "goals": 2,
+                  "date": "21/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 0
+                },
+                {
+                  "date": "20/12/2025 04:00:00",
+                  "goals": 1,
                   "assists": 0,
                   "shots": 3,
                   "pp": 0
                 },
                 {
-                  "date": "09/12/2025 03:00:00",
+                  "date": "17/12/2025 01:00:00",
                   "goals": 1,
+                  "assists": 1,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "16/12/2025 01:00:00",
+                  "goals": 0,
                   "assists": 0,
                   "shots": 1,
-                  "pp": 1
-                },
-                {
-                  "date": "07/12/2025 01:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 3,
                   "pp": 0
                 },
                 {
-                  "date": "06/12/2025 03:00:00",
+                  "date": "13/12/2025 18:30:00",
                   "goals": 0,
-                  "assists": 1,
+                  "assists": 0,
                   "shots": 0,
-                  "pp": 1
-                },
-                {
-                  "date": "04/12/2025 04:00:00",
-                  "goals": 1,
-                  "assists": 1,
-                  "shots": 5,
-                  "pp": 1
+                  "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 4 buts, 2 passes sur 5 matchs",
-                "Volume: 1.66 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.38",
-                "xG approximé (pondéré): 0.23",
-                "Matchup: adversaire concède ~2.20 buts/match récents",
+                "Forme offensive (recent): 3 buts, 2 passes sur 5 matchs",
+                "Volume: 1.50 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.00",
+                "xG approximé (pondéré): 0.20",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
                 "→ Conclusion: fort candidat"
               ]
             },
             {
-              "name": "JJ Peterka",
-              "prob": "16.9%",
+              "name": "Cutter Gauthier",
+              "prob": "32.6%",
               "recentMatches": 5,
               "recentGoals": 2,
-              "recentAssists": 4,
-              "shotsPerMatch": 1.36,
-              "xgApprox": 0.16,
-              "ppImpact": 0.13,
+              "recentAssists": 0,
+              "shotsPerMatch": 1.99,
+              "xgApprox": 0.21,
+              "ppImpact": 0.14,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 1,
-                  "pp": 0
-                },
-                {
-                  "date": "09/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 1,
-                  "shots": 0,
-                  "pp": 0
-                },
-                {
-                  "date": "07/12/2025 01:00:00",
+                  "date": "21/12/2025 04:00:00",
                   "goals": 0,
                   "assists": 0,
                   "shots": 2,
                   "pp": 0
                 },
                 {
-                  "date": "06/12/2025 03:00:00",
+                  "date": "20/12/2025 04:00:00",
                   "goals": 0,
-                  "assists": 1,
+                  "assists": 0,
+                  "shots": 4,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
                   "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "04/12/2025 04:00:00",
+                  "date": "16/12/2025 01:00:00",
                   "goals": 2,
-                  "assists": 2,
-                  "shots": 6,
+                  "assists": 0,
+                  "shots": 5,
                   "pp": 1
+                },
+                {
+                  "date": "13/12/2025 18:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 2 buts, 4 passes sur 5 matchs",
-                "Volume: 1.36 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.13",
-                "xG approximé (pondéré): 0.16",
-                "Matchup: adversaire concède ~2.20 buts/match récents",
-                "→ Conclusion: candidat moyen"
+                "Forme offensive (recent): 2 buts, 0 passes sur 5 matchs",
+                "Volume: 1.99 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.14",
+                "xG approximé (pondéré): 0.21",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
+                "→ Conclusion: fort candidat"
               ]
             },
             {
-              "name": "Clayton Keller",
-              "prob": "16.7%",
+              "name": "Jackson LaCombe",
+              "prob": "31.7%",
               "recentMatches": 5,
               "recentGoals": 2,
-              "recentAssists": 4,
-              "shotsPerMatch": 1.42,
-              "xgApprox": 0.16,
-              "ppImpact": 0.38,
+              "recentAssists": 1,
+              "shotsPerMatch": 1.72,
+              "xgApprox": 0.19,
+              "ppImpact": 0.01,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 1,
-                  "pp": 0
-                },
-                {
-                  "date": "09/12/2025 03:00:00",
-                  "goals": 1,
-                  "assists": 1,
-                  "shots": 3,
-                  "pp": 1
-                },
-                {
-                  "date": "07/12/2025 01:00:00",
+                  "date": "21/12/2025 04:00:00",
                   "goals": 0,
                   "assists": 0,
                   "shots": 2,
                   "pp": 0
                 },
                 {
-                  "date": "06/12/2025 03:00:00",
+                  "date": "20/12/2025 04:00:00",
                   "goals": 0,
                   "assists": 1,
-                  "shots": 1,
-                  "pp": 1
+                  "shots": 2,
+                  "pp": 0
                 },
                 {
-                  "date": "04/12/2025 04:00:00",
+                  "date": "17/12/2025 01:00:00",
                   "goals": 1,
-                  "assists": 2,
-                  "shots": 3,
-                  "pp": 1
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "16/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 5,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 18:30:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 2 buts, 4 passes sur 5 matchs",
-                "Volume: 1.42 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.38",
-                "xG approximé (pondéré): 0.16",
-                "Matchup: adversaire concède ~2.20 buts/match récents",
-                "→ Conclusion: candidat moyen"
+                "Forme offensive (recent): 2 buts, 1 passes sur 5 matchs",
+                "Volume: 1.72 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.01",
+                "xG approximé (pondéré): 0.19",
+                "Matchup: adversaire concède ~2.60 buts/match récents",
+                "→ Conclusion: fort candidat"
               ]
             }
           ]
@@ -648,47 +1021,380 @@
         "away": {
           "topScorers": [
             {
-              "name": "Brandon Montour",
-              "prob": "45.8%",
+              "name": "Chandler Stephenson",
+              "prob": "54.1%",
               "recentMatches": 5,
-              "recentGoals": 1,
-              "recentAssists": 1,
-              "shotsPerMatch": 2.59,
-              "xgApprox": 0.24,
-              "ppImpact": 0.01,
+              "recentGoals": 4,
+              "recentAssists": 2,
+              "shotsPerMatch": 1.98,
+              "xgApprox": 0.26,
+              "ppImpact": 0.28,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 5,
+                  "date": "21/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 3,
                   "pp": 0
                 },
                 {
-                  "date": "09/12/2025 04:00:00",
+                  "date": "19/12/2025 03:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 5,
+                  "pp": 1
+                },
+                {
+                  "date": "15/12/2025 02:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 1
+                },
+                {
+                  "date": "13/12/2025 03:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 4 buts, 2 passes sur 5 matchs",
+                "Volume: 1.98 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.28",
+                "xG approximé (pondéré): 0.26",
+                "Matchup: adversaire concède ~3.00 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Mason Marchment",
+              "prob": "39.5%",
+              "recentMatches": 3,
+              "recentGoals": 2,
+              "recentAssists": 0,
+              "shotsPerMatch": 1.93,
+              "xgApprox": 0.22,
+              "ppImpact": 0.01,
+              "recentMatchDetails": [
+                {
+                  "date": "19/12/2025 03:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "13/12/2025 03:00:00",
+                  "goals": 2,
+                  "assists": 0,
+                  "shots": 6,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 3/5 récents (60%)",
+                "Forme offensive (recent): 2 buts, 0 passes sur 3 matchs",
+                "Volume: 1.93 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.01",
+                "xG approximé (pondéré): 0.22",
+                "Matchup: adversaire concède ~3.00 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Jordan Eberle",
+              "prob": "29%",
+              "recentMatches": 5,
+              "recentGoals": 1,
+              "recentAssists": 1,
+              "shotsPerMatch": 1.82,
+              "xgApprox": 0.18,
+              "ppImpact": 0.25,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "19/12/2025 03:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 7,
+                  "pp": 0
+                },
+                {
+                  "date": "15/12/2025 02:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 2,
+                  "pp": 1
+                },
+                {
+                  "date": "13/12/2025 03:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 1 buts, 1 passes sur 5 matchs",
+                "Volume: 1.82 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.25",
+                "xG approximé (pondéré): 0.18",
+                "Matchup: adversaire concède ~3.00 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            }
+          ]
+        },
+        "matchLevel": {
+          "estimatedTotalXG": 4.33,
+          "likelyOpen": true,
+          "leagueAvgGoalsRecent": 2.99
+        }
+      }
+    },
+    {
+      "matchId": 14201037,
+      "date": "23/12/2025 04:00",
+      "homeTeam": "Los Angeles Kings",
+      "awayTeam": "Columbus Blue Jackets",
+      "lastMatchesDates": {
+        "home": [
+          "19/12/2025 01:00:00",
+          "18/12/2025 01:00:00",
+          "16/12/2025 02:00:00",
+          "14/12/2025 04:00:00",
+          "11/12/2025 04:00:00",
+          "09/12/2025 03:00:00",
+          "07/12/2025 03:00:00",
+          "05/12/2025 04:00:00",
+          "03/12/2025 04:30:00",
+          "30/11/2025 04:00:00",
+          "28/11/2025 22:00:00",
+          "25/11/2025 03:00:00",
+          "22/11/2025 04:30:00",
+          "21/11/2025 04:00:00",
+          "18/11/2025 01:00:00"
+        ],
+        "away": [
+          "21/12/2025 04:00:00",
+          "19/12/2025 01:00:00",
+          "17/12/2025 01:00:00",
+          "14/12/2025 01:00:00",
+          "12/12/2025 01:00:00",
+          "10/12/2025 01:30:00",
+          "08/12/2025 01:00:00",
+          "06/12/2025 21:30:00",
+          "05/12/2025 01:30:00",
+          "02/12/2025 01:00:00",
+          "29/11/2025 01:00:00",
+          "27/11/2025 01:00:00",
+          "25/11/2025 01:00:00",
+          "22/11/2025 19:00:00",
+          "21/11/2025 01:00:00"
+        ]
+      },
+      "summary": [
+        "Los Angeles Kings vs Columbus Blue Jackets (23/12)",
+        "Forme Los Angeles Kings: 2.60gf/mt et 1.60ga/mt",
+        "Forme Columbus Blue Jackets: 4.20gf/mt et 2.80ga/mt",
+        "xG estimée (home): 1.86, (away): 2.07",
+        "Match susceptible d'être ouvert (plus de buts attendus)",
+        "Los Angeles Kings joueurs à surveiller: Adrian Kempe (43.3%), Kevin Fiala (32.1%), Joel Armia (30.2%)",
+        "Columbus Blue Jackets joueurs à surveiller: Zach Werenski (67.1%), Boone Jenner (39.5%), Dmitri Voronkov (36.5%)"
+      ],
+      "predictions": {
+        "home": {
+          "topScorers": [
+            {
+              "name": "Adrian Kempe",
+              "prob": "43.3%",
+              "recentMatches": 5,
+              "recentGoals": 3,
+              "recentAssists": 1,
+              "shotsPerMatch": 1.63,
+              "xgApprox": 0.22,
+              "ppImpact": 0.13,
+              "recentMatchDetails": [
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 2,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "18/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "16/12/2025 02:00:00",
                   "goals": 0,
                   "assists": 0,
                   "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "07/12/2025 04:00:00",
+                  "date": "14/12/2025 04:00:00",
                   "goals": 1,
                   "assists": 0,
-                  "shots": 4,
-                  "pp": 0
-                },
-                {
-                  "date": "05/12/2025 03:00:00",
-                  "goals": 0,
-                  "assists": 1,
                   "shots": 3,
                   "pp": 0
                 },
                 {
-                  "date": "29/11/2025 22:00:00",
+                  "date": "11/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 1
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 3 buts, 1 passes sur 5 matchs",
+                "Volume: 1.63 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.13",
+                "xG approximé (pondéré): 0.22",
+                "Matchup: adversaire concède ~2.80 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Kevin Fiala",
+              "prob": "32.1%",
+              "recentMatches": 5,
+              "recentGoals": 2,
+              "recentAssists": 0,
+              "shotsPerMatch": 1.75,
+              "xgApprox": 0.19,
+              "ppImpact": 0.14,
+              "recentMatchDetails": [
+                {
+                  "date": "19/12/2025 01:00:00",
                   "goals": 0,
                   "assists": 0,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "18/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "16/12/2025 02:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "11/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 1
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 2 buts, 0 passes sur 5 matchs",
+                "Volume: 1.75 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.14",
+                "xG approximé (pondéré): 0.19",
+                "Matchup: adversaire concède ~2.80 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            },
+            {
+              "name": "Joel Armia",
+              "prob": "30.2%",
+              "recentMatches": 5,
+              "recentGoals": 1,
+              "recentAssists": 1,
+              "shotsPerMatch": 1.31,
+              "xgApprox": 0.16,
+              "ppImpact": 0.13,
+              "recentMatchDetails": [
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "18/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 2,
+                  "pp": 1
+                },
+                {
+                  "date": "16/12/2025 02:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "11/12/2025 04:00:00",
+                  "goals": 0,
+                  "assists": 1,
                   "shots": 4,
                   "pp": 0
                 }
@@ -697,119 +1403,194 @@
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
                 "Forme offensive (recent): 1 buts, 1 passes sur 5 matchs",
-                "Volume: 2.59 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.01",
-                "xG approximé (pondéré): 0.24",
-                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "Volume: 1.31 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.13",
+                "xG approximé (pondéré): 0.16",
+                "Matchup: adversaire concède ~2.80 buts/match récents",
+                "→ Conclusion: fort candidat"
+              ]
+            }
+          ]
+        },
+        "away": {
+          "topScorers": [
+            {
+              "name": "Zach Werenski",
+              "prob": "67.1%",
+              "recentMatches": 5,
+              "recentGoals": 5,
+              "recentAssists": 5,
+              "shotsPerMatch": 2.36,
+              "xgApprox": 0.32,
+              "ppImpact": 0.21,
+              "recentMatchDetails": [
+                {
+                  "date": "21/12/2025 04:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 1
+                },
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 2,
+                  "assists": 0,
+                  "shots": 8,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 2,
+                  "assists": 1,
+                  "shots": 4,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 1,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 2,
+                  "shots": 2,
+                  "pp": 1
+                }
+              ],
+              "explanations": [
+                "Fenêtre utilisée: recent=5, mid=10, total=15",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 5 buts, 5 passes sur 5 matchs",
+                "Volume: 2.36 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.21",
+                "xG approximé (pondéré): 0.32",
+                "Matchup: adversaire concède ~1.60 buts/match récents",
                 "→ Conclusion: fort candidat"
               ]
             },
             {
-              "name": "Jared McCann",
-              "prob": "40.5%",
+              "name": "Boone Jenner",
+              "prob": "39.5%",
               "recentMatches": 5,
               "recentGoals": 2,
-              "recentAssists": 1,
-              "shotsPerMatch": 1.6,
-              "xgApprox": 0.18,
-              "ppImpact": 0.27,
+              "recentAssists": 2,
+              "shotsPerMatch": 1.97,
+              "xgApprox": 0.21,
+              "ppImpact": 0,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 04:00:00",
-                  "goals": 1,
+                  "date": "21/12/2025 04:00:00",
+                  "goals": 0,
                   "assists": 0,
                   "shots": 3,
-                  "pp": 1
-                },
-                {
-                  "date": "09/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 1,
-                  "shots": 2,
-                  "pp": 1
-                },
-                {
-                  "date": "07/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 1,
                   "pp": 0
                 },
                 {
-                  "date": "05/12/2025 03:00:00",
-                  "goals": 1,
-                  "assists": 0,
-                  "shots": 1,
-                  "pp": 0
-                },
-                {
-                  "date": "29/11/2025 22:00:00",
+                  "date": "19/12/2025 01:00:00",
                   "goals": 0,
                   "assists": 0,
                   "shots": 4,
+                  "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 2,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 1,
+                  "shots": 2,
                   "pp": 0
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
                 "Présence/absence: 5/5 récents (100%)",
-                "Forme offensive (recent): 2 buts, 1 passes sur 5 matchs",
-                "Volume: 1.60 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.27",
-                "xG approximé (pondéré): 0.18",
-                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "Forme offensive (recent): 2 buts, 2 passes sur 5 matchs",
+                "Volume: 1.97 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.00",
+                "xG approximé (pondéré): 0.21",
+                "Matchup: adversaire concède ~1.60 buts/match récents",
                 "→ Conclusion: fort candidat"
               ]
             },
             {
-              "name": "Jani Nyman",
-              "prob": "36.1%",
-              "recentMatches": 3,
-              "recentGoals": 1,
+              "name": "Dmitri Voronkov",
+              "prob": "36.5%",
+              "recentMatches": 5,
+              "recentGoals": 2,
               "recentAssists": 0,
-              "shotsPerMatch": 1.87,
+              "shotsPerMatch": 1.5,
               "xgApprox": 0.19,
-              "ppImpact": 0,
+              "ppImpact": 0.32,
               "recentMatchDetails": [
                 {
-                  "date": "11/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 3,
-                  "pp": 0
-                },
-                {
-                  "date": "09/12/2025 04:00:00",
-                  "goals": 0,
-                  "assists": 0,
-                  "shots": 2,
-                  "pp": 0
-                },
-                {
-                  "date": "05/12/2025 03:00:00",
+                  "date": "21/12/2025 04:00:00",
                   "goals": 1,
+                  "assists": 0,
+                  "shots": 4,
+                  "pp": 1
+                },
+                {
+                  "date": "19/12/2025 01:00:00",
+                  "goals": 0,
                   "assists": 0,
                   "shots": 1,
                   "pp": 0
+                },
+                {
+                  "date": "17/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 1,
+                  "pp": 0
+                },
+                {
+                  "date": "14/12/2025 01:00:00",
+                  "goals": 0,
+                  "assists": 0,
+                  "shots": 0,
+                  "pp": 0
+                },
+                {
+                  "date": "12/12/2025 01:00:00",
+                  "goals": 1,
+                  "assists": 0,
+                  "shots": 3,
+                  "pp": 1
                 }
               ],
               "explanations": [
                 "Fenêtre utilisée: recent=5, mid=10, total=15",
-                "Présence/absence: 3/5 récents (60%)",
-                "Forme offensive (recent): 1 buts, 0 passes sur 3 matchs",
-                "Volume: 1.87 tirs/match (pondéré)",
-                "PP impact (pondéré): 0.00",
+                "Présence/absence: 5/5 récents (100%)",
+                "Forme offensive (recent): 2 buts, 0 passes sur 5 matchs",
+                "Volume: 1.50 tirs/match (pondéré)",
+                "PP impact (pondéré): 0.32",
                 "xG approximé (pondéré): 0.19",
-                "Matchup: adversaire concède ~3.20 buts/match récents",
+                "Matchup: adversaire concède ~1.60 buts/match récents",
                 "→ Conclusion: fort candidat"
               ]
             }
           ]
         },
         "matchLevel": {
-          "estimatedTotalXG": 4.08,
+          "estimatedTotalXG": 3.93,
           "likelyOpen": true,
-          "leagueAvgGoalsRecent": 3.04
+          "leagueAvgGoalsRecent": 2.99
         }
       }
     }
