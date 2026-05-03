@@ -66201,6 +66201,936 @@
         }
       ],
       "penalties": []
+    },
+    {
+      "matchId": 15270004,
+      "date": "26/04/2026 22:30:00",
+      "opponent": "Gimnasia y Esgrima",
+      "homeAway": "Home",
+      "result": "LOOSE",
+      "result2": "LOOSE",
+      "teamScore": 0,
+      "oppScore": 1,
+      "teamScoreFinal": 0,
+      "oppScoreFinal": 1,
+      "league": "Liga Profesional de Fútbol, Apertura",
+      "season": "Primera LPF 2026",
+      "players": [
+        {
+          "name": "Thiago Cardozo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 27,
+            "accuratePass": 11,
+            "totalLongBalls": 22,
+            "accurateLongBalls": 6,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 6,
+            "totalOwnHalfPasses": 9,
+            "accurateOppositionHalfPasses": 5,
+            "totalOppositionHalfPasses": 18,
+            "duelWon": 1,
+            "totalClearance": 2,
+            "ballRecovery": 15,
+            "goodHighClaim": 1,
+            "saves": 1,
+            "punches": 2,
+            "minutesPlayed": 90,
+            "touches": 44,
+            "rating": 6.3,
+            "possessionLostCtrl": 16,
+            "totalBallCarriesDistance": 29.919364224226,
+            "ballCarriesCount": 6,
+            "totalProgression": 6.0230556307088,
+            "progressiveBallCarriesCount": 0,
+            "keeperSaveValue": 0.0101,
+            "ratingVersions": {
+              "original": 6.3,
+              "alternative": 6.8
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.04,
+            "dribbleValueNormalized": 0,
+            "defensiveValueNormalized": 0.16,
+            "goalkeeperValueNormalized": -0.56,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Alcides Benitez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 25,
+            "accuratePass": 14,
+            "totalLongBalls": 5,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 7,
+            "totalOwnHalfPasses": 12,
+            "accurateOppositionHalfPasses": 7,
+            "totalOppositionHalfPasses": 13,
+            "totalCross": 3,
+            "duelLost": 2,
+            "duelWon": 5,
+            "challengeLost": 1,
+            "dispossessed": 1,
+            "shotOffTarget": 1,
+            "totalClearance": 4,
+            "interceptionWon": 4,
+            "ballRecovery": 6,
+            "totalTackle": 4,
+            "wonTackle": 4,
+            "wasFouled": 1,
+            "minutesPlayed": 69,
+            "touches": 49,
+            "rating": 6.4,
+            "possessionLostCtrl": 15,
+            "totalBallCarriesDistance": 94.875743187424,
+            "ballCarriesCount": 11,
+            "totalProgression": 31.222579179077,
+            "bestBallCarryProgression": 17.294235072294,
+            "totalProgressiveBallCarriesDistance": 17.728594304118,
+            "progressiveBallCarriesCount": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 7
+            },
+            "totalShots": 1,
+            "shotValueNormalized": -0.07,
+            "passValueNormalized": -0.11,
+            "dribbleValueNormalized": 0.02,
+            "defensiveValueNormalized": -0.19,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Alexis Maldonado",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 15,
+            "accuratePass": 9,
+            "totalLongBalls": 3,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 6,
+            "totalOwnHalfPasses": 9,
+            "accurateOppositionHalfPasses": 3,
+            "totalOppositionHalfPasses": 6,
+            "aerialLost": 2,
+            "aerialWon": 2,
+            "duelLost": 4,
+            "duelWon": 5,
+            "totalClearance": 4,
+            "interceptionWon": 3,
+            "totalTackle": 3,
+            "wonTackle": 3,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 28,
+            "rating": 6.5,
+            "possessionLostCtrl": 7,
+            "ratingVersions": {
+              "original": 6.5,
+              "alternative": 7
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.01,
+            "defensiveValueNormalized": -0.08,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Lisandro Lopez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 37,
+            "accuratePass": 36,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 29,
+            "totalOwnHalfPasses": 30,
+            "accurateOppositionHalfPasses": 7,
+            "totalOppositionHalfPasses": 7,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 2,
+            "duelWon": 3,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 8,
+            "outfielderBlock": 2,
+            "interceptionWon": 4,
+            "ballRecovery": 7,
+            "unsuccessfulTouch": 1,
+            "wasFouled": 1,
+            "fouls": 1,
+            "minutesPlayed": 90,
+            "touches": 57,
+            "rating": 7.6,
+            "possessionLostCtrl": 2,
+            "totalBallCarriesDistance": 159.53377827695,
+            "ballCarriesCount": 18,
+            "totalProgression": 77.117926980639,
+            "bestBallCarryProgression": 16.00661339168,
+            "totalProgressiveBallCarriesDistance": 23.754777224803,
+            "progressiveBallCarriesCount": 1,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.6,
+              "alternative": 7.6
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.23,
+            "dribbleValueNormalized": 0.11,
+            "defensiveValueNormalized": 0.67,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Federico Ricca",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 9,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 5,
+            "totalOwnHalfPasses": 7,
+            "accurateOppositionHalfPasses": 4,
+            "totalOppositionHalfPasses": 4,
+            "aerialWon": 2,
+            "duelLost": 1,
+            "duelWon": 3,
+            "totalClearance": 1,
+            "interceptionWon": 1,
+            "ballRecovery": 2,
+            "totalTackle": 1,
+            "fouls": 1,
+            "minutesPlayed": 25,
+            "touches": 19,
+            "rating": 5,
+            "possessionLostCtrl": 2,
+            "totalBallCarriesDistance": 66.238031316719,
+            "ballCarriesCount": 7,
+            "totalProgression": -8.6102021780189,
+            "progressiveBallCarriesCount": 0,
+            "ratingVersions": {
+              "original": 5,
+              "alternative": 4.7
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.03,
+            "dribbleValueNormalized": 0,
+            "defensiveValueNormalized": 0.18,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Adrian Sporle",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 10,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 3,
+            "totalOwnHalfPasses": 6,
+            "accurateOppositionHalfPasses": 7,
+            "totalOppositionHalfPasses": 10,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 1,
+            "duelWon": 4,
+            "challengeLost": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "totalClearance": 2,
+            "ballRecovery": 1,
+            "totalTackle": 2,
+            "wonTackle": 1,
+            "unsuccessfulTouch": 1,
+            "minutesPlayed": 45,
+            "touches": 26,
+            "rating": 6.7,
+            "possessionLostCtrl": 8,
+            "totalBallCarriesDistance": 52.009762469249,
+            "ballCarriesCount": 7,
+            "totalProgression": 9.5469575468049,
+            "bestBallCarryProgression": 18.003398428916,
+            "totalProgressiveBallCarriesDistance": 18.007076386799,
+            "progressiveBallCarriesCount": 1,
+            "ratingVersions": {
+              "original": 6.7,
+              "alternative": 6.8
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.05,
+            "dribbleValueNormalized": 0,
+            "defensiveValueNormalized": -0.11,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Ramiro Hernandes",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 41,
+            "accuratePass": 34,
+            "totalLongBalls": 3,
+            "accurateLongBalls": 2,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 14,
+            "totalOwnHalfPasses": 16,
+            "accurateOppositionHalfPasses": 20,
+            "totalOppositionHalfPasses": 25,
+            "totalCross": 2,
+            "accurateCross": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 7,
+            "challengeLost": 1,
+            "totalContest": 6,
+            "wonContest": 4,
+            "blockedScoringAttempt": 1,
+            "ballRecovery": 5,
+            "totalTackle": 1,
+            "wasFouled": 1,
+            "fouls": 3,
+            "minutesPlayed": 69,
+            "touches": 52,
+            "rating": 7.3,
+            "possessionLostCtrl": 10,
+            "totalBallCarriesDistance": 167.84720256915,
+            "ballCarriesCount": 19,
+            "totalProgression": 66.310215459186,
+            "bestBallCarryProgression": 19.379095439102,
+            "totalProgressiveBallCarriesDistance": 20.539937901561,
+            "progressiveBallCarriesCount": 1,
+            "keyPass": 2,
+            "ratingVersions": {
+              "original": 7.3,
+              "alternative": 6.8
+            },
+            "totalShots": 1,
+            "shotValueNormalized": -0.09,
+            "passValueNormalized": 0.51,
+            "dribbleValueNormalized": 0.21,
+            "defensiveValueNormalized": -0.09,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Adrian Sanchez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 51,
+            "accuratePass": 41,
+            "totalLongBalls": 9,
+            "accurateLongBalls": 5,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 13,
+            "totalOwnHalfPasses": 17,
+            "accurateOppositionHalfPasses": 28,
+            "totalOppositionHalfPasses": 34,
+            "duelLost": 3,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalClearance": 1,
+            "interceptionWon": 4,
+            "ballRecovery": 6,
+            "totalTackle": 2,
+            "wonTackle": 2,
+            "unsuccessfulTouch": 1,
+            "wasFouled": 1,
+            "minutesPlayed": 90,
+            "touches": 63,
+            "rating": 6.9,
+            "possessionLostCtrl": 12,
+            "totalBallCarriesDistance": 124.43920022672,
+            "ballCarriesCount": 17,
+            "totalProgression": 23.099548086576,
+            "progressiveBallCarriesCount": 0,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.9,
+              "alternative": 7
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.26,
+            "dribbleValueNormalized": 0.08,
+            "defensiveValueNormalized": -0.08,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Franco Vazquez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 24,
+            "accuratePass": 17,
+            "totalLongBalls": 2,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 6,
+            "totalOwnHalfPasses": 9,
+            "accurateOppositionHalfPasses": 11,
+            "totalOppositionHalfPasses": 15,
+            "totalCross": 1,
+            "duelLost": 3,
+            "duelWon": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "totalClearance": 1,
+            "ballRecovery": 5,
+            "unsuccessfulTouch": 2,
+            "wasFouled": 2,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 32,
+            "rating": 6.4,
+            "possessionLostCtrl": 12,
+            "totalBallCarriesDistance": 88.657761825143,
+            "ballCarriesCount": 11,
+            "totalProgression": -10.112341025123,
+            "progressiveBallCarriesCount": 0,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 6.4,
+              "alternative": 6.4
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.03,
+            "dribbleValueNormalized": -0.04,
+            "defensiveValueNormalized": -0.06,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Lautaro Gutierrez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 23,
+            "accuratePass": 18,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 9,
+            "totalOwnHalfPasses": 9,
+            "accurateOppositionHalfPasses": 9,
+            "totalOppositionHalfPasses": 14,
+            "aerialLost": 1,
+            "aerialWon": 1,
+            "duelLost": 6,
+            "duelWon": 3,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "shotOffTarget": 1,
+            "ballRecovery": 3,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "unsuccessfulTouch": 3,
+            "fouls": 2,
+            "minutesPlayed": 78,
+            "touches": 33,
+            "rating": 6.1,
+            "possessionLostCtrl": 9,
+            "totalBallCarriesDistance": 81.025904599332,
+            "ballCarriesCount": 11,
+            "totalProgression": 25.395884164861,
+            "bestBallCarryProgression": 16.330448742523,
+            "totalProgressiveBallCarriesDistance": 25.496756076633,
+            "progressiveBallCarriesCount": 2,
+            "ratingVersions": {
+              "original": 6.1,
+              "alternative": 6.7
+            },
+            "totalShots": 1,
+            "shotValueNormalized": -0.53,
+            "passValueNormalized": -0.23,
+            "dribbleValueNormalized": 0.3,
+            "defensiveValueNormalized": -0.09,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Lucas Zelarayan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 36,
+            "accuratePass": 28,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 4,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 8,
+            "totalOwnHalfPasses": 8,
+            "accurateOppositionHalfPasses": 20,
+            "totalOppositionHalfPasses": 28,
+            "totalCross": 4,
+            "duelLost": 7,
+            "duelWon": 5,
+            "totalContest": 8,
+            "wonContest": 3,
+            "shotOffTarget": 3,
+            "totalClearance": 1,
+            "ballRecovery": 1,
+            "unsuccessfulTouch": 2,
+            "wasFouled": 2,
+            "fouls": 2,
+            "minutesPlayed": 90,
+            "touches": 59,
+            "rating": 6.8,
+            "possessionLostCtrl": 19,
+            "totalBallCarriesDistance": 227.70620701208,
+            "ballCarriesCount": 29,
+            "totalProgression": 36.814317898965,
+            "bestBallCarryProgression": 15.399280351157,
+            "totalProgressiveBallCarriesDistance": 36.799722180301,
+            "progressiveBallCarriesCount": 3,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 7
+            },
+            "totalShots": 3,
+            "shotValueNormalized": -0.31,
+            "passValueNormalized": 0.26,
+            "dribbleValueNormalized": 0.1,
+            "defensiveValueNormalized": 0.15,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Alvaro Ocampo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 16,
+            "accuratePass": 12,
+            "totalLongBalls": 5,
+            "accurateLongBalls": 3,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 4,
+            "totalOwnHalfPasses": 4,
+            "accurateOppositionHalfPasses": 8,
+            "totalOppositionHalfPasses": 12,
+            "totalCross": 1,
+            "duelLost": 1,
+            "duelWon": 2,
+            "totalContest": 1,
+            "wonContest": 1,
+            "ballRecovery": 1,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "unsuccessfulTouch": 1,
+            "fouls": 1,
+            "minutesPlayed": 45,
+            "touches": 22,
+            "rating": 7.1,
+            "possessionLostCtrl": 6,
+            "totalBallCarriesDistance": 86.298685925309,
+            "ballCarriesCount": 8,
+            "totalProgression": 36.440107804074,
+            "progressiveBallCarriesCount": 0,
+            "keyPass": 1,
+            "ratingVersions": {
+              "original": 7.1,
+              "alternative": 6.8
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.14,
+            "dribbleValueNormalized": 0.19,
+            "defensiveValueNormalized": 0.3,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Julian Mavilla",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 14,
+            "accuratePass": 10,
+            "totalLongBalls": 1,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 5,
+            "totalOwnHalfPasses": 5,
+            "accurateOppositionHalfPasses": 5,
+            "totalOppositionHalfPasses": 9,
+            "totalCross": 1,
+            "aerialWon": 1,
+            "duelLost": 3,
+            "duelWon": 4,
+            "challengeLost": 2,
+            "dispossessed": 1,
+            "totalContest": 1,
+            "wonContest": 1,
+            "ballRecovery": 2,
+            "totalTackle": 2,
+            "wonTackle": 1,
+            "unsuccessfulTouch": 3,
+            "minutesPlayed": 45,
+            "touches": 23,
+            "rating": 6.6,
+            "possessionLostCtrl": 9,
+            "totalBallCarriesDistance": 67.885544262589,
+            "ballCarriesCount": 8,
+            "totalProgression": 20.102826026975,
+            "bestBallCarryProgression": 16.871753321588,
+            "totalProgressiveBallCarriesDistance": 19.355448871054,
+            "progressiveBallCarriesCount": 1,
+            "ratingVersions": {
+              "original": 6.6,
+              "alternative": 6.6
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.01,
+            "dribbleValueNormalized": 0.03,
+            "defensiveValueNormalized": -0.09,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Jeremias Lucco",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 11,
+            "accuratePass": 4,
+            "totalLongBalls": 4,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 3,
+            "totalOwnHalfPasses": 6,
+            "accurateOppositionHalfPasses": 1,
+            "totalOppositionHalfPasses": 5,
+            "aerialLost": 1,
+            "duelLost": 7,
+            "duelWon": 2,
+            "challengeLost": 2,
+            "dispossessed": 2,
+            "totalContest": 1,
+            "shotOffTarget": 1,
+            "ballRecovery": 2,
+            "totalTackle": 2,
+            "wonTackle": 2,
+            "fouls": 1,
+            "minutesPlayed": 21,
+            "touches": 20,
+            "rating": 6.2,
+            "possessionLostCtrl": 10,
+            "totalBallCarriesDistance": 37.54864109241,
+            "ballCarriesCount": 3,
+            "totalProgression": 21.949975752895,
+            "bestBallCarryProgression": 20.291964808906,
+            "totalProgressiveBallCarriesDistance": 20.316514489449,
+            "progressiveBallCarriesCount": 1,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": 6.3
+            },
+            "totalShots": 1,
+            "shotValueNormalized": -0.14,
+            "passValueNormalized": 0,
+            "dribbleValueNormalized": 0.09,
+            "defensiveValueNormalized": -0.09,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Nicolas Fernandez",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 7,
+            "accuratePass": 7,
+            "totalLongBalls": 1,
+            "accurateLongBalls": 1,
+            "goalAssist": 0,
+            "accurateOwnHalfPasses": 3,
+            "totalOwnHalfPasses": 3,
+            "accurateOppositionHalfPasses": 4,
+            "totalOppositionHalfPasses": 4,
+            "aerialLost": 1,
+            "duelLost": 2,
+            "duelWon": 2,
+            "totalContest": 1,
+            "ballRecovery": 2,
+            "totalTackle": 1,
+            "wonTackle": 1,
+            "unsuccessfulTouch": 2,
+            "wasFouled": 1,
+            "minutesPlayed": 21,
+            "touches": 13,
+            "rating": 6.8,
+            "possessionLostCtrl": 3,
+            "totalBallCarriesDistance": 21.175269327468,
+            "ballCarriesCount": 5,
+            "totalProgression": -0.066980831412142,
+            "progressiveBallCarriesCount": 0,
+            "ratingVersions": {
+              "original": 6.8,
+              "alternative": 6.6
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.19,
+            "dribbleValueNormalized": 0.04,
+            "defensiveValueNormalized": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Lucas Passerini",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalPass": 3,
+            "accuratePass": 3,
+            "goalAssist": 0,
+            "accurateOppositionHalfPasses": 3,
+            "totalOppositionHalfPasses": 3,
+            "aerialLost": 1,
+            "duelLost": 4,
+            "dispossessed": 1,
+            "ballRecovery": 3,
+            "unsuccessfulTouch": 2,
+            "fouls": 2,
+            "minutesPlayed": 12,
+            "touches": 7,
+            "rating": 6.2,
+            "possessionLostCtrl": 3,
+            "totalBallCarriesDistance": 44.121792755961,
+            "ballCarriesCount": 1,
+            "totalProgression": -33.973287942151,
+            "progressiveBallCarriesCount": 0,
+            "ratingVersions": {
+              "original": 6.2,
+              "alternative": 6.4
+            },
+            "totalShots": 0,
+            "passValueNormalized": 0.01,
+            "dribbleValueNormalized": -0.15,
+            "defensiveValueNormalized": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Matias Daniele",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Agustin Falcon",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Santiago Longo",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Gonzalo Zelarayan",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Francisco Gonzalez Metilli",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Ramiro Tulian",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        },
+        {
+          "name": "Tomas Castro",
+          "goal": 0,
+          "assist": 0,
+          "minute": "",
+          "source": "lineup",
+          "statistics": {
+            "totalShots": 0,
+            "statisticsType": {
+              "sportSlug": "football",
+              "statisticsType": "player"
+            }
+          }
+        }
+      ],
+      "yellowCards": [
+        {
+          "player": "Lucas Passerini",
+          "minute": 87,
+          "reason": "Foul"
+        },
+        {
+          "player": "Juan Cruz Cortazzo",
+          "minute": 84,
+          "reason": "Foul"
+        },
+        {
+          "player": "Nacho Fernandez",
+          "minute": 56,
+          "reason": "Foul"
+        },
+        {
+          "player": "Ramiro Hernandes",
+          "minute": 18,
+          "reason": "Foul"
+        }
+      ],
+      "redCards": [
+        {
+          "player": "Federico Ricca",
+          "minute": 25,
+          "reason": "Foul"
+        }
+      ],
+      "penalties": []
     }
   ]
 }
