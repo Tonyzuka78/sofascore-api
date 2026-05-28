@@ -1,216 +1,319 @@
 [
   {
     "sport": "NHL",
-    "teamId": 5729,
-    "teamName": "Canada",
-    "player": "Macklin Celebrini",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Jackson Blake",
+    "matchesPlayed": 14,
+    "matchesScored": 3,
+    "goals": 4,
+    "assists": 10,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 2,
+        "assist": 1,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "K'Andre Miller",
     "matchesPlayed": 13,
+    "matchesScored": 0,
+    "goals": 0,
+    "assists": 8,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Logan Stankoven",
+    "matchesPlayed": 14,
     "matchesScored": 7,
-    "goals": 10,
-    "assists": 11,
+    "goals": 8,
+    "assists": 3,
     "matchData": {
       "Match 1": {
-        "goal": 2,
+        "goal": 1,
         "assist": 0,
         "played": true,
-        "date": "26/05/2026 20:20:00"
+        "date": "28/05/2026 02:00:00"
       },
       "Match 2": {
-        "goal": 1,
-        "assist": 1,
+        "goal": 0,
+        "assist": 0,
         "played": true,
-        "date": "24/05/2026 20:20:00"
+        "date": "26/05/2026 02:00:00"
       },
       "Match 3": {
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "22/05/2026 16:20:00"
-      },
-      "Match 4": {
-        "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "21/05/2026 16:20:00"
-      },
-      "Match 5": {
-        "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "18/05/2026 16:20:00"
-      },
-      "Match 6": {
-        "goal": 2,
-        "assist": 1,
-        "played": true,
-        "date": "16/05/2026 16:20:00"
-      },
-      "Match 7": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "15/05/2026 16:20:00"
-      },
-      "Match 8": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "13/05/2026 19:00:00"
-      },
-      "Match 9": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "10/05/2026 14:30:00"
-      },
-      "Match 10": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "22/02/2026 14:10:00"
-      },
-      "Match 11": {
-        "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "20/02/2026 16:40:00"
-      },
-      "Match 12": {
-        "goal": 1,
-        "assist": 2,
-        "played": true,
-        "date": "18/02/2026 16:40:00"
-      },
-      "Match 13": {
-        "goal": 2,
-        "assist": 1,
-        "played": true,
-        "date": "15/02/2026 16:40:00"
-      },
-      "Match 14": {
-        "goal": 1,
-        "assist": 1,
-        "played": true,
-        "date": "13/02/2026 21:10:00"
-      },
-      "Match 15": {
-        "goal": 1,
-        "assist": 0,
-        "played": true,
-        "date": "12/02/2026 16:40:00"
-      }
-    },
-    "nextMatchDate": "28/05/2026 16:20"
-  },
-  {
-    "sport": "NHL",
-    "teamId": 5729,
-    "teamName": "Canada",
-    "player": "Sidney Crosby",
-    "matchesPlayed": 11,
-    "matchesScored": 2,
-    "goals": 2,
-    "assists": 13,
-    "matchData": {
-      "Match 1": {
-        "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "26/05/2026 20:20:00"
-      },
-      "Match 2": {
-        "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "24/05/2026 20:20:00"
-      },
-      "Match 3": {
-        "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "22/05/2026 16:20:00"
+        "date": "24/05/2026 01:00:00"
       },
       "Match 4": {
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "21/05/2026 16:20:00"
+        "date": "22/05/2026 02:00:00"
       },
       "Match 5": {
-        "goal": 0,
-        "assist": 4,
+        "goal": 1,
+        "assist": 0,
         "played": true,
-        "date": "18/05/2026 16:20:00"
+        "date": "10/05/2026 00:00:00"
       },
       "Match 6": {
         "goal": 0,
-        "assist": 1,
+        "assist": 0,
         "played": true,
-        "date": "16/05/2026 16:20:00"
+        "date": "08/05/2026 02:00:00"
       },
       "Match 7": {
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "15/05/2026 16:20:00"
+        "date": "05/05/2026 01:00:00"
       },
       "Match 8": {
-        "goal": 0,
+        "goal": 2,
         "assist": 0,
-        "played": false,
-        "date": "13/05/2026 19:00:00"
+        "played": true,
+        "date": "03/05/2026 02:00:00"
       },
       "Match 9": {
-        "goal": 0,
+        "goal": 1,
         "assist": 0,
-        "played": false,
-        "date": "10/05/2026 14:30:00"
+        "played": true,
+        "date": "25/04/2026 21:00:00"
       },
       "Match 10": {
-        "goal": 0,
+        "goal": 1,
         "assist": 0,
-        "played": false,
-        "date": "22/02/2026 14:10:00"
+        "played": true,
+        "date": "24/04/2026 01:30:00"
       },
       "Match 11": {
-        "goal": 0,
+        "goal": 1,
         "assist": 0,
-        "played": false,
-        "date": "20/02/2026 16:40:00"
+        "played": true,
+        "date": "21/04/2026 01:30:00"
       },
       "Match 12": {
-        "goal": 0,
-        "assist": 0,
+        "goal": 1,
+        "assist": 1,
         "played": true,
-        "date": "18/02/2026 16:40:00"
+        "date": "18/04/2026 21:00:00"
       },
       "Match 13": {
-        "goal": 1,
-        "assist": 2,
+        "goal": 0,
+        "assist": 1,
         "played": true,
-        "date": "15/02/2026 16:40:00"
+        "date": "15/04/2026 01:00:00"
       },
       "Match 14": {
-        "goal": 1,
-        "assist": 0,
+        "goal": 0,
+        "assist": 1,
         "played": true,
-        "date": "13/02/2026 21:10:00"
+        "date": "14/04/2026 01:00:00"
       },
       "Match 15": {
         "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "12/02/2026 16:40:00"
+        "assist": 0,
+        "played": false,
+        "date": "11/04/2026 23:00:00"
       }
     },
-    "nextMatchDate": "28/05/2026 16:20"
+    "nextMatchDate": "30/05/2026 02:00"
   },
   {
     "sport": "NHL",
-    "teamId": 5731,
-    "teamName": "Finland",
-    "player": "Vili Saarijarvi",
-    "matchesPlayed": 11,
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Seth Jarvis",
+    "matchesPlayed": 13,
     "matchesScored": 2,
     "goals": 2,
     "assists": 5,
@@ -219,94 +322,1845 @@
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "26/05/2026 20:20:00"
+        "date": "28/05/2026 02:00:00"
       },
       "Match 2": {
         "goal": 0,
         "assist": 2,
         "played": true,
-        "date": "24/05/2026 20:20:00"
+        "date": "26/05/2026 02:00:00"
       },
       "Match 3": {
         "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "22/05/2026 20:20:00"
-      },
-      "Match 4": {
-        "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "21/05/2026 16:20:00"
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
       },
       "Match 5": {
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "18/05/2026 16:20:00"
+        "date": "10/05/2026 00:00:00"
       },
       "Match 6": {
         "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "16/05/2026 16:20:00"
+        "date": "08/05/2026 02:00:00"
       },
       "Match 7": {
-        "goal": 0,
+        "goal": 1,
         "assist": 0,
         "played": true,
-        "date": "15/05/2026 16:20:00"
+        "date": "05/05/2026 01:00:00"
       },
       "Match 8": {
         "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "10/05/2026 16:00:00"
+        "assist": 1,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
       },
       "Match 9": {
-        "goal": 1,
-        "assist": 0,
+        "goal": 0,
+        "assist": 2,
         "played": true,
-        "date": "09/05/2026 12:00:00"
+        "date": "25/04/2026 21:00:00"
       },
       "Match 10": {
-        "goal": 1,
+        "goal": 0,
         "assist": 0,
         "played": true,
-        "date": "07/05/2026 15:00:00"
+        "date": "24/04/2026 01:30:00"
       },
       "Match 11": {
         "goal": 0,
-        "assist": 1,
+        "assist": 0,
         "played": true,
-        "date": "03/05/2026 12:00:00"
+        "date": "21/04/2026 01:30:00"
       },
       "Match 12": {
         "goal": 0,
         "assist": 0,
-        "played": false,
-        "date": "02/05/2026 12:00:00"
+        "played": true,
+        "date": "18/04/2026 21:00:00"
       },
       "Match 13": {
         "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "30/04/2026 18:00:00"
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
       },
       "Match 14": {
         "goal": 0,
         "assist": 0,
         "played": false,
-        "date": "24/04/2026 17:00:00"
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Shayne Gostisbehere",
+    "matchesPlayed": 14,
+    "matchesScored": 1,
+    "goals": 1,
+    "assists": 6,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Taylor Hall",
+    "matchesPlayed": 13,
+    "matchesScored": 4,
+    "goals": 4,
+    "assists": 9,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 3,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "14/04/2026 01:00:00"
       },
       "Match 15": {
         "goal": 0,
         "assist": 0,
         "played": false,
-        "date": "22/04/2026 17:30:00"
+        "date": "11/04/2026 23:00:00"
       }
     },
-    "nextMatchDate": "28/05/2026 16:20"
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Nikolaj Ehlers",
+    "matchesPlayed": 14,
+    "matchesScored": 5,
+    "goals": 6,
+    "assists": 7,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 2,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Sebastian Aho",
+    "matchesPlayed": 13,
+    "matchesScored": 4,
+    "goals": 5,
+    "assists": 2,
+    "matchData": {
+      "Match 1": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 2,
+        "assist": 0,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Jordan Staal",
+    "matchesPlayed": 13,
+    "matchesScored": 3,
+    "goals": 3,
+    "assists": 4,
+    "matchData": {
+      "Match 1": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3680,
+    "teamName": "Carolina Hurricanes",
+    "player": "Andrei Svechnikov",
+    "matchesPlayed": 13,
+    "matchesScored": 4,
+    "goals": 4,
+    "assists": 3,
+    "matchData": {
+      "Match 1": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "10/05/2026 00:00:00"
+      },
+      "Match 6": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "08/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "05/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "03/05/2026 02:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "25/04/2026 21:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/04/2026 01:30:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "21/04/2026 01:30:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "18/04/2026 21:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "15/04/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": false,
+        "date": "14/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "11/04/2026 23:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Alexandre Carrier",
+    "matchesPlayed": 15,
+    "matchesScored": 1,
+    "goals": 1,
+    "assists": 5,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Alexandre Texier",
+    "matchesPlayed": 15,
+    "matchesScored": 3,
+    "goals": 3,
+    "assists": 3,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Ivan Demidov",
+    "matchesPlayed": 15,
+    "matchesScored": 3,
+    "goals": 3,
+    "assists": 5,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Juraj Slafkovsky",
+    "matchesPlayed": 15,
+    "matchesScored": 2,
+    "goals": 3,
+    "assists": 6,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 2,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 3,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Nick Suzuki",
+    "matchesPlayed": 15,
+    "matchesScored": 4,
+    "goals": 4,
+    "assists": 9,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 3,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 2,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Lane Hutson",
+    "matchesPlayed": 15,
+    "matchesScored": 1,
+    "goals": 1,
+    "assists": 11,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Phillip Danault",
+    "matchesPlayed": 15,
+    "matchesScored": 2,
+    "goals": 2,
+    "assists": 7,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Jake Evans",
+    "matchesPlayed": 15,
+    "matchesScored": 2,
+    "goals": 2,
+    "assists": 7,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Alex Newhook",
+    "matchesPlayed": 15,
+    "matchesScored": 5,
+    "goals": 7,
+    "assists": 3,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 2,
+        "assist": 0,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 2,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Kaiden Guhle",
+    "matchesPlayed": 15,
+    "matchesScored": 0,
+    "goals": 0,
+    "assists": 8,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 2,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
+  },
+  {
+    "sport": "NHL",
+    "teamId": 3690,
+    "teamName": "Montréal Canadiens",
+    "player": "Cole Caufield",
+    "matchesPlayed": 15,
+    "matchesScored": 5,
+    "goals": 5,
+    "assists": 4,
+    "matchData": {
+      "Match 1": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "28/05/2026 02:00:00"
+      },
+      "Match 2": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "26/05/2026 02:00:00"
+      },
+      "Match 3": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "24/05/2026 01:00:00"
+      },
+      "Match 4": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "22/05/2026 02:00:00"
+      },
+      "Match 5": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "19/05/2026 01:30:00"
+      },
+      "Match 6": {
+        "goal": 0,
+        "assist": 1,
+        "played": true,
+        "date": "17/05/2026 02:00:00"
+      },
+      "Match 7": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "15/05/2026 01:00:00"
+      },
+      "Match 8": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "13/05/2026 01:00:00"
+      },
+      "Match 9": {
+        "goal": 1,
+        "assist": 1,
+        "played": true,
+        "date": "11/05/2026 01:00:00"
+      },
+      "Match 10": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "09/05/2026 01:00:00"
+      },
+      "Match 11": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "07/05/2026 01:00:00"
+      },
+      "Match 12": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "04/05/2026 00:00:00"
+      },
+      "Match 13": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "02/05/2026 01:00:00"
+      },
+      "Match 14": {
+        "goal": 0,
+        "assist": 0,
+        "played": true,
+        "date": "30/04/2026 01:00:00"
+      },
+      "Match 15": {
+        "goal": 1,
+        "assist": 0,
+        "played": true,
+        "date": "27/04/2026 01:00:00"
+      }
+    },
+    "nextMatchDate": "30/05/2026 02:00"
   },
   {
     "sport": "NHL",
@@ -616,108 +2470,5 @@
       }
     },
     "nextMatchDate": "28/05/2026 20:20"
-  },
-  {
-    "sport": "NHL",
-    "teamId": 5738,
-    "teamName": "USA",
-    "player": "Matthew Tkachuk",
-    "matchesPlayed": 10,
-    "matchesScored": 2,
-    "goals": 3,
-    "assists": 8,
-    "matchData": {
-      "Match 1": {
-        "goal": 1,
-        "assist": 0,
-        "played": true,
-        "date": "26/05/2026 16:20:00"
-      },
-      "Match 2": {
-        "goal": 2,
-        "assist": 2,
-        "played": true,
-        "date": "25/05/2026 16:20:00"
-      },
-      "Match 3": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "23/05/2026 12:20:00"
-      },
-      "Match 4": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "20/05/2026 20:20:00"
-      },
-      "Match 5": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "18/05/2026 16:20:00"
-      },
-      "Match 6": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "17/05/2026 12:20:00"
-      },
-      "Match 7": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "15/05/2026 20:20:00"
-      },
-      "Match 8": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "10/05/2026 17:00:00"
-      },
-      "Match 9": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "22/02/2026 14:10:00"
-      },
-      "Match 10": {
-        "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "20/02/2026 21:10:00"
-      },
-      "Match 11": {
-        "goal": 0,
-        "assist": 0,
-        "played": true,
-        "date": "18/02/2026 21:10:00"
-      },
-      "Match 12": {
-        "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "15/02/2026 21:10:00"
-      },
-      "Match 13": {
-        "goal": 0,
-        "assist": 1,
-        "played": true,
-        "date": "14/02/2026 21:10:00"
-      },
-      "Match 14": {
-        "goal": 0,
-        "assist": 2,
-        "played": true,
-        "date": "12/02/2026 21:10:00"
-      },
-      "Match 15": {
-        "goal": 0,
-        "assist": 0,
-        "played": false,
-        "date": "25/05/2025 20:20:00"
-      }
-    },
-    "nextMatchDate": "28/05/2026 16:20"
   }
 ]
