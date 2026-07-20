@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Potentiel penalty — matchs à venir</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0f0f0e;
+    --surface: #1a1a19;
+    --surface2: #242422;
+    --border: rgba(255,255,255,0.08);
+    --border2: rgba(255,255,255,0.14);
+    --text: #f0efec;
+    --muted: #898781;
+    --accent: #2a78d6;
+    --accent-bg: rgba(42,120,214,0.12);
+    --success: #1baf7a;
+    --warn: #eda100;
+    --danger: #e34948;
+    --radius: 8px;
+  }
+
+  body { background: var(--bg); color: var(--text); font-family: system-ui, -apple-system, sans-serif; font-size: 14px; min-height: 100vh; }
+
+  .topbar { background: var(--surface); border-bottom: 0.5px solid var(--border2); padding: 14px 24px; display: flex; align-items: center; gap: 16px; }
+  .topbar h1 { font-size: 15px; font-weight: 500; }
+  .topbar .sub { font-size: 12px; color: var(--muted); }
+  .topbar .spacer { flex: 1; }
+
+  .load-btn { background: var(--accent); color: #fff; border: none; border-radius: var(--radius); padding: 7px 14px; font-size: 13px; cursor: pointer; font-weight: 500; white-space: nowrap; }
+  .load-btn:hover { background: #1e68c4; }
+  .load-btn.secondary { background: var(--surface2); color: var(--text); border: 0.5px solid var(--border2); }
+  .load-btn.secondary:hover { background: var(--surface); }
+  #file-input { display: none; }
+  #url-input { width: 300px; }
+
+  .main { padding: 20px 24px; display: flex; flex-direction: column; gap: 16px; }
+
+  .empty-state { text-align: center; padding: 80px 24px; color: var(--muted); }
+  .empty-state .icon { font-size: 48px; margin-bottom: 16px; opacity: 0.3; }
+  .empty-state p { font-size: 15px; }
+  .empty-state small { font-size: 12px; display: block; margin-top: 6px; }
+
+  .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; }
+  .kpi { background: var(--surface); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 14px 16px; }
+  .kpi .label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+  .kpi .value { font-size: 26px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; }
+  .kpi .sub { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+  .controls { background: var(--surface); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 14px 16px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+  .control-group { display: flex; align-items: center; gap: 8px; }
+  .control-group label { font-size: 12px; color: var(--muted); white-space: nowrap; }
+
+  select, input[type=text] {
+    background: var(--surface2);
+    border: 0.5px solid var(--border2);
+    border-radius: 6px;
+    color: var(--text);
+    font-size: 12px;
+    padding: 5px 8px;
+    outline: none;
+    height: 28px;
+  }
+  select:focus, input:focus { border-color: var(--accent); }
+  input[type=text] { width: 160px; }
+
+  input[type=range] { width: 140px; accent-color: var(--accent); }
+  .n-value { font-size: 13px; font-weight: 500; min-width: 20px; text-align: center; background: var(--surface2); border-radius: 4px; padding: 3px 8px; }
+
+  .section { background: var(--surface); border: 0.5px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+
+  table { width: 100%; border-collapse: collapse; }
+  th { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; padding: 8px 12px; text-align: left; border-bottom: 0.5px solid var(--border); font-weight: 400; cursor: pointer; user-select: none; white-space: nowrap; }
+  th:hover { color: var(--text); }
+  th .sort-arrow { opacity: 0.4; font-size: 10px; margin-left: 4px; }
+  th.sorted .sort-arrow { opacity: 1; color: var(--accent); }
+  td { padding: 10px 12px; border-bottom: 0.5px solid var(--border); vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(255,255,255,0.025); }
+
+  .match-date { font-size: 11px; color: var(--muted); white-space: nowrap; }
+  .match-teams { font-weight: 500; font-size: 13px; }
+  .match-league { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+  .team-rate { display: flex; flex-direction: column; gap: 3px; min-width: 90px; }
+  .team-rate .name { font-size: 11px; color: var(--muted); }
+  .team-rate .bar-row { display: flex; align-items: center; gap: 6px; }
+  .team-rate .bar { flex: 1; height: 4px; background: var(--surface2); border-radius: 2px; min-width: 36px; }
+  .team-rate .bar-fill { height: 100%; border-radius: 2px; background: var(--accent); }
+  .team-rate .pct { font-size: 12px; font-weight: 500; min-width: 34px; text-align: right; }
+  .team-rate .ratio { font-size: 10px; color: var(--muted); }
+  .fallback-icon { color: var(--warn); font-size: 10px; margin-left: 3px; cursor: help; }
+
+  .proba-cell { display: flex; align-items: center; gap: 8px; }
+  .proba-bar { flex: 1; height: 6px; background: var(--surface2); border-radius: 3px; min-width: 50px; max-width: 90px; }
+  .proba-bar-fill { height: 100%; border-radius: 3px; }
+  .proba-val { font-weight: 500; min-width: 40px; text-align: right; font-size: 14px; }
+  .high .proba-bar-fill { background: var(--danger); } .high .proba-val { color: var(--danger); }
+  .med .proba-bar-fill { background: var(--warn); } .med .proba-val { color: var(--warn); }
+  .low .proba-bar-fill { background: var(--success); } .low .proba-val { color: var(--success); }
+
+  .no-data { color: var(--muted); font-size: 12px; font-style: italic; }
+
+  .scroll-wrap { max-height: 640px; overflow-y: auto; }
+  .scroll-wrap::-webkit-scrollbar { width: 4px; }
+  .scroll-wrap::-webkit-scrollbar-track { background: transparent; }
+  .scroll-wrap::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+
+  .footer-note { font-size: 11px; color: var(--muted); padding: 10px 16px; border-top: 0.5px solid var(--border); }
+
+  /* ─── Responsive mobile ─────────────────────────────────────────────── */
+  @media (max-width: 700px) {
+    .topbar { padding: 12px 14px; flex-wrap: wrap; }
+    .topbar h1 { font-size: 14px; }
+    .topbar .spacer { display: none; }
+    #url-input { width: 100%; order: 3; }
+    .load-btn { font-size: 12px; padding: 7px 10px; flex: 1; }
+
+    .main { padding: 14px; }
+
+    .kpi-row { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+    .kpi { padding: 10px 12px; }
+    .kpi .value { font-size: 20px; }
+
+    .controls { flex-direction: column; align-items: stretch; gap: 12px; padding: 12px; }
+    .control-group { justify-content: space-between; width: 100%; }
+    .control-group select, .control-group input[type=text] { flex: 1; min-width: 0; }
+    input[type=range] { flex: 1; width: auto; }
+
+    table, thead, tbody, tr { display: block; width: 100%; }
+    thead { display: none; }
+    tr { border-bottom: 0.5px solid var(--border2); padding: 12px 0; }
+    tr:hover td { background: transparent; }
+    td { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 6px 4px; border: none; }
+    td::before { content: attr(data-label); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; flex-shrink: 0; }
+
+    td:first-child { padding-top: 0; }
+    .match-teams { text-align: right; }
+    .match-league { text-align: right; }
+    .team-rate { align-items: flex-end; min-width: 0; }
+    .team-rate .bar-row { flex-direction: row-reverse; }
+    .proba-cell { flex-direction: row-reverse; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div>
+    <h1>Potentiel penalty — matchs à venir</h1>
+    <div class="sub" id="status-text">Chargement...</div>
+  </div>
+  <div class="spacer"></div>
+  <input type="text" id="url-input" value="https://sofascore-api-eight.vercel.app/rapport-potentiel-penalty.json" placeholder="URL du rapport JSON">
+  <button class="load-btn" onclick="loadFromUrl(document.getElementById('url-input').value)">&#8635; Charger</button>
+  <button class="load-btn secondary" onclick="document.getElementById('file-input').click()">&#128194; Fichier local</button>
+  <input type="file" id="file-input" accept=".json" onchange="loadFile(event)">
+</div>
+
+<div class="main" id="main">
+  <div class="empty-state">
+    <div class="icon">&#127942;</div>
+    <p>Aucun rapport chargé</p>
+    <small>Charge le fichier <code>rapport-potentiel-penalty.json</code> pour commencer</small>
+  </div>
+</div>
+
+<script>
+let DATA = null;
+let N = 10;
+let leagueFilter = 'all';
+let search = '';
+let sortCol = 'pAtLeast';
+let sortDir = -1;
+
+const DEFAULT_URL = 'https://sofascore-api-eight.vercel.app/rapport-potentiel-penalty.json';
+
+function setStatus(text) {
+  const el = document.getElementById('status-text');
+  if (el) el.textContent = text;
+}
+
+async function loadFromUrl(url) {
+  if (!url) return;
+  setStatus('Chargement...');
+  try {
+    const res = await fetch(url, { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+    setStatus('Mis à jour le ' + (DATA.generatedAt || '?'));
+    render();
+  } catch (err) {
+    let hint = err.message;
+    if (err instanceof TypeError) hint += ' — possible souci CORS ou réseau';
+    setStatus('');
+    showLoadError(hint, url);
+  }
+}
+
+function showLoadError(message, url) {
+  document.getElementById('main').innerHTML = `
+    <div class="empty-state">
+      <div class="icon">&#9888;</div>
+      <p>Impossible de charger le rapport</p>
+      <small>${escAttr(message)}<br>URL testée : ${escAttr(url)}<br>Vérifie que le fichier est bien déployé, ou charge-le en local avec le bouton ci-dessus.</small>
+    </div>
+  `;
+}
+
+function loadFile(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      DATA = JSON.parse(ev.target.result);
+      setStatus('Fichier local — ' + (DATA.generatedAt || '?'));
+      render();
+    } catch(err) {
+      alert('Erreur lecture JSON : ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+}
+
+function computeRate(historyArr, n) {
+  if (!historyArr || historyArr.length === 0) return null;
+  const slice = historyArr.slice(0, n);
+  const withPen = slice.filter(m => m.hasPenalty).length;
+  return { rate: withPen / slice.length, withPen, total: slice.length, matches: slice };
+}
+
+function rateClass(r) {
+  if (r >= 0.5) return 'high';
+  if (r >= 0.25) return 'med';
+  return 'low';
+}
+
+function getLeagues() {
+  const set = new Set((DATA.matchs || []).map(m => m.league));
+  return [...set].sort();
+}
+
+function render() {
+  if (!DATA) return;
+
+  document.getElementById('main').innerHTML = `
+    <div class="kpi-row" id="kpi-row"></div>
+    <div class="controls">
+      <div class="control-group">
+        <label>Ligue</label>
+        <select id="league-select" onchange="leagueFilter=this.value;renderTable()">
+          <option value="all">Toutes les ligues</option>
+          ${getLeagues().map(l => `<option value="${escAttr(l)}">${l}</option>`).join('')}
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Derniers matchs pris en compte</label>
+        <input type="range" min="3" max="30" value="${N}" oninput="N=+this.value;document.getElementById('n-out').textContent=N;renderTable()">
+        <span class="n-value" id="n-out">${N}</span>
+      </div>
+      <div class="control-group">
+        <label>Recherche</label>
+        <input type="text" placeholder="Équipe..." value="${search}" oninput="search=this.value;renderTable()">
+      </div>
+    </div>
+    <div class="section">
+      <div class="scroll-wrap" id="table-wrap"></div>
+      <div class="footer-note">${DATA.note || ''}</div>
+    </div>
+  `;
+
+  renderKPI();
+  renderTable();
+}
+
+function renderKPI() {
+  const all = DATA.matchs || [];
+  const withData = all.filter(m => m.home && m.away);
+  const highPotential = withData.filter(m => {
+    const h = computeRate(m.home.history, N), a = computeRate(m.away.history, N);
+    if (!h || !a) return false;
+    return (1 - (1 - h.rate) * (1 - a.rate)) >= 0.5;
+  });
+
+  document.getElementById('kpi-row').innerHTML = `
+    <div class="kpi"><div class="label">Matchs à venir</div><div class="value">${all.length}</div></div>
+    <div class="kpi"><div class="label">Avec données</div><div class="value">${withData.length}</div><div class="sub">${all.length - withData.length} sans historique</div></div>
+    <div class="kpi"><div class="label">Potentiel élevé</div><div class="value" style="color:var(--danger)">${highPotential.length}</div><div class="sub">P(au moins 1) ≥ 50%</div></div>
+    <div class="kpi"><div class="label">Ligues couvertes</div><div class="value">${getLeagues().length}</div></div>
+  `;
+}
+
+function escAttr(s) { return (s||'').replace(/"/g, '&quot;'); }
+
+function renderTable() {
+  let rows = (DATA.matchs || []).map(m => {
+    const h = m.home ? computeRate(m.home.history, N) : null;
+    const a = m.away ? computeRate(m.away.history, N) : null;
+    const pAtLeast = (h && a) ? 1 - (1 - h.rate) * (1 - a.rate) : null;
+    const pBoth    = (h && a) ? h.rate * a.rate : null;
+    return { ...m, h, a, pAtLeast, pBoth };
+  });
+
+  if (leagueFilter !== 'all') rows = rows.filter(m => m.league === leagueFilter);
+  if (search.trim()) {
+    const q = search.toLowerCase();
+    rows = rows.filter(m => (m.homeTeam||'').toLowerCase().includes(q) || (m.awayTeam||'').toLowerCase().includes(q));
+  }
+
+  rows.sort((x, y) => {
+    let xv = x[sortCol], yv = y[sortCol];
+    if (xv == null) xv = -1;
+    if (yv == null) yv = -1;
+    if (typeof xv === 'string') return sortDir * xv.localeCompare(yv);
+    return sortDir * (yv - xv);
+  });
+
+  document.getElementById('table-wrap').innerHTML = `
+    <table>
+      <thead><tr>
+        <th onclick="sortBy('date')">Date ${arrow('date')}</th>
+        <th>Match</th>
+        <th onclick="sortBy('h.rate')">Domicile ${arrow('h.rate')}</th>
+        <th onclick="sortBy('a.rate')">Extérieur ${arrow('a.rate')}</th>
+        <th onclick="sortBy('pAtLeast')" class="${sortCol==='pAtLeast'?'sorted':''}">P(au moins 1) ${arrow('pAtLeast')}</th>
+        <th onclick="sortBy('pBoth')">P(les deux) ${arrow('pBoth')}</th>
+      </tr></thead>
+      <tbody>
+        ${rows.map(m => `
+          <tr>
+            <td class="match-date" data-label="Date">${m.date}</td>
+            <td data-label="Match">
+              <div class="match-teams">${m.homeTeam} <span style="color:var(--muted);font-weight:400">vs</span> ${m.awayTeam}</div>
+              <div class="match-league">${m.league}</div>
+            </td>
+            <td data-label="Domicile">${teamRateCell(m.home, m.h)}</td>
+            <td data-label="Extérieur">${teamRateCell(m.away, m.a)}</td>
+            <td data-label="P(au moins 1)">${probaCell(m.pAtLeast)}</td>
+            <td data-label="P(les deux)">${probaCell(m.pBoth)}</td>
+          </tr>
+        `).join('')}
+      </tbody>
+    </table>
+    ${rows.length === 0 ? '<div style="padding:40px;text-align:center;color:var(--muted)">Aucun match ne correspond aux filtres</div>' : ''}
+  `;
+}
+
+function teamRateCell(team, r) {
+  if (!team) return `<span class="no-data">Pas de fichier</span>`;
+  if (!r) return `<span class="no-data">Pas d'historique</span>`;
+  const pct = Math.round(r.rate * 100);
+  const detail = r.matches.map(m =>
+    `${m.date} vs ${m.opponent || '?'} — ${m.hasPenalty ? '⚠ penalty' : 'pas de penalty'}`
+  ).join('\n');
+  return `
+    <div class="team-rate">
+      <div class="name">${team.teamName}${team.fallback ? `<span class="fallback-icon" title="Historique toutes compétitions (pas assez de matchs dans ${escAttr(team.historyLeague)})">&#9888;</span>` : ''}</div>
+      <div class="bar-row" title="${escAttr(detail)}">
+        <div class="bar"><div class="bar-fill" style="width:${pct}%"></div></div>
+        <span class="pct">${pct}%</span>
+      </div>
+      <div class="ratio" title="${escAttr(detail)}" style="cursor:help; text-decoration:underline dotted;">${r.withPen}/${r.total} matchs</div>
+    </div>
+  `;
+}
+
+function probaCell(p) {
+  if (p == null) return `<span class="no-data">–</span>`;
+  const pct = Math.round(p * 100);
+  return `
+    <div class="proba-cell ${rateClass(p)}">
+      <div class="proba-bar"><div class="proba-bar-fill" style="width:${pct}%"></div></div>
+      <span class="proba-val">${pct}%</span>
+    </div>
+  `;
+}
+
+function arrow(col) {
+  if (sortCol !== col) return '<span class="sort-arrow">↕</span>';
+  return `<span class="sort-arrow">${sortDir === -1 ? '↓' : '↑'}</span>`;
+}
+
+function sortBy(col) {
+  sortDir = sortCol === col ? -sortDir : -1;
+  sortCol = col;
+  renderTable();
+}
+
+// Chargement automatique au démarrage
+loadFromUrl(DEFAULT_URL);
+</script>
+</body>
+</html>
