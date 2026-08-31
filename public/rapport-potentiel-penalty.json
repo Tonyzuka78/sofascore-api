@@ -1,1816 +1,13 @@
 {
-  "generatedAt": "31/08/2026 04:39:00",
+  "generatedAt": "31/08/2026 15:44:37",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 53,
+    "totalMatchs": 50,
     "sansHistorique": 0
   },
   "matchs": [
-    {
-      "matchId": 15353110,
-      "date": "31/08/2026 02:00",
-      "league": "Liga de Primera",
-      "season": {
-        "name": "Primera Division 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Coquimbo Unido",
-      "homeId": 3165,
-      "awayTeam": "Huachipato",
-      "awayId": 3164,
-      "home": {
-        "teamId": 3165,
-        "teamName": "Coquimbo Unido",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 79,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "27/08/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 18:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/06/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/05/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/04/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/04/2026 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/03/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/02/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 19:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión Española",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/11/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 21:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 21:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "O'Higgins",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/10/2025 17:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Colo Colo",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2025 23:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2025 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2025 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 3164,
-        "teamName": "Huachipato",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 80,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/08/2026 02:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/06/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/05/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/04/2026 02:45:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/03/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/01/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/12/2025 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/11/2025 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/11/2025 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 19:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 16:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/10/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes Iquique",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2025 17:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión Española",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Cobresal",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2025 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16317914,
-      "date": "31/08/2026 02:00",
-      "league": "Liga MX, Apertura",
-      "season": {
-        "name": "Liga MX, Apertura 2026",
-        "year": "2026"
-      },
-      "homeTeam": "CD Toluca",
-      "homeId": 1931,
-      "awayTeam": "FC Juárez",
-      "awayId": 201624,
-      "home": {
-        "teamId": 1931,
-        "teamName": "CD Toluca",
-        "historyLeague": "Liga MX",
-        "totalInLeague": 85,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 05:10:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Querétaro FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2026 01:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Atlante FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2026 03:10:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/07/2026 05:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/07/2026 03:07:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/05/2026 01:00:00",
-            "league": "Liga MX, Clausura Playoffs",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/05/2026 03:15:00",
-            "league": "Liga MX, Clausura Playoffs",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 03:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club León",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Mazatlán FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/04/2026 05:10:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlético San Luis",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/04/2026 01:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Querétaro FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlas FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "FC Juárez",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/03/2026 04:10:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/02/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/02/2026 04:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Tijuana",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Cruz Azul",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Puebla",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/01/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/01/2026 04:10:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Santos Laguna",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/01/2026 04:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Monterrey",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/12/2025 02:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/12/2025 03:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/12/2025 02:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CF Monterrey",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/12/2025 04:10:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CF Monterrey",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/11/2025 02:05:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "FC Juárez",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/11/2025 02:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "FC Juárez",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 201624,
-        "teamName": "FC Juárez",
-        "historyLeague": "Liga MX",
-        "totalInLeague": 74,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club América",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2026 03:10:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "CF Monterrey",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/07/2026 01:07:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club Puebla",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 05:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlético San Luis",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/04/2026 05:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club León",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/04/2026 05:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Tijuana",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/04/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Querétaro FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Puebla",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/03/2026 02:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/03/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Monterrey",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Toluca",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/03/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/02/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlas FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/02/2026 02:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 02:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 04:06:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Cruz Azul",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/01/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Santos Laguna",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/01/2026 04:10:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/01/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Mazatlán FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/11/2025 02:05:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CD Toluca",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/11/2025 02:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CD Toluca",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/11/2025 02:00:00",
-            "league": "Liga MX, Apertura, Play In",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2025 04:00:00",
-            "league": "Liga MX, Apertura, Play In",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club Tijuana",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 02:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Querétaro FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 04:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Atlético San Luis",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2025 03:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club Puebla",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/10/2025 05:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CF Monterrey",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16671586,
-      "date": "31/08/2026 02:30",
-      "league": "Liga Profesional, Clausura",
-      "season": {
-        "name": "Primera LPF 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Independiente Rivadavia",
-      "homeId": 36842,
-      "awayTeam": "Racing Club",
-      "awayId": 3215,
-      "home": {
-        "teamId": 36842,
-        "teamName": "Independiente Rivadavia",
-        "historyLeague": "Liga Profesional",
-        "totalInLeague": 22,
-        "totalAvailable": 22,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 23:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "CA Independiente",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Club Atlético Belgrano",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 02:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Estudiantes de Río Cuarto",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/08/2026 21:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Sarmiento",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/07/2026 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Huracán",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 20:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Atlético Tucumán",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/11/2025 21:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Defensa y Justicia",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/11/2025 01:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Central Córdoba",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 18:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Aldosivi",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 20:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Banfield",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2025 21:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Godoy Cruz",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/10/2025 02:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Racing Club",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2025 00:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Huracán",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2025 21:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Club Atlético Unión de Santa Fe",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2025 02:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "CA Lanús",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 22:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Argentinos Juniors",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2025 01:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Tigre",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/08/2025 01:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Boca Juniors",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2025 02:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Estudiantes de La Plata",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/07/2025 02:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Belgrano",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/07/2025 19:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Barracas Central",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/07/2025 21:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Newell's Old Boys",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 3215,
-        "teamName": "Racing Club",
-        "historyLeague": "Liga Profesional",
-        "totalInLeague": 22,
-        "totalAvailable": 22,
-        "fallback": false,
-        "history": [
-          {
-            "date": "24/08/2026 02:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Boca Juniors",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/08/2026 01:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Banfield",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2026 01:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Argentinos Juniors",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 01:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Tigre",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/07/2026 02:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Rosario Central",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Primera LPF 2026",
-            "opponent": "Gimnasia y Esgrima",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/11/2025 00:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Newell's Old Boys",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/11/2025 21:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Defensa y Justicia",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/11/2025 23:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Central Córdoba",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Aldosivi",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2025 23:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Banfield",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/10/2025 02:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Independiente Rivadavia",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2025 20:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "CA Independiente",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2025 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Huracán",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2025 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "San Lorenzo",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/09/2025 02:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Club Atlético Unión de Santa Fe",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2025 21:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Argentinos Juniors",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2025 02:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Tigre",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/08/2025 21:30:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Boca Juniors",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2025 02:15:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Estudiantes de La Plata",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/07/2025 00:00:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Belgrano",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/07/2025 01:45:00",
-            "league": "Liga Profesional, Clausura",
-            "season": "Torneo Clausura",
-            "opponent": "Barracas Central",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16390721,
-      "date": "31/08/2026 03:20",
-      "league": "Liga DIMAYOR, Finalizacion",
-      "season": {
-        "name": "Liga DIMAYOR 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Deportivo Cali",
-      "homeId": 6112,
-      "awayTeam": "Atlético Bucaramanga",
-      "awayId": 6103,
-      "home": {
-        "teamId": 6112,
-        "teamName": "Deportivo Cali",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "27/08/2026 03:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Nacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Internacional de Bogotá",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 03:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Pasto",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Independiente Medellín",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Jaguares de Córdoba",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 6103,
-        "teamName": "Atlético Bucaramanga",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 23:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportes Tolima",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 23:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Alianza Valledupar FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/08/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Cúcuta Deportivo",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/07/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Llaneros FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Millonarios",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16317918,
-      "date": "31/08/2026 04:10",
-      "league": "Liga MX, Apertura",
-      "season": {
-        "name": "Liga MX, Apertura 2026",
-        "year": "2026"
-      },
-      "homeTeam": "CF Monterrey",
-      "homeId": 1932,
-      "awayTeam": "Atlético San Luis",
-      "awayId": 1950,
-      "home": {
-        "teamId": 1932,
-        "teamName": "CF Monterrey",
-        "historyLeague": "Liga MX",
-        "totalInLeague": 83,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "22/08/2026 03:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club León",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2026 03:10:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "FC Juárez",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 03:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Atlas FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/07/2026 01:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/07/2026 03:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Santos Laguna",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/04/2026 01:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Santos Laguna",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/04/2026 05:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Puebla",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/04/2026 03:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlas FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 01:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlético San Luis",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/03/2026 02:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/03/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "FC Juárez",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/03/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/03/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Querétaro FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 02:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Cruz Azul",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/02/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/02/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club León",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 04:10:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/02/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Tijuana",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/01/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Mazatlán FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/01/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/01/2026 04:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Toluca",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/12/2025 02:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CD Toluca",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/12/2025 04:10:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CD Toluca",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/11/2025 00:00:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/11/2025 04:05:00",
-            "league": "Liga MX, Apertura Playoffs",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 00:07:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 02:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Tigres UANL",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/10/2025 04:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Cruz Azul",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/10/2025 05:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "FC Juárez",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1950,
-        "teamName": "Atlético San Luis",
-        "historyLeague": "Liga MX",
-        "totalInLeague": 73,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "24/08/2026 01:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2026 01:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Club Tijuana",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 03:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2026",
-            "opponent": "Cruz Azul",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/04/2026 05:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "FC Juárez",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Santos Laguna",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/04/2026 03:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Toluca",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/04/2026 01:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Monterrey",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/03/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club León",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CF Pachuca",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Cruz Azul",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/03/2026 04:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Mazatlán FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Puebla",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/02/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Atlas FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/02/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Querétaro FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/02/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Necaxa",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/02/2026 00:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "CD Guadalajara",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/01/2026 04:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club Tijuana",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/01/2026 02:05:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Club América",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/01/2026 02:00:00",
-            "league": "Liga MX, Clausura",
-            "season": "Liga MX, Clausura 2026",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 00:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Tigres UANL",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 04:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "FC Juárez",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/10/2025 02:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club Necaxa",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/10/2025 05:05:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Pumas UNAM",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Atlas FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/10/2025 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Mazatlán FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2025 01:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "CF Pachuca",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/09/2025 05:00:00",
-            "league": "Liga MX, Apertura",
-            "season": "Liga MX, Apertura 2025",
-            "opponent": "Club América",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
     {
       "matchId": 16878340,
       "date": "31/08/2026 15:00",
@@ -2259,6 +456,459 @@
             "league": "Serie A/B U18",
             "season": "25/26",
             "opponent": "Napoli U18",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16435036,
+      "date": "31/08/2026 16:00",
+      "league": "Cymru Premier",
+      "season": {
+        "name": "Cymru Premier 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Caernarfon Town",
+      "homeId": 4909,
+      "awayTeam": "The New Saints",
+      "awayId": 4921,
+      "home": {
+        "teamId": 4909,
+        "teamName": "Caernarfon Town",
+        "historyLeague": "Cymru Premier",
+        "totalInLeague": 37,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Holywell Town",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Trefelin FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Penybont",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/08/2026 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/04/2026 18:15:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/04/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/03/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/02/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "24/01/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/01/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 13:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Bala Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/12/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/12/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Flint Town United",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/11/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Llanelli AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Haverfordwest County AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Briton Ferry Llansawel AFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/10/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/10/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/10/2025 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Cardiff Met FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2025 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4921,
+        "teamName": "The New Saints",
+        "historyLeague": "Cymru Premier",
+        "totalInLeague": 37,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Cardiff Met FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "14/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Briton Ferry Llansawel AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Haverfordwest County AFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/08/2026 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/04/2026 18:15:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/04/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/02/2026 13:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/01/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/01/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Colwyn Bay",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/01/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Bala Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/12/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Briton Ferry Llansawel AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/11/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/11/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Flint Town United",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/11/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Cardiff Met FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Haverfordwest County AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Llanelli AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2025 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/10/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/10/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Bala Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Flint Town United",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Cardiff Met FC",
             "hasPenalty": false
           }
         ]
@@ -7610,6 +6260,284 @@
             "season": "Parva Liga 25/26",
             "opponent": "FK Spartak Varna",
             "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16435038,
+      "date": "31/08/2026 18:15",
+      "league": "Cymru Premier",
+      "season": {
+        "name": "Cymru Premier 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Colwyn Bay",
+      "homeId": 45005,
+      "awayTeam": "Llandudno FC",
+      "awayId": 37086,
+      "home": {
+        "teamId": 45005,
+        "teamName": "Colwyn Bay",
+        "historyLeague": "Cymru Premier",
+        "totalInLeague": 37,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "The New Saints",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Airbus UK Broughton",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Ammanford",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/07/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Trefelin FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/04/2026 18:15:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/04/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/03/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/02/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/02/2026 20:45:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/02/2026 15:30:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/01/2026 18:15:00",
+            "league": "Cymru Premier, Championship Round",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/01/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "The New Saints",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/01/2026 13:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Flint Town United",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/12/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/12/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Connah's Quay Nomads",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Haverfordwest County AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Llanelli Town AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Barry Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Briton Ferry Llansawel AFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Cardiff Met FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/10/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Flint Town United",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/10/2025 18:15:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Caernarfon Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Bala Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2025 15:30:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 25/26",
+            "opponent": "Llanelli Town AFC",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 37086,
+        "teamName": "Llandudno FC",
+        "historyLeague": "Cymru Premier",
+        "totalInLeague": 5,
+        "totalAvailable": 5,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Haverfordwest County AFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Penybont",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Holywell Town",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/08/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Trefelin FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/07/2026 20:45:00",
+            "league": "Cymru Premier",
+            "season": "Cymru Premier 26/27",
+            "opponent": "Flint Town United",
+            "hasPenalty": true
           }
         ]
       }
