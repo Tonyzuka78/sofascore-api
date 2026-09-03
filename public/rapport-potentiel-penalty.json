@@ -1,3019 +1,13 @@
 {
-  "generatedAt": "03/09/2026 00:21:26",
+  "generatedAt": "03/09/2026 12:04:21",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 29,
+    "totalMatchs": 22,
     "sansHistorique": 0
   },
   "matchs": [
-    {
-      "matchId": 15502670,
-      "date": "02/09/2026 23:30",
-      "league": "LigaPro Serie A, Primera Etapa",
-      "season": {
-        "name": "LigaPro Primera A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Deportivo Cuenca",
-      "homeId": 5251,
-      "awayTeam": "Guayaquil City",
-      "awayId": 188850,
-      "home": {
-        "teamId": 5251,
-        "teamName": "Deportivo Cuenca",
-        "historyLeague": "LigaPro Serie A, Primera Etapa",
-        "totalInLeague": 72,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Independiente del Valle",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/07/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/07/2026 00:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/07/2026 21:15:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Barcelona SC Guayaquil",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/05/2026 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Guayaquil City",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/05/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/04/2026 18:45:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/04/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Independiente del Valle",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/04/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/03/2026 01:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/03/2026 17:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Barcelona SC Guayaquil",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/02/2026 21:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/09/2025 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2025 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Barcelona SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/09/2025 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 188850,
-        "teamName": "Guayaquil City",
-        "historyLeague": "LigaPro Serie A, Primera Etapa",
-        "totalInLeague": 27,
-        "totalAvailable": 27,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/08/2026 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/07/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/07/2026 23:45:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/07/2026 02:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Barcelona SC Guayaquil",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/07/2026 01:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/05/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Independiente del Valle",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/05/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/05/2026 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/05/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/04/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/04/2026 00:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/04/2026 02:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/04/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/04/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/03/2026 00:15:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Barcelona SC Guayaquil",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/03/2026 01:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/02/2026 00:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Independiente del Valle",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16588844,
-      "date": "02/09/2026 23:30",
-      "league": "Primera División, Clausura",
-      "season": {
-        "name": "Division de Honor, Clausura 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Olimpia",
-      "homeId": 5997,
-      "awayTeam": "Guaraní",
-      "awayId": 5994,
-      "home": {
-        "teamId": 5997,
-        "teamName": "Olimpia",
-        "historyLeague": "Primera División",
-        "totalInLeague": 51,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/09/2025 00:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/09/2025 20:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/09/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/07/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2025 20:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/07/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/07/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/07/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/11/2024 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2024",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 5994,
-        "teamName": "Guaraní",
-        "historyLeague": "Primera División",
-        "totalInLeague": 51,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/11/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/07/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/07/2025 23:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/07/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/07/2025 23:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/07/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/11/2024 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2024",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16862539,
-      "date": "03/09/2026 00:00",
-      "league": "Liga de Primera",
-      "season": {
-        "name": "Primera Division 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Coquimbo Unido",
-      "homeId": 3165,
-      "awayTeam": "Universidad de Concepción",
-      "awayId": 5034,
-      "home": {
-        "teamId": 3165,
-        "teamName": "Coquimbo Unido",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 80,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "31/08/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/08/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 18:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/06/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/05/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/04/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/04/2026 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/03/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/02/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 19:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión Española",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/11/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 21:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 21:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "O'Higgins",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/10/2025 17:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Colo Colo",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2025 23:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2025 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 5034,
-        "teamName": "Universidad de Concepción",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 20,
-        "totalAvailable": 20,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/08/2026 01:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 01:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/08/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/06/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/05/2026 02:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Ñublense",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/05/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/03/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/02/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/02/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 19:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16890992,
-      "date": "03/09/2026 00:30",
-      "league": "Brasileirão Betano",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Flamengo",
-      "homeId": 5981,
-      "awayTeam": "Mirassol",
-      "awayId": 21982,
-      "home": {
-        "teamId": 5981,
-        "teamName": "Flamengo",
-        "historyLeague": "Brasileirão Betano",
-        "totalInLeague": 100,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 21:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Mirassol",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/07/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/07/2026 02:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Chapecoense",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/05/2026 21:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Coritiba",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 02:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/05/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/05/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 21:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/04/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/04/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 23:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/04/2026 02:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/03/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Corinthians",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/03/2026 00:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/03/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/02/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/02/2026 23:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/01/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Mirassol",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/12/2025 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Ceará",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/11/2025 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/11/2025 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/11/2025 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Fluminense",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/11/2025 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Sport Recife",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 21982,
-        "teamName": "Mirassol",
-        "historyLeague": "Brasileirão Betano",
-        "totalInLeague": 62,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Flamengo",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 16:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/07/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 01:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/05/2026 21:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 00:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/05/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Chapecoense",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/05/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Corinthians",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/04/2026 02:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 16:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/04/2026 23:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/04/2026 01:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/04/2026 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/03/2026 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/03/2026 00:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Coritiba",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/03/2026 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/02/2026 23:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/02/2026 00:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/01/2026 00:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 22:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Flamengo",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/12/2025 23:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/11/2025 20:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Vitória",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/11/2025 23:00:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Ceará",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/11/2025 01:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Santos",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/11/2025 00:30:00",
-            "league": "Brasileirão Betano",
-            "season": "Brasileiro Serie A 2025",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15502672,
-      "date": "03/09/2026 02:00",
-      "league": "LigaPro Serie A, Primera Etapa",
-      "season": {
-        "name": "LigaPro Primera A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Barcelona SC",
-      "homeId": 5250,
-      "awayTeam": "Independiente del Valle",
-      "awayId": 39723,
-      "home": {
-        "teamId": 5250,
-        "teamName": "Barcelona SC Guayaquil",
-        "historyLeague": "LigaPro Serie A, Primera Etapa",
-        "totalInLeague": 72,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2026 01:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2026 02:15:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/07/2026 02:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Guayaquil City",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/07/2026 02:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/06/2026 02:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/05/2026 01:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Independiente del Valle",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/04/2026 01:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/04/2026 01:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/04/2026 01:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/04/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/04/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/03/2026 21:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/03/2026 01:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/03/2026 00:15:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Guayaquil City",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/02/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2025 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2025 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/09/2025 00:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Emelec",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 39723,
-        "teamName": "Independiente del Valle",
-        "historyLeague": "LigaPro Serie A, Primera Etapa",
-        "totalInLeague": 72,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/08/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 22:45:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/07/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/07/2026 02:15:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/07/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/07/2026 21:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/07/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/05/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Guayaquil City",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Macará",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/05/2026 02:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Barcelona SC Guayaquil",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/05/2026 23:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Universidad Católica del Ecuador",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/04/2026 21:10:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Leones del Norte",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/04/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "LDU",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/04/2026 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/03/2026 19:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/03/2026 01:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Emelec",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/03/2026 20:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Aucas",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 22:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/03/2026 01:30:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/02/2026 00:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Guayaquil City",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2025 23:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Delfín",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2025 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2025 21:00:00",
-            "league": "LigaPro Serie A, Primera Etapa",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16862540,
-      "date": "03/09/2026 02:30",
-      "league": "Liga de Primera",
-      "season": {
-        "name": "Primera Division 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Deportes Limache",
-      "homeId": 331131,
-      "awayTeam": "Ñublense",
-      "awayId": 7029,
-      "home": {
-        "teamId": 331131,
-        "teamName": "Deportes Limache",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 50,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 02:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/06/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/05/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/05/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/04/2026 02:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/04/2026 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/03/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/02/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Ñublense",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/01/2026 16:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo Colo",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/11/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/11/2025 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión Española",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 21:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/11/2025 23:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/10/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Colo Colo",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Cobresal",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/09/2025 01:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/08/2025 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes Iquique",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2025 02:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 7029,
-        "teamName": "Ñublense",
-        "historyLeague": "Liga de Primera",
-        "totalInLeague": 80,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/08/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/08/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/07/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/06/2026 02:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/05/2026 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Cobresal",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/05/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Concepción",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/05/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Colo-Colo",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/04/2026 21:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "O'Higgins",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 18:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 23:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad de Chile",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 01:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Everton de Viña del Mar",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/03/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Concepción",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/03/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Universidad Católica",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Deportes Limache",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/02/2026 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Primera Division 2026",
-            "opponent": "Palestino",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/12/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Cobresal",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/12/2025 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Audax Italiano",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/11/2025 00:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Huachipato",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "O'Higgins",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/11/2025 22:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Colo Colo",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 22:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión La Calera",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 20:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Deportes La Serena",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2025 01:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Universidad Católica",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2025 23:00:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Coquimbo Unido",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/09/2025 00:30:00",
-            "league": "Liga de Primera",
-            "season": "Liga de Primera 2025",
-            "opponent": "Unión Española",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16941232,
-      "date": "03/09/2026 03:00",
-      "league": "Leagues Cup",
-      "season": {
-        "name": "Leagues Cup 2026",
-        "year": "2026"
-      },
-      "homeTeam": "CD Toluca",
-      "homeId": 1931,
-      "awayTeam": "Club León",
-      "awayId": 36534,
-      "home": {
-        "teamId": 1931,
-        "teamName": "CD Toluca",
-        "historyLeague": "Leagues Cup",
-        "totalInLeague": 8,
-        "totalAvailable": 8,
-        "fallback": false,
-        "history": [
-          {
-            "date": "27/08/2026 02:30:00",
-            "league": "Leagues Cup",
-            "season": "Leagues Cup 2026",
-            "opponent": "Austin FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/08/2026 04:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "FC Dallas",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/08/2026 05:10:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Los Angeles FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/08/2026 04:10:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Seattle Sounders FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/08/2025 02:50:00",
-            "league": "Leagues Cup",
-            "season": "Leagues Cup 2025",
-            "opponent": "Orlando City SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/08/2025 01:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "New York City FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2025 03:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "CF Montréal",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/07/2025 01:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Columbus Crew",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 36534,
-        "teamName": "Club León",
-        "historyLeague": "Leagues Cup",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "26/08/2026 04:30:00",
-            "league": "Leagues Cup",
-            "season": "Leagues Cup 2026",
-            "opponent": "Real Salt Lake",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/08/2026 01:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Inter Miami CF",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 00:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Orlando City SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/08/2026 02:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Nashville SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/08/2025 01:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Columbus Crew",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2025 00:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "New York City FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/07/2025 01:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "CF Montréal",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16390724,
-      "date": "03/09/2026 03:25",
-      "league": "Liga DIMAYOR, Finalizacion",
-      "season": {
-        "name": "Liga DIMAYOR 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Independiente Santa Fe",
-      "homeId": 6116,
-      "awayTeam": "Millonarios",
-      "awayId": 6117,
-      "home": {
-        "teamId": 6116,
-        "teamName": "Independiente Santa Fe",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "30/08/2026 01:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Junior Barranquilla",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "América de Cali",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 21:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Boyacá Chicó FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Once Caldas",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 23:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Rionegro Águilas Doradas",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 6117,
-        "teamName": "Millonarios",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 6,
-        "totalAvailable": 6,
-        "fallback": false,
-        "history": [
-          {
-            "date": "31/08/2026 01:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Internacional de Bogotá",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/08/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Llaneros FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 22:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Rionegro Águilas Doradas",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/08/2026 03:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Pasto",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/08/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Junior Barranquilla",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Bucaramanga",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16941233,
-      "date": "03/09/2026 05:30",
-      "league": "Leagues Cup",
-      "season": {
-        "name": "Leagues Cup 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Club América",
-      "homeId": 1939,
-      "awayTeam": "CF Monterrey",
-      "awayId": 1932,
-      "home": {
-        "teamId": 1939,
-        "teamName": "Club América",
-        "historyLeague": "Leagues Cup",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "27/08/2026 04:45:00",
-            "league": "Leagues Cup",
-            "season": "Leagues Cup 2026",
-            "opponent": "Columbus Crew",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/08/2026 02:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Austin FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2026 04:15:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Portland Timbers",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/08/2026 04:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "San Diego FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/08/2025 03:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Portland Timbers",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2025 03:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Minnesota United",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/07/2025 03:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Real Salt Lake",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1932,
-        "teamName": "CF Monterrey",
-        "historyLeague": "Leagues Cup",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "26/08/2026 02:30:00",
-            "league": "Leagues Cup",
-            "season": "Leagues Cup 2026",
-            "opponent": "Chicago Fire",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/08/2026 02:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Nashville SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 02:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Inter Miami CF",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/08/2026 01:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2026",
-            "opponent": "Orlando City SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2025 01:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "Charlotte FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/08/2025 02:30:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "New York Red Bulls",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2025 01:00:00",
-            "league": "Leagues Cup, Group Stage",
-            "season": "Leagues Cup 2025",
-            "opponent": "FC Cincinnati",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
     {
       "matchId": 16629471,
       "date": "03/09/2026 17:55",
@@ -5998,6 +2992,905 @@
             "league": "Saudi Pro League",
             "season": "Saudi Pro League 25/26",
             "opponent": "Al-Ahli",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16357075,
+      "date": "03/09/2026 20:30",
+      "league": "Swiss Super League",
+      "season": {
+        "name": "Super League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "FC Lugano",
+      "homeId": 2443,
+      "awayTeam": "Servette FC",
+      "awayId": 2448,
+      "home": {
+        "teamId": 2443,
+        "teamName": "FC Lugano",
+        "historyLeague": "Swiss Super League",
+        "totalInLeague": 30,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "30/08/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/08/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Vaduz",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/05/2026 14:00:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 20:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/04/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/04/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/03/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/03/2026 19:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/03/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/02/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/01/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/01/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/01/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/11/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/11/2025 19:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/11/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 2448,
+        "teamName": "Servette FC",
+        "historyLeague": "Swiss Super League",
+        "totalInLeague": 29,
+        "totalAvailable": 29,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/08/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/07/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "Basel",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/04/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/04/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/03/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/03/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/03/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/02/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/02/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/01/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/01/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/01/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/01/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/12/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/12/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2025 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/11/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/10/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16357077,
+      "date": "03/09/2026 20:30",
+      "league": "Swiss Super League",
+      "season": {
+        "name": "Super League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Basel",
+      "homeId": 2501,
+      "awayTeam": "FC Sion",
+      "awayId": 2452,
+      "home": {
+        "teamId": 2501,
+        "teamName": "Basel",
+        "historyLeague": "Swiss Super League",
+        "totalInLeague": 81,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/08/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/08/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/07/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "Servette FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 20:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/04/2026 14:00:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/04/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/04/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/03/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/03/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/03/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/03/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/02/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/01/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/01/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Sion",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/12/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": true
+          },
+          {
+            "date": "14/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/12/2025 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/11/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/11/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 2452,
+        "teamName": "FC Sion",
+        "historyLeague": "Swiss Super League",
+        "totalInLeague": 38,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "30/08/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Lugano",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/08/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Vaduz",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 26/27",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "14/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/05/2026 16:30:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 14:00:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/04/2026 14:00:00",
+            "league": "Swiss Super League, Championship Round",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/04/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/04/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/03/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/03/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/02/2026 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Thun",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/02/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/02/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/01/2026 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Servette FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/01/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Luzern",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/01/2026 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Basel",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/01/2026 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Winterthur",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/12/2025 20:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC St. Gallen 1879",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/12/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "Grasshopper Club Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/12/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "BSC Young Boys",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/11/2025 18:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lugano",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/11/2025 14:00:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Zürich",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/11/2025 16:30:00",
+            "league": "Swiss Super League",
+            "season": "Super League 25/26",
+            "opponent": "FC Lausanne-Sport",
             "hasPenalty": false
           }
         ]
