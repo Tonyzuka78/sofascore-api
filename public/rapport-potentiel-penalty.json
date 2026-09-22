@@ -1,13 +1,1165 @@
 {
-  "generatedAt": "22/09/2026 07:49:28",
+  "generatedAt": "22/09/2026 08:05:36",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 2,
+    "totalMatchs": 7,
     "sansHistorique": 0
   },
   "matchs": [
+    {
+      "matchId": 17018508,
+      "date": "22/09/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Inter",
+      "homeId": 325685,
+      "awayTeam": "BK Häcken FF (F)",
+      "awayId": 1889,
+      "home": {
+        "teamId": 325685,
+        "teamName": "Inter (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 11:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Valur Reykjavík",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/08/2025 16:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "SK Brann Kvinner",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1889,
+        "teamName": "BK Häcken FF (F)",
+        "historyLeague": "Toutes compétitions confondues",
+        "totalInLeague": 2,
+        "totalAvailable": 30,
+        "fallback": true,
+        "history": [
+          {
+            "date": "19/09/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Eskilstuna Utd DFF",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 13:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Vittsjö GIK",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2026 18:45:00",
+            "league": "Svenska Cupen, Women, Qualification",
+            "season": "Svenska Cupen, Women 26/27",
+            "opponent": "IFK Göteborg",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Malmo FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/08/2026 14:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Rosengård",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 13:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "AIK",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 14:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "IF Brommapojkarna",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/08/2026 14:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Piteå IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Eskilstuna Utd DFF",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/06/2026 19:15:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "IK Uppsala",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/06/2026 18:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Rosengård",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/06/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/05/2026 14:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Kristianstads DFF",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/05/2026 19:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "AIK",
+            "hasPenalty": true
+          },
+          {
+            "date": "24/05/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Norrköping DFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/05/2026 18:30:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Växjö DFF",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/05/2026 15:00:00",
+            "league": "Svenska Cupen, Women",
+            "season": "Svenska Cup Women 25/26",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/05/2026 18:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Malmo FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/05/2026 18:30:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Djurgårdens IF DFF",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/05/2026 16:00:00",
+            "league": "UEFA Women's Europa Cup",
+            "season": "UEFA Women's Europa Cup 25/26",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 15:00:00",
+            "league": "UEFA Women's Europa Cup",
+            "season": "UEFA Women's Europa Cup 25/26",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/04/2026 13:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "Vittsjö GIK",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/04/2026 18:30:00",
+            "league": "UEFA Women's Europa Cup",
+            "season": "UEFA Women's Europa Cup 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/03/2026 15:00:00",
+            "league": "Damallsvenskan",
+            "season": "Damallsvenskan 2026",
+            "opponent": "IF Brommapojkarna",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:30:00",
+            "league": "UEFA Women's Europa Cup",
+            "season": "UEFA Women's Europa Cup 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 18:00:00",
+            "league": "Svenska Cupen, Women",
+            "season": "Svenska Cup Women 25/26",
+            "opponent": "Djurgårdens IF DFF",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/03/2026 13:00:00",
+            "league": "Svenska Cupen, Women, Group 1",
+            "season": "Svenska Cup Women 25/26",
+            "opponent": "AIK",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/03/2026 19:00:00",
+            "league": "Svenska Cupen, Women, Group 1",
+            "season": "Svenska Cup Women 25/26",
+            "opponent": "Linköpings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/02/2026 19:00:00",
+            "league": "Svenska Cupen, Women, Group 1",
+            "season": "Svenska Cup Women 25/26",
+            "opponent": "Gefle IF FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 19:00:00",
+            "league": "UEFA Women's Europa Cup",
+            "season": "UEFA Women's Europa Cup 25/26",
+            "opponent": "Breiðablik Kópavogur",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018517,
+      "date": "22/09/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "FC Bayern München (F)",
+      "homeId": 5543,
+      "awayTeam": "Manchester City (F)",
+      "awayId": 142658,
+      "home": {
+        "teamId": 5543,
+        "teamName": "FC Bayern München (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 12,
+        "totalAvailable": 12,
+        "fallback": false,
+        "history": [
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:15:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 142658,
+        "teamName": "Manchester City (F)",
+        "historyLeague": "Toutes compétitions confondues",
+        "totalInLeague": 0,
+        "totalAvailable": 30,
+        "fallback": true,
+        "history": [
+          {
+            "date": "18/09/2026 20:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 26/27",
+            "opponent": "Liverpool FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 19:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 26/27",
+            "opponent": "Aston Villa",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 15:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 26/27",
+            "opponent": "Birmingham City W.F.C.",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 20:00:00",
+            "league": "Women Club Friendly Games",
+            "season": "Women Club Friendly Games 2026",
+            "opponent": "Fiorentina",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/05/2026 16:00:00",
+            "league": "Women's FA Cup",
+            "season": "FA Cup, Women 25/26",
+            "opponent": "Brighton",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/05/2026 14:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "West Ham",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/05/2026 16:30:00",
+            "league": "Women's FA Cup",
+            "season": "FA Cup, Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Liverpool FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Brighton",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/04/2026 18:00:00",
+            "league": "Women's FA Cup",
+            "season": "FA Cup, Women 25/26",
+            "opponent": "Birmingham City W.F.C.",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/03/2026 14:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/03/2026 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Tottenham FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/03/2026 12:55:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Aston Villa",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 15:00:00",
+            "league": "Women's FA Cup",
+            "season": "FA Cup, Women 25/26",
+            "opponent": "Sheffield United Women",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/02/2026 20:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Leicester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/02/2026 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/02/2026 15:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/01/2026 12:55:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "London City Lionesses",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/01/2026 20:00:00",
+            "league": "League Cup, Women, Playoffs",
+            "season": "FA Womens League Cup 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/01/2026 14:00:00",
+            "league": "Women's FA Cup",
+            "season": "FA Cup, Women 25/26",
+            "opponent": "Bournemouth Women",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/01/2026 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Everton",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/12/2025 14:00:00",
+            "league": "League Cup, Women, Playoffs",
+            "season": "FA Womens League Cup 25/26",
+            "opponent": "West Ham",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/12/2025 12:55:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Aston Villa",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/12/2025 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Leicester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/11/2025 15:00:00",
+            "league": "FA Women's League Cup Group A",
+            "season": "FA Womens League Cup 25/26",
+            "opponent": "Nottingham Forest",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2025 14:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/11/2025 15:30:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Everton",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 13:00:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "West Ham",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/10/2025 15:00:00",
+            "league": "FA Women's League Cup Group A",
+            "season": "FA Womens League Cup 25/26",
+            "opponent": "Newcastle United WFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/10/2025 17:45:00",
+            "league": "Women's Super League",
+            "season": "Super League Women 25/26",
+            "opponent": "Liverpool FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018497,
+      "date": "22/09/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Real Madrid (F)",
+      "homeId": 305051,
+      "awayTeam": "Paris Saint-Germain (F)",
+      "awayId": 55505,
+      "home": {
+        "teamId": 305051,
+        "teamName": "Real Madrid (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/09/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/09/2024 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 55505,
+        "teamName": "Paris Saint-Germain (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018513,
+      "date": "22/09/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Arsenal (F)",
+      "homeId": 26243,
+      "awayTeam": "HB Køge (F)",
+      "awayId": 333128,
+      "home": {
+        "teamId": 26243,
+        "teamName": "Arsenal (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 21,
+        "totalAvailable": 21,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/05/2026 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/04/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2025 13:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rosenborg Kvinner",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rangers LFC",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 333128,
+        "teamName": "HB Køge (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/09/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "PSV Eindhoven",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "PSV Eindhoven",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 15:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Heart of Midlothian WFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Riga FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17025170,
+      "date": "22/09/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Juventus (F)",
+      "homeId": 269824,
+      "awayTeam": "Benfica (F)",
+      "awayId": 297853,
+      "home": {
+        "teamId": 269824,
+        "teamName": "Juventus (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 14,
+        "totalAvailable": 14,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/09/2026 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 20:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SCU Torreense",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 297853,
+        "teamName": "Benfica (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "25/09/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SFK 2000 Sarajevo",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Nordsjælland",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
     {
       "matchId": 17098610,
       "date": "23/09/2026 01:00",
