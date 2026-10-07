@@ -1,1769 +1,498 @@
 {
-  "generatedAt": "06/10/2026 08:09:01",
+  "generatedAt": "07/10/2026 08:23:36",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 31,
-    "sansHistorique": 11
+    "totalMatchs": 6,
+    "sansHistorique": 0
   },
   "matchs": [
     {
-      "matchId": 17103347,
-      "date": "06/10/2026 15:00",
-      "league": "U23 Africa Cup of Nations Qualification",
+      "matchId": 16985920,
+      "date": "07/10/2026 18:00",
+      "league": "Veikkausliiga, Championship Round",
       "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "DR Congo U23",
-      "homeId": 304343,
-      "awayTeam": "Mauritania U23",
-      "awayId": 411708,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103367,
-      "date": "06/10/2026 15:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Eswatini U23",
-      "homeId": 455711,
-      "awayTeam": "Malawi U23",
-      "awayId": 411731,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103480,
-      "date": "06/10/2026 15:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Tanzania U23",
-      "homeId": 387646,
-      "awayTeam": "Kenya U23",
-      "awayId": 282190,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 15534189,
-      "date": "06/10/2026 16:00",
-      "league": "UEFA Nations League, League C, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Kazakhstan",
-      "homeId": 4772,
-      "awayTeam": "Faroe Islands",
-      "awayId": 4760,
-      "home": {
-        "teamId": 4772,
-        "teamName": "Kazakhstan",
-        "historyLeague": "UEFA Nations League, League C, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "02/10/2026 16:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Moldova",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovakia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Faroe Islands",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4760,
-        "teamName": "Faroe Islands",
-        "historyLeague": "UEFA Nations League, League C, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovakia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Moldova",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17103511,
-      "date": "06/10/2026 16:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Sudan U23",
-      "homeId": 205756,
-      "awayTeam": "Rwanda U23",
-      "awayId": 196577,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103316,
-      "date": "06/10/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Burkina Faso U23",
-      "homeId": 205758,
-      "awayTeam": "Sierra Leone U23",
-      "awayId": 1279740,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103324,
-      "date": "06/10/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Madagascar U23",
-      "homeId": 1279742,
-      "awayTeam": "Comoros U23",
-      "awayId": 1279741,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103344,
-      "date": "06/10/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Uganda U23",
-      "homeId": 196578,
-      "awayTeam": "Ethiopia U23",
-      "awayId": 304341,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103358,
-      "date": "06/10/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Equatorial Guinea U23",
-      "homeId": 312798,
-      "awayTeam": "Sao Tome and Principe U23",
-      "awayId": 1279744,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103531,
-      "date": "06/10/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Mauritius U23",
-      "homeId": 304340,
-      "awayTeam": "Zimbabwe U23",
-      "awayId": 205757,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17240967,
-      "date": "06/10/2026 18:00",
-      "league": "Primera División ",
-      "season": {
-        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
+        "name": "Veikkausliiga 2026",
         "year": "2026"
       },
-      "homeTeam": "Unión 2 de Mayo de Costa Rosada",
-      "homeId": 1236733,
-      "awayTeam": "26 de Abril de Arroyito",
-      "awayId": 1291412,
+      "homeTeam": "IF Gnistan",
+      "homeId": 2271,
+      "awayTeam": "Inter Turku",
+      "awayId": 2247,
       "home": {
-        "teamId": 1236733,
-        "teamName": "Unión 2 de Mayo de Costa Rosada",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 19:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "24 de Junio de San Juan Ñeembucú",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1291412,
-        "teamName": "26 de Abril de Arroyito",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 20:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Tacuaras Sport Club",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17103520,
-      "date": "06/10/2026 19:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Libya U23",
-      "homeId": 312755,
-      "awayTeam": "Togo U23",
-      "awayId": 287052,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17103619,
-      "date": "06/10/2026 19:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Botswana U23",
-      "homeId": 1279761,
-      "awayTeam": "Seychelles U23",
-      "awayId": 1279760,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17240968,
-      "date": "06/10/2026 19:00",
-      "league": "Primera División ",
-      "season": {
-        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Atlético Irala Fernández FC",
-      "homeId": 1291409,
-      "awayTeam": "24 de Junio de San Juan Ñeembucú",
-      "awayId": 1236729,
-      "home": {
-        "teamId": 1291409,
-        "teamName": "Atlético Irala Fernández FC",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 21:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Sportivo San Lorenzo de Stero Cambá",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1236729,
-        "teamName": "24 de Junio de San Juan Ñeembucú",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 19:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Unión 2 de Mayo de Costa Rosada",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17240969,
-      "date": "06/10/2026 20:00",
-      "league": "Primera División ",
-      "season": {
-        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Club 1 de Marzo de Capiibary",
-      "homeId": 1236728,
-      "awayTeam": "Tacuaras Sport Club",
-      "awayId": 1236732,
-      "home": {
-        "teamId": 1236728,
-        "teamName": "Club 1 de Marzo de Capiibary",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 22:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Sport Belen San Juan Bautista de Ñeembucú",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1236732,
-        "teamName": "Tacuaras Sport Club",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 20:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "26 de Abril de Arroyito",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534082,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League A, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Croatia",
-      "homeId": 4715,
-      "awayTeam": "Spain",
-      "awayId": 4698,
-      "home": {
-        "teamId": 4715,
-        "teamName": "Croatia",
-        "historyLeague": "UEFA Nations League, League A, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "England",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Spain",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Czechia",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4698,
-        "teamName": "Spain",
-        "historyLeague": "UEFA Nations League, League A, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Czechia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Croatia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "England",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534091,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League A, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "England",
-      "homeId": 4713,
-      "awayTeam": "Czechia",
-      "awayId": 4714,
-      "home": {
-        "teamId": 4713,
-        "teamName": "England",
-        "historyLeague": "UEFA Nations League, League A, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Croatia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Czechia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Spain",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4714,
-        "teamName": "Czechia",
-        "historyLeague": "UEFA Nations League, League A, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Spain",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "England",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Croatia",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534108,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 1",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Scotland",
-      "homeId": 4695,
-      "awayTeam": "Slovenia",
-      "awayId": 4484,
-      "home": {
-        "teamId": 4695,
-        "teamName": "Scotland",
-        "historyLeague": "UEFA Nations League, League B, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "North Macedonia",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Switzerland",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 15:00:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovenia",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4484,
-        "teamName": "Slovenia",
-        "historyLeague": "UEFA Nations League, League B, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Switzerland",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "North Macedonia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 15:00:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Scotland",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534114,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 1",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Switzerland",
-      "homeId": 4699,
-      "awayTeam": "North Macedonia",
-      "awayId": 4777,
-      "home": {
-        "teamId": 4699,
-        "teamName": "Switzerland",
-        "historyLeague": "UEFA Nations League, League B, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovenia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Scotland",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "North Macedonia",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4777,
-        "teamName": "North Macedonia",
-        "historyLeague": "UEFA Nations League, League B, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Scotland",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovenia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Switzerland",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534144,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League C, Gr. 1",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Albania",
-      "homeId": 4690,
-      "awayTeam": "San Marino",
-      "awayId": 4833,
-      "home": {
-        "teamId": 4690,
-        "teamName": "Albania",
-        "historyLeague": "UEFA Nations League, League C, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 15:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Finland",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "San Marino",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Belarus",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4833,
-        "teamName": "San Marino",
-        "historyLeague": "UEFA Nations League, League C, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Belarus",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Albania",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Finland",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534148,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League C, Gr. 1",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Belarus",
-      "homeId": 4743,
-      "awayTeam": "Finland",
-      "awayId": 4712,
-      "home": {
-        "teamId": 4743,
-        "teamName": "Belarus",
-        "historyLeague": "UEFA Nations League, League C, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "San Marino",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Finland",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Albania",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4712,
-        "teamName": "Finland",
-        "historyLeague": "UEFA Nations League, League C, Gr. 1",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 15:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Albania",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Belarus",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 1",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "San Marino",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534198,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League C, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Moldova",
-      "homeId": 4782,
-      "awayTeam": "Slovakia",
-      "awayId": 4697,
-      "home": {
-        "teamId": 4782,
-        "teamName": "Moldova",
-        "historyLeague": "UEFA Nations League, League C, Gr. 3",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "02/10/2026 16:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Faroe Islands",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Slovakia",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4697,
-        "teamName": "Slovakia",
-        "historyLeague": "UEFA Nations League, League C, Gr. 3",
-        "totalInLeague": 9,
-        "totalAvailable": 9,
-        "fallback": false,
-        "history": [
-          {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Faroe Islands",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Moldova",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/09/2022 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Belarus",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2022 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Azerbaijan",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/06/2022 16:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/06/2022 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Azerbaijan",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/06/2022 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/06/2022 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 3",
-            "season": "UEFA Nations League 22/23",
-            "opponent": "Belarus",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534236,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League C, Gr. 4",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Estonia",
-      "homeId": 4759,
-      "awayTeam": "Iceland",
-      "awayId": 4708,
-      "home": {
-        "teamId": 4759,
-        "teamName": "Estonia",
-        "historyLeague": "UEFA Nations League, League C, Gr. 4",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Luxembourg",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bulgaria",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Iceland",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4708,
-        "teamName": "Iceland",
-        "historyLeague": "UEFA Nations League, League C, Gr. 4",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bulgaria",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Luxembourg",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Estonia",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15537771,
-      "date": "06/10/2026 20:45",
-      "league": "UEFA Nations League, League C, Gr. 4",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Luxembourg",
-      "homeId": 4478,
-      "awayTeam": "Bulgaria",
-      "awayId": 4716,
-      "home": {
-        "teamId": 4478,
-        "teamName": "Luxembourg",
-        "historyLeague": "UEFA Nations League, League C, Gr. 4",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Estonia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Iceland",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bulgaria",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4716,
-        "teamName": "Bulgaria",
-        "historyLeague": "UEFA Nations League, League C, Gr. 4",
-        "totalInLeague": 3,
-        "totalAvailable": 3,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/10/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Iceland",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/09/2026 20:45:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Estonia",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 18:00:00",
-            "league": "UEFA Nations League, League C, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Luxembourg",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17018560,
-      "date": "06/10/2026 21:00",
-      "league": "Africa Cup of Nations, Qualification, Group B",
-      "season": {
-        "name": "Africa Cup of Nations Qualification 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Angola",
-      "homeId": 4692,
-      "awayTeam": "Malawi",
-      "awayId": 8043,
-      "home": {
-        "teamId": 4692,
-        "teamName": "Angola",
-        "historyLeague": "Africa Cup of Nations",
-        "totalInLeague": 10,
-        "totalAvailable": 10,
-        "fallback": false,
-        "history": [
-          {
-            "date": "25/09/2026 21:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group B",
-            "season": "Africa Cup of Nations Qualification 2026",
-            "opponent": "Egypt",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/12/2025 17:00:00",
-            "league": "Africa Cup of Nations, Group B",
-            "season": "Africa Cup of Nations 2025",
-            "opponent": "Egypt",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/12/2025 13:30:00",
-            "league": "Africa Cup of Nations, Group B",
-            "season": "Africa Cup of Nations 2025",
-            "opponent": "Zimbabwe",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/12/2025 18:00:00",
-            "league": "Africa Cup of Nations, Group B",
-            "season": "Africa Cup of Nations 2025",
-            "opponent": "South Africa",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/11/2024 17:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Sudan",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/11/2024 20:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Ghana",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/10/2024 18:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Niger",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/10/2024 21:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Niger",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/09/2024 21:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Sudan",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/09/2024 18:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group F",
-            "season": "Africa Cup of Nations, Qualification 2024",
-            "opponent": "Ghana",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 8043,
-        "teamName": "Malawi",
-        "historyLeague": "Toutes compétitions confondues",
-        "totalInLeague": 1,
-        "totalAvailable": 17,
-        "fallback": true,
-        "history": [
-          {
-            "date": "25/09/2026 18:00:00",
-            "league": "Africa Cup of Nations, Qualification, Group B",
-            "season": "Africa Cup of Nations Qualification 2026",
-            "opponent": "South Sudan",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/06/2026 17:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2026",
-            "opponent": "Ethiopia",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/06/2026 17:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2026",
-            "opponent": "Ethiopia",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/03/2026 15:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2026",
-            "opponent": "Botswana",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/03/2026 14:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2026",
-            "opponent": "Zambia U23",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/11/2025 15:45:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2025",
-            "opponent": "Lesotho",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/11/2025 15:30:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2025",
-            "opponent": "Lesotho",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/10/2025 15:00:00",
-            "league": "FIFA World Cup, Qualification CAF, Group H",
-            "season": "FIFA World Cup, Qualification CAF 2025",
-            "opponent": "São Tomé and Príncipe",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/09/2025 18:00:00",
-            "league": "FIFA World Cup, Qualification CAF, Group H",
-            "season": "FIFA World Cup, Qualification CAF 2025",
-            "opponent": "Liberia",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2025 15:00:00",
-            "league": "FIFA World Cup, Qualification CAF, Group H",
-            "season": "FIFA World Cup, Qualification CAF 2025",
-            "opponent": "Namibia",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/06/2025 18:00:00",
-            "league": "COSAFA Cup, Group B",
-            "season": "COSAFA Cup 2025",
-            "opponent": "Angola",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/06/2025 15:00:00",
-            "league": "COSAFA Cup, Group B",
-            "season": "COSAFA Cup 2025",
-            "opponent": "Namibia",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/06/2025 15:00:00",
-            "league": "COSAFA Cup, Group B",
-            "season": "COSAFA Cup 2025",
-            "opponent": "Lesotho",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/03/2025 22:00:00",
-            "league": "FIFA World Cup, Qualification CAF, Group H",
-            "season": "FIFA World Cup, Qualification CAF 2025",
-            "opponent": "Tunisia",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/03/2025 17:00:00",
-            "league": "FIFA World Cup, Qualification CAF, Group H",
-            "season": "FIFA World Cup, Qualification CAF 2025",
-            "opponent": "Namibia",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/03/2025 14:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2025",
-            "opponent": "Comoros",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/03/2025 14:00:00",
-            "league": "Int. Friendly Games",
-            "season": "Int. Friendly Games 2025",
-            "opponent": "Comoros",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17240972,
-      "date": "06/10/2026 21:00",
-      "league": "Primera División ",
-      "season": {
-        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Club 29 de Setiembre San Juan Ñeembucú",
-      "homeId": 1236735,
-      "awayTeam": "Sportivo San Lorenzo de Stero Cambá",
-      "awayId": 1236738,
-      "home": {
-        "teamId": 1236735,
-        "teamName": "Club 29 de Setiembre San Juan Ñeembucú",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 23:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Sol Paraguayo FC",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1236738,
-        "teamName": "Sportivo San Lorenzo de Stero Cambá",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 21:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Atlético Irala Fernández FC",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16588942,
-      "date": "06/10/2026 22:00",
-      "league": "Primera División, Clausura",
-      "season": {
-        "name": "Division de Honor, Clausura 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Sportivo Ameliano",
-      "homeId": 323510,
-      "awayTeam": "Rubio Ñu",
-      "awayId": 36438,
-      "home": {
-        "teamId": 323510,
-        "teamName": "Sportivo Ameliano",
-        "historyLeague": "Primera División",
-        "totalInLeague": 56,
+        "teamId": 2271,
+        "teamName": "IF Gnistan",
+        "historyLeague": "Veikkausliiga",
+        "totalInLeague": 79,
         "totalAvailable": 30,
         "fallback": false,
         "history": [
           {
-            "date": "26/09/2026 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
+            "date": "18/09/2026 18:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
             "hasPenalty": false
           },
           {
-            "date": "19/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
+            "date": "12/09/2026 18:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
             "hasPenalty": true
           },
           {
-            "date": "06/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
+            "date": "08/09/2026 18:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Kuopion Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/08/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Turun Palloseura",
             "hasPenalty": true
           },
           {
-            "date": "02/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
+            "date": "23/08/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
             "hasPenalty": false
           },
           {
-            "date": "30/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
+            "date": "17/08/2026 17:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Ilves",
             "hasPenalty": false
           },
           {
-            "date": "22/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
+            "date": "07/08/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "SJK",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Kuopion Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Inter Turku",
             "hasPenalty": true
           },
           {
-            "date": "16/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
+            "date": "18/07/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
             "hasPenalty": false
           },
           {
-            "date": "08/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
+            "date": "11/07/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IFK Mariehamn",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/07/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FC Lahti",
             "hasPenalty": true
           },
           {
-            "date": "01/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
+            "date": "27/06/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "VPS",
             "hasPenalty": false
           },
           {
-            "date": "28/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
+            "date": "23/06/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FF Jaro",
             "hasPenalty": false
           },
           {
-            "date": "25/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Nacional Asunción",
+            "date": "17/06/2026 20:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FC Lahti",
             "hasPenalty": false
           },
           {
-            "date": "26/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
+            "date": "13/06/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IFK Mariehamn",
             "hasPenalty": false
           },
           {
-            "date": "20/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
+            "date": "30/05/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "SJK",
             "hasPenalty": false
           },
           {
-            "date": "10/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
+            "date": "23/05/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Ilves",
             "hasPenalty": true
           },
           {
-            "date": "02/11/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
+            "date": "16/05/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FF Jaro",
             "hasPenalty": false
           },
           {
-            "date": "27/10/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
+            "date": "09/05/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "VPS",
             "hasPenalty": true
           },
           {
-            "date": "18/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
+            "date": "05/05/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Inter Turku",
             "hasPenalty": false
           },
           {
-            "date": "12/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/10/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/09/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "21/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
+            "date": "24/04/2026 17:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Turun Palloseura",
             "hasPenalty": false
           },
           {
-            "date": "12/09/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/09/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
+            "date": "18/04/2026 13:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
             "hasPenalty": false
           },
           {
-            "date": "29/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/08/2025 20:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
+            "date": "11/04/2026 13:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Kuopion Palloseura",
             "hasPenalty": false
           },
           {
-            "date": "09/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
+            "date": "04/04/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
             "hasPenalty": false
           },
           {
-            "date": "04/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
+            "date": "09/11/2025 14:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "SJK",
             "hasPenalty": false
           },
           {
-            "date": "31/07/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
+            "date": "03/11/2025 18:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "HJK",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/10/2025 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "KuPS",
             "hasPenalty": true
+          },
+          {
+            "date": "25/10/2025 16:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "Ilves",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/10/2025 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "Inter Turku",
+            "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 36438,
-        "teamName": "Rubio Ñu",
-        "historyLeague": "Primera División",
-        "totalInLeague": 12,
-        "totalAvailable": 12,
+        "teamId": 2247,
+        "teamName": "Inter Turku",
+        "historyLeague": "Veikkausliiga",
+        "totalInLeague": 79,
+        "totalAvailable": 30,
         "fallback": false,
         "history": [
           {
-            "date": "26/09/2026 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
+            "date": "18/09/2026 18:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/09/2026 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "VPS",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2026 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/08/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Kuopion Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 17:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Turun Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/08/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FC Lahti",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "VPS",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IF Gnistan",
             "hasPenalty": true
           },
           {
-            "date": "19/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
+            "date": "19/07/2026 17:30:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FF Jaro",
             "hasPenalty": false
           },
           {
-            "date": "13/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
+            "date": "27/06/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IFK Mariehamn",
             "hasPenalty": false
           },
           {
-            "date": "06/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
+            "date": "23/06/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "SJK",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/06/2026 17:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/06/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "AC Oulu",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/05/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Kuopion Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/05/2026 13:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Turun Palloseura",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/05/2026 17:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Ilves",
             "hasPenalty": true
           },
           {
-            "date": "01/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
+            "date": "16/05/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "SJK",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/05/2026 14:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FF Jaro",
             "hasPenalty": false
           },
           {
-            "date": "28/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
+            "date": "05/05/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IF Gnistan",
             "hasPenalty": false
           },
           {
-            "date": "21/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
+            "date": "29/04/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "HJK",
             "hasPenalty": false
           },
           {
-            "date": "15/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
+            "date": "25/04/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "IFK Mariehamn",
             "hasPenalty": false
           },
           {
-            "date": "07/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
+            "date": "18/04/2026 16:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "FC Lahti",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/04/2026 18:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "Ilves",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/04/2026 12:00:00",
+            "league": "Veikkausliiga",
+            "season": "Veikkausliiga 2026",
+            "opponent": "VPS",
             "hasPenalty": false
           },
           {
-            "date": "02/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
+            "date": "09/11/2025 14:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "Ilves",
             "hasPenalty": false
           },
           {
-            "date": "28/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
+            "date": "02/11/2025 15:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "KuPS",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/10/2025 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "SJK",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/10/2025 16:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "HJK",
             "hasPenalty": false
           },
           {
-            "date": "24/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "CS 2 de Mayo",
+            "date": "22/10/2025 17:00:00",
+            "league": "Veikkausliiga, Championship Round",
+            "season": "Veikkausliiga 2025",
+            "opponent": "IF Gnistan",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 17240973,
-      "date": "06/10/2026 22:00",
+      "matchId": 17240979,
+      "date": "07/10/2026 18:00",
       "league": "Primera División ",
       "season": {
         "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
         "year": "2026"
       },
-      "homeTeam": "Club Atlético Independiente de Colonia Mburica",
-      "homeId": 1236731,
-      "awayTeam": "Sport Belen San Juan Bautista de Ñeembucú",
-      "awayId": 1236734,
+      "homeTeam": "Club General Diaz de Arroyito",
+      "homeId": 1291420,
+      "awayTeam": "Olimpia de Itagua",
+      "awayId": 1291411,
       "home": {
-        "teamId": 1236731,
-        "teamName": "Club Atlético Independiente de Colonia Mburica",
+        "teamId": 1291420,
+        "teamName": "Club General Diaz de Arroyito",
         "historyLeague": "Primera División",
         "totalInLeague": 1,
         "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "02/10/2026 00:00:00",
+            "date": "02/10/2026 20:00:00",
             "league": "Primera División ",
             "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "River Plate Fc Colonia Mburica",
+            "opponent": "Club Deportivo Arrecife de Lagunita",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 1236734,
-        "teamName": "Sport Belen San Juan Bautista de Ñeembucú",
-        "historyLeague": "Primera División",
-        "totalInLeague": 1,
-        "totalAvailable": 1,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/10/2026 22:00:00",
-            "league": "Primera División ",
-            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Club 1 de Marzo de Capiibary",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17240977,
-      "date": "06/10/2026 23:00",
-      "league": "Primera División ",
-      "season": {
-        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Club Boca Juniors de San Juan Bautista",
-      "homeId": 1236736,
-      "awayTeam": "Sol Paraguayo FC",
-      "awayId": 1291410,
-      "home": {
-        "teamId": 1236736,
-        "teamName": "Club Boca Juniors de San Juan Bautista",
+        "teamId": 1291411,
+        "teamName": "Olimpia de Itagua",
         "historyLeague": "Primera División",
         "totalInLeague": 1,
         "totalAvailable": 1,
@@ -1773,930 +502,195 @@
             "date": "02/10/2026 01:00:00",
             "league": "Primera División ",
             "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Olimpia de Itagua",
+            "opponent": "Club Boca Juniors de San Juan Bautista",
             "hasPenalty": false
           }
         ]
+      }
+    },
+    {
+      "matchId": 17240983,
+      "date": "07/10/2026 19:00",
+      "league": "Primera División ",
+      "season": {
+        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
+        "year": "2026"
       },
-      "away": {
-        "teamId": 1291410,
-        "teamName": "Sol Paraguayo FC",
+      "homeTeam": "Deportivo San José de Ñeembucú",
+      "homeId": 1236714,
+      "awayTeam": "Guiaremos FC Ñeembucú",
+      "awayId": 1236715,
+      "home": {
+        "teamId": 1236714,
+        "teamName": "Deportivo San José de Ñeembucú",
         "historyLeague": "Primera División",
         "totalInLeague": 1,
         "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "01/10/2026 23:00:00",
+            "date": "02/10/2026 21:00:00",
             "league": "Primera División ",
             "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
-            "opponent": "Club 29 de Setiembre San Juan Ñeembucú",
+            "opponent": "Club Santísima Comunidad de Arroyito",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1236715,
+        "teamName": "Guiaremos FC Ñeembucú",
+        "historyLeague": "Primera División",
+        "totalInLeague": 1,
+        "totalAvailable": 1,
+        "fallback": false,
+        "history": [
+          {
+            "date": "02/10/2026 18:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Club Deportivo Británico FC",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 16588922,
-      "date": "07/10/2026 00:15",
-      "league": "Primera División, Clausura",
+      "matchId": 17240989,
+      "date": "07/10/2026 20:00",
+      "league": "Primera División ",
       "season": {
-        "name": "Division de Honor, Clausura 2026",
+        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
         "year": "2026"
       },
-      "homeTeam": "Olimpia",
-      "homeId": 5997,
-      "awayTeam": "Nacional Asunción",
-      "awayId": 33001,
+      "homeTeam": "Club Nanawa de Laguna ITA",
+      "homeId": 1236730,
+      "awayTeam": "Club Deportivo Arrecife de Lagunita",
+      "awayId": 1291429,
       "home": {
-        "teamId": 5997,
-        "teamName": "Olimpia",
+        "teamId": 1236730,
+        "teamName": "Club Nanawa de Laguna ITA",
         "historyLeague": "Primera División",
-        "totalInLeague": 56,
-        "totalAvailable": 30,
+        "totalInLeague": 1,
+        "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "29/09/2026 00:15:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 15:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/09/2025 00:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/09/2025 20:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/09/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/07/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
+            "date": "02/10/2026 22:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Club KM 29 de San Antonio",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 33001,
-        "teamName": "Nacional Asunción",
+        "teamId": 1291429,
+        "teamName": "Club Deportivo Arrecife de Lagunita",
         "historyLeague": "Primera División",
-        "totalInLeague": 56,
-        "totalAvailable": 30,
+        "totalInLeague": 1,
+        "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "26/09/2026 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/11/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/10/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2025 00:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/09/2025 20:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/07/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
+            "date": "02/10/2026 20:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Club General Diaz de Arroyito",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 16547921,
-      "date": "07/10/2026 02:30",
-      "league": "MLS",
+      "matchId": 17240991,
+      "date": "07/10/2026 20:00",
+      "league": "Primera División ",
       "season": {
-        "name": "MLS 2026",
+        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
         "year": "2026"
       },
-      "homeTeam": "Chicago Fire",
-      "homeId": 2505,
-      "awayTeam": "Vancouver Whitecaps",
-      "awayId": 22010,
+      "homeTeam": "Club KM 29 de San Antonio",
+      "homeId": 1291554,
+      "awayTeam": "Club Santísima Comunidad de Arroyito",
+      "awayId": 1291419,
       "home": {
-        "teamId": 2505,
-        "teamName": "Chicago Fire",
-        "historyLeague": "MLS",
-        "totalInLeague": 97,
-        "totalAvailable": 30,
+        "teamId": 1291554,
+        "teamName": "Club KM 29 de San Antonio",
+        "historyLeague": "Primera División",
+        "totalInLeague": 1,
+        "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "27/09/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Charlotte FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Nashville SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2026 23:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "New England Revolution",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/09/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Inter Miami CF",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Toronto FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2026 22:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Seattle Sounders FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "New York Red Bulls",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/08/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Orlando City SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/08/2026 00:00:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Portland Timbers",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Charlotte FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "New York City FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/07/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Inter Miami CF",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/05/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Toronto FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 22:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "CF Montréal",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/05/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "DC United",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/05/2026 20:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "New York Red Bulls",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/05/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "FC Cincinnati",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/04/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Sporting Kansas City",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/04/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "FC Cincinnati",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/04/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Atlanta United",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Nashville SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/03/2026 21:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Philadelphia Union",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "DC United",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/03/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Columbus Crew",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/02/2026 20:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "CF Montréal",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/02/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Houston Dynamo",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 22:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "Philadelphia Union",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/10/2025 22:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "Philadelphia Union",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/10/2025 02:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "Orlando City SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/10/2025 00:00:00",
-            "league": "MLS",
-            "season": "MLS 2025",
-            "opponent": "New England Revolution",
+            "date": "02/10/2026 22:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Club Nanawa de Laguna ITA",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 22010,
-        "teamName": "Vancouver Whitecaps",
-        "historyLeague": "MLS",
-        "totalInLeague": 103,
-        "totalAvailable": 30,
+        "teamId": 1291419,
+        "teamName": "Club Santísima Comunidad de Arroyito",
+        "historyLeague": "Primera División",
+        "totalInLeague": 1,
+        "totalAvailable": 1,
         "fallback": false,
         "history": [
           {
-            "date": "27/09/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "DC United",
+            "date": "02/10/2026 21:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Deportivo San José de Ñeembucú",
             "hasPenalty": false
-          },
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17240996,
+      "date": "07/10/2026 21:00",
+      "league": "Primera División ",
+      "season": {
+        "name": "Liga Ganadera del Fútbol Ñeembucu 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Club Deportivo Británico FC",
+      "homeId": 1236765,
+      "awayTeam": "River Plate Fc Colonia Mburica",
+      "awayId": 1236737,
+      "home": {
+        "teamId": 1236765,
+        "teamName": "Club Deportivo Británico FC",
+        "historyLeague": "Primera División",
+        "totalInLeague": 1,
+        "totalAvailable": 1,
+        "fallback": false,
+        "history": [
           {
-            "date": "20/09/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Real Salt Lake",
+            "date": "02/10/2026 18:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Guiaremos FC Ñeembucú",
             "hasPenalty": false
-          },
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1236737,
+        "teamName": "River Plate Fc Colonia Mburica",
+        "historyLeague": "Primera División",
+        "totalInLeague": 1,
+        "totalAvailable": 1,
+        "fallback": false,
+        "history": [
           {
-            "date": "14/09/2026 00:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Austin FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/09/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "LA Galaxy",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/09/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "St.Louis City",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Sporting Kansas City",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/08/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "FC Dallas",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/08/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Houston Dynamo",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Seattle Sounders FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Los Angeles FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/07/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Minnesota United",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/07/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "FC Cincinnati",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "San Diego FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/05/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Houston Dynamo",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/05/2026 02:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "FC Dallas",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/05/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "San Jose Earthquakes",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "LA Galaxy",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Colorado Rapids",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/04/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Sporting Kansas City",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "New York City FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Portland Timbers",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/03/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "San Jose Earthquakes",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 21:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Minnesota United",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/03/2026 04:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Portland Timbers",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 03:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Toronto FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/02/2026 01:30:00",
-            "league": "MLS",
-            "season": "MLS 2026",
-            "opponent": "Real Salt Lake",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/12/2025 20:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "Inter Miami CF",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/11/2025 03:00:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "San Diego FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/11/2025 03:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "Los Angeles FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 02:30:00",
-            "league": "MLS, Playoffs",
-            "season": "MLS 2025",
-            "opponent": "FC Dallas",
+            "date": "02/10/2026 00:00:00",
+            "league": "Primera División ",
+            "season": "Liga Ganadera del Fútbol Ñeembucu 2026",
+            "opponent": "Club Atlético Independiente de Colonia Mburica",
             "hasPenalty": false
           }
         ]
