@@ -3,11 +3,14 @@
 //   - saute les fichiers de plus de 25 Mio, la limite par fichier de Pages
 //     (ex. players_stats.json), en le signalant dans le journal de build ;
 //   - ajoute un fichier _headers avec l'en-tête CORS que vercel.json pose
-//     côté Vercel, pour que Statzuka puisse lire les JSON.
+//     côté Vercel, pour que Statzuka puisse lire les JSON ;
+//   - génère les aperçus de partage de Statzuka dans og/ (voir og-images.mjs).
+//     Un échec n'empêche pas la publication des données. SKIP_OG=1 les saute.
 // Réglages Pages : commande `node scripts/cloudflare-pages.mjs`, sortie `cf-dist`.
 import fs from "fs"
 import path from "path"
 import { fileURLToPath } from "url"
+import { buildOgImages } from "./og-images.mjs"
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..")
 const SRC = path.join(ROOT, "public")
@@ -47,3 +50,13 @@ fs.writeFileSync(
 
 console.log(`✅ ${copied} fichiers copiés dans ${path.relative(ROOT, OUT)}/`)
 if (skipped.length) console.log(`⚠️  Ignorés (plus de 25 Mio, limite Cloudflare Pages) : ${skipped.join(", ")}`)
+
+if (process.env.SKIP_OG) {
+    console.log("⏭️  Aperçus de partage sautés (SKIP_OG)")
+} else {
+    try {
+        await buildOgImages(SRC, OUT)
+    } catch (e) {
+        console.log(`⚠️  Aperçus de partage non générés : ${e.message}`)
+    }
+}
