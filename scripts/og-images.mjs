@@ -155,7 +155,7 @@ function frame(rightLabel, showAbsent, ...content) {
             h(
                 "div",
                 { justifyContent: "space-between", alignItems: "center", fontSize: 22, color: C.muted },
-                h("div", { gap: 18, alignItems: "center" }, legendItem(C.accent, "B = but"), legendItem(C.assist, "P = passe"), showAbsent && legendItem("#3a4660", "n'a pas joué")),
+                h("div", { gap: 18, alignItems: "center" }, legendItem(C.accent, showAbsent ? "B = but" : "but"), legendItem(C.assist, showAbsent ? "P = passe" : "passe"), showAbsent && legendItem("#3a4660", "n'a pas joué")),
                 text(SITE, { fontWeight: 600, color: C.text }),
             ),
         ),
