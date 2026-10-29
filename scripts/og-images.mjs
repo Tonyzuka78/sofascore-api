@@ -155,7 +155,7 @@ function frame(rightLabel, showAbsent, ...content) {
             h(
                 "div",
                 { justifyContent: "space-between", alignItems: "center", fontSize: 22, color: C.muted },
-                h("div", { gap: 18, alignItems: "center" }, legendItem(C.accent, "but"), legendItem(C.assist, "passe"), showAbsent && legendItem("#3a4660", "n'a pas joué")),
+                h("div", { gap: 18, alignItems: "center" }, legendItem(C.accent, "B = but"), legendItem(C.assist, "P = passe"), showAbsent && legendItem("#3a4660", "n'a pas joué")),
                 text(SITE, { fontWeight: 600, color: C.text }),
             ),
         ),
@@ -182,24 +182,23 @@ function statPair(goals, assists, size) {
     return h("div", { gap: size * 0.25 }, one(goals, "BUT", C.accent), one(assists, "PASSE", C.assist))
 }
 
+// Forme comme sur le site : une colonne par match, ligne B = buts (orange),
+// ligne P = passes (bleu), nombre exact dans la case ; grisé = n'a pas joué.
 function formDots(form, size) {
-    return h(
-        "div",
-        { gap: size * 0.22 },
-        form.map((g) => {
-            const base = { width: size, height: size, borderRadius: size * 0.22, alignItems: "center", justifyContent: "center", fontSize: size * 0.5, fontWeight: 700, color: "#fff" }
-            if (!g) return h("div", { ...base, background: "#3a4660" })
-            const pts = g.goal + g.assist
-            if (pts === 0) return h("div", { ...base, background: C.panel, border: `2px solid ${C.line}` })
-            const bg =
-                g.goal > 0 && g.assist > 0
-                    ? `linear-gradient(135deg, ${C.accent} 50%, ${C.assist} 50%)`
-                    : g.goal > 0
-                      ? C.accent
-                      : C.assist
-            return h("div", { ...base, backgroundImage: bg.startsWith("linear") ? bg : undefined, background: bg.startsWith("linear") ? undefined : bg }, String(pts))
-        }),
-    )
+    const base = { width: size, height: size, borderRadius: size * 0.22, alignItems: "center", justifyContent: "center", fontSize: size * 0.52, fontWeight: 700, color: "#fff" }
+    const row = (kind, label, color) =>
+        h(
+            "div",
+            { gap: size * 0.22, alignItems: "center" },
+            text(label, { width: size * 0.6, fontSize: size * 0.5, fontWeight: 700, color }),
+            form.map((g) => {
+                if (!g) return h("div", { ...base, background: "#3a4660" })
+                const n = kind === "goal" ? g.goal : g.assist
+                if (n === 0) return h("div", { ...base, background: C.panel, border: `2px solid ${C.line}` })
+                return h("div", { ...base, background: color }, String(n))
+            }),
+        )
+    return h("div", { flexDirection: "column", gap: size * 0.18 }, row("goal", "B", C.accent), row("assist", "P", C.assist))
 }
 
 function resultChips(results) {
@@ -286,8 +285,8 @@ function playerCard(sport, row, next) {
     const box = (value, label, color) =>
         h(
             "div",
-            { flexDirection: "column", background: C.panel, borderRadius: 16, padding: "14px 28px", minWidth: 210 },
-            text(value, { fontFamily: "Big Shoulders", fontWeight: 900, fontSize: 96, lineHeight: 1, color }),
+            { flexDirection: "column", background: C.panel, borderRadius: 16, padding: "10px 28px", minWidth: 210 },
+            text(value, { fontFamily: "Big Shoulders", fontWeight: 900, fontSize: 80, lineHeight: 1, color }),
             text(label, { fontSize: 24, fontWeight: 700, color: C.muted }),
         )
     const tree = frame(
@@ -304,9 +303,9 @@ function playerCard(sport, row, next) {
         ),
         h(
             "div",
-            { flexDirection: "column", gap: 10, marginTop: 22, flexGrow: 1 },
+            { flexDirection: "column", gap: 8, marginTop: 16, marginBottom: 14, flexGrow: 1 },
             text("Forme, du plus récent au plus ancien", { fontSize: 20, color: C.muted, fontWeight: 600 }),
-            formDots(s.form, 44),
+            formDots(s.form, 38),
         ),
         next ? text(`Prochain match : ${next.homeTeam} – ${next.awayTeam} · ${kickoff(next.date)}`, { fontSize: 24, fontWeight: 600, marginBottom: 16 }) : null,
     )
