@@ -1,3519 +1,2483 @@
 {
-  "generatedAt": "09/11/2026 08:18:06",
+  "generatedAt": "10/11/2026 08:09:59",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 12,
-    "sansHistorique": 2
+    "totalMatchs": 16,
+    "sansHistorique": 0
   },
   "matchs": [
     {
-      "matchId": 17277945,
-      "date": "09/11/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
+      "matchId": 17476489,
+      "date": "10/11/2026 14:00",
+      "league": "Premiership ",
       "season": {
-        "name": "26/27",
+        "name": "East Soccer League  26/27",
         "year": "26/27"
       },
-      "homeTeam": "Equatorial Guinea U23",
-      "homeId": 312798,
-      "awayTeam": "Niger U23",
-      "awayId": 312757,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277966,
-      "date": "09/11/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "South Sudan U23",
-      "homeId": 304344,
-      "awayTeam": "Senegal U23",
-      "awayId": 49095,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17340633,
-      "date": "09/11/2026 17:00",
-      "league": "Erovnuli Liga",
-      "season": {
-        "name": "Erovnuli Liga 2026",
-        "year": "2026"
-      },
-      "homeTeam": "FC Iberia 1999",
-      "homeId": 116312,
-      "awayTeam": "FC Gagra",
-      "awayId": 36865,
+      "homeTeam": "African Stars FC",
+      "homeId": 1272907,
+      "awayTeam": "Royal Kings FC",
+      "awayId": 1272289,
       "home": {
-        "teamId": 116312,
-        "teamName": "FC Iberia 1999",
-        "historyLeague": "Erovnuli Liga",
-        "totalInLeague": 103,
-        "totalAvailable": 30,
+        "teamId": 1272907,
+        "teamName": "African Stars FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
         "fallback": false,
         "history": [
           {
-            "date": "31/10/2026 16:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
             "hasPenalty": false
           },
           {
-            "date": "26/10/2026 16:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
+            "date": "18/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "19/10/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
+            "date": "12/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
             "hasPenalty": false
           },
           {
-            "date": "10/10/2026 13:30:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
+            "date": "05/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "04/10/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
-            "hasPenalty": true
-          },
-          {
-            "date": "21/09/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "17/09/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
+            "date": "15/08/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
             "hasPenalty": false
           },
           {
-            "date": "09/09/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
             "hasPenalty": false
           },
           {
-            "date": "05/09/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/08/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Gagra",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/08/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/06/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/06/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/06/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/05/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Gagra",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/05/2026 14:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/04/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/04/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/04/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/04/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/04/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Gagra",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 15:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/03/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
+            "date": "01/08/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 36865,
-        "teamName": "FC Gagra",
-        "historyLeague": "Erovnuli Liga",
-        "totalInLeague": 103,
-        "totalAvailable": 30,
+        "teamId": 1272289,
+        "teamName": "Royal Kings FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 10,
+        "totalAvailable": 10,
         "fallback": false,
         "history": [
           {
-            "date": "01/11/2026 14:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
             "hasPenalty": false
           },
           {
-            "date": "23/10/2026 16:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
+            "date": "24/10/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2026 16:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476490,
+      "date": "10/11/2026 14:00",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Mountain Rovers FC",
+      "homeId": 1272287,
+      "awayTeam": "Black Leopards United",
+      "awayId": 1272290,
+      "home": {
+        "teamId": 1272287,
+        "teamName": "Mountain Rovers FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272290,
+        "teamName": "Black Leopards United",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
             "hasPenalty": false
           },
           {
             "date": "17/10/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 13:30:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "19/09/2026 16:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
+            "date": "20/09/2026 16:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "14/09/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
+            "date": "12/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
             "hasPenalty": false
           },
           {
-            "date": "10/09/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
+            "date": "04/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
             "hasPenalty": false
           },
           {
-            "date": "05/09/2026 16:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "31/08/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Iberia 1999",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/08/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
+            "date": "19/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
             "hasPenalty": false
           },
           {
-            "date": "17/08/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
+            "date": "14/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
             "hasPenalty": false
           },
           {
-            "date": "08/08/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/06/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/06/2026 15:30:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
             "hasPenalty": false
-          },
-          {
-            "date": "14/06/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/05/2026 18:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Iberia 1999",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 15:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/05/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/05/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/05/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Samgurali Tskhaltubo",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/04/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Meshakhte Tkibuli",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/04/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Tbilisi",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/04/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Torpedo Kutaisi",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/04/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Dila Gori",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/04/2026 19:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Iberia 1999",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Rustavi",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/03/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "FC Spaeri",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 17:00:00",
-            "league": "Erovnuli Liga",
-            "season": "Erovnuli Liga 2026",
-            "opponent": "Dinamo Batumi",
-            "hasPenalty": true
           }
         ]
       }
     },
     {
-      "matchId": 16403934,
-      "date": "09/11/2026 19:00",
-      "league": "Superliga",
+      "matchId": 17476494,
+      "date": "10/11/2026 14:00",
+      "league": "Premiership ",
       "season": {
-        "name": "Superliga 26/27",
+        "name": "East Soccer League  26/27",
         "year": "26/27"
       },
-      "homeTeam": "FC Botoșani",
-      "homeId": 24798,
-      "awayTeam": "SC Oțelul Galați",
-      "awayId": 3291,
+      "homeTeam": "Victory FC",
+      "homeId": 1272283,
+      "awayTeam": "Thaba Eagles FC",
+      "awayId": 1272295,
       "home": {
-        "teamId": 24798,
-        "teamName": "FC Botoșani",
-        "historyLeague": "Superliga",
-        "totalInLeague": 74,
-        "totalAvailable": 30,
+        "teamId": 1272283,
+        "teamName": "Victory FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
         "fallback": false,
         "history": [
           {
-            "date": "01/11/2026 16:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "Universitatea Craiova",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/10/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Petrolul Ploiești",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/10/2026 20:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Dinamo București",
+            "date": "07/11/2026 14:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
             "hasPenalty": true
           },
           {
-            "date": "10/10/2026 16:15:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "UTA Arad",
+            "date": "17/10/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
             "hasPenalty": true
           },
           {
-            "date": "19/09/2026 16:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "CFR 1907 Cluj",
+            "date": "13/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "13/09/2026 14:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Argeș Pitești",
+            "date": "01/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "05/09/2026 14:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "Sepsi OSK Sfântu Gheorghe",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272295,
+        "teamName": "Thaba Eagles FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 10,
+        "totalAvailable": 10,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476495,
+      "date": "10/11/2026 14:00",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Lerumo Lions FC",
+      "homeId": 1272906,
+      "awayTeam": "Bafana Royal FC",
+      "awayId": 1272294,
+      "home": {
+        "teamId": 1272906,
+        "teamName": "Lerumo Lions FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:15:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
             "hasPenalty": true
           },
           {
-            "date": "30/08/2026 15:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FCV Farul Constanța",
+            "date": "10/10/2026 16:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272294,
+        "teamName": "Bafana Royal FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
             "hasPenalty": true
           },
           {
-            "date": "24/08/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FK Csíkszereda Miercurea Ciuc",
+            "date": "15/10/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
             "hasPenalty": false
           },
           {
-            "date": "17/08/2026 20:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FCSB",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/08/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Corvinul Hunedoara",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/08/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Universitatea Cluj",
+            "date": "19/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
             "hasPenalty": true
           },
           {
-            "date": "27/07/2026 20:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Rapid București",
+            "date": "12/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476491,
+      "date": "10/11/2026 14:30",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Iron Eagles FC",
+      "homeId": 1272286,
+      "awayTeam": "Rising Stars FC",
+      "awayId": 1272291,
+      "home": {
+        "teamId": 1272286,
+        "teamName": "Iron Eagles FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:15:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2026 18:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
             "hasPenalty": true
           },
           {
-            "date": "17/07/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Voluntari",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Petrolul Ploiești",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/02/2026 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Hermannstadt",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/02/2026 19:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Universitatea Cluj",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/02/2026 13:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "UTA Arad",
+            "date": "06/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
             "hasPenalty": true
           },
           {
-            "date": "08/02/2026 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Metaloglobus București",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "05/02/2026 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FCSB",
+            "date": "15/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
             "hasPenalty": false
           },
           {
-            "date": "02/02/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "SC Oțelul Galați",
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "24/01/2026 19:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "Universitatea Craiova",
+            "date": "02/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272291,
+        "teamName": "Rising Stars FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
             "hasPenalty": false
           },
           {
-            "date": "18/01/2026 14:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FK Csíkszereda Miercurea Ciuc",
+            "date": "18/10/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "19/12/2025 19:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "CFR 1907 Cluj",
+            "date": "20/09/2026 16:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
             "hasPenalty": false
           },
           {
-            "date": "13/12/2025 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Argeș Pitești",
+            "date": "16/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
             "hasPenalty": false
           },
           {
-            "date": "08/12/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Rapid București",
+            "date": "01/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
             "hasPenalty": false
           },
           {
-            "date": "30/11/2025 16:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "AFC Unirea 04 Slobozia",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "24/11/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Dinamo București",
+            "date": "16/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "07/11/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Farul Constanța",
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476496,
+      "date": "10/11/2026 14:30",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "East Warriors FC",
+      "homeId": 1272292,
+      "awayTeam": "Ubuntu United FC",
+      "awayId": 1272293,
+      "home": {
+        "teamId": 1272292,
+        "teamName": "East Warriors FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 13:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272293,
+        "teamName": "Ubuntu United FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:15:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
             "hasPenalty": true
           },
           {
-            "date": "03/11/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Petrolul Ploiești",
+            "date": "26/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 13:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476492,
+      "date": "10/11/2026 18:30",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Leopard Athletic FC",
+      "homeId": 1272285,
+      "awayTeam": "Mighty Lions FC",
+      "awayId": 1272296,
+      "home": {
+        "teamId": 1272285,
+        "teamName": "Leopard Athletic FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 10,
+        "totalAvailable": 10,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2026 18:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Black Leopards United",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1272296,
+        "teamName": "Mighty Lions FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 14:15:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "African Stars FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Ubuntu United FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 20:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "East Warriors FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018514,
+      "date": "10/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Real Madrid (F)",
+      "homeId": 305051,
+      "awayTeam": "Paris FC (F)",
+      "awayId": 264964,
+      "home": {
+        "teamId": 305051,
+        "teamName": "Real Madrid (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 21,
+        "totalAvailable": 21,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/09/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/09/2024 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
             "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 3291,
-        "teamName": "SC Oțelul Galați",
-        "historyLeague": "Superliga",
-        "totalInLeague": 74,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/11/2026 14:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "Sepsi OSK Sfântu Gheorghe",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/10/2026 15:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FCV Farul Constanța",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/10/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FK Csíkszereda Miercurea Ciuc",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 20:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FCSB",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Corvinul Hunedoara",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/09/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Universitatea Cluj",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/09/2026 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Rapid București",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/08/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Voluntari",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/08/2026 20:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Argeș Pitești",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "Universitatea Craiova",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Petrolul Ploiești",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/07/2026 20:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "FC Dinamo București",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/07/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "UTA Arad",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 26/27",
-            "opponent": "CFR 1907 Cluj",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/03/2026 13:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Hermannstadt",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/02/2026 19:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Universitatea Cluj",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/02/2026 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "UTA Arad",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/02/2026 13:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Metaloglobus București",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/02/2026 19:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FCSB",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/02/2026 17:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "Universitatea Craiova",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/02/2026 17:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Botoșani",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/01/2026 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FK Csíkszereda Miercurea Ciuc",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/01/2026 16:45:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "CFR 1907 Cluj",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/12/2025 16:00:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Argeș Pitești",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/12/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Rapid București",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/12/2025 19:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "AFC Unirea 04 Slobozia",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/11/2025 19:45:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Dinamo București",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/11/2025 16:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Farul Constanța",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 13:30:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Petrolul Ploiești",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/11/2025 16:45:00",
-            "league": "Superliga",
-            "season": "Superliga 25/26",
-            "opponent": "FC Hermannstadt",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17102451,
-      "date": "09/11/2026 19:00",
-      "league": "Serie A, Relegation Round",
-      "season": {
-        "name": "LigaPro Primera A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Mushuc Runa SC",
-      "homeId": 134976,
-      "awayTeam": "Delfín",
-      "awayId": 213638,
-      "home": {
-        "teamId": 134976,
-        "teamName": "Mushuc Runa SC",
-        "historyLeague": "Serie A, Relegation Round",
+        "teamId": 264964,
+        "teamName": "Paris FC (F)",
+        "historyLeague": "UEFA Champions League, Women",
         "totalInLeague": 11,
         "totalAvailable": 11,
         "fallback": false,
         "history": [
           {
-            "date": "03/11/2026 21:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
+            "date": "29/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Arsenal",
             "hasPenalty": true
           },
           {
-            "date": "26/10/2026 21:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
+            "date": "23/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
             "hasPenalty": true
           },
           {
-            "date": "19/10/2026 22:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
+            "date": "11/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 19:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
             "hasPenalty": true
           },
           {
-            "date": "09/10/2026 22:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
+            "date": "18/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 23:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
+            "date": "07/09/2024 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sparta Prague",
             "hasPenalty": false
           },
           {
-            "date": "29/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
+            "date": "04/09/2024 14:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "First Vienna",
             "hasPenalty": false
-          },
-          {
-            "date": "22/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Técnico Universitario",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2025 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Manta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/10/2025 22:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
-            "hasPenalty": true
           }
         ]
+      }
+    },
+    {
+      "matchId": 17018525,
+      "date": "10/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
       },
-      "away": {
-        "teamId": 213638,
-        "teamName": "Delfín",
-        "historyLeague": "Serie A, Relegation Round",
+      "homeTeam": "BK Häcken FF (F)",
+      "homeId": 1889,
+      "awayTeam": "Chelsea FC (F)",
+      "awayId": 66768,
+      "home": {
+        "teamId": 1889,
+        "teamName": "BK Häcken FF (F)",
+        "historyLeague": "UEFA Champions League, Women",
         "totalInLeague": 5,
         "totalAvailable": 5,
         "fallback": false,
         "history": [
           {
-            "date": "31/10/2026 17:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
+            "date": "29/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
             "hasPenalty": false
           },
           {
-            "date": "24/10/2026 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Juventus",
             "hasPenalty": false
           },
           {
-            "date": "18/10/2026 18:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Inter",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Club Atlético de Madrid",
             "hasPenalty": true
           },
           {
-            "date": "09/10/2026 22:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Club Atlético de Madrid",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 66768,
+        "teamName": "Chelsea FC (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 17,
+        "totalAvailable": 17,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "AS Roma",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 20:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Sociedad",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Sociedad",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
             "hasPenalty": true
           }
         ]
       }
     },
     {
-      "matchId": 17505158,
-      "date": "09/11/2026 19:00",
-      "league": "Eliteserien",
+      "matchId": 17370494,
+      "date": "10/11/2026 19:00",
+      "league": "Sergipano, Série A2 - Grupo A",
       "season": {
-        "name": "Eliteserien 2026",
+        "name": "Sergipano, Série A2 2026",
         "year": "2026"
       },
-      "homeTeam": "Kristiansund BK",
-      "homeId": 957,
-      "awayTeam": "Vålerenga IF",
-      "awayId": 1165,
+      "homeTeam": "América de Pedrinhas",
+      "homeId": 336430,
+      "awayTeam": "Flamengo-SE",
+      "awayId": 486060,
       "home": {
-        "teamId": 957,
-        "teamName": "Kristiansund BK",
-        "historyLeague": "Eliteserien",
-        "totalInLeague": 85,
-        "totalAvailable": 30,
+        "teamId": 336430,
+        "teamName": "América de Pedrinhas",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
         "fallback": false,
         "history": [
           {
-            "date": "01/11/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sarpsborg 08",
+            "date": "07/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Olímpico EC",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Socorrense",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Carmópolis",
             "hasPenalty": true
           },
           {
-            "date": "25/10/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "KFUM Oslo",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/10/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Aalesunds FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Bodø/Glimt",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Rosenborg BK",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Viking FK",
-            "hasPenalty": true
-          },
-          {
-            "date": "06/09/2026 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Tromsø IL",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "HamKam",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Fredrikstad FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Molde FK",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/08/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "KFUM Oslo",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "IK Start",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sarpsborg 08",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/07/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Rosenborg BK",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/05/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Vålerenga IF",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 18:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Viking FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/05/2026 19:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Lillestrøm SK",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Molde FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/05/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sandefjord Fotball",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "HamKam",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Aalesunds FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Fredrikstad FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/04/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Tromsø IL",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/04/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Bodø/Glimt",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "SK Brann",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/11/2025 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Tromsø IL",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/11/2025 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Vålerenga IF",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Strømsgodset",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/11/2025 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Fredrikstad FK",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/10/2025 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "HamKam",
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "CD Canindé",
             "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 1165,
-        "teamName": "Vålerenga IF",
-        "historyLeague": "Eliteserien",
-        "totalInLeague": 55,
-        "totalAvailable": 30,
+        "teamId": 486060,
+        "teamName": "Flamengo-SE",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
         "fallback": false,
         "history": [
           {
-            "date": "01/11/2026 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Tromsø IL",
+            "date": "07/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "CD Canindé",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Olímpico EC",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 13:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Socorrense",
             "hasPenalty": true
           },
           {
-            "date": "24/10/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Bodø/Glimt",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "SK Brann",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/10/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "KFUM Oslo",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/09/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Fredrikstad FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2026 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Lillestrøm SK",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sarpsborg 08",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Molde FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Aalesunds FK",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2026 14:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Bodø/Glimt",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/07/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "HamKam",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "SK Brann",
-            "hasPenalty": true
-          },
-          {
-            "date": "16/07/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Aalesunds FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/07/2026 18:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Tromsø IL",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/05/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Kristiansund BK",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/05/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "IK Start",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 20:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sarpsborg 08",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/05/2026 19:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "HamKam",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "KFUM Oslo",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Molde FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/04/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Lillestrøm SK",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Fredrikstad FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/04/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Viking FK",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/03/2026 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Rosenborg BK",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2026",
-            "opponent": "Sandefjord Fotball",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/11/2025 17:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Viking FK",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/11/2025 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Kristiansund BK",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 14:30:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Rosenborg BK",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 16:00:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Bodø/Glimt",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 19:15:00",
-            "league": "Eliteserien",
-            "season": "Eliteserien 2025",
-            "opponent": "Strømsgodset",
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Carmópolis",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 16418312,
-      "date": "09/11/2026 20:30",
-      "league": "LaLiga 2",
+      "matchId": 17370495,
+      "date": "10/11/2026 19:00",
+      "league": "Sergipano, Série A2 - Grupo A",
       "season": {
-        "name": "LaLiga 2 26/27",
+        "name": "Sergipano, Série A2 2026",
+        "year": "2026"
+      },
+      "homeTeam": "CD Canindé",
+      "homeId": 394851,
+      "awayTeam": "AD Socorrense",
+      "awayId": 188847,
+      "home": {
+        "teamId": 394851,
+        "teamName": "CD Canindé",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Flamengo-SE",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Carmópolis",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Olímpico EC",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "América de Pedrinhas",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 188847,
+        "teamName": "AD Socorrense",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 13:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Carmópolis",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "América de Pedrinhas",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 13:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Flamengo-SE",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Olímpico EC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17370497,
+      "date": "10/11/2026 19:00",
+      "league": "Sergipano, Série A2 - Grupo A",
+      "season": {
+        "name": "Sergipano, Série A2 2026",
+        "year": "2026"
+      },
+      "homeTeam": "AD Carmópolis",
+      "homeId": 486062,
+      "awayTeam": "Olímpico EC",
+      "awayId": 307385,
+      "home": {
+        "teamId": 486062,
+        "teamName": "AD Carmópolis",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 13:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Socorrense",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "CD Canindé",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "América de Pedrinhas",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Flamengo-SE",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 307385,
+        "teamName": "Olímpico EC",
+        "historyLeague": "Sergipano, Série A2 - Grupo A",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "América de Pedrinhas",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "Flamengo-SE",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "CD Canindé",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 19:00:00",
+            "league": "Sergipano, Série A2 - Grupo A",
+            "season": "Sergipano, Série A2 2026",
+            "opponent": "AD Socorrense",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17476493,
+      "date": "10/11/2026 19:30",
+      "league": "Premiership ",
+      "season": {
+        "name": "East Soccer League  26/27",
         "year": "26/27"
       },
-      "homeTeam": "CE Sabadell",
-      "homeId": 24335,
-      "awayTeam": "Real Sociedad B",
-      "awayId": 24360,
+      "homeTeam": "Golden Lions FC",
+      "homeId": 1272284,
+      "awayTeam": "Golden Arrows United",
+      "awayId": 1272288,
       "home": {
-        "teamId": 24335,
-        "teamName": "CE Sabadell",
-        "historyLeague": "LaLiga 2",
-        "totalInLeague": 12,
-        "totalAvailable": 12,
+        "teamId": 1272284,
+        "teamName": "Golden Lions FC",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
         "fallback": false,
         "history": [
           {
-            "date": "31/10/2026 21:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Albacete Balompié",
+            "date": "07/11/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "25/10/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "CD Tenerife",
+            "date": "17/10/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Victory FC",
             "hasPenalty": false
           },
           {
-            "date": "18/10/2026 21:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Burgos Club de Fútbol",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "AD Ceuta",
+            "date": "20/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "04/10/2026 21:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "FC Andorra",
+            "date": "12/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
             "hasPenalty": false
           },
           {
-            "date": "26/09/2026 18:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Celta Fortuna",
+            "date": "05/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Real Oviedo",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2026 18:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Mallorca",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/09/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Córdoba",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/08/2026 17:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Almería",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/08/2026 19:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "CD Castellón",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/08/2026 19:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Sporting Gijón",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 24360,
-        "teamName": "Real Sociedad B",
-        "historyLeague": "LaLiga 2",
-        "totalInLeague": 54,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "31/10/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Girona FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/10/2026 18:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "UD Las Palmas",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Almería",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2026 21:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Celta Fortuna",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/10/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Granada",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/09/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "AD Ceuta",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Mallorca",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "FC Andorra",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "CD Tenerife",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/08/2026 19:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Burgos Club de Fútbol",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/08/2026 19:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "Albacete Balompié",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/08/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 26/27",
-            "opponent": "CD Castellón",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/05/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Cultural Leonesa",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/05/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Albacete Balompié",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Mirandés",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/05/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Huesca",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/05/2026 18:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Burgos Club de Fútbol",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/04/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Real Valladolid",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/04/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Real Racing Club",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/04/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "AD Ceuta",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/04/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Sporting Gijón",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/04/2026 20:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Eibar",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/03/2026 21:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Almería",
-            "hasPenalty": true
-          },
-          {
-            "date": "22/03/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Granada",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/03/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Córdoba",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/03/2026 16:15:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "CD Castellón",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/03/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Deportivo de A Coruña",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/02/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Cádiz",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/02/2026 20:30:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "Málaga CF",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/02/2026 14:00:00",
-            "league": "LaLiga 2",
-            "season": "LaLiga 2 25/26",
-            "opponent": "FC Andorra",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 16588994,
-      "date": "09/11/2026 21:00",
-      "league": "Primera División, Clausura",
-      "season": {
-        "name": "Division de Honor, Clausura 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Sportivo San Lorenzo",
-      "homeId": 90972,
-      "awayTeam": "Rubio Ñu",
-      "awayId": 36438,
-      "home": {
-        "teamId": 90972,
-        "teamName": "Sportivo San Lorenzo",
-        "historyLeague": "Primera División",
-        "totalInLeague": 18,
-        "totalAvailable": 18,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/11/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/10/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/10/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/10/2026 00:20:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
+            "date": "25/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
             "hasPenalty": false
           },
           {
             "date": "16/08/2026 15:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Rising Stars FC",
             "hasPenalty": false
           },
           {
-            "date": "03/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
+            "date": "11/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mighty Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "30/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
+            "date": "01/08/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Arrows United",
             "hasPenalty": false
-          },
-          {
-            "date": "25/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 36438,
-        "teamName": "Rubio Ñu",
-        "historyLeague": "Primera División",
-        "totalInLeague": 18,
-        "totalAvailable": 18,
+        "teamId": 1272288,
+        "teamName": "Golden Arrows United",
+        "historyLeague": "Premiership",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
         "fallback": false,
         "history": [
           {
-            "date": "05/11/2026 23:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
+            "date": "07/11/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
             "hasPenalty": false
           },
           {
-            "date": "30/10/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/10/2026 00:20:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
+            "date": "16/10/2026 14:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Lerumo Lions FC",
             "hasPenalty": false
           },
           {
-            "date": "11/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
+            "date": "18/09/2026 15:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Mountain Rovers FC",
             "hasPenalty": false
           },
           {
-            "date": "06/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
+            "date": "13/09/2026 18:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Iron Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "26/09/2026 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
+            "date": "06/09/2026 15:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Leopard Athletic FC",
             "hasPenalty": false
           },
           {
-            "date": "13/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
+            "date": "26/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Bafana Royal FC",
             "hasPenalty": false
           },
           {
-            "date": "06/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
+            "date": "16/08/2026 17:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Thaba Eagles FC",
             "hasPenalty": false
           },
           {
-            "date": "28/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
+            "date": "12/08/2026 19:30:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Royal Kings FC",
             "hasPenalty": false
           },
           {
-            "date": "21/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "CS 2 de Mayo",
+            "date": "01/08/2026 19:00:00",
+            "league": "Premiership ",
+            "season": "East Soccer League  26/27",
+            "opponent": "Golden Lions FC",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 16472612,
-      "date": "09/11/2026 21:15",
-      "league": "Liga Portugal 2",
+      "matchId": 17018509,
+      "date": "10/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "Liga Portugal 2 26/27",
+        "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "Torreense",
-      "homeId": 25787,
-      "awayTeam": "União de Leiria",
-      "awayId": 3000,
+      "homeTeam": "Paris Saint-Germain (F)",
+      "homeId": 55505,
+      "awayTeam": "FC Bayern München (F)",
+      "awayId": 5543,
       "home": {
-        "teamId": 25787,
-        "teamName": "Torreense",
-        "historyLeague": "Liga Portugal 2",
-        "totalInLeague": 77,
-        "totalAvailable": 30,
+        "teamId": 55505,
+        "teamName": "Paris Saint-Germain (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
         "fallback": false,
         "history": [
           {
-            "date": "31/10/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Portimonense SAD",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2026 21:45:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Amarante FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Tondela",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/09/2026 19:45:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Leixões SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "SL Benfica B",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2026 21:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Vizela",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Lusitânia Lourosa",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/08/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Penafiel",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "SC Farense",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Vizela",
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
             "hasPenalty": true
           },
           {
-            "date": "09/05/2026 21:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Lusitânia Lourosa",
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
             "hasPenalty": true
           },
           {
-            "date": "04/05/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Penafiel",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Feirense",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "CS Marítimo",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Chaves",
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
             "hasPenalty": true
           },
           {
-            "date": "06/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Leixões SC",
+            "date": "26/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
             "hasPenalty": false
           },
           {
-            "date": "22/03/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Felgueiras",
+            "date": "26/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
             "hasPenalty": true
           },
           {
-            "date": "16/03/2026 21:15:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Portimonense SAD",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/03/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "UD Oliveirense",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "FC Porto B",
-            "hasPenalty": true
-          },
-          {
-            "date": "21/02/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "SL Benfica B U21",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/02/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Paços de Ferreira",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "União de Leiria",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/01/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Académico Viseu FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/01/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "SC Farense",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/01/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Sporting CP B U21",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/01/2026 21:15:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Vizela",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/12/2025 21:15:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Lusitânia Lourosa",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/12/2025 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Penafiel",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/12/2025 21:15:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Feirense",
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 3000,
-        "teamName": "União de Leiria",
-        "historyLeague": "Liga Portugal 2",
-        "totalInLeague": 77,
-        "totalAvailable": 30,
+        "teamId": 5543,
+        "teamName": "FC Bayern München (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 15,
+        "totalAvailable": 15,
         "fallback": false,
         "history": [
           {
-            "date": "31/10/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "AVS - Futebol SAD",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
             "hasPenalty": false
           },
           {
-            "date": "25/10/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "FC Porto B",
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Benfica",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
             "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Académica Coimbra",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Amarante FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Portimonense SAD",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/08/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Tondela",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Leixões SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/08/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "SL Benfica B U21",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/08/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 26/27",
-            "opponent": "Vizela",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/05/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Feirense",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/05/2026 21:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Vizela",
-            "hasPenalty": false
           },
           {
             "date": "03/05/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "SC Farense",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:15:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
             "hasPenalty": true
           },
           {
-            "date": "25/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Felgueiras",
+            "date": "26/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
           },
           {
-            "date": "18/04/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Penafiel",
+            "date": "18/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
             "hasPenalty": true
           },
           {
-            "date": "11/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "SL Benfica B U21",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/04/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Lusitânia Lourosa",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/03/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Paços de Ferreira",
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
             "hasPenalty": true
           },
           {
-            "date": "20/03/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Chaves",
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
             "hasPenalty": false
           },
           {
-            "date": "15/03/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Marítimo",
+            "date": "21/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
             "hasPenalty": true
           },
           {
-            "date": "08/03/2026 15:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Leixões SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/02/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Portimonense SAD",
+            "date": "16/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
             "hasPenalty": false
           },
           {
-            "date": "21/02/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "UD Oliveirense",
-            "hasPenalty": true
-          },
-          {
-            "date": "15/02/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "FC Porto B",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/02/2026 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Torreense",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/01/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Sporting CP B U21",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/01/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Vizela",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/01/2026 19:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Académico Viseu FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/01/2026 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Feirense",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/12/2025 16:30:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "SC Farense",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/12/2025 12:00:00",
-            "league": "Liga Portugal 2",
-            "season": "Liga Portugal 2 25/26",
-            "opponent": "Felgueiras",
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 17102448,
-      "date": "09/11/2026 21:30",
-      "league": "Serie A, Relegation Round",
+      "matchId": 17018526,
+      "date": "10/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "LigaPro Primera A 2026",
-        "year": "2026"
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
       },
-      "homeTeam": "Técnico Universitario",
-      "homeId": 21941,
-      "awayTeam": "Manta FC",
-      "awayId": 33561,
+      "homeTeam": "AS Roma (F)",
+      "homeId": 301414,
+      "awayTeam": "Servette FC Chênois Féminin (F)",
+      "awayId": 305811,
       "home": {
-        "teamId": 21941,
-        "teamName": "Técnico Universitario",
-        "historyLeague": "Serie A, Relegation Round",
-        "totalInLeague": 11,
-        "totalAvailable": 11,
+        "teamId": 301414,
+        "teamName": "AS Roma (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 15,
+        "totalAvailable": 15,
         "fallback": false,
         "history": [
           {
-            "date": "02/11/2026 21:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Chelsea FC",
             "hasPenalty": false
           },
           {
-            "date": "26/10/2026 21:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
             "hasPenalty": true
           },
           {
-            "date": "16/10/2026 22:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
+            "date": "18/09/2025 17:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sporting CP",
             "hasPenalty": false
           },
           {
-            "date": "10/10/2026 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Manta FC",
+            "date": "11/09/2025 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sporting CP",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 20:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
+            "date": "30/08/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sparta Prague",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/08/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FK Aktobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
             "hasPenalty": true
           },
           {
-            "date": "29/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Manta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/11/2025 19:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2025 19:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
+            "date": "08/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
             "hasPenalty": true
           },
           {
-            "date": "19/10/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Manta FC",
+            "date": "26/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 14:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Servette FC Chênois Féminin",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 33561,
-        "teamName": "Manta FC",
-        "historyLeague": "Serie A, Relegation Round",
-        "totalInLeague": 11,
-        "totalAvailable": 11,
+        "teamId": 305811,
+        "teamName": "Servette FC Chênois Féminin (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
         "fallback": false,
         "history": [
           {
-            "date": "03/11/2026 21:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/10/2026 18:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Deportivo Cuenca",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
             "hasPenalty": false
           },
           {
-            "date": "18/10/2026 18:30:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Delfín",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2026 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Técnico Universitario",
+            "date": "01/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "HB Køge",
             "hasPenalty": false
           },
           {
-            "date": "21/09/2026 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2026",
-            "opponent": "Orense SC",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Técnico Universitario",
+            "date": "23/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
           },
           {
-            "date": "22/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/11/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Mushuc Runa SC",
+            "date": "02/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Sparta Prague",
             "hasPenalty": false
           },
           {
-            "date": "02/11/2025 19:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Vinotinto FC",
+            "date": "26/08/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Sparta Prague",
             "hasPenalty": false
           },
           {
-            "date": "25/10/2025 21:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Mushuc Runa SC",
-            "hasPenalty": true
+            "date": "07/08/2026 16:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Aktobe",
+            "hasPenalty": false
           },
           {
-            "date": "19/10/2025 20:00:00",
-            "league": "Serie A, Relegation Round",
-            "season": "LigaPro Primera A 2025",
-            "opponent": "Técnico Universitario",
+            "date": "04/08/2026 09:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Dinamo Minsk",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 16588988,
-      "date": "09/11/2026 23:30",
-      "league": "Primera División, Clausura",
+      "matchId": 17018531,
+      "date": "10/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "Division de Honor, Clausura 2026",
-        "year": "2026"
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
       },
-      "homeTeam": "Sportivo Luqueño",
-      "homeId": 5998,
-      "awayTeam": "CS 2 de Mayo",
-      "awayId": 5992,
+      "homeTeam": "Inter",
+      "homeId": 325685,
+      "awayTeam": "Manchester City (F)",
+      "awayId": 142658,
       "home": {
-        "teamId": 5998,
-        "teamName": "Sportivo Luqueño",
-        "historyLeague": "Primera División",
-        "totalInLeague": 62,
-        "totalAvailable": 30,
+        "teamId": 325685,
+        "teamName": "Inter (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
         "fallback": false,
         "history": [
           {
-            "date": "05/11/2026 23:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
           },
           {
-            "date": "31/10/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
+            "date": "01/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
             "hasPenalty": false
           },
           {
-            "date": "24/10/2026 00:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
             "hasPenalty": false
           },
           {
-            "date": "19/10/2026 00:20:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 11:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Valur Reykjavík",
             "hasPenalty": true
           },
           {
-            "date": "11/10/2026 00:20:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/09/2026 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/09/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/11/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          },
-          {
-            "date": "21/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": true
-          },
-          {
-            "date": "07/11/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/11/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": true
-          },
-          {
-            "date": "03/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "CS 2 de Mayo",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/09/2025 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2025 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": true
-          },
-          {
-            "date": "14/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 5992,
-        "teamName": "CS 2 de Mayo",
-        "historyLeague": "Primera División",
-        "totalInLeague": 62,
-        "totalAvailable": 30,
-        "fallback": false,
-        "history": [
-          {
-            "date": "03/11/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/10/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2026 00:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 00:20:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2026 22:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/10/2026 00:15:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2026 21:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo San Lorenzo",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/09/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/08/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/07/2026 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2026",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/07/2026 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Apertura 2026",
-            "opponent": "Rubio Ñu",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2025 23:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Recoleta FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/11/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Ameliano",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/11/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Club Atlético Tembetary",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Trinidense",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/10/2025 01:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Nacional Asunción",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Cerro Porteño",
-            "hasPenalty": false
-          },
-          {
-            "date": "03/10/2025 22:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Sportivo Luqueño",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/09/2025 20:30:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "General Caballero",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Libertad",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2025 00:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Guaraní",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/09/2025 21:00:00",
-            "league": "Primera División, Clausura",
-            "season": "Division de Honor, Clausura 2025",
-            "opponent": "Olimpia",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17419302,
-      "date": "10/11/2026 01:00",
-      "league": "Liga DIMAYOR, Finalizacion",
-      "season": {
-        "name": "Liga DIMAYOR 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Junior Barranquilla",
-      "homeId": 6105,
-      "awayTeam": "Cúcuta Deportivo",
-      "awayId": 6108,
-      "home": {
-        "teamId": 6105,
-        "teamName": "Junior Barranquilla",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 17,
-        "totalAvailable": 17,
-        "fallback": false,
-        "history": [
-          {
-            "date": "01/11/2026 00:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Llaneros FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/10/2026 02:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Boyacá Chicó FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 03:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Rionegro Águilas Doradas",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/10/2026 03:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Cali",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/10/2026 23:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Pereira",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Internacional de Bogotá",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Bucaramanga",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Nacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 03:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Independiente Medellín",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/09/2026 21:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Fortaleza FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/09/2026 03:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Alianza Valledupar FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 03:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Jaguares de Córdoba",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/08/2026 01:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Independiente Santa Fe",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/08/2026 01:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "América de Cali",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/08/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Once Caldas",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Millonarios",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/07/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportes Tolima",
+            "date": "27/08/2025 16:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "SK Brann Kvinner",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 6108,
-        "teamName": "Cúcuta Deportivo",
-        "historyLeague": "Liga DIMAYOR, Finalizacion",
-        "totalInLeague": 17,
-        "totalAvailable": 17,
+        "teamId": 142658,
+        "teamName": "Manchester City (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 3,
+        "totalAvailable": 3,
         "fallback": false,
         "history": [
           {
-            "date": "05/11/2026 00:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Independiente Santa Fe",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2026 00:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Rionegro Águilas Doradas",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2026 01:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "América de Cali",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/10/2026 01:30:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Nacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Boyacá Chicó FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/10/2026 23:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Pereira",
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
             "hasPenalty": true
           },
           {
-            "date": "27/09/2026 01:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Llaneros FC",
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
             "hasPenalty": true
-          },
-          {
-            "date": "20/09/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Cali",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/09/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Millonarios",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2026 01:10:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportivo Pasto",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/09/2026 03:05:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Deportes Tolima",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Alianza Valledupar FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "23/08/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Independiente Medellín",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/08/2026 01:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Internacional de Bogotá",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/08/2026 23:20:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Fortaleza FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/08/2026 03:00:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Atlético Bucaramanga",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/07/2026 03:15:00",
-            "league": "Liga DIMAYOR, Finalizacion",
-            "season": "Liga DIMAYOR 2026",
-            "opponent": "Once Caldas",
-            "hasPenalty": false
           }
         ]
       }
