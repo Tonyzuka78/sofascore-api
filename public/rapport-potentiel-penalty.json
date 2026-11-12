@@ -1,1299 +1,3501 @@
 {
-  "generatedAt": "11/11/2026 11:56:40",
+  "generatedAt": "12/11/2026 09:14:48",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 14,
-    "sansHistorique": 8
+    "totalMatchs": 21,
+    "sansHistorique": 0
   },
   "matchs": [
     {
-      "matchId": 17277960,
-      "date": "11/11/2026 13:00",
-      "league": "U23 Africa Cup of Nations Qualification",
+      "matchId": 17364204,
+      "date": "12/11/2026 16:00",
+      "league": "Africa Cup of Nations, Qualification, Group C",
       "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Kenya U23",
-      "homeId": 282190,
-      "awayTeam": "Côte d'Ivoire U23",
-      "awayId": 49054,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17530589,
-      "date": "11/11/2026 13:00",
-      "league": "Virsliga, Relegation/Promotion Playoffs",
-      "season": {
-        "name": "Virsliga 2026",
+        "name": "Africa Cup of Nations Qualification 2026",
         "year": "2026"
       },
-      "homeTeam": "FK Tukums 2000",
-      "homeId": 36080,
-      "awayTeam": "Valmiera FC",
-      "awayId": 5353,
+      "homeTeam": "Ghana",
+      "homeId": 4764,
+      "awayTeam": "Somalia",
+      "awayId": 23472,
       "home": {
-        "teamId": 36080,
-        "teamName": "FK Tukums 2000",
-        "historyLeague": "Toutes compétitions confondues",
-        "totalInLeague": 0,
-        "totalAvailable": 30,
-        "fallback": true,
+        "teamId": 4764,
+        "teamName": "Ghana",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
         "history": [
           {
-            "date": "08/11/2026 12:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Auda",
+            "date": "29/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Gambia",
             "hasPenalty": true
           },
           {
-            "date": "01/11/2026 12:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "BFC Daugavpils",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 12:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Liepaja",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/10/2026 18:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "RFS",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Riga FC",
+            "date": "24/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Côte d'Ivoire",
             "hasPenalty": true
           },
           {
-            "date": "20/09/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Grobiņa",
+            "date": "18/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Niger",
             "hasPenalty": true
           },
           {
-            "date": "10/09/2026 18:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "SK Super Nova",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2026 14:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Ogre United",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/08/2026 16:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FS Jelgava",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/08/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Auda",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "BFC Daugavpils",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/08/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Liepaja",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "RFS",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Riga FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/07/2026 17:00:00",
-            "league": "Latvijas Kauss",
-            "season": "Latvijas Kauss 2026",
-            "opponent": "SK Super Nova",
+            "date": "15/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Angola",
             "hasPenalty": true
           },
           {
-            "date": "05/07/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Grobiņa",
+            "date": "15/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Sudan",
             "hasPenalty": false
           },
           {
-            "date": "01/07/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "SK Super Nova",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/06/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Ogre United",
-            "hasPenalty": true
-          },
-          {
-            "date": "21/06/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FS Jelgava",
+            "date": "10/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Sudan",
             "hasPenalty": false
           },
           {
-            "date": "17/06/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Auda",
+            "date": "09/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Niger",
             "hasPenalty": false
           },
           {
-            "date": "12/06/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "BFC Daugavpils",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/05/2026 14:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Liepaja",
-            "hasPenalty": true
-          },
-          {
-            "date": "25/05/2026 18:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "RFS",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/05/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Riga FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/05/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Grobiņa",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/05/2026 19:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "SK Super Nova",
-            "hasPenalty": false
-          },
-          {
-            "date": "07/05/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "Ogre United",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/05/2026 15:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FS Jelgava",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/04/2026 13:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "FK Auda",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/04/2026 17:00:00",
-            "league": "Virsliga",
-            "season": "Virsliga 2026",
-            "opponent": "BFC Daugavpils",
+            "date": "05/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Angola",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 5353,
-        "teamName": "Valmiera FC",
-        "historyLeague": "Toutes compétitions confondues",
-        "totalInLeague": 0,
-        "totalAvailable": 30,
-        "fallback": true,
+        "teamId": 23472,
+        "teamName": "Somalia",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
         "history": [
           {
-            "date": "07/11/2026 12:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Skanstes SK",
+            "date": "29/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Côte d'Ivoire",
             "hasPenalty": false
           },
           {
-            "date": "31/10/2026 14:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Leevon PPK",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 14:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "JFK Ventspils",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Tukums 2000/Tss II",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "SK Super Nova-2",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Beitar / Riga Mariners",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/09/2026 15:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "JDFS Alberts",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Metta",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2026 16:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Rēzeknes FA",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/08/2026 14:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Mārupes SC",
+            "date": "25/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Gambia",
             "hasPenalty": true
           },
           {
-            "date": "08/08/2026 17:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Smiltene",
+            "date": "31/03/2026 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Preliminary",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mauritius",
             "hasPenalty": false
           },
           {
-            "date": "01/08/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK RFS II",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Riga FC II",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Skanstes SK",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/07/2026 17:00:00",
-            "league": "Latvijas Kauss",
-            "season": "Latvijas Kauss 2026",
-            "opponent": "Ogre United",
-            "hasPenalty": true
-          },
-          {
-            "date": "05/07/2026 14:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Leevon PPK",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/06/2026 16:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "JFK Ventspils",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/06/2026 19:00:00",
-            "league": "Latvijas Kauss",
-            "season": "Latvijas Kauss 2026",
-            "opponent": "FK Smiltene",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/06/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Tukums 2000/Tss II",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/05/2026 14:00:00",
-            "league": "LVBET Latvijas Kauss",
-            "season": "LVBET Latvijas kauss 2026",
-            "opponent": "Skanstes SK",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/05/2026 19:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "SK Super Nova-2",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/05/2026 15:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Beitar / Riga Mariners",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/05/2026 15:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "JDFS Alberts",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/05/2026 17:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Metta",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/04/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Rēzeknes FA",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/04/2026 17:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Mārupes SC",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/04/2026 13:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK Smiltene",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/03/2026 14:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "FK RFS II",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/03/2026 17:00:00",
-            "league": "1.Division",
-            "season": "1.Liga 2026",
-            "opponent": "Riga FC II",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/02/2026 18:30:00",
-            "league": "Club Friendly Games",
-            "season": "Club Friendly Games 2026",
-            "opponent": "FC Elva",
+            "date": "27/03/2026 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Preliminary",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mauritius",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 17277966,
-      "date": "11/11/2026 14:00",
-      "league": "U23 Africa Cup of Nations Qualification",
+      "matchId": 17364211,
+      "date": "12/11/2026 17:00",
+      "league": "Africa Cup of Nations, Qualification, Group D",
       "season": {
-        "name": "26/27",
-        "year": "26/27"
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
       },
-      "homeTeam": "South Sudan U23",
-      "homeId": 304344,
-      "awayTeam": "Senegal U23",
-      "awayId": 49095,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277987,
-      "date": "11/11/2026 14:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Zimbabwe U23",
-      "homeId": 205757,
-      "awayTeam": "Mali U23",
-      "awayId": 208334,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277985,
-      "date": "11/11/2026 15:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Eswatini U23",
-      "homeId": 455711,
-      "awayTeam": "Algeria U23",
-      "awayId": 49019,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277973,
-      "date": "11/11/2026 17:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Rwanda U23",
-      "homeId": 196577,
-      "awayTeam": "Cameroon U23",
-      "awayId": 222874,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277952,
-      "date": "11/11/2026 18:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Libya U23",
-      "homeId": 312755,
-      "awayTeam": "Ghana U23",
-      "awayId": 49044,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17277983,
-      "date": "11/11/2026 18:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Botswana U23",
-      "homeId": 1279761,
-      "awayTeam": "Guinea U23",
-      "awayId": 221744,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17018527,
-      "date": "11/11/2026 18:45",
-      "league": "UEFA Champions League, Women",
-      "season": {
-        "name": "UEFA Champions League Women 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Oud-Heverlee Leuven (F)",
-      "homeId": 178246,
-      "awayTeam": "HB Køge (F)",
-      "awayId": 333128,
+      "homeTeam": "Guinea",
+      "homeId": 4826,
+      "awayTeam": "Eritrea",
+      "awayId": 8041,
       "home": {
-        "teamId": 178246,
-        "teamName": "Oud-Heverlee Leuven (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 13,
-        "totalAvailable": 13,
-        "fallback": false,
+        "teamId": 4826,
+        "teamName": "Guinea",
+        "historyLeague": "Toutes compétitions confondues",
+        "totalInLeague": 2,
+        "totalAvailable": 19,
+        "fallback": true,
         "history": [
           {
-            "date": "28/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Servette FC Chênois Féminin",
+            "date": "01/10/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Kenya",
             "hasPenalty": false
           },
           {
-            "date": "01/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris Saint-Germain",
+            "date": "26/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "South Africa",
             "hasPenalty": false
           },
           {
-            "date": "23/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "AS Roma",
+            "date": "04/06/2026 18:00:00",
+            "league": "International Friendly Games",
+            "season": "Int. Friendly Games 2026",
+            "opponent": "Northern Ireland",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/03/2026 20:00:00",
+            "league": "Int. Friendly Games",
+            "season": "Int. Friendly Games 2026",
+            "opponent": "Benin",
             "hasPenalty": true
           },
           {
-            "date": "02/09/2026 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Czarni Sosnowiec",
+            "date": "27/03/2026 16:00:00",
+            "league": "Int. Friendly Games",
+            "season": "Int. Friendly Games 2026",
+            "opponent": "Togo",
             "hasPenalty": true
           },
           {
-            "date": "26/08/2026 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Czarni Sosnowiec",
+            "date": "18/11/2025 16:30:00",
+            "league": "Int. Friendly Games",
+            "season": "Int. Friendly Games 2025",
+            "opponent": "Niger",
             "hasPenalty": false
           },
           {
-            "date": "08/08/2026 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Fenerbahçe İstanbul",
+            "date": "15/11/2025 16:30:00",
+            "league": "Int. Friendly Games",
+            "season": "Int. Friendly Games 2025",
+            "opponent": "Liberia",
             "hasPenalty": false
           },
           {
-            "date": "05/08/2026 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "ŽFK TSC",
+            "date": "14/10/2025 18:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Botswana",
             "hasPenalty": false
           },
           {
-            "date": "18/02/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
+            "date": "09/10/2025 18:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/09/2025 18:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2025 14:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Somalia",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2025 16:00:00",
+            "league": "African Nations Championship, Group C",
+            "season": "African Nations Championship 2025",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/08/2025 16:00:00",
+            "league": "African Nations Championship, Group C",
+            "season": "African Nations Championship 2025",
+            "opponent": "South Africa",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2025 19:00:00",
+            "league": "African Nations Championship, Group C",
+            "season": "African Nations Championship 2025",
+            "opponent": "Uganda",
             "hasPenalty": true
           },
           {
-            "date": "11/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
+            "date": "04/08/2025 16:00:00",
+            "league": "African Nations Championship, Group C",
+            "season": "African Nations Championship 2025",
+            "opponent": "Niger",
             "hasPenalty": false
           },
           {
-            "date": "18/09/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Vorskla Poltava",
+            "date": "07/07/2025 19:00:00",
+            "league": "Int. Friendly Games",
+            "season": "Club Friendly Games 2025",
+            "opponent": "Senegal",
             "hasPenalty": false
           },
           {
-            "date": "11/09/2025 19:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Vorskla Poltava",
+            "date": "04/07/2025 21:00:00",
+            "league": "Int. Friendly Games",
+            "season": "Int. Friendly Games 2025",
+            "opponent": "Senegal",
             "hasPenalty": false
           },
           {
-            "date": "30/08/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Rosengård",
+            "date": "25/03/2025 17:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Uganda",
             "hasPenalty": false
           },
           {
-            "date": "27/08/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "SFK 2000 Sarajevo",
+            "date": "21/03/2025 22:00:00",
+            "league": "World Cup Qualification, CAF, Group G",
+            "season": "FIFA World Cup, Qualification CAF 2025",
+            "opponent": "Somalia",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 333128,
-        "teamName": "HB Køge (F)",
+        "teamId": 8041,
+        "teamName": "Eritrea",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "30/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "South Africa",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/03/2026 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Preliminary",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Eswatini",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Preliminary",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Eswatini",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364222,
+      "date": "12/11/2026 17:00",
+      "league": "Africa Cup of Nations, Qualification, Group E",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "DR Congo",
+      "homeId": 4823,
+      "awayTeam": "Sierra Leone",
+      "awayId": 4737,
+      "home": {
+        "teamId": 4823,
+        "teamName": "DR Congo",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 12,
+        "totalAvailable": 12,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Zimbabwe",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Equatorial Guinea",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/01/2026 17:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Botswana",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Senegal",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Benin",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Ethiopia",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Guinea",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tanzania",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tanzania",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Ethiopia",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group H",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Guinea",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4737,
+        "teamName": "Sierra Leone",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Equatorial Guinea",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Zimbabwe",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zambia",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Chad",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Côte d'Ivoire",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Côte d'Ivoire",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zambia",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Chad",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364224,
+      "date": "12/11/2026 17:00",
+      "league": "Africa Cup of Nations, Qualification, Group E",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Equatorial Guinea",
+      "homeId": 8032,
+      "awayTeam": "Zimbabwe",
+      "awayId": 4719,
+      "home": {
+        "teamId": 8032,
+        "teamName": "Equatorial Guinea",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 5,
+        "totalAvailable": 5,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Sierra Leone",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "DR Congo",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Sudan",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/12/2025 13:30:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Burkina Faso",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4719,
+        "teamName": "Zimbabwe",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 11,
+        "totalAvailable": 11,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "DR Congo",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group E",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Sierra Leone",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/12/2025 17:00:00",
+            "league": "Africa Cup of Nations, Group B",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "South Africa",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/12/2025 13:30:00",
+            "league": "Africa Cup of Nations, Group B",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Angola",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/12/2025 21:00:00",
+            "league": "Africa Cup of Nations, Group B",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Egypt",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Cameroon",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Namibia",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Namibia",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Cameroon",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364419,
+      "date": "12/11/2026 17:00",
+      "league": "Africa Cup of Nations, Qualification, Group L",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Madagascar",
+      "homeId": 8035,
+      "awayTeam": "Guinea-Bissau",
+      "awayId": 23478,
+      "home": {
+        "teamId": 8035,
+        "teamName": "Madagascar",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Tanzania",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Nigeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tunisia",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2024 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Gambia",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2024 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Gambia",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tunisia",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 23478,
+        "teamName": "Guinea-Bissau",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Nigeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Tanzania",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Eswatini",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Mali",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Mali",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/09/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group I",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Eswatini",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534041,
+      "date": "12/11/2026 18:00",
+      "league": "UEFA Nations League, League A, Gr. 1",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Türkiye",
+      "homeId": 4700,
+      "awayTeam": "Belgium",
+      "awayId": 4717,
+      "home": {
+        "teamId": 4700,
+        "teamName": "Türkiye",
+        "historyLeague": "UEFA Nations League, League A, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Italy",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belgium",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Italy",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "France",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4717,
+        "teamName": "Belgium",
+        "historyLeague": "UEFA Nations League, League A, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "France",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Türkiye",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "France",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Italy",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534180,
+      "date": "12/11/2026 18:00",
+      "league": "UEFA Nations League, League C, Gr. 2",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Armenia",
+      "homeId": 4740,
+      "awayTeam": "Cyprus",
+      "awayId": 4482,
+      "home": {
+        "teamId": 4740,
+        "teamName": "Armenia",
+        "historyLeague": "UEFA Nations League, League C, Gr. 2",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Montenegro",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Cyprus",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Montenegro",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Latvia",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4482,
+        "teamName": "Cyprus",
+        "historyLeague": "UEFA Nations League, League C, Gr. 2",
+        "totalInLeague": 10,
+        "totalAvailable": 10,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Latvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Armenia",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Latvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Montenegro",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/11/2024 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Romania",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2024 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Lithuania",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Kosovo",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/10/2024 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Romania",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/09/2024 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Kosovo",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 24/25",
+            "opponent": "Lithuania",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018528,
+      "date": "12/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Fútbol Club Barcelona (F)",
+      "homeId": 77889,
+      "awayTeam": "Arsenal (F)",
+      "awayId": 26243,
+      "home": {
+        "teamId": 77889,
+        "teamName": "Fútbol Club Barcelona (F)",
         "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
+        "totalInLeague": 19,
+        "totalAvailable": 19,
         "fallback": false,
         "history": [
           {
             "date": "29/10/2026 21:00:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Fútbol Club Barcelona",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Servette FC Chênois Féminin",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Arsenal",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/09/2026 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "PSV Eindhoven",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "PSV Eindhoven",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 15:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Heart of Midlothian WFC",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/08/2026 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Riga FC",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17277940,
-      "date": "11/11/2026 19:00",
-      "league": "U23 Africa Cup of Nations Qualification",
-      "season": {
-        "name": "26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Burkina Faso U23",
-      "homeId": 205758,
-      "awayTeam": "Zambia U23",
-      "awayId": 208572,
-      "home": null,
-      "away": null
-    },
-    {
-      "matchId": 17370525,
-      "date": "11/11/2026 19:00",
-      "league": "Sergipano, Série A2 - Grupo B",
-      "season": {
-        "name": "Sergipano, Série A2 2026",
-        "year": "2026"
-      },
-      "homeTeam": "CS Maruinense",
-      "homeId": 375798,
-      "awayTeam": "Independente de Simão Dias",
-      "awayId": 486063,
-      "home": {
-        "teamId": 375798,
-        "teamName": "CS Maruinense",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Barra",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Socorro Sport Club",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Estanciano",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Freipaulistano",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 486063,
-        "teamName": "Independente de Simão Dias",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Freipaulistano",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Barra",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Socorro Sport Club",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Estanciano",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17370526,
-      "date": "11/11/2026 19:00",
-      "league": "Sergipano, Série A2 - Grupo B",
-      "season": {
-        "name": "Sergipano, Série A2 2026",
-        "year": "2026"
-      },
-      "homeTeam": "AD Freipaulistano",
-      "homeId": 307476,
-      "awayTeam": "Socorro Sport Club",
-      "awayId": 395614,
-      "home": {
-        "teamId": 307476,
-        "teamName": "AD Freipaulistano",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Independente de Simão Dias",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Estanciano",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Barra",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "CS Maruinense",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 395614,
-        "teamName": "Socorro Sport Club",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Estanciano",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "CS Maruinense",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Independente de Simão Dias",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Barra",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17370529,
-      "date": "11/11/2026 19:00",
-      "league": "Sergipano, Série A2 - Grupo B",
-      "season": {
-        "name": "Sergipano, Série A2 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Estanciano",
-      "homeId": 214032,
-      "awayTeam": "AD Barra",
-      "awayId": 501216,
-      "home": {
-        "teamId": 214032,
-        "teamName": "Estanciano",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Socorro Sport Club",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Freipaulistano",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "CS Maruinense",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Independente de Simão Dias",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 501216,
-        "teamName": "AD Barra",
-        "historyLeague": "Sergipano, Série A2 - Grupo B",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "CS Maruinense",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Independente de Simão Dias",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "AD Freipaulistano",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "league": "Sergipano, Série A2 - Grupo B",
-            "season": "Sergipano, Série A2 2026",
-            "opponent": "Socorro Sport Club",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17018529,
-      "date": "11/11/2026 21:00",
-      "league": "UEFA Champions League, Women",
-      "season": {
-        "name": "UEFA Champions League Women 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Juventus (F)",
-      "homeId": 269824,
-      "awayTeam": "OL Lyonnes (F)",
-      "awayId": 26245,
-      "home": {
-        "teamId": 269824,
-        "teamName": "Juventus (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 17,
-        "totalAvailable": 17,
-        "fallback": false,
-        "history": [
-          {
-            "date": "29/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "FK Austria Wien",
+            "opponent": "HB Køge",
             "hasPenalty": true
           },
           {
             "date": "30/09/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "BK Häcken FF",
+            "opponent": "AS Roma",
             "hasPenalty": false
           },
           {
-            "date": "22/09/2026 21:00:00",
+            "date": "23/09/2026 21:00:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Benfica",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/09/2026 20:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SKN St. Pölten",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 20:45:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SKN St. Pölten",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Hammarby IF",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/08/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SCU Torreense",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/12/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Vålerenga",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/12/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Bayern München",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/11/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/10/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Bayern München",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Vålerenga",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/09/2024 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 26245,
-        "teamName": "OL Lyonnes (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 18,
-        "totalAvailable": 18,
-        "fallback": false,
-        "history": [
-          {
-            "date": "28/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Inter",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Chelsea FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "23/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Servette FC Chênois Féminin",
+            "opponent": "Paris FC",
             "hasPenalty": false
           },
           {
             "date": "23/05/2026 18:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
-            "opponent": "Fútbol Club Barcelona",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:15:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "24/05/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 26243,
+        "teamName": "Arsenal (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 24,
+        "totalAvailable": 24,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Benfica",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "HB Køge",
+            "hasPenalty": true
           },
           {
             "date": "02/05/2026 15:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
+            "opponent": "OL Lyonnes",
             "hasPenalty": true
           },
           {
             "date": "26/04/2026 16:30:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
           },
           {
-            "date": "02/04/2026 21:00:00",
+            "date": "01/04/2026 21:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
+            "opponent": "Chelsea FC",
             "hasPenalty": false
           },
           {
-            "date": "24/03/2026 18:45:00",
+            "date": "24/03/2026 21:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
             "hasPenalty": false
           },
           {
             "date": "27/04/2025 18:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
+            "opponent": "OL Lyonnes",
             "hasPenalty": false
           },
           {
             "date": "19/04/2025 13:30:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
+            "opponent": "OL Lyonnes",
             "hasPenalty": true
           },
           {
-            "date": "26/03/2025 18:45:00",
+            "date": "26/03/2025 21:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
             "season": "UEFA Champions League Women 24/25",
             "opponent": "FC Bayern München",
             "hasPenalty": false
           },
           {
-            "date": "18/03/2025 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
+            "date": "26/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Bayern München",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rosenborg Kvinner",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rangers LFC",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17445489,
+      "date": "12/11/2026 19:00",
+      "league": "Coupe de France",
+      "season": {
+        "name": "Coupe de France 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Chambéry Savoie Foot",
+      "homeId": 407712,
+      "awayTeam": "Grenoble Foot 38",
+      "awayId": 1671,
+      "home": {
+        "teamId": 407712,
+        "teamName": "Chambéry Savoie Foot",
+        "historyLeague": "Toutes compétitions confondues",
+        "totalInLeague": 0,
+        "totalAvailable": 30,
+        "fallback": true,
+        "history": [
+          {
+            "date": "07/11/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "Olympique de Valence",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "Grenoble Foot 38 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 19:00:00",
+            "league": "Auvergne-Rhône-Alpes",
+            "season": "2026",
+            "opponent": "Manival E.S",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 19:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "FC Villefranche Beaujolais 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 14:30:00",
+            "league": "Auvergne-Rhône-Alpes",
+            "season": "2026",
+            "opponent": "ET.S Douvaine-Loisin",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "AS Miserieux Trevoux",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 18:00:00",
+            "league": "Auvergne-Rhône-Alpes",
+            "season": "2026",
+            "opponent": "AS Miserieux Trevoux",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "Seyssinet AC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "Crest Aouste",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2026 15:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "R1 Auvergne Rhône-Alpes 26/27",
+            "opponent": "GFA Rumilly-Vallières 2",
             "hasPenalty": true
           },
           {
-            "date": "17/12/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "VfL Wolfsburg",
+            "date": "30/05/2026 15:30:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "AS Chavanay",
             "hasPenalty": false
           },
           {
-            "date": "11/12/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Galatasaray Istanbul",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "AS Roma",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "AS Roma",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "VfL Wolfsburg",
+            "date": "23/05/2026 17:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "FC Rhône-Vallées",
             "hasPenalty": true
           },
           {
-            "date": "08/10/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group A",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Galatasaray Istanbul",
+            "date": "09/05/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Crest Aouste",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Bourg-en-Bresse B",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Oyonnax PVFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2026 15:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "FC Vaulx en Velin",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/04/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "GFA Rumilly-Vallières 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/03/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "AS Miserieux Trevoux",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/03/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Grenoble Foot 38 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/03/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "FC Villefranche Beaujolais 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/02/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Olympique de Valence",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/02/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Annecy FC 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/02/2026 15:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "St Cyr Collonges au Mont d'Or",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/01/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "FC Rhône-Vallées",
+            "hasPenalty": true
+          },
+          {
+            "date": "24/01/2026 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Crest Aouste",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/12/2025 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Bourg-en-Bresse B",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/12/2025 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "Oyonnax PVFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/11/2025 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "FC Vaulx en Velin",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/11/2025 15:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "GFA Rumilly-Vallières 2",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 18:00:00",
+            "league": "Auvergne Rhône-Alpes, Regional B",
+            "season": "Auvergne Rhône-Alpes Regional 25/26",
+            "opponent": "AS Miserieux Trevoux",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1671,
+        "teamName": "Grenoble Foot 38",
+        "historyLeague": "Coupe de France",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "20/12/2025 18:00:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 25/26",
+            "opponent": "Nancy",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/11/2025 20:00:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 25/26",
+            "opponent": "Annecy FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "14/11/2025 20:00:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 25/26",
+            "opponent": "Olympique de Villefontaine",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/12/2024 15:30:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 24/25",
+            "opponent": "AS Cannes",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2024 17:00:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 24/25",
+            "opponent": "Istres Football Club",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/11/2024 18:30:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 24/25",
+            "opponent": "FC Villefranche Beaujolais",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/12/2023 19:00:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 23/24",
+            "opponent": "Chambéry Savoie Foot",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/11/2023 19:30:00",
+            "league": "Coupe de France",
+            "season": "Coupe de France 23/24",
+            "opponent": "FC Villefranche Beaujolais",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364206,
+      "date": "12/11/2026 20:00",
+      "league": "Africa Cup of Nations, Qualification, Group C",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Côte d'Ivoire",
+      "homeId": 4768,
+      "awayTeam": "Gambia",
+      "awayId": 4762,
+      "home": {
+        "teamId": 4768,
+        "teamName": "Côte d'Ivoire",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 13,
+        "totalAvailable": 13,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Somalia",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Ghana",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/01/2026 20:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Egypt",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/01/2026 20:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Burkina Faso",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 20:00:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Gabon",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/12/2025 21:00:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Cameroon",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/12/2025 18:30:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Chad",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zambia",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Sierra Leone",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Sierra Leone",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Chad",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zambia",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4762,
+        "teamName": "Gambia",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 9,
+        "totalAvailable": 9,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Ghana",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group C",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Somalia",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/05/2025 21:30:00",
+            "league": "Africa Cup of Nations, Qualification, Additional Qualification, ",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tunisia",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2024 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Madagascar",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2024 16:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Madagascar",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Tunisia",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group A",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364229,
+      "date": "12/11/2026 20:00",
+      "league": "Africa Cup of Nations, Qualification, Group F",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Benin",
+      "homeId": 4744,
+      "awayTeam": "Central African Republic",
+      "awayId": 23470,
+      "home": {
+        "teamId": 4744,
+        "teamName": "Benin",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 12,
+        "totalAvailable": 12,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mauritania",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Burkina Faso",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/01/2026 17:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Egypt",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Senegal",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/12/2025 13:30:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Botswana",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "DR Congo",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Libya",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Nigeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Rwanda",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Rwanda",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Libya",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group D",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Nigeria",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 23470,
+        "teamName": "Central African Republic",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Burkina Faso",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mauritania",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Gabon",
+            "hasPenalty": true
+          },
+          {
+            "date": "14/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Lesotho",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Morocco",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Morocco",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Gabon",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group B",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Lesotho",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364365,
+      "date": "12/11/2026 20:00",
+      "league": "Africa Cup of Nations, Qualification, Group J",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Senegal",
+      "homeId": 4739,
+      "awayTeam": "Sudan",
+      "awayId": 4734,
+      "home": {
+        "teamId": 4739,
+        "teamName": "Senegal",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 15,
+        "totalAvailable": 15,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Ethiopia",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/01/2026 20:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Morocco",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/01/2026 18:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Egypt",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/01/2026 17:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Mali",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Sudan",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Benin",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "DR Congo",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group D",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Botswana",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Burundi",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Burkina Faso",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Malawi",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Malawi",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Burundi",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group L",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Burkina Faso",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4734,
+        "teamName": "Sudan",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 12,
+        "totalAvailable": 12,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Mozambique",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Ethiopia",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Senegal",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Burkina Faso",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Equatorial Guinea",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/12/2025 16:00:00",
+            "league": "Africa Cup of Nations, Group E",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Algeria",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Angola",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/11/2024 17:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Niger",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Ghana",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Ghana",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Angola",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/09/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group F",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Niger",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17364781,
+      "date": "12/11/2026 20:00",
+      "league": "Africa Cup of Nations, Qualification, Group G",
+      "season": {
+        "name": "Africa Cup of Nations Qualification 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Cameroon",
+      "homeId": 4751,
+      "awayTeam": "Namibia",
+      "awayId": 4832,
+      "home": {
+        "teamId": 4751,
+        "teamName": "Cameroon",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 13,
+        "totalAvailable": 13,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Congo Republic",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/01/2026 20:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Morocco",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/01/2026 20:00:00",
+            "league": "Africa Cup of Nations, Knockout stage",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "South Africa",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/12/2025 20:00:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Mozambique",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/12/2025 21:00:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Côte d'Ivoire",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/12/2025 21:00:00",
+            "league": "Africa Cup of Nations, Group F",
+            "season": "Africa Cup of Nations 2025",
+            "opponent": "Gabon",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zimbabwe",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Namibia",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zimbabwe",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Namibia",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4832,
+        "teamName": "Namibia",
+        "historyLeague": "Africa Cup of Nations",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "29/09/2026 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Comoros",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group G",
+            "season": "Africa Cup of Nations Qualification 2026",
+            "opponent": "Congo Republic",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 14:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Cameroon",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zimbabwe",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/10/2024 15:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Zimbabwe",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Kenya",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "league": "Africa Cup of Nations, Qualification, Group J",
+            "season": "Africa Cup of Nations, Qualification 2024",
+            "opponent": "Cameroon",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534030,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League A, Gr. 1",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Italy",
+      "homeId": 4707,
+      "awayTeam": "France",
+      "awayId": 4481,
+      "home": {
+        "teamId": 4707,
+        "teamName": "Italy",
+        "historyLeague": "UEFA Nations League, League A, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Türkiye",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "France",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Türkiye",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belgium",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4481,
+        "teamName": "France",
+        "historyLeague": "UEFA Nations League, League A, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belgium",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Italy",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belgium",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Türkiye",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534086,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League A, Gr. 3",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Czechia",
+      "homeId": 4714,
+      "awayTeam": "Spain",
+      "awayId": 4698,
+      "home": {
+        "teamId": 4714,
+        "teamName": "Czechia",
+        "historyLeague": "UEFA Nations League, League A, Gr. 3",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "England",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Spain",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "England",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Croatia",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4698,
+        "teamName": "Spain",
+        "historyLeague": "UEFA Nations League, League A, Gr. 3",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Croatia",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Czechia",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Croatia",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "England",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534088,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League A, Gr. 3",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "England",
+      "homeId": 4713,
+      "awayTeam": "Croatia",
+      "awayId": 4715,
+      "home": {
+        "teamId": 4713,
+        "teamName": "England",
+        "historyLeague": "UEFA Nations League, League A, Gr. 3",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Czechia",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Croatia",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Czechia",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Spain",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4715,
+        "teamName": "Croatia",
+        "historyLeague": "UEFA Nations League, League A, Gr. 3",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Spain",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "England",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Spain",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League A, Gr. 3",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Czechia",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534143,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League C, Gr. 1",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Albania",
+      "homeId": 4690,
+      "awayTeam": "Finland",
+      "awayId": 4712,
+      "home": {
+        "teamId": 4690,
+        "teamName": "Albania",
+        "historyLeague": "UEFA Nations League, League C, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "San Marino",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/10/2026 15:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Finland",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "San Marino",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belarus",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4712,
+        "teamName": "Finland",
+        "historyLeague": "UEFA Nations League, League C, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belarus",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/10/2026 15:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Albania",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belarus",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "San Marino",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15534153,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League C, Gr. 1",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "San Marino",
+      "homeId": 4833,
+      "awayTeam": "Belarus",
+      "awayId": 4743,
+      "home": {
+        "teamId": 4833,
+        "teamName": "San Marino",
+        "historyLeague": "UEFA Nations League, League C, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Albania",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Belarus",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Albania",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Finland",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4743,
+        "teamName": "Belarus",
+        "historyLeague": "UEFA Nations League, League C, Gr. 1",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Finland",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "San Marino",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Finland",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 1",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Albania",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15537773,
+      "date": "12/11/2026 20:45",
+      "league": "UEFA Nations League, League C, Gr. 2",
+      "season": {
+        "name": "UEFA Nations League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Montenegro",
+      "homeId": 7139,
+      "awayTeam": "Latvia",
+      "awayId": 4706,
+      "home": {
+        "teamId": 7139,
+        "teamName": "Montenegro",
+        "historyLeague": "UEFA Nations League, League C, Gr. 2",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Armenia",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Latvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Armenia",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 20:45:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Cyprus",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 4706,
+        "teamName": "Latvia",
+        "historyLeague": "UEFA Nations League, League C, Gr. 2",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Cyprus",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Montenegro",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Cyprus",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "league": "UEFA Nations League, League C, Gr. 2",
+            "season": "UEFA Nations League 26/27",
+            "opponent": "Armenia",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17534603,
+      "date": "12/11/2026 23:00",
+      "league": "Liga DIMAYOR, Finalizacion",
+      "season": {
+        "name": "Liga DIMAYOR 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Deportivo Pasto",
+      "homeId": 6113,
+      "awayTeam": "Junior Barranquilla",
+      "awayId": 6105,
+      "home": {
+        "teamId": 6113,
+        "teamName": "Deportivo Pasto",
+        "historyLeague": "Liga DIMAYOR, Finalizacion",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 20:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Santa Fe",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/11/2026 00:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Jaguares de Córdoba",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 02:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Bucaramanga",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/10/2026 02:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportes Tolima",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/10/2026 03:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Nacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/10/2026 03:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Alianza Valledupar FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/10/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Fortaleza FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Boyacá Chicó FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Once Caldas",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/09/2026 03:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "América de Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Cúcuta Deportivo",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/09/2026 01:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pereira",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/08/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Internacional de Bogotá",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Llaneros FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/08/2026 03:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 03:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Millonarios",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/08/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Rionegro Águilas Doradas",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/07/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Medellín",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 6105,
+        "teamName": "Junior Barranquilla",
+        "historyLeague": "Liga DIMAYOR, Finalizacion",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
+        "fallback": false,
+        "history": [
+          {
+            "date": "10/11/2026 01:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Cúcuta Deportivo",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Llaneros FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Boyacá Chicó FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 03:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Rionegro Águilas Doradas",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/10/2026 03:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/10/2026 23:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pereira",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Internacional de Bogotá",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/10/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Bucaramanga",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/10/2026 03:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Nacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 03:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Medellín",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Fortaleza FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/09/2026 03:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Alianza Valledupar FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 03:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Jaguares de Córdoba",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/08/2026 01:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Santa Fe",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/08/2026 01:20:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "América de Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/08/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Once Caldas",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Millonarios",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportes Tolima",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17534604,
+      "date": "13/11/2026 01:00",
+      "league": "Liga DIMAYOR, Finalizacion",
+      "season": {
+        "name": "Liga DIMAYOR 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Llaneros FC",
+      "homeId": 89374,
+      "awayTeam": "Boyacá Chicó FC",
+      "awayId": 6107,
+      "home": {
+        "teamId": 89374,
+        "teamName": "Llaneros FC",
+        "historyLeague": "Liga DIMAYOR, Finalizacion",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
+        "fallback": false,
+        "history": [
+          {
+            "date": "09/11/2026 02:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Alianza Valledupar FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Junior Barranquilla",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/10/2026 00:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Jaguares de Córdoba",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/10/2026 01:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/10/2026 01:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Santa Fe",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2026 03:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Once Caldas",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/10/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "América de Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 01:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Cúcuta Deportivo",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/09/2026 03:15:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Nacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Internacional de Bogotá",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/09/2026 01:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportes Tolima",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/08/2026 23:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Medellín",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/08/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Millonarios",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pasto",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/08/2026 23:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Rionegro Águilas Doradas",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/08/2026 23:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Fortaleza FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/07/2026 03:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Bucaramanga",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/07/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pereira",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 6107,
+        "teamName": "Boyacá Chicó FC",
+        "historyLeague": "Liga DIMAYOR, Finalizacion",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 00:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Internacional de Bogotá",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/11/2026 22:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Cali",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Junior Barranquilla",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 01:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Bucaramanga",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/10/2026 23:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pereira",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 22:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Atlético Nacional",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/10/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Cúcuta Deportivo",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportes Tolima",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Deportivo Pasto",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Millonarios",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/09/2026 02:30:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Alianza Valledupar FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/09/2026 01:10:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Medellín",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 23:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Once Caldas",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Rionegro Águilas Doradas",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/08/2026 23:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Fortaleza FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/08/2026 23:05:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Jaguares de Córdoba",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 21:00:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "Independiente Santa Fe",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/08/2026 00:45:00",
+            "league": "Liga DIMAYOR, Finalizacion",
+            "season": "Liga DIMAYOR 2026",
+            "opponent": "América de Cali",
             "hasPenalty": false
           }
         ]

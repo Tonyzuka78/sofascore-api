@@ -1,1589 +1,327 @@
 [
   {
-    "match": "FK Tukums 2000 vs Valmiera FC",
-    "matchId": "17530589",
-    "homeTeam": "FK Tukums 2000",
-    "awayTeam": "Valmiera FC",
-    "season": "Virsliga 2026",
-    "bestBets": [
-      {
-        "bet": "Away or Draw",
-        "probability": 90.7,
-        "fairOdds": 1.1,
-        "confidence": "ELITE"
-      },
-      {
-        "bet": "Away Win",
-        "probability": 70.3,
-        "fairOdds": 1.42,
-        "confidence": "STRONG"
-      },
-      {
-        "bet": "Over 1.5",
-        "probability": 68.3,
-        "fairOdds": 1.46,
-        "confidence": "GOOD"
-      }
-    ],
-    "probabilities": {
-      "homeWin": 9,
-      "draw": 20.4,
-      "awayWin": 70.3,
-      "homeWinOrDraw": 29.4,
-      "awayWinOrDraw": 90.7,
-      "homeWinOrDraw15": 15.4,
-      "awayWinOrDraw15": 64,
-      "over15": 68.3,
-      "over25": 42.1,
-      "homeOver05": 39.2,
-      "awayOver05": 84.4,
-      "homeOver15": 9,
-      "awayOver15": 55.6,
-      "homeOver25": 1.4,
-      "awayOver25": 28.7,
-      "btts": 33.2,
-      "bttsNo": 66.4,
-      "homeCleanSheet": 15.3,
-      "awayCleanSheet": 60.5
-    },
-    "mostLikelyScore": "0-1",
-    "scoreProbability": 17.4,
-    "topScores": [
-      {
-        "score": "0-1",
-        "probability": 17.4
-      },
-      {
-        "score": "0-2",
-        "probability": 16.4
-      },
-      {
-        "score": "0-3",
-        "probability": 10.2
-      }
-    ],
-    "fairOdds": {
-      "home": "11.11",
-      "draw": "4.91",
-      "away": "1.42"
-    },
-    "indicators": {
-      "home": {
-        "mainLeague": "virsliga",
-        "sampleSize": 20,
-        "homeSample": 10,
-        "awaySample": 10,
-        "scoredHome": 1,
-        "concededHome": 1.7,
-        "scoredAway": 0.5,
-        "concededAway": 2.3,
-        "drawRate": 0.15,
-        "goals_history": [
-          {
-            "date": "08/11/2026 12:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2026 12:00:00",
-            "value": 0
-          },
-          {
-            "date": "24/10/2026 12:00:00",
-            "value": 0
-          },
-          {
-            "date": "19/10/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "20/09/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "10/09/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "05/09/2026 14:00:00",
-            "value": 2
-          },
-          {
-            "date": "29/08/2026 16:00:00",
-            "value": 1
-          },
-          {
-            "date": "21/08/2026 17:00:00",
-            "value": 0
-          },
-          {
-            "date": "08/08/2026 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "02/08/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "value": 0
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/07/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/07/2026 17:00:00",
-            "value": 1
-          },
-          {
-            "date": "26/06/2026 17:00:00",
-            "value": 2
-          },
-          {
-            "date": "21/06/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "17/06/2026 17:00:00",
-            "value": 2
-          },
-          {
-            "date": "12/06/2026 17:00:00",
-            "value": 1
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "08/11/2026 12:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2026 12:00:00",
-            "value": 2
-          },
-          {
-            "date": "24/10/2026 12:00:00",
-            "value": 0
-          },
-          {
-            "date": "19/10/2026 18:00:00",
-            "value": 2
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "20/09/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "10/09/2026 18:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/09/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "29/08/2026 16:00:00",
-            "value": 4
-          },
-          {
-            "date": "21/08/2026 17:00:00",
-            "value": 3
-          },
-          {
-            "date": "08/08/2026 15:00:00",
-            "value": 2
-          },
-          {
-            "date": "02/08/2026 15:00:00",
-            "value": 2
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "value": 1
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "value": 3
-          },
-          {
-            "date": "05/07/2026 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "01/07/2026 17:00:00",
-            "value": 2
-          },
-          {
-            "date": "26/06/2026 17:00:00",
-            "value": 3
-          },
-          {
-            "date": "21/06/2026 15:00:00",
-            "value": 4
-          },
-          {
-            "date": "17/06/2026 17:00:00",
-            "value": 1
-          },
-          {
-            "date": "12/06/2026 17:00:00",
-            "value": 1
-          }
-        ]
-      },
-      "away": {
-        "mainLeague": "1.division",
-        "sampleSize": 20,
-        "homeSample": 11,
-        "awaySample": 9,
-        "scoredHome": 2.4545454545454546,
-        "concededHome": 1.3636363636363635,
-        "scoredAway": 2.4444444444444446,
-        "concededAway": 0.7777777777777778,
-        "drawRate": 0.3,
-        "goals_history": [
-          {
-            "date": "07/11/2026 12:00:00",
-            "value": 3
-          },
-          {
-            "date": "31/10/2026 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "24/10/2026 14:00:00",
-            "value": 3
-          },
-          {
-            "date": "18/10/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/09/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "12/09/2026 15:00:00",
-            "value": 2
-          },
-          {
-            "date": "05/09/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "30/08/2026 16:00:00",
-            "value": 6
-          },
-          {
-            "date": "22/08/2026 14:00:00",
-            "value": 4
-          },
-          {
-            "date": "08/08/2026 17:00:00",
-            "value": 4
-          },
-          {
-            "date": "01/08/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "value": 3
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "value": 3
-          },
-          {
-            "date": "05/07/2026 14:00:00",
-            "value": 4
-          },
-          {
-            "date": "28/06/2026 16:00:00",
-            "value": 2
-          },
-          {
-            "date": "14/06/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "26/05/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "16/05/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "09/05/2026 15:00:00",
-            "value": 1
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "07/11/2026 12:00:00",
-            "value": 2
-          },
-          {
-            "date": "31/10/2026 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "24/10/2026 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "18/10/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "10/10/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/09/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "12/09/2026 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/09/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "30/08/2026 16:00:00",
-            "value": 1
-          },
-          {
-            "date": "22/08/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "08/08/2026 17:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/08/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "27/07/2026 17:00:00",
-            "value": 0
-          },
-          {
-            "date": "18/07/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "05/07/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "28/06/2026 16:00:00",
-            "value": 0
-          },
-          {
-            "date": "14/06/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "26/05/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "16/05/2026 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "09/05/2026 15:00:00",
-            "value": 1
-          }
-        ]
-      },
-      "model": {
-        "lambdaHome": 0.5,
-        "lambdaAway": 1.88,
-        "homeAttack": 0.61,
-        "homeDefense": 1.31,
-        "awayAttack": 1.1,
-        "awayDefense": 0.5,
-        "rho": -0.005,
-        "leagueBaseline": {
-          "homeGoals": 1.64,
-          "awayGoals": 1.29
-        }
-      }
-    }
-  },
-  {
-    "match": "Oud-Heverlee Leuven (F) vs HB Køge (F)",
-    "matchId": "17018527",
-    "homeTeam": "Oud-Heverlee Leuven (F)",
-    "awayTeam": "HB Køge (F)",
-    "season": "UEFA Champions League Women 26/27",
-    "bestBets": [
-      {
-        "bet": "Over 1.5",
-        "probability": 66.9,
-        "fairOdds": 1.49,
-        "confidence": "GOOD"
-      },
-      {
-        "bet": "Away or Draw",
-        "probability": 64.8,
-        "fairOdds": 1.54,
-        "confidence": "GOOD"
-      },
-      {
-        "bet": "Home or Draw",
-        "probability": 63.7,
-        "fairOdds": 1.57,
-        "confidence": "GOOD"
-      }
-    ],
-    "probabilities": {
-      "homeWin": 35.1,
-      "draw": 28.5,
-      "awayWin": 36.3,
-      "homeWinOrDraw": 63.7,
-      "awayWinOrDraw": 64.8,
-      "homeWinOrDraw15": 42.2,
-      "awayWinOrDraw15": 43.1,
-      "over15": 66.9,
-      "over25": 40.3,
-      "homeOver05": 67.9,
-      "awayOver05": 68.6,
-      "homeOver15": 31.4,
-      "awayOver15": 32.3,
-      "homeOver25": 10.7,
-      "awayOver25": 11.2,
-      "btts": 46.7,
-      "bttsNo": 53.3,
-      "homeCleanSheet": 31.3,
-      "awayCleanSheet": 32.1
-    },
-    "mostLikelyScore": "1-1",
-    "scoreProbability": 13.3,
-    "topScores": [
-      {
-        "score": "1-1",
-        "probability": 13.3
-      },
-      {
-        "score": "0-1",
-        "probability": 11.6
-      },
-      {
-        "score": "1-0",
-        "probability": 11.4
-      }
-    ],
-    "fairOdds": {
-      "home": "2.85",
-      "draw": "3.51",
-      "away": "2.75"
-    },
-    "indicators": {
-      "home": {
-        "mainLeague": "superleague",
-        "sampleSize": 20,
-        "homeSample": 11,
-        "awaySample": 9,
-        "scoredHome": 2.272727272727273,
-        "concededHome": 0.7272727272727273,
-        "scoredAway": 1.5555555555555556,
-        "concededAway": 0.7777777777777778,
-        "drawRate": 0.35,
-        "goals_history": [
-          {
-            "date": "07/11/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "24/10/2026 20:00:00",
-            "value": 4
-          },
-          {
-            "date": "17/10/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2026 17:00:00",
-            "value": 0
-          },
-          {
-            "date": "26/09/2026 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/09/2026 13:30:00",
-            "value": 5
-          },
-          {
-            "date": "12/09/2026 13:30:00",
-            "value": 0
-          },
-          {
-            "date": "06/09/2026 17:00:00",
-            "value": 6
-          },
-          {
-            "date": "22/05/2026 20:30:00",
-            "value": 3
-          },
-          {
-            "date": "16/05/2026 13:30:00",
-            "value": 2
-          },
-          {
-            "date": "09/05/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "02/05/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "25/04/2026 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "04/04/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "21/03/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "17/03/2026 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "14/03/2026 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "21/02/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "14/02/2026 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "07/02/2026 13:30:00",
-            "value": 2
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "07/11/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "24/10/2026 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "17/10/2026 13:30:00",
-            "value": 3
-          },
-          {
-            "date": "04/10/2026 17:00:00",
-            "value": 0
-          },
-          {
-            "date": "26/09/2026 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/09/2026 13:30:00",
-            "value": 0
-          },
-          {
-            "date": "12/09/2026 13:30:00",
-            "value": 0
-          },
-          {
-            "date": "06/09/2026 17:00:00",
-            "value": 1
-          },
-          {
-            "date": "22/05/2026 20:30:00",
-            "value": 2
-          },
-          {
-            "date": "16/05/2026 13:30:00",
-            "value": 0
-          },
-          {
-            "date": "09/05/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "02/05/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "25/04/2026 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/04/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "21/03/2026 13:30:00",
-            "value": 0
-          },
-          {
-            "date": "17/03/2026 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "14/03/2026 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "21/02/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "14/02/2026 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "07/02/2026 13:30:00",
-            "value": 0
-          }
-        ]
-      },
-      "away": {
-        "mainLeague": "a liga women",
-        "sampleSize": 20,
-        "homeSample": 11,
-        "awaySample": 9,
-        "scoredHome": 2.909090909090909,
-        "concededHome": 1,
-        "scoredAway": 2.2222222222222223,
-        "concededAway": 0.7777777777777778,
-        "drawRate": 0.15,
-        "goals_history": [
-          {
-            "date": "07/11/2026 13:00:00",
-            "value": 6
-          },
-          {
-            "date": "01/11/2026 11:30:00",
-            "value": 2
-          },
-          {
-            "date": "24/10/2026 13:00:00",
-            "value": 3
-          },
-          {
-            "date": "20/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2026 14:00:00",
-            "value": 2
-          },
-          {
-            "date": "26/09/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "19/09/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "12/09/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "05/09/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "29/08/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "19/08/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "15/08/2026 13:00:00",
-            "value": 3
-          },
-          {
-            "date": "01/08/2026 13:00:00",
-            "value": 4
-          },
-          {
-            "date": "28/07/2026 18:00:00",
-            "value": 3
-          },
-          {
-            "date": "13/06/2026 14:00:00",
-            "value": 3
-          },
-          {
-            "date": "31/05/2026 12:00:00",
-            "value": 3
-          },
-          {
-            "date": "23/05/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "09/05/2026 16:00:00",
-            "value": 0
-          },
-          {
-            "date": "03/05/2026 11:30:00",
-            "value": 1
-          },
-          {
-            "date": "24/04/2026 18:00:00",
-            "value": 2
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "07/11/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/11/2026 11:30:00",
-            "value": 1
-          },
-          {
-            "date": "24/10/2026 13:00:00",
-            "value": 2
-          },
-          {
-            "date": "20/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2026 14:00:00",
-            "value": 2
-          },
-          {
-            "date": "26/09/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/09/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "12/09/2026 13:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/09/2026 13:00:00",
-            "value": 6
-          },
-          {
-            "date": "29/08/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "19/08/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "15/08/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/08/2026 13:00:00",
-            "value": 0
-          },
-          {
-            "date": "28/07/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "13/06/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "31/05/2026 12:00:00",
-            "value": 0
-          },
-          {
-            "date": "23/05/2026 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "09/05/2026 16:00:00",
-            "value": 1
-          },
-          {
-            "date": "03/05/2026 11:30:00",
-            "value": 1
-          },
-          {
-            "date": "24/04/2026 18:00:00",
-            "value": 0
-          }
-        ]
-      },
-      "model": {
-        "lambdaHome": 1.14,
-        "lambdaAway": 1.16,
-        "homeAttack": 0.98,
-        "homeDefense": 0.5,
-        "awayAttack": 1.14,
-        "awayDefense": 0.5,
-        "rho": -0.005,
-        "leagueBaseline": {
-          "homeGoals": 2.31,
-          "awayGoals": 2.03
-        }
-      }
-    }
-  },
-  {
-    "match": "CS Maruinense vs Independente de Simão Dias",
-    "matchId": "17370525",
-    "homeTeam": "CS Maruinense",
-    "awayTeam": "Independente de Simão Dias",
-    "season": "Sergipano, Série A2 2026",
+    "match": "Ghana vs Somalia",
+    "matchId": "17364204",
+    "homeTeam": "Ghana",
+    "awayTeam": "Somalia",
+    "season": "Africa Cup of Nations Qualification 2026",
     "bestBets": [
       {
         "bet": "Home or Draw",
-        "probability": 91.3,
-        "fairOdds": 1.1,
-        "confidence": "ELITE"
-      },
-      {
-        "bet": "Home Win",
-        "probability": 85.9,
-        "fairOdds": 1.16,
-        "confidence": "ELITE"
-      },
-      {
-        "bet": "Over 1.5",
-        "probability": 83.2,
-        "fairOdds": 1.2,
-        "confidence": "ELITE"
-      }
-    ],
-    "probabilities": {
-      "homeWin": 85.9,
-      "draw": 5.3,
-      "awayWin": 1.4,
-      "homeWinOrDraw": 91.3,
-      "awayWinOrDraw": 6.7,
-      "homeWinOrDraw15": 82.5,
-      "awayWinOrDraw15": 4.1,
-      "over15": 83.2,
-      "over25": 68.2,
-      "homeOver05": 89.9,
-      "awayOver05": 27.8,
-      "homeOver15": 80.1,
-      "awayOver15": 4.7,
-      "homeOver25": 62.4,
-      "awayOver25": 0.5,
-      "btts": 27,
-      "bttsNo": 65.6,
-      "homeCleanSheet": 64.8,
-      "awayCleanSheet": 2.7
-    },
-    "mostLikelyScore": "3-0",
-    "scoreProbability": 14.9,
-    "topScores": [
-      {
-        "score": "3-0",
-        "probability": 14.9
-      },
-      {
-        "score": "4-0",
-        "probability": 13.4
-      },
-      {
-        "score": "2-0",
-        "probability": 12.4
-      }
-    ],
-    "fairOdds": {
-      "home": "1.16",
-      "draw": "18.84",
-      "away": "70.46"
-    },
-    "indicators": {
-      "home": {
-        "mainLeague": "sergipano",
-        "sampleSize": 14,
-        "homeSample": 7,
-        "awaySample": 7,
-        "scoredHome": 2,
-        "concededHome": 0.7142857142857143,
-        "scoredAway": 0.7142857142857143,
-        "concededAway": 1,
-        "drawRate": 0.14285714285714285,
-        "goals_history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2025 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 4
-          },
-          {
-            "date": "11/10/2025 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "05/10/2025 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "02/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "28/09/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "21/09/2025 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "14/09/2025 20:00:00",
-            "value": 1
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2025 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "11/10/2025 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/10/2025 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "02/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "28/09/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "21/09/2025 15:00:00",
-            "value": 1
-          },
-          {
-            "date": "14/09/2025 20:00:00",
-            "value": 2
-          }
-        ]
-      },
-      "away": {
-        "mainLeague": "sergipano",
-        "sampleSize": 13,
-        "homeSample": 8,
-        "awaySample": 5,
-        "scoredHome": 0.875,
-        "concededHome": 2.125,
-        "scoredAway": 0.2,
-        "concededAway": 3.6,
-        "drawRate": 0.3076923076923077,
-        "goals_history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2025 19:00:00",
-            "value": 4
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "18/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "15/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "10/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "25/09/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "13/09/2025 20:00:00",
-            "value": 0
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "value": 6
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 5
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2025 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "18/10/2025 20:00:00",
-            "value": 7
-          },
-          {
-            "date": "15/10/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "10/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "25/09/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "13/09/2025 20:00:00",
-            "value": 2
-          }
-        ]
-      },
-      "model": {
-        "lambdaHome": 3.6,
-        "lambdaAway": 0.36,
-        "homeAttack": 1.07,
-        "homeDefense": 0.5,
-        "awayAttack": 0.5,
-        "awayDefense": 1.8,
-        "rho": -0.005,
-        "leagueBaseline": {
-          "homeGoals": 1.86,
-          "awayGoals": 1.42
-        }
-      }
-    }
-  },
-  {
-    "match": "AD Freipaulistano vs Socorro Sport Club",
-    "matchId": "17370526",
-    "homeTeam": "AD Freipaulistano",
-    "awayTeam": "Socorro Sport Club",
-    "season": "Sergipano, Série A2 2026",
-    "bestBets": [
-      {
-        "bet": "Home or Draw",
-        "probability": 83.1,
-        "fairOdds": 1.2,
-        "confidence": "ELITE"
-      },
-      {
-        "bet": "Over 1.5",
-        "probability": 76.9,
-        "fairOdds": 1.3,
-        "confidence": "STRONG"
-      },
-      {
-        "bet": "Home Win",
-        "probability": 61.6,
-        "fairOdds": 1.62,
-        "confidence": "GOOD"
-      }
-    ],
-    "probabilities": {
-      "homeWin": 61.6,
-      "draw": 21.6,
-      "awayWin": 16.5,
-      "homeWinOrDraw": 83.1,
-      "awayWinOrDraw": 38.1,
-      "homeWinOrDraw15": 65.6,
-      "awayWinOrDraw15": 26.8,
-      "over15": 76.9,
-      "over25": 53.1,
-      "homeOver05": 85.2,
-      "awayOver05": 58.5,
-      "homeOver15": 57.2,
-      "awayOver15": 22.1,
-      "homeOver25": 30.2,
-      "awayOver25": 6,
-      "btts": 50,
-      "bttsNo": 49.6,
-      "homeCleanSheet": 41.1,
-      "awayCleanSheet": 14.4
-    },
-    "mostLikelyScore": "1-0",
-    "scoreProbability": 11.5,
-    "topScores": [
-      {
-        "score": "1-0",
-        "probability": 11.5
-      },
-      {
-        "score": "2-0",
-        "probability": 11.2
-      },
-      {
-        "score": "1-1",
-        "probability": 10.3
-      }
-    ],
-    "fairOdds": {
-      "home": "1.62",
-      "draw": "4.64",
-      "away": "6.06"
-    },
-    "indicators": {
-      "home": {
-        "mainLeague": "sergipano",
-        "sampleSize": 13,
-        "homeSample": 5,
-        "awaySample": 8,
-        "scoredHome": 2.8,
-        "concededHome": 0.8,
-        "scoredAway": 2.5,
-        "concededAway": 1,
-        "drawRate": 0.07692307692307693,
-        "goals_history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "value": 6
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 5
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2025 14:00:00",
-            "value": 4
-          },
-          {
-            "date": "26/10/2025 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "18/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "15/10/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "11/10/2025 20:00:00",
-            "value": 5
-          },
-          {
-            "date": "04/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "27/09/2025 20:00:00",
-            "value": 4
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "15/09/2025 20:00:00",
-            "value": 0
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "07/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2025 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "26/10/2025 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "18/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "15/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "11/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "04/10/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "27/09/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "15/09/2025 20:00:00",
-            "value": 1
-          }
-        ]
-      },
-      "away": {
-        "mainLeague": "sergipano",
-        "sampleSize": 14,
-        "homeSample": 7,
-        "awaySample": 7,
-        "scoredHome": 3.142857142857143,
-        "concededHome": 0.7142857142857143,
-        "scoredAway": 1.5714285714285714,
-        "concededAway": 1.2857142857142858,
-        "drawRate": 0.21428571428571427,
-        "goals_history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 5
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "31/10/2025 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "11/10/2025 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "05/10/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "01/10/2025 20:00:00",
-            "value": 7
-          },
-          {
-            "date": "28/09/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "11/09/2025 15:00:00",
-            "value": 2
-          }
-        ],
-        "conceded_history": [
-          {
-            "date": "08/11/2026 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "04/11/2026 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "31/10/2025 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "11/10/2025 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "05/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "01/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "28/09/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "20/09/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "11/09/2025 15:00:00",
-            "value": 1
-          }
-        ]
-      },
-      "model": {
-        "lambdaHome": 1.93,
-        "lambdaAway": 0.88,
-        "homeAttack": 1.5,
-        "homeDefense": 0.56,
-        "awayAttack": 1.11,
-        "awayDefense": 0.69,
-        "rho": -0.005,
-        "leagueBaseline": {
-          "homeGoals": 1.86,
-          "awayGoals": 1.42
-        }
-      }
-    }
-  },
-  {
-    "match": "Estanciano vs AD Barra",
-    "matchId": "17370529",
-    "homeTeam": "Estanciano",
-    "awayTeam": "AD Barra",
-    "season": "Sergipano, Série A2 2026",
-    "bestBets": [
-      {
-        "bet": "Home or Draw",
-        "probability": 94.9,
+        "probability": 95,
         "fairOdds": 1.05,
         "confidence": "ELITE"
       },
       {
         "bet": "Home Win",
-        "probability": 84,
-        "fairOdds": 1.19,
-        "confidence": "ELITE"
+        "probability": 78.6,
+        "fairOdds": 1.27,
+        "confidence": "STRONG"
       },
       {
-        "bet": "Over 1.5",
-        "probability": 78.3,
-        "fairOdds": 1.28,
+        "bet": "BTTS No",
+        "probability": 76.7,
+        "fairOdds": 1.3,
         "confidence": "STRONG"
       }
     ],
     "probabilities": {
-      "homeWin": 84,
-      "draw": 10.9,
-      "awayWin": 3.2,
-      "homeWinOrDraw": 94.9,
-      "awayWinOrDraw": 14.1,
-      "homeWinOrDraw15": 76.8,
-      "awayWinOrDraw15": 7.4,
-      "over15": 78.3,
-      "over25": 55.9,
-      "homeOver05": 91,
-      "awayOver05": 29.4,
-      "homeOver15": 72.3,
-      "awayOver15": 4.9,
-      "homeOver25": 47.5,
-      "awayOver25": 0.6,
-      "btts": 27.3,
-      "bttsNo": 70.9,
-      "homeCleanSheet": 68.8,
-      "awayCleanSheet": 7.1
+      "homeWin": 78.6,
+      "draw": 16.4,
+      "awayWin": 4.4,
+      "homeWinOrDraw": 95,
+      "awayWinOrDraw": 20.8,
+      "homeWinOrDraw15": 66.2,
+      "awayWinOrDraw15": 8.5,
+      "over15": 67.8,
+      "over25": 41.5,
+      "homeOver05": 86.7,
+      "awayOver05": 26.1,
+      "homeOver15": 60.4,
+      "awayOver15": 3.8,
+      "homeOver25": 33.3,
+      "awayOver25": 0.4,
+      "btts": 22.8,
+      "bttsNo": 76.7,
+      "homeCleanSheet": 73.4,
+      "awayCleanSheet": 12.8
     },
     "mostLikelyScore": "2-0",
-    "scoreProbability": 17.4,
+    "scoreProbability": 19.9,
     "topScores": [
       {
         "score": "2-0",
-        "probability": 17.4
+        "probability": 19.9
+      },
+      {
+        "score": "1-0",
+        "probability": 19.4
       },
       {
         "score": "3-0",
-        "probability": 15.4
+        "probability": 13.7
+      }
+    ],
+    "fairOdds": {
+      "home": "1.27",
+      "draw": "6.10",
+      "away": "22.55"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 11,
+        "homeSample": 5,
+        "awaySample": 6,
+        "scoredHome": 2.4,
+        "concededHome": 0.6,
+        "scoredAway": 1.8333333333333333,
+        "concededAway": 0.5,
+        "drawRate": 0.18181818181818182,
+        "goals_history": [
+          {
+            "date": "04/07/2026 03:30:00",
+            "value": 0
+          },
+          {
+            "date": "23/06/2026 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "18/06/2026 01:00:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "08/10/2025 18:00:00",
+            "value": 5
+          },
+          {
+            "date": "08/09/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/09/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "21/03/2025 20:00:00",
+            "value": 5
+          },
+          {
+            "date": "10/06/2024 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "06/06/2024 21:00:00",
+            "value": 2
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "04/07/2026 03:30:00",
+            "value": 1
+          },
+          {
+            "date": "23/06/2026 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "18/06/2026 01:00:00",
+            "value": 0
+          },
+          {
+            "date": "12/10/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "08/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "04/09/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2024 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "06/06/2024 21:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world cup qualification",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 0.25,
+        "concededHome": 2.5,
+        "scoredAway": 0.25,
+        "concededAway": 1.5,
+        "drawRate": 0.125,
+        "goals_history": [
+          {
+            "date": "14/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 14:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/03/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2025 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/06/2024 15:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "14/10/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "08/09/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "05/09/2025 14:00:00",
+            "value": 3
+          },
+          {
+            "date": "25/03/2025 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2025 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2024 15:00:00",
+            "value": 3
+          },
+          {
+            "date": "07/06/2024 15:00:00",
+            "value": 2
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.06,
+        "lambdaAway": 0.3,
+        "homeAttack": 1.48,
+        "homeDefense": 0.5,
+        "awayAttack": 0.5,
+        "awayDefense": 0.86,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.62,
+          "awayGoals": 1.22
+        }
+      }
+    }
+  },
+  {
+    "match": "Guinea vs Eritrea",
+    "matchId": "17364211",
+    "homeTeam": "Guinea",
+    "awayTeam": "Eritrea",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Away or Draw",
+        "probability": 76.5,
+        "fairOdds": 1.31,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 71.9,
+        "fairOdds": 1.39,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Home or Draw",
+        "probability": 58.9,
+        "fairOdds": 1.7,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 23.5,
+      "draw": 35.5,
+      "awayWin": 41,
+      "homeWinOrDraw": 58.9,
+      "awayWinOrDraw": 76.5,
+      "homeWinOrDraw15": 24.5,
+      "awayWinOrDraw15": 35.6,
+      "over15": 45.9,
+      "over25": 20.4,
+      "homeOver05": 46.3,
+      "awayOver05": 60.4,
+      "homeOver15": 12.9,
+      "awayOver15": 23.8,
+      "homeOver25": 2.5,
+      "awayOver25": 6.7,
+      "btts": 28.1,
+      "bttsNo": 71.9,
+      "homeCleanSheet": 39.6,
+      "awayCleanSheet": 53.7
+    },
+    "mostLikelyScore": "0-0",
+    "scoreProbability": 21.3,
+    "topScores": [
+      {
+        "score": "0-0",
+        "probability": 21.3
+      },
+      {
+        "score": "0-1",
+        "probability": 19.6
       },
       {
         "score": "1-0",
@@ -1591,631 +329,2064 @@
       }
     ],
     "fairOdds": {
-      "home": "1.19",
-      "draw": "9.18",
-      "away": "31.41"
+      "home": "4.26",
+      "draw": "2.82",
+      "away": "2.44"
     },
     "indicators": {
       "home": {
-        "mainLeague": "sergipano",
-        "sampleSize": 15,
-        "homeSample": 8,
-        "awaySample": 7,
-        "scoredHome": 1.5,
-        "concededHome": 0.625,
-        "scoredAway": 2,
-        "concededAway": 0.7142857142857143,
-        "drawRate": 0.2,
+        "mainLeague": "world cup qualification",
+        "sampleSize": 6,
+        "homeSample": 3,
+        "awaySample": 3,
+        "scoredHome": 1.1666666666666667,
+        "concededHome": 0.6666666666666666,
+        "scoredAway": 1.1666666666666667,
+        "concededAway": 0.6666666666666666,
+        "drawRate": 0.5,
         "goals_history": [
           {
-            "date": "08/11/2026 19:00:00",
-            "value": 3
+            "date": "14/10/2025 18:00:00",
+            "value": 2
           },
           {
-            "date": "04/11/2026 19:00:00",
+            "date": "09/10/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "08/09/2025 18:00:00",
             "value": 0
           },
           {
-            "date": "01/11/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "06/11/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2025 19:00:00",
+            "date": "05/09/2025 14:00:00",
             "value": 3
           },
           {
-            "date": "25/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "12/10/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "05/10/2025 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "02/10/2025 20:00:00",
+            "date": "25/03/2025 17:00:00",
             "value": 0
           },
           {
-            "date": "28/09/2025 20:00:00",
-            "value": 3
-          },
-          {
-            "date": "17/09/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "14/09/2025 20:00:00",
-            "value": 2
+            "date": "21/03/2025 22:00:00",
+            "value": 0
           }
         ],
         "conceded_history": [
           {
-            "date": "08/11/2026 19:00:00",
+            "date": "14/10/2025 18:00:00",
             "value": 2
           },
           {
-            "date": "04/11/2026 19:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
+            "date": "09/10/2025 18:00:00",
             "value": 1
           },
           {
-            "date": "06/11/2025 20:00:00",
+            "date": "08/09/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 14:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/03/2025 17:00:00",
             "value": 1
           },
           {
-            "date": "01/11/2025 19:00:00",
+            "date": "21/03/2025 22:00:00",
             "value": 0
-          },
-          {
-            "date": "25/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "19/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "16/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "12/10/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "05/10/2025 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "02/10/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "28/09/2025 20:00:00",
-            "value": 0
-          },
-          {
-            "date": "17/09/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "14/09/2025 20:00:00",
-            "value": 1
           }
         ]
       },
       "away": {
-        "mainLeague": "sergipano",
-        "sampleSize": 13,
-        "homeSample": 6,
-        "awaySample": 7,
-        "scoredHome": 0.6666666666666666,
-        "concededHome": 2,
-        "scoredAway": 0.5714285714285714,
-        "concededAway": 3.2857142857142856,
-        "drawRate": 0.23076923076923078,
+        "mainLeague": "cecafa cup u23",
+        "sampleSize": 6,
+        "homeSample": 1,
+        "awaySample": 5,
+        "scoredHome": 1.3333333333333333,
+        "concededHome": 1,
+        "scoredAway": 1.6,
+        "concededAway": 0.8,
+        "drawRate": 0.16666666666666666,
         "goals_history": [
           {
-            "date": "08/11/2026 19:00:00",
+            "date": "19/12/2019 13:00:00",
             "value": 0
           },
           {
-            "date": "04/11/2026 19:00:00",
+            "date": "17/12/2019 11:00:00",
+            "value": 4
+          },
+          {
+            "date": "15/12/2019 11:30:00",
             "value": 0
           },
           {
-            "date": "01/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/03/2025 19:40:00",
-            "value": 2
-          },
-          {
-            "date": "22/02/2025 19:30:00",
-            "value": 0
-          },
-          {
-            "date": "15/02/2025 20:00:00",
-            "value": 1
-          },
-          {
-            "date": "09/02/2025 20:45:00",
-            "value": 1
-          },
-          {
-            "date": "03/02/2025 20:00:00",
+            "date": "13/12/2019 11:30:00",
             "value": 3
           },
           {
-            "date": "26/01/2025 19:30:00",
+            "date": "11/12/2019 14:00:00",
             "value": 0
           },
           {
-            "date": "24/01/2025 00:00:00",
-            "value": 0
-          },
-          {
-            "date": "20/01/2025 23:00:00",
-            "value": 0
-          },
-          {
-            "date": "11/01/2025 20:00:00",
+            "date": "09/12/2019 12:00:00",
             "value": 1
           }
         ],
         "conceded_history": [
           {
-            "date": "08/11/2026 19:00:00",
+            "date": "19/12/2019 13:00:00",
             "value": 3
           },
           {
-            "date": "04/11/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/11/2026 19:00:00",
-            "value": 5
-          },
-          {
-            "date": "29/10/2026 19:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/03/2025 19:40:00",
-            "value": 4
-          },
-          {
-            "date": "22/02/2025 19:30:00",
-            "value": 2
-          },
-          {
-            "date": "15/02/2025 20:00:00",
-            "value": 8
-          },
-          {
-            "date": "09/02/2025 20:45:00",
-            "value": 0
-          },
-          {
-            "date": "03/02/2025 20:00:00",
-            "value": 2
-          },
-          {
-            "date": "26/01/2025 19:30:00",
+            "date": "17/12/2019 11:00:00",
             "value": 1
           },
           {
-            "date": "24/01/2025 00:00:00",
-            "value": 5
+            "date": "15/12/2019 11:30:00",
+            "value": 0
           },
           {
-            "date": "20/01/2025 23:00:00",
-            "value": 4
+            "date": "13/12/2019 11:30:00",
+            "value": 0
           },
           {
-            "date": "11/01/2025 20:00:00",
-            "value": 1
+            "date": "11/12/2019 14:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/12/2019 12:00:00",
+            "value": 0
           }
         ]
       },
       "model": {
-        "lambdaHome": 2.65,
-        "lambdaAway": 0.36,
-        "homeAttack": 0.81,
-        "homeDefense": 0.5,
-        "awayAttack": 0.5,
-        "awayDefense": 1.77,
+        "lambdaHome": 0.62,
+        "lambdaAway": 0.93,
+        "homeAttack": 0.67,
+        "homeDefense": 0.54,
+        "awayAttack": 1.39,
+        "awayDefense": 0.53,
         "rho": -0.005,
         "leagueBaseline": {
-          "homeGoals": 1.86,
-          "awayGoals": 1.42
+          "homeGoals": 1.75,
+          "awayGoals": 1.22
         }
       }
     }
   },
   {
-    "match": "Juventus (F) vs OL Lyonnes (F)",
-    "matchId": "17018529",
-    "homeTeam": "Juventus (F)",
-    "awayTeam": "OL Lyonnes (F)",
-    "season": "UEFA Champions League Women 26/27",
+    "match": "DR Congo vs Sierra Leone",
+    "matchId": "17364222",
+    "homeTeam": "DR Congo",
+    "awayTeam": "Sierra Leone",
+    "season": "Africa Cup of Nations Qualification 2026",
     "bestBets": [
       {
-        "bet": "Away or Draw",
-        "probability": 85,
-        "fairOdds": 1.18,
+        "bet": "Home or Draw",
+        "probability": 92,
+        "fairOdds": 1.09,
         "confidence": "ELITE"
+      },
+      {
+        "bet": "Home Win",
+        "probability": 74.6,
+        "fairOdds": 1.34,
+        "confidence": "STRONG"
       },
       {
         "bet": "Over 1.5",
-        "probability": 82.8,
-        "fairOdds": 1.21,
+        "probability": 73.1,
+        "fairOdds": 1.37,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 74.6,
+      "draw": 17.3,
+      "awayWin": 7.4,
+      "homeWinOrDraw": 92,
+      "awayWinOrDraw": 24.7,
+      "homeWinOrDraw15": 69.3,
+      "awayWinOrDraw15": 13.8,
+      "over15": 73.1,
+      "over25": 48.1,
+      "homeOver05": 87.4,
+      "awayOver05": 39.1,
+      "homeOver15": 62,
+      "awayOver15": 9,
+      "homeOver25": 35,
+      "awayOver25": 1.4,
+      "btts": 34.4,
+      "bttsNo": 64.9,
+      "homeCleanSheet": 60.3,
+      "awayCleanSheet": 12
+    },
+    "mostLikelyScore": "2-0",
+    "scoreProbability": 16.4,
+    "topScores": [
+      {
+        "score": "2-0",
+        "probability": 16.4
+      },
+      {
+        "score": "1-0",
+        "probability": 15.4
+      },
+      {
+        "score": "3-0",
+        "probability": 11.6
+      }
+    ],
+    "fairOdds": {
+      "home": "1.34",
+      "draw": "5.77",
+      "away": "13.54"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 12,
+        "homeSample": 5,
+        "awaySample": 7,
+        "scoredHome": 1.2,
+        "concededHome": 0.4,
+        "scoredAway": 1.4285714285714286,
+        "concededAway": 0.42857142857142855,
+        "drawRate": 0.16666666666666666,
+        "goals_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "06/01/2026 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "value": 1
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "16/11/2024 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "06/01/2026 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "value": 0
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "16/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 0.75,
+        "concededHome": 1.25,
+        "scoredAway": 1,
+        "concededAway": 2.25,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "13/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "13/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "06/09/2024 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.12,
+        "lambdaAway": 0.5,
+        "homeAttack": 0.94,
+        "homeDefense": 0.5,
+        "awayAttack": 1,
+        "awayDefense": 1.77,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.27,
+          "awayGoals": 1
+        }
+      }
+    }
+  },
+  {
+    "match": "Equatorial Guinea vs Zimbabwe",
+    "matchId": "17364224",
+    "homeTeam": "Equatorial Guinea",
+    "awayTeam": "Zimbabwe",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Away or Draw",
+        "probability": 80.1,
+        "fairOdds": 1.25,
         "confidence": "ELITE"
       },
       {
-        "bet": "Away Win",
-        "probability": 66.7,
+        "bet": "BTTS No",
+        "probability": 79.3,
+        "fairOdds": 1.26,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Home or Draw",
+        "probability": 59.7,
+        "fairOdds": 1.68,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 19.9,
+      "draw": 39.8,
+      "awayWin": 40.3,
+      "homeWinOrDraw": 59.7,
+      "awayWinOrDraw": 80.1,
+      "homeWinOrDraw15": 18.4,
+      "awayWinOrDraw15": 29.5,
+      "over15": 36.3,
+      "over25": 13.6,
+      "homeOver05": 37.5,
+      "awayOver05": 55.1,
+      "homeOver15": 8.1,
+      "awayOver15": 19.1,
+      "homeOver25": 1.2,
+      "awayOver25": 4.7,
+      "btts": 20.7,
+      "bttsNo": 79.3,
+      "homeCleanSheet": 44.9,
+      "awayCleanSheet": 62.5
+    },
+    "mostLikelyScore": "0-0",
+    "scoreProbability": 28.1,
+    "topScores": [
+      {
+        "score": "0-0",
+        "probability": 28.1
+      },
+      {
+        "score": "0-1",
+        "probability": 22.4
+      },
+      {
+        "score": "1-0",
+        "probability": 13.1
+      }
+    ],
+    "fairOdds": {
+      "home": "5.03",
+      "draw": "2.51",
+      "away": "2.48"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 5,
+        "homeSample": 3,
+        "awaySample": 2,
+        "scoredHome": 0.6,
+        "concededHome": 1.6,
+        "scoredAway": 0.6,
+        "concededAway": 1.6,
+        "drawRate": 0,
+        "goals_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/12/2025 13:30:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "value": 3
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/12/2025 13:30:00",
+            "value": 2
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 10,
+        "homeSample": 5,
+        "awaySample": 5,
+        "scoredHome": 0.6,
+        "concededHome": 1.2,
+        "scoredAway": 0.4,
+        "concededAway": 1.2,
+        "drawRate": 0.5,
+        "goals_history": [
+          {
+            "date": "13/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/03/2025 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/03/2025 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "11/06/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/06/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/11/2023 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2023 14:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "13/10/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/03/2025 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/03/2025 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "11/06/2024 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "07/06/2024 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "19/11/2023 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2023 14:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 0.47,
+        "lambdaAway": 0.8,
+        "homeAttack": 0.5,
+        "homeDefense": 1.61,
+        "awayAttack": 0.5,
+        "awayDefense": 0.74,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.27,
+          "awayGoals": 1
+        }
+      }
+    }
+  },
+  {
+    "match": "Madagascar vs Guinea-Bissau",
+    "matchId": "17364419",
+    "homeTeam": "Madagascar",
+    "awayTeam": "Guinea-Bissau",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 73,
+        "fairOdds": 1.37,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 66.8,
         "fairOdds": 1.5,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "Away or Draw",
+        "probability": 60.4,
+        "fairOdds": 1.66,
         "confidence": "GOOD"
       }
     ],
     "probabilities": {
-      "homeWin": 14,
-      "draw": 18.3,
-      "awayWin": 66.7,
-      "homeWinOrDraw": 32.3,
-      "awayWinOrDraw": 85,
-      "homeWinOrDraw15": 24.8,
-      "awayWinOrDraw15": 72.3,
-      "over15": 82.8,
-      "over25": 62.3,
-      "homeOver05": 60.9,
-      "awayOver05": 89.1,
-      "homeOver15": 24.5,
-      "awayOver15": 66.1,
-      "homeOver25": 7.1,
-      "awayOver25": 39.7,
-      "btts": 54.8,
-      "bttsNo": 44.2,
-      "homeCleanSheet": 9.9,
-      "awayCleanSheet": 38.1
+      "homeWin": 39.6,
+      "draw": 33.4,
+      "awayWin": 27,
+      "homeWinOrDraw": 73,
+      "awayWinOrDraw": 60.4,
+      "homeWinOrDraw15": 38.1,
+      "awayWinOrDraw15": 29.5,
+      "over15": 51.9,
+      "over25": 25.2,
+      "homeOver05": 62.6,
+      "awayOver05": 52.9,
+      "homeOver15": 25.8,
+      "awayOver15": 17.5,
+      "homeOver25": 7.7,
+      "awayOver25": 4.1,
+      "btts": 33.2,
+      "bttsNo": 66.8,
+      "homeCleanSheet": 47.1,
+      "awayCleanSheet": 37.4
     },
-    "mostLikelyScore": "0-2",
-    "scoreProbability": 10.2,
+    "mostLikelyScore": "0-0",
+    "scoreProbability": 17.7,
     "topScores": [
       {
-        "score": "0-2",
-        "probability": 10.2
+        "score": "0-0",
+        "probability": 17.7
       },
       {
-        "score": "1-2",
-        "probability": 9.7
+        "score": "1-0",
+        "probability": 17.2
       },
       {
         "score": "0-1",
-        "probability": 8.8
+        "probability": 13.2
       }
     ],
     "fairOdds": {
-      "home": "7.13",
-      "draw": "5.46",
-      "away": "1.50"
+      "home": "2.52",
+      "draw": "2.99",
+      "away": "3.71"
     },
     "indicators": {
       "home": {
-        "mainLeague": "serie a femminile",
-        "sampleSize": 20,
-        "homeSample": 11,
-        "awaySample": 9,
-        "scoredHome": 1.9090909090909092,
-        "concededHome": 1.5454545454545454,
-        "scoredAway": 1.7777777777777777,
-        "concededAway": 1.2222222222222223,
-        "drawRate": 0.2,
+        "mainLeague": "african nations championship",
+        "sampleSize": 7,
+        "homeSample": 4,
+        "awaySample": 3,
+        "scoredHome": 1.25,
+        "concededHome": 0.75,
+        "scoredAway": 1.8571428571428572,
+        "concededAway": 1.4285714285714286,
+        "drawRate": 0.14285714285714285,
         "goals_history": [
           {
-            "date": "07/11/2026 18:00:00",
+            "date": "30/08/2025 17:00:00",
             "value": 2
           },
           {
-            "date": "02/11/2026 20:30:00",
-            "value": 2
-          },
-          {
-            "date": "24/10/2026 18:30:00",
-            "value": 2
-          },
-          {
-            "date": "18/10/2026 12:30:00",
-            "value": 2
-          },
-          {
-            "date": "04/10/2026 15:00:00",
+            "date": "26/08/2025 16:30:00",
             "value": 1
           },
           {
-            "date": "26/09/2026 12:30:00",
-            "value": 3
+            "date": "22/08/2025 16:00:00",
+            "value": 5
           },
           {
-            "date": "17/05/2026 18:00:00",
-            "value": 3
-          },
-          {
-            "date": "10/05/2026 15:00:00",
-            "value": 3
-          },
-          {
-            "date": "02/05/2026 12:30:00",
-            "value": 3
-          },
-          {
-            "date": "25/04/2026 12:30:00",
-            "value": 0
-          },
-          {
-            "date": "04/04/2026 12:30:00",
+            "date": "16/08/2025 19:00:00",
             "value": 2
           },
           {
-            "date": "21/03/2026 12:30:00",
-            "value": 0
-          },
-          {
-            "date": "15/03/2026 14:00:00",
-            "value": 0
-          },
-          {
-            "date": "22/02/2026 12:30:00",
+            "date": "13/08/2025 16:00:00",
             "value": 2
           },
           {
-            "date": "15/02/2026 15:00:00",
+            "date": "09/08/2025 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/08/2025 19:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "30/08/2025 17:00:00",
+            "value": 3
+          },
+          {
+            "date": "26/08/2025 16:30:00",
             "value": 0
           },
           {
-            "date": "07/02/2026 15:00:00",
-            "value": 2
-          },
-          {
-            "date": "01/02/2026 18:00:00",
+            "date": "22/08/2025 16:00:00",
             "value": 4
           },
           {
-            "date": "26/01/2026 18:00:00",
-            "value": 3
-          },
-          {
-            "date": "18/01/2026 15:30:00",
+            "date": "16/08/2025 19:00:00",
             "value": 1
           },
           {
-            "date": "13/12/2025 12:30:00",
+            "date": "13/08/2025 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/08/2025 19:00:00",
+            "value": 2
+          },
+          {
+            "date": "03/08/2025 19:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 1.25,
+        "concededHome": 0.5,
+        "scoredAway": 1,
+        "concededAway": 1,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2024 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/09/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2024 18:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/11/2024 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "15/11/2024 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/09/2024 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "05/09/2024 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 0.98,
+        "lambdaAway": 0.75,
+        "homeAttack": 0.8,
+        "homeDefense": 0.59,
+        "awayAttack": 1,
+        "awayDefense": 0.79,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.56,
+          "awayGoals": 1.27
+        }
+      }
+    }
+  },
+  {
+    "match": "Türkiye vs Belgium",
+    "matchId": "15534041",
+    "homeTeam": "Türkiye",
+    "awayTeam": "Belgium",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 89.6,
+        "fairOdds": 1.12,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Away or Draw",
+        "probability": 82.3,
+        "fairOdds": 1.22,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Over 2.5",
+        "probability": 76.7,
+        "fairOdds": 1.3,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 14.6,
+      "draw": 15.4,
+      "awayWin": 67,
+      "homeWinOrDraw": 30,
+      "awayWinOrDraw": 82.3,
+      "homeWinOrDraw15": 26.7,
+      "awayWinOrDraw15": 76.8,
+      "over15": 89.6,
+      "over25": 76.7,
+      "homeOver05": 71.4,
+      "awayOver05": 91.6,
+      "homeOver15": 37.3,
+      "awayOver15": 75.9,
+      "homeOver25": 14.6,
+      "awayOver25": 53,
+      "btts": 67.5,
+      "bttsNo": 29.5,
+      "homeCleanSheet": 5.4,
+      "awayCleanSheet": 25.6
+    },
+    "mostLikelyScore": "1-2",
+    "scoreProbability": 8.1,
+    "topScores": [
+      {
+        "score": "1-2",
+        "probability": 8.1
+      },
+      {
+        "score": "1-3",
+        "probability": 7.9
+      },
+      {
+        "score": "0-2",
+        "probability": 6.1
+      }
+    ],
+    "fairOdds": {
+      "home": "6.83",
+      "draw": "6.51",
+      "away": "1.49"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa e",
+        "sampleSize": 16,
+        "homeSample": 8,
+        "awaySample": 8,
+        "scoredHome": 2,
+        "concededHome": 1.625,
+        "scoredAway": 1.75,
+        "concededAway": 1.125,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "18/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "15/11/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/10/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "11/10/2025 20:45:00",
+            "value": 6
+          },
+          {
+            "date": "07/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "04/09/2025 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "14/10/2009 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/10/2009 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2009 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2009 20:00:00",
+            "value": 4
+          },
+          {
+            "date": "01/04/2009 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "28/03/2009 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/10/2008 20:30:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2008 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/09/2008 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2008 18:00:00",
             "value": 2
           }
         ],
         "conceded_history": [
           {
-            "date": "07/11/2026 18:00:00",
+            "date": "18/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "15/11/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2025 20:45:00",
             "value": 1
           },
           {
-            "date": "02/11/2026 20:30:00",
+            "date": "11/10/2025 20:45:00",
             "value": 1
           },
           {
-            "date": "24/10/2026 18:30:00",
-            "value": 5
+            "date": "07/09/2025 20:45:00",
+            "value": 6
           },
           {
-            "date": "18/10/2026 12:30:00",
+            "date": "04/09/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/10/2009 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2009 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "09/09/2009 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2009 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "01/04/2009 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/03/2009 22:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2008 20:30:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2008 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/09/2008 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2008 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world championship",
+        "sampleSize": 5,
+        "homeSample": 3,
+        "awaySample": 2,
+        "scoredHome": 2.4,
+        "concededHome": 1,
+        "scoredAway": 2.4,
+        "concededAway": 1,
+        "drawRate": 0.6,
+        "goals_history": [
+          {
+            "date": "07/07/2026 02:00:00",
             "value": 4
           },
           {
-            "date": "04/10/2026 15:00:00",
+            "date": "01/07/2026 22:00:00",
             "value": 2
           },
           {
-            "date": "26/09/2026 12:30:00",
+            "date": "27/06/2026 05:00:00",
+            "value": 5
+          },
+          {
+            "date": "21/06/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/06/2026 21:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "07/07/2026 02:00:00",
             "value": 1
           },
           {
-            "date": "17/05/2026 18:00:00",
+            "date": "01/07/2026 22:00:00",
+            "value": 2
+          },
+          {
+            "date": "27/06/2026 05:00:00",
             "value": 1
           },
           {
-            "date": "10/05/2026 15:00:00",
+            "date": "21/06/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/06/2026 21:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.33,
+        "lambdaAway": 2.92,
+        "homeAttack": 1.33,
+        "homeDefense": 1.41,
+        "awayAttack": 1.8,
+        "awayDefense": 0.67,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "Armenia vs Cyprus",
+    "matchId": "15534180",
+    "homeTeam": "Armenia",
+    "awayTeam": "Cyprus",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 78.7,
+        "fairOdds": 1.27,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Away or Draw",
+        "probability": 76.6,
+        "fairOdds": 1.31,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "BTTS",
+        "probability": 56,
+        "fairOdds": 1.79,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 23.1,
+      "draw": 23.1,
+      "awayWin": 53.4,
+      "homeWinOrDraw": 46.3,
+      "awayWinOrDraw": 76.6,
+      "homeWinOrDraw15": 34.9,
+      "awayWinOrDraw15": 61.5,
+      "over15": 78.7,
+      "over25": 55.6,
+      "homeOver05": 66.9,
+      "awayOver05": 83.4,
+      "homeOver15": 30.4,
+      "awayOver15": 53.8,
+      "homeOver25": 10.1,
+      "awayOver25": 27,
+      "btts": 56,
+      "bttsNo": 43.7,
+      "homeCleanSheet": 16.3,
+      "awayCleanSheet": 32.8
+    },
+    "mostLikelyScore": "1-1",
+    "scoreProbability": 10.9,
+    "topScores": [
+      {
+        "score": "1-1",
+        "probability": 10.9
+      },
+      {
+        "score": "1-2",
+        "probability": 9.8
+      },
+      {
+        "score": "0-1",
+        "probability": 9.7
+      }
+    ],
+    "fairOdds": {
+      "home": "4.32",
+      "draw": "4.32",
+      "away": "1.87"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "uefa nations league",
+        "sampleSize": 12,
+        "homeSample": 6,
+        "awaySample": 6,
+        "scoredHome": 1.3333333333333333,
+        "concededHome": 1.6666666666666667,
+        "scoredAway": 0.8333333333333334,
+        "concededAway": 2.1666666666666665,
+        "drawRate": 0.16666666666666666,
+        "goals_history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "28/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "23/03/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/03/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "17/11/2024 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/11/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "13/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2024 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "10/09/2024 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "value": 4
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "05/10/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "02/10/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/09/2026 18:00:00",
             "value": 3
           },
           {
-            "date": "02/05/2026 12:30:00",
-            "value": 2
+            "date": "25/09/2026 18:00:00",
+            "value": 0
           },
           {
-            "date": "25/04/2026 12:30:00",
+            "date": "23/03/2025 15:00:00",
+            "value": 6
+          },
+          {
+            "date": "20/03/2025 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "17/11/2024 15:00:00",
             "value": 1
           },
           {
-            "date": "04/04/2026 12:30:00",
+            "date": "14/11/2024 18:00:00",
             "value": 1
           },
           {
-            "date": "21/03/2026 12:30:00",
-            "value": 0
-          },
-          {
-            "date": "15/03/2026 14:00:00",
-            "value": 1
-          },
-          {
-            "date": "22/02/2026 12:30:00",
+            "date": "13/10/2024 18:00:00",
             "value": 2
           },
           {
-            "date": "15/02/2026 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "07/02/2026 15:00:00",
-            "value": 0
-          },
-          {
-            "date": "01/02/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "26/01/2026 18:00:00",
-            "value": 0
-          },
-          {
-            "date": "18/01/2026 15:30:00",
+            "date": "10/10/2024 20:45:00",
             "value": 2
           },
           {
-            "date": "13/12/2025 12:30:00",
+            "date": "10/09/2024 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "07/09/2024 18:00:00",
             "value": 1
           }
         ]
       },
       "away": {
-        "mainLeague": "première ligue",
+        "mainLeague": "world cup qual. uefa h",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 1.5,
+        "concededHome": 1.5,
+        "scoredAway": 1.25,
+        "concededAway": 1.25,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "15/11/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "12/10/2025 15:00:00",
+            "value": 4
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "06/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "21/03/2025 18:00:00",
+            "value": 2
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "15/11/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "12/10/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "06/09/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2025 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.11,
+        "lambdaAway": 1.81,
+        "homeAttack": 0.79,
+        "homeDefense": 1.25,
+        "awayAttack": 1.09,
+        "awayDefense": 0.83,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.68,
+          "awayGoals": 1.33
+        }
+      }
+    }
+  },
+  {
+    "match": "Fútbol Club Barcelona (F) vs Arsenal (F)",
+    "matchId": "17018528",
+    "homeTeam": "Fútbol Club Barcelona (F)",
+    "awayTeam": "Arsenal (F)",
+    "season": "UEFA Champions League Women 26/27",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 86.2,
+        "fairOdds": 1.16,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Home or Draw",
+        "probability": 82.4,
+        "fairOdds": 1.21,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Home Over 1.5",
+        "probability": 68.8,
+        "fairOdds": 1.45,
+        "confidence": "GOOD"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 64.4,
+      "draw": 18,
+      "awayWin": 16.3,
+      "homeWinOrDraw": 82.4,
+      "awayWinOrDraw": 34.3,
+      "homeWinOrDraw15": 73,
+      "awayWinOrDraw15": 28.4,
+      "over15": 86.2,
+      "over25": 68.4,
+      "homeOver05": 90,
+      "awayOver05": 67.6,
+      "homeOver15": 68.8,
+      "awayOver15": 31.7,
+      "homeOver25": 42.9,
+      "awayOver25": 10.9,
+      "btts": 61.7,
+      "bttsNo": 37,
+      "homeCleanSheet": 31.1,
+      "awayCleanSheet": 8.7
+    },
+    "mostLikelyScore": "2-1",
+    "scoreProbability": 9.4,
+    "topScores": [
+      {
+        "score": "2-1",
+        "probability": 9.4
+      },
+      {
+        "score": "2-0",
+        "probability": 8.2
+      },
+      {
+        "score": "1-1",
+        "probability": 7.8
+      }
+    ],
+    "fairOdds": {
+      "home": "1.55",
+      "draw": "5.55",
+      "away": "6.13"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "liga f moeve",
         "sampleSize": 20,
         "homeSample": 9,
         "awaySample": 11,
         "scoredHome": 4.888888888888889,
-        "concededHome": 0.2222222222222222,
-        "scoredAway": 3.909090909090909,
-        "concededAway": 0.9090909090909091,
-        "drawRate": 0.15,
+        "concededHome": 0.5555555555555556,
+        "scoredAway": 3.1818181818181817,
+        "concededAway": 0.36363636363636365,
+        "drawRate": 0,
         "goals_history": [
           {
-            "date": "07/11/2026 18:00:00",
-            "value": 7
-          },
-          {
-            "date": "31/10/2026 18:00:00",
+            "date": "08/11/2026 16:00:00",
             "value": 5
           },
           {
-            "date": "24/10/2026 21:00:00",
-            "value": 5
-          },
-          {
-            "date": "17/10/2026 21:05:00",
+            "date": "01/11/2026 12:30:00",
             "value": 4
           },
           {
-            "date": "03/10/2026 18:00:00",
-            "value": 5
-          },
-          {
-            "date": "18/09/2026 19:00:00",
-            "value": 8
-          },
-          {
-            "date": "12/09/2026 13:30:00",
-            "value": 7
-          },
-          {
-            "date": "04/09/2026 21:00:00",
-            "value": 7
-          },
-          {
-            "date": "29/05/2026 21:00:00",
-            "value": 5
-          },
-          {
-            "date": "16/05/2026 18:00:00",
-            "value": 8
-          },
-          {
-            "date": "06/05/2026 17:00:00",
+            "date": "24/10/2026 20:30:00",
             "value": 3
           },
           {
-            "date": "29/04/2026 19:00:00",
+            "date": "18/10/2026 12:00:00",
             "value": 1
           },
           {
-            "date": "22/04/2026 18:45:00",
-            "value": 4
+            "date": "04/10/2026 19:00:00",
+            "value": 7
           },
           {
-            "date": "28/03/2026 18:00:00",
+            "date": "26/09/2026 16:30:00",
             "value": 2
           },
           {
-            "date": "21/03/2026 21:00:00",
-            "value": 2
-          },
-          {
-            "date": "10/03/2026 19:00:00",
-            "value": 3
-          },
-          {
-            "date": "21/02/2026 21:00:00",
+            "date": "18/09/2026 20:00:00",
             "value": 6
           },
           {
-            "date": "08/02/2026 15:00:00",
+            "date": "12/09/2026 19:00:00",
             "value": 4
           },
           {
-            "date": "01/02/2026 15:00:00",
+            "date": "05/09/2026 20:30:00",
+            "value": 4
+          },
+          {
+            "date": "30/08/2026 19:00:00",
+            "value": 5
+          },
+          {
+            "date": "31/05/2026 16:00:00",
+            "value": 4
+          },
+          {
+            "date": "27/05/2026 19:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/05/2026 19:00:00",
+            "value": 3
+          },
+          {
+            "date": "06/05/2026 18:45:00",
+            "value": 5
+          },
+          {
+            "date": "22/04/2026 19:00:00",
+            "value": 4
+          },
+          {
+            "date": "06/04/2026 19:00:00",
+            "value": 6
+          },
+          {
+            "date": "29/03/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "21/03/2026 19:00:00",
+            "value": 7
+          },
+          {
+            "date": "15/03/2026 12:00:00",
+            "value": 2
+          },
+          {
+            "date": "21/02/2026 18:15:00",
+            "value": 2
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "08/11/2026 16:00:00",
             "value": 1
           },
           {
-            "date": "18/01/2026 13:00:00",
+            "date": "01/11/2026 12:30:00",
+            "value": 0
+          },
+          {
+            "date": "24/10/2026 20:30:00",
+            "value": 0
+          },
+          {
+            "date": "18/10/2026 12:00:00",
+            "value": 2
+          },
+          {
+            "date": "04/10/2026 19:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 16:30:00",
+            "value": 0
+          },
+          {
+            "date": "18/09/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "12/09/2026 19:00:00",
+            "value": 2
+          },
+          {
+            "date": "05/09/2026 20:30:00",
+            "value": 0
+          },
+          {
+            "date": "30/08/2026 19:00:00",
+            "value": 0
+          },
+          {
+            "date": "31/05/2026 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/05/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/05/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/05/2026 18:45:00",
+            "value": 0
+          },
+          {
+            "date": "22/04/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/04/2026 19:00:00",
+            "value": 0
+          },
+          {
+            "date": "29/03/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/03/2026 12:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/02/2026 18:15:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "women's super league",
+        "sampleSize": 20,
+        "homeSample": 10,
+        "awaySample": 10,
+        "scoredHome": 2.2,
+        "concededHome": 0.5,
+        "scoredAway": 1.8,
+        "concededAway": 0.9,
+        "drawRate": 0.3,
+        "goals_history": [
+          {
+            "date": "08/11/2026 13:00:00",
+            "value": 2
+          },
+          {
+            "date": "01/11/2026 13:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 13:45:00",
+            "value": 2
+          },
+          {
+            "date": "17/10/2026 13:45:00",
+            "value": 1
+          },
+          {
+            "date": "04/10/2026 17:30:00",
+            "value": 2
+          },
+          {
+            "date": "27/09/2026 17:30:00",
+            "value": 0
+          },
+          {
+            "date": "19/09/2026 18:30:00",
+            "value": 1
+          },
+          {
+            "date": "13/09/2026 15:45:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2026 13:00:00",
+            "value": 1
+          },
+          {
+            "date": "16/05/2026 14:00:00",
+            "value": 3
+          },
+          {
+            "date": "13/05/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/05/2026 13:00:00",
+            "value": 3
+          },
+          {
+            "date": "06/05/2026 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "29/04/2026 20:00:00",
+            "value": 7
+          },
+          {
+            "date": "28/03/2026 18:30:00",
+            "value": 5
+          },
+          {
+            "date": "21/03/2026 13:00:00",
+            "value": 5
+          },
+          {
+            "date": "15/03/2026 12:55:00",
+            "value": 2
+          },
+          {
+            "date": "08/02/2026 13:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/01/2026 13:30:00",
+            "value": 2
+          },
+          {
+            "date": "10/01/2026 13:30:00",
             "value": 0
           }
         ],
         "conceded_history": [
           {
-            "date": "07/11/2026 18:00:00",
+            "date": "08/11/2026 13:00:00",
             "value": 1
           },
           {
-            "date": "31/10/2026 18:00:00",
-            "value": 2
+            "date": "01/11/2026 13:00:00",
+            "value": 1
           },
           {
-            "date": "24/10/2026 21:00:00",
+            "date": "24/10/2026 13:45:00",
+            "value": 1
+          },
+          {
+            "date": "17/10/2026 13:45:00",
+            "value": 1
+          },
+          {
+            "date": "04/10/2026 17:30:00",
+            "value": 4
+          },
+          {
+            "date": "27/09/2026 17:30:00",
+            "value": 1
+          },
+          {
+            "date": "19/09/2026 18:30:00",
+            "value": 1
+          },
+          {
+            "date": "13/09/2026 15:45:00",
             "value": 0
           },
           {
-            "date": "17/10/2026 21:05:00",
+            "date": "06/09/2026 13:00:00",
+            "value": 0
+          },
+          {
+            "date": "16/05/2026 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "13/05/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/05/2026 13:00:00",
+            "value": 0
+          },
+          {
+            "date": "06/05/2026 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "29/04/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "28/03/2026 18:30:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2026 13:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/03/2026 12:55:00",
+            "value": 0
+          },
+          {
+            "date": "08/02/2026 13:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/01/2026 13:30:00",
+            "value": 0
+          },
+          {
+            "date": "10/01/2026 13:30:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.44,
+        "lambdaAway": 1.16,
+        "homeAttack": 1.53,
+        "homeDefense": 0.5,
+        "awayAttack": 0.84,
+        "awayDefense": 0.5,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 3.19,
+          "awayGoals": 2.74
+        }
+      }
+    }
+  },
+  {
+    "match": "Chambéry Savoie Foot vs Grenoble Foot 38",
+    "matchId": "17445489",
+    "homeTeam": "Chambéry Savoie Foot",
+    "awayTeam": "Grenoble Foot 38",
+    "season": "Coupe de France 26/27",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 92.2,
+        "fairOdds": 1.08,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 80.6,
+        "fairOdds": 1.24,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Home Win",
+        "probability": 78.8,
+        "fairOdds": 1.27,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 78.8,
+      "draw": 13.4,
+      "awayWin": 6.1,
+      "homeWinOrDraw": 92.2,
+      "awayWinOrDraw": 19.6,
+      "homeWinOrDraw15": 77,
+      "awayWinOrDraw15": 12.8,
+      "over15": 80.6,
+      "over25": 59.4,
+      "homeOver05": 90.8,
+      "awayOver05": 43,
+      "homeOver15": 71.2,
+      "awayOver15": 11.2,
+      "homeOver25": 45.9,
+      "awayOver25": 2,
+      "btts": 39.7,
+      "bttsNo": 58.6,
+      "homeCleanSheet": 55.3,
+      "awayCleanSheet": 7.6
+    },
+    "mostLikelyScore": "2-0",
+    "scoreProbability": 14.2,
+    "topScores": [
+      {
+        "score": "2-0",
+        "probability": 14.2
+      },
+      {
+        "score": "3-0",
+        "probability": 12.2
+      },
+      {
+        "score": "1-0",
+        "probability": 11
+      }
+    ],
+    "fairOdds": {
+      "home": "1.27",
+      "draw": "7.44",
+      "away": "16.37"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "auvergne rhône alpes",
+        "sampleSize": 20,
+        "homeSample": 11,
+        "awaySample": 9,
+        "scoredHome": 2,
+        "concededHome": 0.45454545454545453,
+        "scoredAway": 1.4444444444444444,
+        "concededAway": 0.8888888888888888,
+        "drawRate": 0.4,
+        "goals_history": [
+          {
+            "date": "07/11/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "31/10/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/10/2026 19:00:00",
+            "value": 3
+          },
+          {
+            "date": "17/10/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2026 14:30:00",
+            "value": 5
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "26/09/2026 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "19/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/08/2026 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "30/05/2026 15:30:00",
+            "value": 1
+          },
+          {
+            "date": "23/05/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/05/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "02/05/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/04/2026 18:00:00",
+            "value": 5
+          },
+          {
+            "date": "19/04/2026 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/04/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/03/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/03/2026 18:00:00",
+            "value": 3
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "07/11/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "31/10/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 19:00:00",
+            "value": 0
+          },
+          {
+            "date": "17/10/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2026 14:30:00",
             "value": 0
           },
           {
@@ -2223,78 +2394,3685 @@
             "value": 0
           },
           {
-            "date": "18/09/2026 19:00:00",
-            "value": 1
-          },
-          {
-            "date": "12/09/2026 13:30:00",
-            "value": 1
-          },
-          {
-            "date": "04/09/2026 21:00:00",
-            "value": 1
-          },
-          {
-            "date": "29/05/2026 21:00:00",
+            "date": "26/09/2026 18:00:00",
             "value": 0
           },
           {
-            "date": "16/05/2026 18:00:00",
+            "date": "19/09/2026 18:00:00",
             "value": 0
           },
           {
-            "date": "06/05/2026 17:00:00",
+            "date": "05/09/2026 18:00:00",
             "value": 1
           },
           {
-            "date": "29/04/2026 19:00:00",
+            "date": "30/08/2026 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "30/05/2026 15:30:00",
             "value": 1
           },
           {
-            "date": "22/04/2026 18:45:00",
+            "date": "23/05/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/05/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "02/05/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/04/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "19/04/2026 15:00:00",
+            "value": 3
+          },
+          {
+            "date": "11/04/2026 18:00:00",
             "value": 0
           },
           {
             "date": "28/03/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/03/2026 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "ligue 2",
+        "sampleSize": 20,
+        "homeSample": 10,
+        "awaySample": 10,
+        "scoredHome": 1,
+        "concededHome": 1.3,
+        "scoredAway": 1.2,
+        "concededAway": 1.8,
+        "drawRate": 0.3,
+        "goals_history": [
+          {
+            "date": "06/11/2026 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "30/10/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/10/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "16/10/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "18/09/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/09/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/09/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "28/08/2026 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "22/08/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/08/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/08/2026 20:45:00",
             "value": 2
           },
           {
-            "date": "21/03/2026 21:00:00",
-            "value": 0
+            "date": "09/05/2026 20:00:00",
+            "value": 1
           },
           {
-            "date": "10/03/2026 19:00:00",
-            "value": 0
+            "date": "02/05/2026 20:00:00",
+            "value": 1
           },
           {
-            "date": "21/02/2026 21:00:00",
+            "date": "25/04/2026 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "17/04/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/04/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/04/2026 20:00:00",
             "value": 2
           },
           {
-            "date": "08/02/2026 15:00:00",
+            "date": "20/03/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/03/2026 20:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "06/11/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "30/10/2026 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "23/10/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "16/10/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/10/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "18/09/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/09/2026 20:00:00",
             "value": 0
           },
           {
-            "date": "01/02/2026 15:00:00",
+            "date": "04/09/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/08/2026 20:00:00",
             "value": 0
           },
           {
-            "date": "18/01/2026 13:00:00",
+            "date": "22/08/2026 20:00:00",
+            "value": 4
+          },
+          {
+            "date": "14/08/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/08/2026 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "09/05/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "02/05/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/04/2026 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "17/04/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/04/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/04/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "20/03/2026 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "14/03/2026 20:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.58,
+        "lambdaAway": 0.57,
+        "homeAttack": 1.33,
+        "homeDefense": 0.5,
+        "awayAttack": 1,
+        "awayDefense": 1.29,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "Côte d'Ivoire vs Gambia",
+    "matchId": "17364206",
+    "homeTeam": "Côte d'Ivoire",
+    "awayTeam": "Gambia",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 78,
+        "fairOdds": 1.28,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 67.5,
+        "fairOdds": 1.48,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 55.6,
+        "fairOdds": 1.8,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 51.4,
+      "draw": 26.7,
+      "awayWin": 21.9,
+      "homeWinOrDraw": 78,
+      "awayWinOrDraw": 48.6,
+      "homeWinOrDraw15": 53.9,
+      "awayWinOrDraw15": 30.4,
+      "over15": 67.5,
+      "over25": 41,
+      "homeOver05": 76.9,
+      "awayOver05": 57.5,
+      "homeOver15": 43,
+      "awayOver15": 21.2,
+      "homeOver25": 18.2,
+      "awayOver25": 5.6,
+      "btts": 44.3,
+      "bttsNo": 55.6,
+      "homeCleanSheet": 42.4,
+      "awayCleanSheet": 23
+    },
+    "mostLikelyScore": "1-0",
+    "scoreProbability": 14.3,
+    "topScores": [
+      {
+        "score": "1-0",
+        "probability": 14.3
+      },
+      {
+        "score": "1-1",
+        "probability": 12.4
+      },
+      {
+        "score": "2-0",
+        "probability": 10.5
+      }
+    ],
+    "fairOdds": {
+      "home": "1.95",
+      "draw": "3.75",
+      "away": "4.57"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 12,
+        "homeSample": 6,
+        "awaySample": 6,
+        "scoredHome": 1.3333333333333333,
+        "concededHome": 0.3333333333333333,
+        "scoredAway": 1.8333333333333333,
+        "concededAway": 0.3333333333333333,
+        "drawRate": 0.16666666666666666,
+        "goals_history": [
+          {
+            "date": "30/06/2026 19:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/06/2026 22:00:00",
+            "value": 2
+          },
+          {
+            "date": "20/06/2026 22:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/06/2026 01:00:00",
+            "value": 1
+          },
+          {
+            "date": "14/10/2025 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "10/10/2025 15:00:00",
+            "value": 7
+          },
+          {
+            "date": "09/09/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "21/03/2025 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/06/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "07/06/2024 21:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "30/06/2026 19:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/06/2026 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "20/06/2026 22:00:00",
+            "value": 2
+          },
+          {
+            "date": "15/06/2026 01:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/06/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "07/06/2024 21:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 9,
+        "homeSample": 4,
+        "awaySample": 5,
+        "scoredHome": 1.25,
+        "concededHome": 1.25,
+        "scoredAway": 1.4,
+        "concededAway": 1.4,
+        "drawRate": 0.2222222222222222,
+        "goals_history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/05/2025 21:30:00",
+            "value": 0
+          },
+          {
+            "date": "18/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "14/10/2024 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2024 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "08/09/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/09/2024 18:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/09/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/05/2025 21:30:00",
+            "value": 3
+          },
+          {
+            "date": "18/11/2024 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/11/2024 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/10/2024 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "08/09/2024 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "04/09/2024 18:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.47,
+        "lambdaAway": 0.86,
+        "homeAttack": 0.82,
+        "homeDefense": 0.5,
+        "awayAttack": 1.41,
+        "awayDefense": 1.1,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.62,
+          "awayGoals": 1.22
+        }
+      }
+    }
+  },
+  {
+    "match": "Benin vs Central African Republic",
+    "matchId": "17364229",
+    "homeTeam": "Benin",
+    "awayTeam": "Central African Republic",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 88.7,
+        "fairOdds": 1.13,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Home or Draw",
+        "probability": 76,
+        "fairOdds": 1.32,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Over 2.5",
+        "probability": 73.1,
+        "fairOdds": 1.37,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 56.8,
+      "draw": 19.2,
+      "awayWin": 22.7,
+      "homeWinOrDraw": 76,
+      "awayWinOrDraw": 41.9,
+      "homeWinOrDraw15": 69,
+      "awayWinOrDraw15": 36.8,
+      "over15": 88.7,
+      "over25": 73.1,
+      "homeOver05": 89.7,
+      "awayOver05": 76.2,
+      "homeOver15": 68,
+      "awayOver15": 42.9,
+      "homeOver25": 41.9,
+      "awayOver25": 18.3,
+      "btts": 69.3,
+      "bttsNo": 29.5,
+      "homeCleanSheet": 22.6,
+      "awayCleanSheet": 9
+    },
+    "mostLikelyScore": "2-1",
+    "scoreProbability": 8.8,
+    "topScores": [
+      {
+        "score": "2-1",
+        "probability": 8.8
+      },
+      {
+        "score": "1-1",
+        "probability": 7.4
+      },
+      {
+        "score": "3-1",
+        "probability": 7
+      }
+    ],
+    "fairOdds": {
+      "home": "1.76",
+      "draw": "5.21",
+      "away": "4.40"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 12,
+        "homeSample": 6,
+        "awaySample": 6,
+        "scoredHome": 1.5,
+        "concededHome": 1,
+        "scoredAway": 0.5,
+        "concededAway": 1.3333333333333333,
+        "drawRate": 0.3333333333333333,
+        "goals_history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/01/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/12/2025 13:30:00",
+            "value": 1
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "value": 0
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/01/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/12/2025 13:30:00",
+            "value": 0
+          },
+          {
+            "date": "23/12/2025 13:30:00",
+            "value": 1
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/09/2024 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "value": 3
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 10,
+        "homeSample": 5,
+        "awaySample": 5,
+        "scoredHome": 0.4,
+        "concededHome": 2.2,
+        "scoredAway": 1.8,
+        "concededAway": 2.6,
+        "drawRate": 0.2,
+        "goals_history": [
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "08/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "07/09/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "04/09/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/03/2025 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/06/2024 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "05/06/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/11/2023 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "17/11/2023 14:00:00",
+            "value": 2
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "08/10/2025 18:00:00",
+            "value": 5
+          },
+          {
+            "date": "07/09/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "04/09/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "24/03/2025 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/03/2025 17:00:00",
+            "value": 4
+          },
+          {
+            "date": "10/06/2024 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "05/06/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "20/11/2023 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "17/11/2023 14:00:00",
+            "value": 4
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.4,
+        "lambdaAway": 1.48,
+        "homeAttack": 1.18,
+        "homeDefense": 1,
+        "awayAttack": 1.48,
+        "awayDefense": 1.6,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.27,
+          "awayGoals": 1
+        }
+      }
+    }
+  },
+  {
+    "match": "Senegal vs Sudan",
+    "matchId": "17364365",
+    "homeTeam": "Senegal",
+    "awayTeam": "Sudan",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 93.1,
+        "fairOdds": 1.07,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Home Win",
+        "probability": 87.4,
+        "fairOdds": 1.14,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 82.4,
+        "fairOdds": 1.21,
+        "confidence": "ELITE"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 87.4,
+      "draw": 5.8,
+      "awayWin": 1.3,
+      "homeWinOrDraw": 93.1,
+      "awayWinOrDraw": 7.1,
+      "homeWinOrDraw15": 81.8,
+      "awayWinOrDraw15": 3.7,
+      "over15": 82.4,
+      "over25": 65.1,
+      "homeOver05": 91,
+      "awayOver05": 23.5,
+      "homeOver15": 79.4,
+      "awayOver15": 3.2,
+      "homeOver25": 59.9,
+      "awayOver25": 0.3,
+      "btts": 22.6,
+      "bttsNo": 71.8,
+      "homeCleanSheet": 71,
+      "awayCleanSheet": 3.4
+    },
+    "mostLikelyScore": "3-0",
+    "scoreProbability": 16.5,
+    "topScores": [
+      {
+        "score": "3-0",
+        "probability": 16.5
+      },
+      {
+        "score": "2-0",
+        "probability": 14.7
+      },
+      {
+        "score": "4-0",
+        "probability": 13.9
+      }
+    ],
+    "fairOdds": {
+      "home": "1.14",
+      "draw": "17.34",
+      "away": "76.87"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 15,
+        "homeSample": 8,
+        "awaySample": 7,
+        "scoredHome": 1.875,
+        "concededHome": 0.375,
+        "scoredAway": 1.2857142857142858,
+        "concededAway": 0.14285714285714285,
+        "drawRate": 0.26666666666666666,
+        "goals_history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "18/01/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/01/2026 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/01/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "value": 3
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/12/2025 16:00:00",
+            "value": 3
+          },
+          {
+            "date": "19/11/2024 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "09/09/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2024 21:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "18/01/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/01/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/01/2026 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/12/2025 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/12/2025 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/11/2024 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/11/2024 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2024 21:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 12,
+        "homeSample": 5,
+        "awaySample": 7,
+        "scoredHome": 0.8,
+        "concededHome": 0.4,
+        "scoredAway": 0.5714285714285714,
+        "concededAway": 2.2857142857142856,
+        "drawRate": 0.16666666666666666,
+        "goals_history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/12/2025 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/09/2024 15:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 15:00:00",
+            "value": 4
+          },
+          {
+            "date": "25/09/2026 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "03/01/2026 17:00:00",
+            "value": 3
+          },
+          {
+            "date": "31/12/2025 17:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/12/2025 16:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/12/2025 16:00:00",
+            "value": 3
+          },
+          {
+            "date": "18/11/2024 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/11/2024 17:00:00",
+            "value": 4
+          },
+          {
+            "date": "15/10/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2024 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "04/09/2024 15:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 3.37,
+        "lambdaAway": 0.29,
+        "homeAttack": 1.47,
+        "homeDefense": 0.5,
+        "awayAttack": 0.57,
+        "awayDefense": 1.8,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.27,
+          "awayGoals": 1
+        }
+      }
+    }
+  },
+  {
+    "match": "Cameroon vs Namibia",
+    "matchId": "17364781",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Namibia",
+    "season": "Africa Cup of Nations Qualification 2026",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 81.9,
+        "fairOdds": 1.22,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 62.4,
+        "fairOdds": 1.6,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 61.9,
+        "fairOdds": 1.62,
+        "confidence": "GOOD"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 54.4,
+      "draw": 27.5,
+      "awayWin": 18,
+      "homeWinOrDraw": 81.9,
+      "awayWinOrDraw": 45.5,
+      "homeWinOrDraw15": 52.2,
+      "awayWinOrDraw15": 24.8,
+      "over15": 61.9,
+      "over25": 34.8,
+      "homeOver05": 75.6,
+      "awayOver05": 49.5,
+      "homeOver15": 41.1,
+      "awayOver15": 15,
+      "homeOver25": 16.9,
+      "awayOver25": 3.2,
+      "btts": 37.5,
+      "bttsNo": 62.4,
+      "homeCleanSheet": 50.4,
+      "awayCleanSheet": 24.4
+    },
+    "mostLikelyScore": "1-0",
+    "scoreProbability": 17.3,
+    "topScores": [
+      {
+        "score": "1-0",
+        "probability": 17.3
+      },
+      {
+        "score": "0-0",
+        "probability": 12.4
+      },
+      {
+        "score": "2-0",
+        "probability": 12.3
+      }
+    ],
+    "fairOdds": {
+      "home": "1.84",
+      "draw": "3.64",
+      "away": "5.54"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "africa cup of nations",
+        "sampleSize": 13,
+        "homeSample": 6,
+        "awaySample": 7,
+        "scoredHome": 1.8333333333333333,
+        "concededHome": 0.8333333333333334,
+        "scoredAway": 1,
+        "concededAway": 0.5714285714285714,
+        "drawRate": 0.3076923076923077,
+        "goals_history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "09/01/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "04/01/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "31/12/2025 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/12/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/12/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "19/11/2024 14:00:00",
+            "value": 2
+          },
+          {
+            "date": "13/11/2024 14:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "29/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/01/2026 20:00:00",
+            "value": 2
+          },
+          {
+            "date": "04/01/2026 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "31/12/2025 20:00:00",
+            "value": 1
+          },
+          {
+            "date": "28/12/2025 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/12/2025 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "19/11/2024 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "13/11/2024 14:00:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2024 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/09/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 8,
+        "homeSample": 5,
+        "awaySample": 3,
+        "scoredHome": 1.2,
+        "concededHome": 0.8,
+        "scoredAway": 1,
+        "concededAway": 1.25,
+        "drawRate": 0.375,
+        "goals_history": [
+          {
+            "date": "13/10/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/09/2025 15:00:00",
+            "value": 3
+          },
+          {
+            "date": "05/09/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/03/2025 17:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/06/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/06/2024 18:00:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "13/10/2025 15:00:00",
+            "value": 3
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 3
+          },
+          {
+            "date": "09/09/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "24/03/2025 14:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/03/2025 17:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/06/2024 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/06/2024 18:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.41,
+        "lambdaAway": 0.68,
+        "homeAttack": 1.44,
+        "homeDefense": 0.84,
+        "awayAttack": 0.82,
+        "awayDefense": 0.77,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.27,
+          "awayGoals": 1
+        }
+      }
+    }
+  },
+  {
+    "match": "Italy vs France",
+    "matchId": "15534030",
+    "homeTeam": "Italy",
+    "awayTeam": "France",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 82,
+        "fairOdds": 1.22,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Away or Draw",
+        "probability": 70.9,
+        "fairOdds": 1.41,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "BTTS",
+        "probability": 61.7,
+        "fairOdds": 1.62,
+        "confidence": "GOOD"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 28.8,
+      "draw": 23.1,
+      "awayWin": 47.8,
+      "homeWinOrDraw": 51.9,
+      "awayWinOrDraw": 70.9,
+      "homeWinOrDraw15": 41.8,
+      "awayWinOrDraw15": 58.9,
+      "over15": 82,
+      "over25": 60.6,
+      "homeOver05": 73.8,
+      "awayOver05": 83.2,
+      "homeOver15": 38.9,
+      "awayOver15": 53.4,
+      "homeOver25": 15.4,
+      "awayOver25": 26.7,
+      "btts": 61.7,
+      "bttsNo": 38,
+      "homeCleanSheet": 16.5,
+      "awayCleanSheet": 25.9
+    },
+    "mostLikelyScore": "1-1",
+    "scoreProbability": 10.5,
+    "topScores": [
+      {
+        "score": "1-1",
+        "probability": 10.5
+      },
+      {
+        "score": "1-2",
+        "probability": 9.4
+      },
+      {
+        "score": "0-1",
+        "probability": 7.7
+      }
+    ],
+    "fairOdds": {
+      "home": "3.47",
+      "draw": "4.32",
+      "away": "2.09"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa i",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 2.75,
+        "concededHome": 1,
+        "scoredAway": 2.5,
+        "concededAway": 2,
+        "drawRate": 0,
+        "goals_history": [
+          {
+            "date": "16/11/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "13/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "14/10/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "11/10/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "16/11/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "13/11/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 3
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world championship",
+        "sampleSize": 5,
+        "homeSample": 3,
+        "awaySample": 2,
+        "scoredHome": 2.8,
+        "concededHome": 0.4,
+        "scoredAway": 2.8,
+        "concededAway": 0.4,
+        "drawRate": 0,
+        "goals_history": [
+          {
+            "date": "04/07/2026 23:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/06/2026 23:00:00",
+            "value": 3
+          },
+          {
+            "date": "26/06/2026 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "22/06/2026 23:00:00",
+            "value": 3
+          },
+          {
+            "date": "16/06/2026 21:00:00",
+            "value": 3
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "04/07/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "30/06/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/06/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "22/06/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "16/06/2026 21:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.35,
+        "lambdaAway": 1.8,
+        "homeAttack": 1.8,
+        "homeDefense": 0.87,
+        "awayAttack": 1.8,
+        "awayDefense": 0.5,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "Czechia vs Spain",
+    "matchId": "15534086",
+    "homeTeam": "Czechia",
+    "awayTeam": "Spain",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 73.3,
+        "fairOdds": 1.36,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 63.3,
+        "fairOdds": 1.58,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 57.6,
+        "fairOdds": 1.74,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 44.3,
+      "draw": 29.1,
+      "awayWin": 26.6,
+      "homeWinOrDraw": 73.3,
+      "awayWinOrDraw": 55.7,
+      "homeWinOrDraw15": 47.1,
+      "awayWinOrDraw15": 33.6,
+      "over15": 63.3,
+      "over25": 36.3,
+      "homeOver05": 71.3,
+      "awayOver05": 59.3,
+      "homeOver15": 35.5,
+      "awayOver15": 22.7,
+      "homeOver25": 13.1,
+      "awayOver25": 6.3,
+      "btts": 42.4,
+      "bttsNo": 57.6,
+      "homeCleanSheet": 40.6,
+      "awayCleanSheet": 28.6
+    },
+    "mostLikelyScore": "1-0",
+    "scoreProbability": 14.5,
+    "topScores": [
+      {
+        "score": "1-0",
+        "probability": 14.5
+      },
+      {
+        "score": "1-1",
+        "probability": 13.2
+      },
+      {
+        "score": "0-0",
+        "probability": 11.7
+      }
+    ],
+    "fairOdds": {
+      "home": "2.26",
+      "draw": "3.44",
+      "away": "3.76"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa l",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 2.5,
+        "concededHome": 0.25,
+        "scoredAway": 2,
+        "concededAway": 1.75,
+        "drawRate": 0.125,
+        "goals_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 6
+          },
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "25/03/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "22/03/2025 20:45:00",
+            "value": 2
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "25/03/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "22/03/2025 20:45:00",
+            "value": 1
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world championship",
+        "sampleSize": 5,
+        "homeSample": 3,
+        "awaySample": 2,
+        "scoredHome": 1.8,
+        "concededHome": 0,
+        "scoredAway": 1.8,
+        "concededAway": 0,
+        "drawRate": 0.2,
+        "goals_history": [
+          {
+            "date": "06/07/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "02/07/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/06/2026 02:00:00",
+            "value": 1
+          },
+          {
+            "date": "21/06/2026 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "15/06/2026 18:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "06/07/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "02/07/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/06/2026 02:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/06/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "15/06/2026 18:00:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.25,
+        "lambdaAway": 0.9,
+        "homeAttack": 1.67,
+        "homeDefense": 0.5,
+        "awayAttack": 1.57,
+        "awayDefense": 0.5,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "England vs Croatia",
+    "matchId": "15534088",
+    "homeTeam": "England",
+    "awayTeam": "Croatia",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Over 1.5",
+        "probability": 88.9,
+        "fairOdds": 1.12,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Away or Draw",
+        "probability": 84.9,
+        "fairOdds": 1.18,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Away Over 1.5",
+        "probability": 78.7,
+        "fairOdds": 1.27,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 10.4,
+      "draw": 12.7,
+      "awayWin": 72.2,
+      "homeWinOrDraw": 23.1,
+      "awayWinOrDraw": 84.9,
+      "homeWinOrDraw15": 20.5,
+      "awayWinOrDraw15": 79.9,
+      "over15": 88.9,
+      "over25": 77.2,
+      "homeOver05": 66.6,
+      "awayOver05": 91.4,
+      "homeOver15": 32.1,
+      "awayOver15": 78.7,
+      "homeOver25": 11.5,
+      "awayOver25": 58.1,
+      "btts": 63.9,
+      "bttsNo": 31.4,
+      "homeCleanSheet": 3.9,
+      "awayCleanSheet": 28.7
+    },
+    "mostLikelyScore": "1-3",
+    "scoreProbability": 8,
+    "topScores": [
+      {
+        "score": "1-3",
+        "probability": 8
+      },
+      {
+        "score": "1-2",
+        "probability": 7.4
+      },
+      {
+        "score": "0-3",
+        "probability": 6.7
+      }
+    ],
+    "fairOdds": {
+      "home": "9.66",
+      "draw": "7.85",
+      "away": "1.39"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "fifa world cup",
+        "sampleSize": 5,
+        "homeSample": 3,
+        "awaySample": 2,
+        "scoredHome": 2.4,
+        "concededHome": 1.8,
+        "scoredAway": 2.4,
+        "concededAway": 1.8,
+        "drawRate": 0.4,
+        "goals_history": [
+          {
+            "date": "18/07/2026 23:00:00",
+            "value": 6
+          },
+          {
+            "date": "15/07/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "11/07/2026 23:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/06/2026 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "17/06/2026 22:00:00",
+            "value": 4
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "18/07/2026 23:00:00",
+            "value": 4
+          },
+          {
+            "date": "15/07/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "11/07/2026 23:00:00",
+            "value": 1
+          },
+          {
+            "date": "23/06/2026 22:00:00",
+            "value": 0
+          },
+          {
+            "date": "17/06/2026 22:00:00",
+            "value": 2
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world cup qual. uefa l",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 3.75,
+        "concededHome": 0.5,
+        "scoredAway": 2.75,
+        "concededAway": 0.5,
+        "drawRate": 0.125,
+        "goals_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "14/11/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "12/10/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 7
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "14/11/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.2,
+        "lambdaAway": 3.24,
+        "homeAttack": 1.48,
+        "homeDefense": 1.48,
+        "awayAttack": 1.8,
+        "awayDefense": 0.5,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.62,
+          "awayGoals": 1.22
+        }
+      }
+    }
+  },
+  {
+    "match": "Albania vs Finland",
+    "matchId": "15534143",
+    "homeTeam": "Albania",
+    "awayTeam": "Finland",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 86.9,
+        "fairOdds": 1.15,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 80.5,
+        "fairOdds": 1.24,
+        "confidence": "ELITE"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 51.3,
+      "draw": 35.6,
+      "awayWin": 13.1,
+      "homeWinOrDraw": 86.9,
+      "awayWinOrDraw": 48.7,
+      "homeWinOrDraw15": 36.1,
+      "awayWinOrDraw15": 14.2,
+      "over15": 40,
+      "over25": 16.1,
+      "homeOver05": 63.6,
+      "awayOver05": 30.6,
+      "homeOver15": 26.8,
+      "awayOver15": 5.2,
+      "homeOver25": 8.2,
+      "awayOver25": 0.6,
+      "btts": 19.5,
+      "bttsNo": 80.5,
+      "homeCleanSheet": 69.4,
+      "awayCleanSheet": 36.4
+    },
+    "mostLikelyScore": "1-0",
+    "scoreProbability": 25.5,
+    "topScores": [
+      {
+        "score": "1-0",
+        "probability": 25.5
+      },
+      {
+        "score": "0-0",
+        "probability": 25.3
+      },
+      {
+        "score": "2-0",
+        "probability": 12.9
+      }
+    ],
+    "fairOdds": {
+      "home": "1.95",
+      "draw": "2.81",
+      "away": "7.62"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa k",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 1,
+        "concededHome": 0.5,
+        "scoredAway": 0.75,
+        "concededAway": 0.75,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "16/11/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "13/11/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "07/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "16/11/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "13/11/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "07/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 2
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world cup qual. uefa g",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 1,
+        "concededHome": 1.25,
+        "scoredAway": 1,
+        "concededAway": 2.25,
+        "drawRate": 0.125,
+        "goals_history": [
+          {
+            "date": "14/11/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "07/09/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "07/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "14/11/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2025 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "09/10/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "07/09/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "07/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "24/03/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.01,
+        "lambdaAway": 0.37,
+        "homeAttack": 0.67,
+        "homeDefense": 0.5,
+        "awayAttack": 0.63,
+        "awayDefense": 1.01,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "San Marino vs Belarus",
+    "matchId": "15534153",
+    "homeTeam": "San Marino",
+    "awayTeam": "Belarus",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Away or Draw",
+        "probability": 84.3,
+        "fairOdds": 1.19,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 76.7,
+        "fairOdds": 1.3,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 15.7,
+      "draw": 34.6,
+      "awayWin": 49.7,
+      "homeWinOrDraw": 50.3,
+      "awayWinOrDraw": 84.3,
+      "homeWinOrDraw15": 17.4,
+      "awayWinOrDraw15": 38.1,
+      "over15": 43.7,
+      "over25": 18.7,
+      "homeOver05": 36,
+      "awayOver05": 64.5,
+      "homeOver15": 7.5,
+      "awayOver15": 27.7,
+      "homeOver25": 1.1,
+      "awayOver25": 8.7,
+      "btts": 23.3,
+      "bttsNo": 76.7,
+      "homeCleanSheet": 35.5,
+      "awayCleanSheet": 63.9
+    },
+    "mostLikelyScore": "0-1",
+    "scoreProbability": 23.5,
+    "topScores": [
+      {
+        "score": "0-1",
+        "probability": 23.5
+      },
+      {
+        "score": "0-0",
+        "probability": 22.8
+      },
+      {
+        "score": "0-2",
+        "probability": 12.2
+      }
+    ],
+    "fairOdds": {
+      "home": "6.37",
+      "draw": "2.89",
+      "away": "2.01"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa h",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 0.25,
+        "concededHome": 4.75,
+        "scoredAway": 0.25,
+        "concededAway": 5,
+        "drawRate": 0,
+        "goals_history": [
+          {
+            "date": "18/11/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "07/06/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "21/03/2025 18:00:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "18/11/2025 20:45:00",
+            "value": 7
+          },
+          {
+            "date": "12/10/2025 15:00:00",
+            "value": 4
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 10
+          },
+          {
+            "date": "06/09/2025 20:45:00",
+            "value": 6
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "07/06/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "21/03/2025 18:00:00",
+            "value": 2
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "uefa nations league",
+        "sampleSize": 10,
+        "homeSample": 5,
+        "awaySample": 5,
+        "scoredHome": 1.2,
+        "concededHome": 0.2,
+        "scoredAway": 0.4,
+        "concededAway": 1,
+        "drawRate": 0.5,
+        "goals_history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "value": 4
+          },
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "18/11/2024 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2024 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "15/10/2024 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2024 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2024 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2024 20:45:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "06/10/2026 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "03/10/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "29/09/2026 18:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "18/11/2024 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "15/11/2024 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "15/10/2024 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2024 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2024 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2024 20:45:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 0.45,
+        "lambdaAway": 1.03,
+        "homeAttack": 0.5,
+        "homeDefense": 1.8,
+        "awayAttack": 0.5,
+        "awayDefense": 0.6,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "Montenegro vs Latvia",
+    "matchId": "15537773",
+    "homeTeam": "Montenegro",
+    "awayTeam": "Latvia",
+    "season": "UEFA Nations League 26/27",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 81.3,
+        "fairOdds": 1.23,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 65.7,
+        "fairOdds": 1.52,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "BTTS No",
+        "probability": 58.9,
+        "fairOdds": 1.7,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 55,
+      "draw": 26.3,
+      "awayWin": 18.6,
+      "homeWinOrDraw": 81.3,
+      "awayWinOrDraw": 44.9,
+      "homeWinOrDraw15": 54.9,
+      "awayWinOrDraw15": 26.5,
+      "over15": 65.7,
+      "over25": 39,
+      "homeOver05": 77.6,
+      "awayOver05": 52.7,
+      "homeOver15": 44.1,
+      "awayOver15": 17.3,
+      "homeOver25": 19,
+      "awayOver25": 4,
+      "btts": 41,
+      "bttsNo": 58.9,
+      "homeCleanSheet": 47.2,
+      "awayCleanSheet": 22.3
+    },
+    "mostLikelyScore": "1-0",
+    "scoreProbability": 15.8,
+    "topScores": [
+      {
+        "score": "1-0",
+        "probability": 15.8
+      },
+      {
+        "score": "1-1",
+        "probability": 11.9
+      },
+      {
+        "score": "2-0",
+        "probability": 11.9
+      }
+    ],
+    "fairOdds": {
+      "home": "1.82",
+      "draw": "3.80",
+      "away": "5.37"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "world cup qual. uefa l",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 1.5,
+        "concededHome": 1.5,
+        "scoredAway": 0.5,
+        "concededAway": 2.75,
+        "drawRate": 0,
+        "goals_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "14/11/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "25/03/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "22/03/2025 18:00:00",
+            "value": 3
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "17/11/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "14/11/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "09/10/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "08/09/2025 20:45:00",
+            "value": 4
+          },
+          {
+            "date": "05/09/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "06/06/2025 20:45:00",
+            "value": 2
+          },
+          {
+            "date": "25/03/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "22/03/2025 18:00:00",
+            "value": 1
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "world cup qual. uefa k",
+        "sampleSize": 8,
+        "homeSample": 4,
+        "awaySample": 4,
+        "scoredHome": 0.75,
+        "concededHome": 2.25,
+        "scoredAway": 0.5,
+        "concededAway": 1.5,
+        "drawRate": 0.25,
+        "goals_history": [
+          {
+            "date": "16/11/2025 18:00:00",
+            "value": 1
+          },
+          {
+            "date": "14/10/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "11/10/2025 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2025 15:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 0
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 1
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "16/11/2025 18:00:00",
+            "value": 2
+          },
+          {
+            "date": "14/10/2025 20:45:00",
+            "value": 5
+          },
+          {
+            "date": "11/10/2025 15:00:00",
+            "value": 2
+          },
+          {
+            "date": "09/09/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2025 15:00:00",
+            "value": 1
+          },
+          {
+            "date": "10/06/2025 20:45:00",
+            "value": 1
+          },
+          {
+            "date": "24/03/2025 20:45:00",
+            "value": 3
+          },
+          {
+            "date": "21/03/2025 20:45:00",
+            "value": 0
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 1.5,
+        "lambdaAway": 0.75,
+        "homeAttack": 1,
+        "homeDefense": 1.3,
+        "awayAttack": 0.5,
+        "awayDefense": 1,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.15
+        }
+      }
+    }
+  },
+  {
+    "match": "Deportivo Pasto vs Junior Barranquilla",
+    "matchId": "17534603",
+    "homeTeam": "Deportivo Pasto",
+    "awayTeam": "Junior Barranquilla",
+    "season": "Liga DIMAYOR 2026",
+    "bestBets": [
+      {
+        "bet": "Away or Draw",
+        "probability": 73,
+        "fairOdds": 1.37,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 66.1,
+        "fairOdds": 1.51,
+        "confidence": "GOOD"
+      },
+      {
+        "bet": "Home or Draw",
+        "probability": 55.1,
+        "fairOdds": 1.81,
+        "confidence": "OK"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 26.9,
+      "draw": 28.2,
+      "awayWin": 44.8,
+      "homeWinOrDraw": 55.1,
+      "awayWinOrDraw": 73,
+      "homeWinOrDraw15": 34.8,
+      "awayWinOrDraw15": 48.9,
+      "over15": 66.1,
+      "over25": 39.3,
+      "homeOver05": 61.3,
+      "awayOver05": 73,
+      "homeOver15": 24.6,
+      "awayOver15": 37.7,
+      "homeOver25": 7.1,
+      "awayOver25": 14.5,
+      "btts": 44.9,
+      "bttsNo": 55.1,
+      "homeCleanSheet": 26.9,
+      "awayCleanSheet": 38.7
+    },
+    "mostLikelyScore": "0-1",
+    "scoreProbability": 13.6,
+    "topScores": [
+      {
+        "score": "0-1",
+        "probability": 13.6
+      },
+      {
+        "score": "1-1",
+        "probability": 13
+      },
+      {
+        "score": "0-0",
+        "probability": 10.5
+      }
+    ],
+    "fairOdds": {
+      "home": "3.71",
+      "draw": "3.55",
+      "away": "2.23"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "liga dimayor",
+        "sampleSize": 20,
+        "homeSample": 9,
+        "awaySample": 11,
+        "scoredHome": 0.5555555555555556,
+        "concededHome": 1.1111111111111112,
+        "scoredAway": 0.7272727272727273,
+        "concededAway": 2,
+        "drawRate": 0.15,
+        "goals_history": [
+          {
+            "date": "08/11/2026 20:00:00",
+            "value": 0
+          },
+          {
+            "date": "04/11/2026 00:20:00",
+            "value": 2
+          },
+          {
+            "date": "31/10/2026 02:05:00",
+            "value": 1
+          },
+          {
+            "date": "26/10/2026 02:15:00",
+            "value": 1
+          },
+          {
+            "date": "23/10/2026 03:00:00",
+            "value": 0
+          },
+          {
+            "date": "20/10/2026 03:05:00",
+            "value": 0
+          },
+          {
+            "date": "04/10/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "value": 0
+          },
+          {
+            "date": "20/09/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "15/09/2026 03:00:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "01/09/2026 01:00:00",
+            "value": 1
+          },
+          {
+            "date": "28/08/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "value": 0
+          },
+          {
+            "date": "09/08/2026 03:30:00",
+            "value": 0
+          },
+          {
+            "date": "05/08/2026 03:20:00",
+            "value": 0
+          },
+          {
+            "date": "01/08/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/07/2026 23:05:00",
+            "value": 2
+          },
+          {
+            "date": "14/05/2026 01:00:00",
+            "value": 0
+          },
+          {
+            "date": "10/05/2026 01:10:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "08/11/2026 20:00:00",
+            "value": 5
+          },
+          {
+            "date": "04/11/2026 00:20:00",
+            "value": 0
+          },
+          {
+            "date": "31/10/2026 02:05:00",
+            "value": 2
+          },
+          {
+            "date": "26/10/2026 02:15:00",
+            "value": 0
+          },
+          {
+            "date": "23/10/2026 03:00:00",
+            "value": 3
+          },
+          {
+            "date": "20/10/2026 03:05:00",
+            "value": 1
+          },
+          {
+            "date": "04/10/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "value": 3
+          },
+          {
+            "date": "20/09/2026 03:15:00",
+            "value": 0
+          },
+          {
+            "date": "15/09/2026 03:00:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "01/09/2026 01:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/08/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "value": 1
+          },
+          {
+            "date": "09/08/2026 03:30:00",
+            "value": 2
+          },
+          {
+            "date": "05/08/2026 03:20:00",
+            "value": 2
+          },
+          {
+            "date": "01/08/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "25/07/2026 23:05:00",
+            "value": 3
+          },
+          {
+            "date": "14/05/2026 01:00:00",
+            "value": 2
+          },
+          {
+            "date": "10/05/2026 01:10:00",
+            "value": 1
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "liga dimayor",
+        "sampleSize": 20,
+        "homeSample": 10,
+        "awaySample": 10,
+        "scoredHome": 1.6,
+        "concededHome": 0.9,
+        "scoredAway": 1.2,
+        "concededAway": 1.9,
+        "drawRate": 0.35,
+        "goals_history": [
+          {
+            "date": "10/11/2026 01:00:00",
+            "value": 2
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "value": 2
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 03:10:00",
+            "value": 1
+          },
+          {
+            "date": "19/10/2026 03:20:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2026 23:30:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "05/10/2026 01:10:00",
+            "value": 1
+          },
+          {
+            "date": "01/10/2026 03:00:00",
+            "value": 1
+          },
+          {
+            "date": "27/09/2026 03:20:00",
+            "value": 2
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "value": 4
+          },
+          {
+            "date": "13/09/2026 03:20:00",
+            "value": 0
+          },
+          {
+            "date": "06/09/2026 03:30:00",
+            "value": 3
+          },
+          {
+            "date": "30/08/2026 01:30:00",
+            "value": 1
+          },
+          {
+            "date": "27/08/2026 01:20:00",
+            "value": 2
+          },
+          {
+            "date": "24/08/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "02/08/2026 03:15:00",
+            "value": 0
+          },
+          {
+            "date": "26/07/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "09/06/2026 00:00:00",
+            "value": 0
+          },
+          {
+            "date": "03/06/2026 02:30:00",
+            "value": 3
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "10/11/2026 01:00:00",
+            "value": 0
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "value": 3
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 03:10:00",
+            "value": 0
+          },
+          {
+            "date": "19/10/2026 03:20:00",
+            "value": 0
+          },
+          {
+            "date": "14/10/2026 23:30:00",
+            "value": 1
+          },
+          {
+            "date": "11/10/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "05/10/2026 01:10:00",
+            "value": 3
+          },
+          {
+            "date": "01/10/2026 03:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/09/2026 03:20:00",
+            "value": 0
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "value": 1
+          },
+          {
+            "date": "13/09/2026 03:20:00",
+            "value": 1
+          },
+          {
+            "date": "06/09/2026 03:30:00",
+            "value": 3
+          },
+          {
+            "date": "30/08/2026 01:30:00",
+            "value": 1
+          },
+          {
+            "date": "27/08/2026 01:20:00",
+            "value": 4
+          },
+          {
+            "date": "24/08/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "02/08/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "26/07/2026 03:15:00",
+            "value": 2
+          },
+          {
+            "date": "09/06/2026 00:00:00",
+            "value": 1
+          },
+          {
+            "date": "03/06/2026 02:30:00",
             "value": 0
           }
         ]
       },
       "model": {
         "lambdaHome": 0.95,
-        "lambdaAway": 2.31,
-        "homeAttack": 0.9,
-        "homeDefense": 0.82,
-        "awayAttack": 1.49,
-        "awayDefense": 0.5,
+        "lambdaAway": 1.31,
+        "homeAttack": 0.5,
+        "homeDefense": 1.09,
+        "awayAttack": 1.18,
+        "awayDefense": 1.27,
         "rho": -0.005,
         "leagueBaseline": {
-          "homeGoals": 2.12,
-          "awayGoals": 1.88
+          "homeGoals": 1.5,
+          "awayGoals": 1.02
+        }
+      }
+    }
+  },
+  {
+    "match": "Llaneros FC vs Boyacá Chicó FC",
+    "matchId": "17534604",
+    "homeTeam": "Llaneros FC",
+    "awayTeam": "Boyacá Chicó FC",
+    "season": "Liga DIMAYOR 2026",
+    "bestBets": [
+      {
+        "bet": "Home or Draw",
+        "probability": 89.8,
+        "fairOdds": 1.11,
+        "confidence": "ELITE"
+      },
+      {
+        "bet": "Over 1.5",
+        "probability": 73.6,
+        "fairOdds": 1.36,
+        "confidence": "STRONG"
+      },
+      {
+        "bet": "Home Win",
+        "probability": 70.8,
+        "fairOdds": 1.41,
+        "confidence": "STRONG"
+      }
+    ],
+    "probabilities": {
+      "homeWin": 70.8,
+      "draw": 19,
+      "awayWin": 9.7,
+      "homeWinOrDraw": 89.8,
+      "awayWinOrDraw": 28.7,
+      "homeWinOrDraw15": 68.1,
+      "awayWinOrDraw15": 17.3,
+      "over15": 73.6,
+      "over25": 48.8,
+      "homeOver05": 86.5,
+      "awayOver05": 44.9,
+      "homeOver15": 60.1,
+      "awayOver15": 12.1,
+      "homeOver25": 33,
+      "awayOver25": 2.3,
+      "btts": 39.1,
+      "bttsNo": 60.4,
+      "homeCleanSheet": 54.6,
+      "awayCleanSheet": 12.9
+    },
+    "mostLikelyScore": "2-0",
+    "scoreProbability": 14.8,
+    "topScores": [
+      {
+        "score": "2-0",
+        "probability": 14.8
+      },
+      {
+        "score": "1-0",
+        "probability": 14.5
+      },
+      {
+        "score": "3-0",
+        "probability": 10.1
+      }
+    ],
+    "fairOdds": {
+      "home": "1.41",
+      "draw": "5.27",
+      "away": "10.29"
+    },
+    "indicators": {
+      "home": {
+        "mainLeague": "liga dimayor",
+        "sampleSize": 20,
+        "homeSample": 10,
+        "awaySample": 10,
+        "scoredHome": 1.2,
+        "concededHome": 1.2,
+        "scoredAway": 0.9,
+        "concededAway": 1.5,
+        "drawRate": 0.15,
+        "goals_history": [
+          {
+            "date": "09/11/2026 02:15:00",
+            "value": 2
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/10/2026 00:00:00",
+            "value": 0
+          },
+          {
+            "date": "22/10/2026 01:15:00",
+            "value": 0
+          },
+          {
+            "date": "19/10/2026 01:05:00",
+            "value": 1
+          },
+          {
+            "date": "10/10/2026 03:10:00",
+            "value": 0
+          },
+          {
+            "date": "05/10/2026 03:15:00",
+            "value": 1
+          },
+          {
+            "date": "27/09/2026 01:15:00",
+            "value": 1
+          },
+          {
+            "date": "21/09/2026 03:15:00",
+            "value": 2
+          },
+          {
+            "date": "12/09/2026 23:05:00",
+            "value": 2
+          },
+          {
+            "date": "08/09/2026 01:00:00",
+            "value": 1
+          },
+          {
+            "date": "30/08/2026 23:10:00",
+            "value": 1
+          },
+          {
+            "date": "28/08/2026 01:10:00",
+            "value": 0
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "value": 1
+          },
+          {
+            "date": "19/08/2026 23:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/08/2026 23:10:00",
+            "value": 3
+          },
+          {
+            "date": "31/07/2026 03:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/07/2026 01:10:00",
+            "value": 1
+          },
+          {
+            "date": "02/05/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/04/2026 01:10:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "09/11/2026 02:15:00",
+            "value": 1
+          },
+          {
+            "date": "01/11/2026 00:00:00",
+            "value": 2
+          },
+          {
+            "date": "27/10/2026 00:00:00",
+            "value": 1
+          },
+          {
+            "date": "22/10/2026 01:15:00",
+            "value": 3
+          },
+          {
+            "date": "19/10/2026 01:05:00",
+            "value": 0
+          },
+          {
+            "date": "10/10/2026 03:10:00",
+            "value": 1
+          },
+          {
+            "date": "05/10/2026 03:15:00",
+            "value": 2
+          },
+          {
+            "date": "27/09/2026 01:15:00",
+            "value": 2
+          },
+          {
+            "date": "21/09/2026 03:15:00",
+            "value": 0
+          },
+          {
+            "date": "12/09/2026 23:05:00",
+            "value": 3
+          },
+          {
+            "date": "08/09/2026 01:00:00",
+            "value": 2
+          },
+          {
+            "date": "30/08/2026 23:10:00",
+            "value": 2
+          },
+          {
+            "date": "28/08/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "23/08/2026 23:05:00",
+            "value": 0
+          },
+          {
+            "date": "19/08/2026 23:00:00",
+            "value": 1
+          },
+          {
+            "date": "04/08/2026 23:10:00",
+            "value": 1
+          },
+          {
+            "date": "31/07/2026 03:00:00",
+            "value": 1
+          },
+          {
+            "date": "25/07/2026 01:10:00",
+            "value": 0
+          },
+          {
+            "date": "02/05/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/04/2026 01:10:00",
+            "value": 0
+          }
+        ]
+      },
+      "away": {
+        "mainLeague": "liga dimayor",
+        "sampleSize": 20,
+        "homeSample": 11,
+        "awaySample": 9,
+        "scoredHome": 1.4545454545454546,
+        "concededHome": 0.9090909090909091,
+        "scoredAway": 0.2222222222222222,
+        "concededAway": 2.5555555555555554,
+        "drawRate": 0.2,
+        "goals_history": [
+          {
+            "date": "07/11/2026 00:00:00",
+            "value": 2
+          },
+          {
+            "date": "01/11/2026 22:05:00",
+            "value": 0
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 01:00:00",
+            "value": 1
+          },
+          {
+            "date": "20/10/2026 23:30:00",
+            "value": 0
+          },
+          {
+            "date": "17/10/2026 22:00:00",
+            "value": 1
+          },
+          {
+            "date": "12/10/2026 01:10:00",
+            "value": 0
+          },
+          {
+            "date": "03/10/2026 23:05:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "value": 3
+          },
+          {
+            "date": "19/09/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "16/09/2026 02:30:00",
+            "value": 1
+          },
+          {
+            "date": "13/09/2026 01:10:00",
+            "value": 2
+          },
+          {
+            "date": "05/09/2026 23:00:00",
+            "value": 2
+          },
+          {
+            "date": "30/08/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "26/08/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/08/2026 23:05:00",
+            "value": 0
+          },
+          {
+            "date": "08/08/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "03/08/2026 00:45:00",
+            "value": 0
+          },
+          {
+            "date": "02/05/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "27/04/2026 03:20:00",
+            "value": 0
+          }
+        ],
+        "conceded_history": [
+          {
+            "date": "07/11/2026 00:00:00",
+            "value": 1
+          },
+          {
+            "date": "01/11/2026 22:05:00",
+            "value": 2
+          },
+          {
+            "date": "28/10/2026 02:05:00",
+            "value": 1
+          },
+          {
+            "date": "24/10/2026 01:00:00",
+            "value": 0
+          },
+          {
+            "date": "20/10/2026 23:30:00",
+            "value": 2
+          },
+          {
+            "date": "17/10/2026 22:00:00",
+            "value": 4
+          },
+          {
+            "date": "12/10/2026 01:10:00",
+            "value": 1
+          },
+          {
+            "date": "03/10/2026 23:05:00",
+            "value": 0
+          },
+          {
+            "date": "26/09/2026 01:10:00",
+            "value": 0
+          },
+          {
+            "date": "19/09/2026 21:00:00",
+            "value": 3
+          },
+          {
+            "date": "16/09/2026 02:30:00",
+            "value": 2
+          },
+          {
+            "date": "13/09/2026 01:10:00",
+            "value": 1
+          },
+          {
+            "date": "05/09/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "30/08/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "26/08/2026 23:00:00",
+            "value": 0
+          },
+          {
+            "date": "21/08/2026 23:05:00",
+            "value": 1
+          },
+          {
+            "date": "08/08/2026 21:00:00",
+            "value": 2
+          },
+          {
+            "date": "03/08/2026 00:45:00",
+            "value": 7
+          },
+          {
+            "date": "02/05/2026 21:00:00",
+            "value": 0
+          },
+          {
+            "date": "27/04/2026 03:20:00",
+            "value": 4
+          }
+        ]
+      },
+      "model": {
+        "lambdaHome": 2.04,
+        "lambdaAway": 0.6,
+        "homeAttack": 0.8,
+        "homeDefense": 1.18,
+        "awayAttack": 0.5,
+        "awayDefense": 1.7,
+        "rho": -0.005,
+        "leagueBaseline": {
+          "homeGoals": 1.5,
+          "awayGoals": 1.02
         }
       }
     }
