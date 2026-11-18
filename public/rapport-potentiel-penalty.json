@@ -1,916 +1,1626 @@
 {
-  "generatedAt": "17/11/2026 08:09:02",
+  "generatedAt": "18/11/2026 14:12:04",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 8,
+    "totalMatchs": 10,
     "sansHistorique": 0
   },
   "matchs": [
     {
-      "matchId": 15534098,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League A, Gr. 4",
+      "matchId": 17018533,
+      "date": "18/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "UEFA Nations League 26/27",
+        "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "Wales",
-      "homeId": 4702,
-      "awayTeam": "Portugal",
-      "awayId": 4704,
+      "homeTeam": "BK Häcken FF (F)",
+      "homeId": 1889,
+      "awayTeam": "Manchester City (F)",
+      "awayId": 142658,
       "home": {
-        "teamId": 4702,
-        "teamName": "Wales",
-        "historyLeague": "UEFA Nations League, League A, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 1889,
+        "teamName": "BK Häcken FF (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 6,
+        "totalAvailable": 6,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Norway",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Denmark",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Norway",
+            "date": "10/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Chelsea FC",
             "hasPenalty": false
           },
           {
-            "date": "27/09/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Denmark",
+            "date": "29/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
             "hasPenalty": false
           },
           {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Portugal",
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Inter",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Club Atlético de Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Club Atlético de Madrid",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 4704,
-        "teamName": "Portugal",
-        "historyLeague": "UEFA Nations League, League A, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 142658,
+        "teamName": "Manchester City (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 4,
+        "totalAvailable": 4,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Denmark",
+            "date": "10/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Inter",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
             "hasPenalty": true
           },
           {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Norway",
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
             "hasPenalty": false
           },
           {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Denmark",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Norway",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Wales",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534099,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League A, Gr. 4",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Denmark",
-      "homeId": 4476,
-      "awayTeam": "Norway",
-      "awayId": 4475,
-      "home": {
-        "teamId": 4476,
-        "teamName": "Denmark",
-        "historyLeague": "UEFA Nations League, League A, Gr. 4",
-        "totalInLeague": 11,
-        "totalAvailable": 11,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Portugal",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Wales",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Portugal",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Wales",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Norway",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/11/2024 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Serbia",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/11/2024 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Spain",
-            "hasPenalty": false
-          },
-          {
-            "date": "15/10/2024 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Switzerland",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/10/2024 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Spain",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/09/2024 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Serbia",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/09/2024 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Switzerland",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4475,
-        "teamName": "Norway",
-        "historyLeague": "UEFA Nations League, League A, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 18:00:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Wales",
-            "hasPenalty": true
-          },
-          {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Portugal",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Wales",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Portugal",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League A, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Denmark",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534132,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 2",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Hungary",
-      "homeId": 4709,
-      "awayTeam": "Northern Ireland",
-      "awayId": 4786,
-      "home": {
-        "teamId": 4709,
-        "teamName": "Hungary",
-        "historyLeague": "UEFA Nations League, League B, Gr. 2",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Georgia",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ukraine",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Georgia",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Northern Ireland",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ukraine",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4786,
-        "teamName": "Northern Ireland",
-        "historyLeague": "UEFA Nations League, League B, Gr. 2",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ukraine",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Georgia",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ukraine",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Hungary",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Georgia",
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
             "hasPenalty": true
           }
         ]
       }
     },
     {
-      "matchId": 15534134,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 2",
+      "matchId": 17018535,
+      "date": "18/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "UEFA Nations League 26/27",
+        "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "Ukraine",
-      "homeId": 4701,
-      "awayTeam": "Georgia",
-      "awayId": 4763,
+      "homeTeam": "Real Madrid (F)",
+      "homeId": 305051,
+      "awayTeam": "Inter",
+      "awayId": 325685,
       "home": {
-        "teamId": 4701,
-        "teamName": "Ukraine",
-        "historyLeague": "UEFA Nations League, League B, Gr. 2",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 305051,
+        "teamName": "Real Madrid (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 22,
+        "totalAvailable": 22,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Northern Ireland",
+            "date": "10/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
             "hasPenalty": false
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Hungary",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
             "hasPenalty": false
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Northern Ireland",
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
             "hasPenalty": false
           },
           {
-            "date": "28/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Georgia",
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/09/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
             "hasPenalty": false
           },
           {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Hungary",
+            "date": "26/08/2026 19:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Ajax",
             "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Chelsea FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/09/2024 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sporting CP",
+            "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 4763,
-        "teamName": "Georgia",
-        "historyLeague": "UEFA Nations League, League B, Gr. 2",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 325685,
+        "teamName": "Inter (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Hungary",
+            "date": "10/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
             "hasPenalty": false
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Northern Ireland",
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 11:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Valur Reykjavík",
             "hasPenalty": true
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Hungary",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ukraine",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 2",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Northern Ireland",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534154,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Israel",
-      "homeId": 4480,
-      "awayTeam": "Austria",
-      "awayId": 4718,
-      "home": {
-        "teamId": 4480,
-        "teamName": "Israel",
-        "historyLeague": "UEFA Nations League, League B, Gr. 3",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 15:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kosovo",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ireland",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kosovo",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ireland",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Austria",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 4718,
-        "teamName": "Austria",
-        "historyLeague": "UEFA Nations League, League B, Gr. 3",
-        "totalInLeague": 11,
-        "totalAvailable": 11,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ireland",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/10/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kosovo",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ireland",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kosovo",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Israel",
-            "hasPenalty": true
-          },
-          {
-            "date": "17/11/2024 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Slovenia",
-            "hasPenalty": false
-          },
-          {
-            "date": "14/11/2024 16:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/10/2024 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Norway",
-            "hasPenalty": true
-          },
-          {
-            "date": "10/10/2024 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Kazakhstan",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/09/2024 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Norway",
-            "hasPenalty": false
-          },
-          {
-            "date": "06/09/2024 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 24/25",
-            "opponent": "Slovenia",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15534164,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 3",
-      "season": {
-        "name": "UEFA Nations League 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Ireland",
-      "homeId": 4693,
-      "awayTeam": "Kosovo",
-      "awayId": 154426,
-      "home": {
-        "teamId": 4693,
-        "teamName": "Ireland",
-        "historyLeague": "UEFA Nations League, League B, Gr. 3",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Austria",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Israel",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Austria",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Israel",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Kosovo",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 154426,
-        "teamName": "Kosovo",
-        "historyLeague": "UEFA Nations League, League B, Gr. 3",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
-        "fallback": false,
-        "history": [
-          {
-            "date": "14/11/2026 15:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Israel",
-            "hasPenalty": false
-          },
-          {
-            "date": "04/10/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Austria",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Israel",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/09/2026 18:00:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Austria",
-            "hasPenalty": true
-          },
-          {
-            "date": "24/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 3",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Ireland",
+            "date": "27/08/2025 16:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "SK Brann Kvinner",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 15534171,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 4",
+      "matchId": 17018532,
+      "date": "18/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "UEFA Nations League 26/27",
+        "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "Poland",
-      "homeId": 4703,
-      "awayTeam": "Sweden",
-      "awayId": 4688,
+      "homeTeam": "Chelsea FC (F)",
+      "homeId": 66768,
+      "awayTeam": "Paris Saint-Germain (F)",
+      "awayId": 55505,
       "home": {
-        "teamId": 4703,
-        "teamName": "Poland",
-        "historyLeague": "UEFA Nations League, League B, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 66768,
+        "teamName": "Chelsea FC (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Romania",
+            "date": "10/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
             "hasPenalty": false
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bosnia & Herzegovina",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "AS Roma",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Sociedad",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/08/2026 19:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Sociedad",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
             "hasPenalty": true
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Romania",
+            "date": "27/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
             "hasPenalty": true
           },
           {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Sweden",
+            "date": "11/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Celtic LFC",
             "hasPenalty": false
           },
           {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bosnia & Herzegovina",
-            "hasPenalty": false
+            "date": "17/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Twente Vrouwen",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group B",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 4688,
-        "teamName": "Sweden",
-        "historyLeague": "UEFA Nations League, League B, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 55505,
+        "teamName": "Paris Saint-Germain (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bosnia & Herzegovina",
+            "date": "10/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
             "hasPenalty": true
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Romania",
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
             "hasPenalty": false
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bosnia & Herzegovina",
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/09/2026 18:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Eintracht Frankfurt",
             "hasPenalty": false
           },
           {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Poland",
-            "hasPenalty": false
+            "date": "26/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": true
           },
           {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Romania",
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 15534173,
-      "date": "17/11/2026 20:45",
-      "league": "UEFA Nations League, League B, Gr. 4",
+      "matchId": 17018534,
+      "date": "18/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
       "season": {
-        "name": "UEFA Nations League 26/27",
+        "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "Bosnia & Herzegovina",
-      "homeId": 4479,
-      "awayTeam": "Romania",
-      "awayId": 4477,
+      "homeTeam": "Juventus (F)",
+      "homeId": 269824,
+      "awayTeam": "Oud-Heverlee Leuven (F)",
+      "awayId": 178246,
       "home": {
-        "teamId": 4479,
-        "teamName": "Bosnia & Herzegovina",
-        "historyLeague": "UEFA Nations League, League B, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 269824,
+        "teamName": "Juventus (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 18,
+        "totalAvailable": 18,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Sweden",
+            "date": "11/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "OL Lyonnes",
             "hasPenalty": true
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Poland",
+            "date": "29/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
             "hasPenalty": true
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Sweden",
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
             "hasPenalty": false
           },
           {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Romania",
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Benfica",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/09/2026 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SKN St. Pölten",
             "hasPenalty": false
           },
           {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Poland",
+            "date": "26/08/2026 20:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SCU Torreense",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Paris Saint-Germain",
             "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 4477,
-        "teamName": "Romania",
-        "historyLeague": "UEFA Nations League, League B, Gr. 4",
-        "totalInLeague": 5,
-        "totalAvailable": 5,
+        "teamId": 178246,
+        "teamName": "Oud-Heverlee Leuven (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 14,
+        "totalAvailable": 14,
         "fallback": false,
         "history": [
           {
-            "date": "14/11/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Poland",
+            "date": "11/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "HB Køge",
             "hasPenalty": false
           },
           {
-            "date": "05/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Sweden",
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Servette FC Chênois Féminin",
             "hasPenalty": false
           },
           {
-            "date": "02/10/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Poland",
+            "date": "01/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "AS Roma",
             "hasPenalty": true
           },
           {
-            "date": "28/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Bosnia & Herzegovina",
+            "date": "02/09/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Czarni Sosnowiec",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Czarni Sosnowiec",
             "hasPenalty": false
           },
           {
-            "date": "25/09/2026 20:45:00",
-            "league": "UEFA Nations League, League B, Gr. 4",
-            "season": "UEFA Nations League 26/27",
-            "opponent": "Sweden",
+            "date": "08/08/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fenerbahçe İstanbul",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "ŽFK TSC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Vorskla Poltava",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Vorskla Poltava",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Rosengård",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/08/2025 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "SFK 2000 Sarajevo",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15235658,
+      "date": "18/11/2026 23:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Coritiba",
+      "homeId": 1982,
+      "awayTeam": "Santos",
+      "awayId": 1968,
+      "home": {
+        "teamId": 1982,
+        "teamName": "Coritiba",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "04/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/10/2026 20:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Botafogo",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1968,
+        "teamName": "Santos",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "03/11/2026 00:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Flamengo",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/09/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Remo",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15235659,
+      "date": "19/11/2026 00:00",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Remo",
+      "homeId": 2012,
+      "awayTeam": "Chapecoense",
+      "awayId": 21845,
+      "home": {
+        "teamId": 2012,
+        "teamName": "Remo",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Botafogo",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Cruzeiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2026 23:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 21845,
+        "teamName": "Chapecoense",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "15/11/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 23:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Botafogo",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Athletico",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15235656,
+      "date": "19/11/2026 00:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Cruzeiro",
+      "homeId": 1954,
+      "awayTeam": "Palmeiras",
+      "awayId": 1963,
+      "home": {
+        "teamId": 1954,
+        "teamName": "Cruzeiro",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Remo",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/10/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1963,
+        "teamName": "Palmeiras",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Remo",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Athletico",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Corinthians",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 16:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15238236,
+      "date": "19/11/2026 00:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Flamengo",
+      "homeId": 5981,
+      "awayTeam": "Athletico",
+      "awayId": 1967,
+      "home": {
+        "teamId": 5981,
+        "teamName": "Flamengo",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "04/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/10/2026 00:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/10/2026 00:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Red Bull Bragantino",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1967,
+        "teamName": "Athletico",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "04/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 21:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Chapecoense",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/09/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15235657,
+      "date": "19/11/2026 01:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Grêmio",
+      "homeId": 5926,
+      "awayTeam": "Bahia",
+      "awayId": 1955,
+      "home": {
+        "teamId": 5926,
+        "teamName": "Grêmio",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "04/11/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Flamengo",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Athletico",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Coritiba",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Cruzeiro",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Remo",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 16:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1955,
+        "teamName": "Bahia",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "06/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Cruzeiro",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Flamengo",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/09/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Athletico",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15238243,
+      "date": "19/11/2026 01:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Corinthians",
+      "homeId": 1957,
+      "awayTeam": "Botafogo",
+      "awayId": 1958,
+      "home": {
+        "teamId": 1957,
+        "teamName": "Corinthians",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 00:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Palmeiras",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1958,
+        "teamName": "Botafogo",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Remo",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 21:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 23:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Chapecoense",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Coritiba",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vasco da Gama",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 22:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
             "hasPenalty": false
           }
         ]
