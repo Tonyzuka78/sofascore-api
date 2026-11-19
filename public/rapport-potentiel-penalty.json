@@ -1,432 +1,502 @@
 {
-  "generatedAt": "18/11/2026 14:12:04",
+  "generatedAt": "19/11/2026 12:53:20",
   "note": "Historique filtré sur la ligue du match à venir (fallback automatique sur toutes compétitions si moins de 3 matchs disponibles). Jusqu'à 30 matchs stockés par équipe — ajustez le nombre pris en compte dans le dashboard.",
   "minLeagueMatches": 3,
   "maxHistory": 30,
   "stats": {
-    "totalMatchs": 10,
+    "totalMatchs": 15,
     "sansHistorique": 0
   },
   "matchs": [
     {
-      "matchId": 17018533,
-      "date": "18/11/2026 18:45",
+      "matchId": 17018536,
+      "date": "19/11/2026 18:45",
       "league": "UEFA Champions League, Women",
       "season": {
         "name": "UEFA Champions League Women 26/27",
         "year": "26/27"
       },
-      "homeTeam": "BK Häcken FF (F)",
-      "homeId": 1889,
-      "awayTeam": "Manchester City (F)",
-      "awayId": 142658,
+      "homeTeam": "FK Austria Wien (F)",
+      "homeId": 229911,
+      "awayTeam": "FC Bayern München (F)",
+      "awayId": 5543,
       "home": {
-        "teamId": 1889,
-        "teamName": "BK Häcken FF (F)",
+        "teamId": 229911,
+        "teamName": "FK Austria Wien (F)",
         "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 6,
-        "totalAvailable": 6,
+        "totalInLeague": 12,
+        "totalAvailable": 12,
         "fallback": false,
         "history": [
           {
-            "date": "10/11/2026 18:45:00",
+            "date": "12/11/2026 21:00:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Chelsea FC",
-            "hasPenalty": false
+            "opponent": "Benfica",
+            "hasPenalty": true
           },
           {
             "date": "29/10/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
             "opponent": "Juventus",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Inter",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/09/2025 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Club Atlético de Madrid",
             "hasPenalty": true
-          },
-          {
-            "date": "11/09/2025 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Club Atlético de Madrid",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 142658,
-        "teamName": "Manchester City (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 4,
-        "totalAvailable": 4,
-        "fallback": false,
-        "history": [
-          {
-            "date": "10/11/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Inter",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Real Madrid",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "FC Bayern München",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17018535,
-      "date": "18/11/2026 18:45",
-      "league": "UEFA Champions League, Women",
-      "season": {
-        "name": "UEFA Champions League Women 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Real Madrid (F)",
-      "homeId": 305051,
-      "awayTeam": "Inter",
-      "awayId": 325685,
-      "home": {
-        "teamId": 305051,
-        "teamName": "Real Madrid (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 22,
-        "totalAvailable": 22,
-        "fallback": false,
-        "history": [
-          {
-            "date": "10/11/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "FC Bayern München",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Manchester City",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/09/2026 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Ajax",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 19:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Ajax",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/04/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Fútbol Club Barcelona",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/03/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Fútbol Club Barcelona",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Paris FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/02/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Paris FC",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/09/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Eintracht Frankfurt",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/09/2025 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Eintracht Frankfurt",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/03/2025 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/03/2025 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/12/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Chelsea FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/12/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Celtic LFC",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/11/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Twente Vrouwen",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/11/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Twente Vrouwen",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Celtic LFC",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Chelsea FC",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/09/2024 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Sporting CP",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2024 17:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Sporting CP",
-            "hasPenalty": true
-          }
-        ]
-      },
-      "away": {
-        "teamId": 325685,
-        "teamName": "Inter (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 8,
-        "totalAvailable": 8,
-        "fallback": false,
-        "history": [
-          {
-            "date": "10/11/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Manchester City",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "OL Lyonnes",
-            "hasPenalty": false
           },
           {
             "date": "01/10/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "FK Austria Wien",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "BK Häcken FF",
-            "hasPenalty": false
-          },
-          {
-            "date": "02/09/2026 18:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 18:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 11:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Valur Reykjavík",
-            "hasPenalty": true
-          },
-          {
-            "date": "27/08/2025 16:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "SK Brann Kvinner",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17018532,
-      "date": "18/11/2026 21:00",
-      "league": "UEFA Champions League, Women",
-      "season": {
-        "name": "UEFA Champions League Women 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Chelsea FC (F)",
-      "homeId": 66768,
-      "awayTeam": "Paris Saint-Germain (F)",
-      "awayId": 55505,
-      "home": {
-        "teamId": 66768,
-        "teamName": "Chelsea FC (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 18,
-        "totalAvailable": 18,
-        "fallback": false,
-        "history": [
-          {
-            "date": "10/11/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "BK Häcken FF",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "AS Roma",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "OL Lyonnes",
+            "opponent": "Inter",
             "hasPenalty": false
           },
           {
             "date": "23/09/2026 21:00:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "FK Austria Wien",
+            "opponent": "Chelsea FC",
             "hasPenalty": false
+          },
+          {
+            "date": "01/09/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SK Brann Kvinner",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/08/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "SK Brann Kvinner",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/08/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FCV Farul Constanța",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/08/2026 11:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "ŽNK Hajduk",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 19:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 14:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FC Minsk",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/08/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Glasgow City LFC",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 5543,
+        "teamName": "FC Bayern München (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 16,
+        "totalAvailable": 16,
+        "fallback": false,
+        "history": [
+          {
+            "date": "10/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris Saint-Germain",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Benfica",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Manchester City",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:15:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Manchester United",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018537,
+      "date": "19/11/2026 18:45",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Paris FC (F)",
+      "homeId": 264964,
+      "awayTeam": "HB Køge (F)",
+      "awayId": 333128,
+      "home": {
+        "teamId": 264964,
+        "teamName": "Paris FC (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 12,
+        "totalAvailable": 12,
+        "fallback": false,
+        "history": [
+          {
+            "date": "10/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2025 19:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Austria Wien",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 20:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/09/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Manchester City",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 18:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Sparta Prague",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 14:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "First Vienna",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 333128,
+        "teamName": "HB Køge (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "11/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Arsenal",
+            "hasPenalty": true
           },
           {
             "date": "02/09/2026 19:00:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Real Sociedad",
+            "opponent": "PSV Eindhoven",
             "hasPenalty": false
           },
           {
-            "date": "26/08/2026 19:45:00",
+            "date": "26/08/2026 19:00:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Real Sociedad",
+            "opponent": "PSV Eindhoven",
             "hasPenalty": false
           },
           {
-            "date": "01/04/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
+            "date": "08/08/2026 15:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Heart of Midlothian WFC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/08/2026 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Riga FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17018538,
+      "date": "19/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Fútbol Club Barcelona (F)",
+      "homeId": 77889,
+      "awayTeam": "Servette FC Chênois Féminin (F)",
+      "awayId": 305811,
+      "home": {
+        "teamId": 77889,
+        "teamName": "Fútbol Club Barcelona (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 20,
+        "totalAvailable": 20,
+        "fallback": false,
+        "history": [
+          {
+            "date": "12/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
             "opponent": "Arsenal",
             "hasPenalty": false
           },
           {
-            "date": "24/03/2026 21:00:00",
+            "date": "29/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "HB Køge",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "AS Roma",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/05/2026 18:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 25/26",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 18:15:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Real Madrid",
+            "hasPenalty": true
+          },
+          {
+            "date": "24/05/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
             "opponent": "Arsenal",
             "hasPenalty": false
           },
@@ -434,77 +504,77 @@
             "date": "27/04/2025 15:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 24/25",
-            "opponent": "Fútbol Club Barcelona",
+            "opponent": "Chelsea FC",
             "hasPenalty": false
           },
           {
             "date": "20/04/2025 18:00:00",
             "league": "UEFA Champions League, Women, Knockout stage",
             "season": "UEFA Champions League Women 24/25",
-            "opponent": "Fútbol Club Barcelona",
+            "opponent": "Chelsea FC",
             "hasPenalty": true
           },
           {
-            "date": "27/03/2025 21:00:00",
+            "date": "27/03/2025 18:45:00",
             "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group D",
             "season": "UEFA Champions League Women 24/25",
             "opponent": "Manchester City",
             "hasPenalty": false
           },
           {
-            "date": "19/03/2025 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
+            "date": "12/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SKN St. Pölten",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group D",
             "season": "UEFA Champions League Women 24/25",
             "opponent": "Manchester City",
             "hasPenalty": false
-          },
-          {
-            "date": "17/12/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Real Madrid",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/12/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Twente Vrouwen",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Celtic LFC",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Celtic LFC",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Twente Vrouwen",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group B",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Real Madrid",
-            "hasPenalty": true
           }
         ]
       },
       "away": {
-        "teamId": 55505,
-        "teamName": "Paris Saint-Germain (F)",
+        "teamId": 305811,
+        "teamName": "Servette FC Chênois Féminin (F)",
         "historyLeague": "UEFA Champions League, Women",
         "totalInLeague": 8,
         "totalAvailable": 8,
@@ -514,392 +584,677 @@
             "date": "10/11/2026 21:00:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "FC Bayern München",
+            "opponent": "AS Roma",
             "hasPenalty": true
           },
           {
-            "date": "29/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Manchester City",
-            "hasPenalty": true
-          },
-          {
-            "date": "01/10/2026 21:00:00",
+            "date": "28/10/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
             "opponent": "Oud-Heverlee Leuven",
             "hasPenalty": false
           },
           {
-            "date": "22/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Real Madrid",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/09/2026 18:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Eintracht Frankfurt",
-            "hasPenalty": true
-          },
-          {
-            "date": "26/08/2026 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Eintracht Frankfurt",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Juventus",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/09/2024 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Juventus",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 17018534,
-      "date": "18/11/2026 21:00",
-      "league": "UEFA Champions League, Women",
-      "season": {
-        "name": "UEFA Champions League Women 26/27",
-        "year": "26/27"
-      },
-      "homeTeam": "Juventus (F)",
-      "homeId": 269824,
-      "awayTeam": "Oud-Heverlee Leuven (F)",
-      "awayId": 178246,
-      "home": {
-        "teamId": 269824,
-        "teamName": "Juventus (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 18,
-        "totalAvailable": 18,
-        "fallback": false,
-        "history": [
-          {
-            "date": "11/11/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "OL Lyonnes",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "FK Austria Wien",
-            "hasPenalty": true
-          },
-          {
-            "date": "30/09/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "BK Häcken FF",
-            "hasPenalty": false
-          },
-          {
-            "date": "22/09/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Benfica",
-            "hasPenalty": true
-          },
-          {
-            "date": "02/09/2026 20:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SKN St. Pölten",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/08/2026 20:45:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SKN St. Pölten",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/08/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Hammarby IF",
-            "hasPenalty": false
-          },
-          {
-            "date": "05/08/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "SCU Torreense",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "VfL Wolfsburg",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/12/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Vålerenga",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/12/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Bayern München",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/11/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/11/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "16/10/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "FC Bayern München",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2024 21:00:00",
-            "league": "UEFA Champions League, Women, Group C",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Vålerenga",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/09/2024 18:45:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/09/2024 19:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 24/25",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 178246,
-        "teamName": "Oud-Heverlee Leuven (F)",
-        "historyLeague": "UEFA Champions League, Women",
-        "totalInLeague": 14,
-        "totalAvailable": 14,
-        "fallback": false,
-        "history": [
-          {
-            "date": "11/11/2026 18:45:00",
+            "date": "01/10/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
             "opponent": "HB Køge",
             "hasPenalty": false
           },
           {
-            "date": "28/10/2026 18:45:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Servette FC Chênois Féminin",
-            "hasPenalty": false
-          },
-          {
-            "date": "01/10/2026 21:00:00",
-            "league": "UEFA Champions League, Women",
-            "season": "UEFA Champions League Women 26/27",
-            "opponent": "Paris Saint-Germain",
-            "hasPenalty": false
-          },
-          {
             "date": "23/09/2026 18:45:00",
             "league": "UEFA Champions League, Women",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "AS Roma",
-            "hasPenalty": true
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
           },
           {
-            "date": "02/09/2026 20:00:00",
+            "date": "02/09/2026 18:45:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Czarni Sosnowiec",
-            "hasPenalty": true
+            "opponent": "Sparta Prague",
+            "hasPenalty": false
           },
           {
-            "date": "26/08/2026 19:00:00",
+            "date": "26/08/2026 18:30:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Czarni Sosnowiec",
+            "opponent": "Sparta Prague",
             "hasPenalty": false
           },
           {
-            "date": "08/08/2026 20:00:00",
+            "date": "07/08/2026 16:00:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "Fenerbahçe İstanbul",
+            "opponent": "FK Aktobe",
             "hasPenalty": false
           },
           {
-            "date": "05/08/2026 20:00:00",
+            "date": "04/08/2026 09:00:00",
             "league": "UEFA Champions League, Women, Qualification",
             "season": "UEFA Champions League Women 26/27",
-            "opponent": "ŽFK TSC",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/02/2026 21:00:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/02/2026 18:45:00",
-            "league": "UEFA Champions League, Women, Knockout stage",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Arsenal",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/09/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Vorskla Poltava",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/09/2025 19:30:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Vorskla Poltava",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/08/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "Rosengård",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/08/2025 20:00:00",
-            "league": "UEFA Champions League, Women, Qualification",
-            "season": "UEFA Champions League Women 25/26",
-            "opponent": "SFK 2000 Sarajevo",
+            "opponent": "Dinamo Minsk",
             "hasPenalty": false
           }
         ]
       }
     },
     {
-      "matchId": 15235658,
-      "date": "18/11/2026 23:30",
+      "matchId": 17018549,
+      "date": "19/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Arsenal (F)",
+      "homeId": 26243,
+      "awayTeam": "OL Lyonnes (F)",
+      "awayId": 26245,
+      "home": {
+        "teamId": 26243,
+        "teamName": "Arsenal (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 25,
+        "totalAvailable": 25,
+        "fallback": false,
+        "history": [
+          {
+            "date": "12/11/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Benfica",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Paris FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "HB Køge",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/05/2026 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/04/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/04/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/03/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/02/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/02/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2025 13:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Real Madrid",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/11/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Juventus",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Vålerenga",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group C",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "BK Häcken FF",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rosenborg Kvinner",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Rangers LFC",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 26245,
+        "teamName": "OL Lyonnes (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 19,
+        "totalAvailable": 19,
+        "fallback": false,
+        "history": [
+          {
+            "date": "11/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Juventus",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Inter",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/05/2026 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 15:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/04/2026 16:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/04/2026 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/03/2026 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2025 18:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2025 13:30:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/03/2025 18:45:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/03/2025 21:00:00",
+            "league": "UEFA Champions League, Women, Knockout stage",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Bayern München",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "AS Roma",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "AS Roma",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17025180,
+      "date": "19/11/2026 21:00",
+      "league": "UEFA Champions League, Women",
+      "season": {
+        "name": "UEFA Champions League Women 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Benfica (F)",
+      "homeId": 297853,
+      "awayTeam": "AS Roma (F)",
+      "awayId": 301414,
+      "home": {
+        "teamId": 297853,
+        "teamName": "Benfica (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "12/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FK Austria Wien",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Arsenal",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "FC Bayern München",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/09/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Juventus",
+            "hasPenalty": true
+          },
+          {
+            "date": "25/09/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Hammarby IF",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "SFK 2000 Sarajevo",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/09/2024 17:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "FC Nordsjælland",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 301414,
+        "teamName": "AS Roma (F)",
+        "historyLeague": "UEFA Champions League, Women",
+        "totalInLeague": 16,
+        "totalAvailable": 16,
+        "fallback": false,
+        "history": [
+          {
+            "date": "10/11/2026 21:00:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Chelsea FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Fútbol Club Barcelona",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2026 18:45:00",
+            "league": "UEFA Champions League, Women",
+            "season": "UEFA Champions League Women 26/27",
+            "opponent": "Oud-Heverlee Leuven",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/09/2025 17:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sporting CP",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2025 20:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sporting CP",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "Sparta Prague",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/08/2025 15:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 25/26",
+            "opponent": "FK Aktobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/12/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/12/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/11/2024 21:00:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "OL Lyonnes",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Galatasaray Istanbul",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/10/2024 18:45:00",
+            "league": "UEFA Champions League, Women, Group A",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "VfL Wolfsburg",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/09/2024 19:00:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/09/2024 14:30:00",
+            "league": "UEFA Champions League, Women, Qualification",
+            "season": "UEFA Champions League Women 24/25",
+            "opponent": "Servette FC Chênois Féminin",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15235666,
+      "date": "19/11/2026 23:30",
       "league": "Campeonato Brasileiro Série A",
       "season": {
         "name": "Brasileiro Serie A 2026",
         "year": "2026"
       },
-      "homeTeam": "Coritiba",
-      "homeId": 1982,
-      "awayTeam": "Santos",
-      "awayId": 1968,
+      "homeTeam": "Vitória",
+      "homeId": 1962,
+      "awayTeam": "Red Bull Bragantino",
+      "awayId": 1999,
       "home": {
-        "teamId": 1982,
-        "teamName": "Coritiba",
+        "teamId": 1962,
+        "teamName": "Vitória",
         "historyLeague": "Campeonato Brasileiro Série A",
         "totalInLeague": 7,
         "totalAvailable": 7,
         "fallback": false,
         "history": [
           {
-            "date": "04/11/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
-            "hasPenalty": true
-          },
-          {
-            "date": "31/10/2026 20:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2026 02:30:00",
+            "date": "07/11/2026 00:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Fluminense",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 01:30:00",
+            "date": "31/10/2026 20:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
+            "opponent": "Coritiba",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 21:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Athletico",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Corinthians",
             "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Chapecoense",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Cruzeiro",
+            "hasPenalty": false
           }
         ]
       },
       "away": {
-        "teamId": 1968,
-        "teamName": "Santos",
+        "teamId": 1999,
+        "teamName": "Red Bull Bragantino",
         "historyLeague": "Campeonato Brasileiro Série A",
         "totalInLeague": 8,
         "totalAvailable": 8,
@@ -909,135 +1264,76 @@
             "date": "03/11/2026 00:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
+            "opponent": "Santos",
             "hasPenalty": false
           },
           {
             "date": "28/10/2026 23:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
+            "opponent": "Chapecoense",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
             "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2026 02:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/10/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Flamengo",
             "hasPenalty": true
           },
           {
-            "date": "03/10/2026 01:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": true
-          },
-          {
-            "date": "19/09/2026 23:30:00",
+            "date": "19/10/2026 00:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Remo",
             "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15235659,
-      "date": "19/11/2026 00:00",
-      "league": "Campeonato Brasileiro Série A",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Remo",
-      "homeId": 2012,
-      "awayTeam": "Chapecoense",
-      "awayId": 21845,
-      "home": {
-        "teamId": 2012,
-        "teamName": "Remo",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "05/11/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
           },
           {
-            "date": "29/10/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 01:00:00",
+            "date": "13/10/2026 02:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Cruzeiro",
             "hasPenalty": false
           },
           {
-            "date": "19/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          },
-          {
-            "date": "10/10/2026 23:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
             "date": "08/10/2026 00:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
+            "opponent": "Mirassol",
             "hasPenalty": false
           },
           {
-            "date": "19/09/2026 23:30:00",
+            "date": "03/10/2026 23:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
+            "opponent": "Atlético Mineiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Flamengo",
             "hasPenalty": false
           }
         ]
+      }
+    },
+    {
+      "matchId": 15238240,
+      "date": "19/11/2026 23:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
       },
-      "away": {
-        "teamId": 21845,
-        "teamName": "Chapecoense",
+      "homeTeam": "Vasco da Gama",
+      "homeId": 1974,
+      "awayTeam": "Internacional",
+      "awayId": 1966,
+      "home": {
+        "teamId": 1974,
+        "teamName": "Vasco da Gama",
         "historyLeague": "Campeonato Brasileiro Série A",
         "totalInLeague": 8,
         "totalAvailable": 8,
@@ -1047,581 +1343,3201 @@
             "date": "15/11/2026 00:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
+            "opponent": "Chapecoense",
             "hasPenalty": false
           },
-          {
-            "date": "03/11/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Mirassol",
-            "hasPenalty": true
-          },
-          {
-            "date": "28/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          },
-          {
-            "date": "17/10/2026 23:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Botafogo",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/10/2026 01:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          },
-          {
-            "date": "19/09/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15235656,
-      "date": "19/11/2026 00:30",
-      "league": "Campeonato Brasileiro Série A",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Cruzeiro",
-      "homeId": 1954,
-      "awayTeam": "Palmeiras",
-      "awayId": 1963,
-      "home": {
-        "teamId": 1954,
-        "teamName": "Cruzeiro",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "06/11/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 01:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": true
-          },
-          {
-            "date": "13/10/2026 02:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/10/2026 02:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1963,
-        "teamName": "Palmeiras",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "05/11/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "28/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": false
-          },
-          {
-            "date": "11/10/2026 22:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Corinthians",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/10/2026 02:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 16:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": false
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15238236,
-      "date": "19/11/2026 00:30",
-      "league": "Campeonato Brasileiro Série A",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Flamengo",
-      "homeId": 5981,
-      "awayTeam": "Athletico",
-      "awayId": 1967,
-      "home": {
-        "teamId": 5981,
-        "teamName": "Flamengo",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
           {
             "date": "04/11/2026 23:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
+            "opponent": "Athletico",
             "hasPenalty": false
           },
           {
             "date": "30/10/2026 00:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
-            "date": "27/10/2026 00:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "18/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 22:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": true
-          },
-          {
-            "date": "20/09/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Red Bull Bragantino",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1967,
-        "teamName": "Athletico",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "04/11/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/10/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Grêmio",
-            "hasPenalty": false
-          },
-          {
-            "date": "24/10/2026 21:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "13/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Chapecoense",
-            "hasPenalty": false
-          },
-          {
-            "date": "09/10/2026 01:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Bahia",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15235657,
-      "date": "19/11/2026 01:30",
-      "league": "Campeonato Brasileiro Série A",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Grêmio",
-      "homeId": 5926,
-      "awayTeam": "Bahia",
-      "awayId": 1955,
-      "home": {
-        "teamId": 5926,
-        "teamName": "Grêmio",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "04/11/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
             "opponent": "Flamengo",
-            "hasPenalty": false
-          },
-          {
-            "date": "30/10/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": false
-          },
-          {
-            "date": "26/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Coritiba",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 22:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
-            "hasPenalty": false
-          },
-          {
-            "date": "08/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Remo",
-            "hasPenalty": false
-          },
-          {
-            "date": "20/09/2026 16:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1955,
-        "teamName": "Bahia",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "06/11/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Cruzeiro",
-            "hasPenalty": true
-          },
-          {
-            "date": "29/10/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "25/10/2026 02:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Santos",
-            "hasPenalty": false
-          },
-          {
-            "date": "18/10/2026 23:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Flamengo",
-            "hasPenalty": true
-          },
-          {
-            "date": "12/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Mirassol",
-            "hasPenalty": true
-          },
-          {
-            "date": "09/10/2026 02:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": false
-          },
-          {
-            "date": "21/09/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Athletico",
-            "hasPenalty": true
-          }
-        ]
-      }
-    },
-    {
-      "matchId": 15238243,
-      "date": "19/11/2026 01:30",
-      "league": "Campeonato Brasileiro Série A",
-      "season": {
-        "name": "Brasileiro Serie A 2026",
-        "year": "2026"
-      },
-      "homeTeam": "Corinthians",
-      "homeId": 1957,
-      "awayTeam": "Botafogo",
-      "awayId": 1958,
-      "home": {
-        "teamId": 1957,
-        "teamName": "Corinthians",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "05/11/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "São Paulo",
-            "hasPenalty": false
-          },
-          {
-            "date": "31/10/2026 00:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Mirassol",
             "hasPenalty": false
           },
           {
             "date": "24/10/2026 23:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Vasco da Gama",
+            "opponent": "Corinthians",
             "hasPenalty": false
           },
           {
-            "date": "20/10/2026 01:00:00",
+            "date": "18/10/2026 02:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Vitória",
-            "hasPenalty": true
-          },
-          {
-            "date": "11/10/2026 22:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Palmeiras",
-            "hasPenalty": true
-          },
-          {
-            "date": "08/10/2026 00:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
+            "opponent": "São Paulo",
             "hasPenalty": false
           },
           {
-            "date": "20/09/2026 21:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Fluminense",
-            "hasPenalty": false
-          }
-        ]
-      },
-      "away": {
-        "teamId": 1958,
-        "teamName": "Botafogo",
-        "historyLeague": "Campeonato Brasileiro Série A",
-        "totalInLeague": 7,
-        "totalAvailable": 7,
-        "fallback": false,
-        "history": [
-          {
-            "date": "05/11/2026 01:30:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Atlético Mineiro",
-            "hasPenalty": false
-          },
-          {
-            "date": "29/10/2026 01:30:00",
+            "date": "10/10/2026 23:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Remo",
             "hasPenalty": false
           },
           {
-            "date": "24/10/2026 21:30:00",
+            "date": "08/10/2026 01:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Internacional",
+            "opponent": "Botafogo",
             "hasPenalty": false
           },
           {
-            "date": "17/10/2026 23:00:00",
-            "league": "Campeonato Brasileiro Série A",
-            "season": "Brasileiro Serie A 2026",
-            "opponent": "Chapecoense",
-            "hasPenalty": false
-          },
-          {
-            "date": "12/10/2026 21:00:00",
+            "date": "20/09/2026 01:30:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Coritiba",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1966,
+        "teamName": "Internacional",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "04/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Coritiba",
+            "hasPenalty": true
+          },
+          {
+            "date": "28/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Fluminense",
             "hasPenalty": false
           },
           {
-            "date": "08/10/2026 01:30:00",
+            "date": "24/10/2026 21:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Botafogo",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Grêmio",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Corinthians",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "São Paulo",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 15238241,
+      "date": "20/11/2026 01:30",
+      "league": "Campeonato Brasileiro Série A",
+      "season": {
+        "name": "Brasileiro Serie A 2026",
+        "year": "2026"
+      },
+      "homeTeam": "São Paulo",
+      "homeId": 1981,
+      "awayTeam": "Fluminense",
+      "awayId": 1961,
+      "home": {
+        "teamId": 1981,
+        "teamName": "São Paulo",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 8,
+        "totalAvailable": 8,
+        "fallback": false,
+        "history": [
+          {
+            "date": "05/11/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Corinthians",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Bahia",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 21:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Mirassol",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 02:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
             "opponent": "Vasco da Gama",
             "hasPenalty": false
           },
           {
-            "date": "19/09/2026 22:00:00",
+            "date": "11/10/2026 02:00:00",
             "league": "Campeonato Brasileiro Série A",
             "season": "Brasileiro Serie A 2026",
-            "opponent": "Mirassol",
+            "opponent": "Vitória",
             "hasPenalty": false
+          },
+          {
+            "date": "08/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Cruzeiro",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/10/2026 01:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2026 02:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 1961,
+        "teamName": "Fluminense",
+        "historyLeague": "Campeonato Brasileiro Série A",
+        "totalInLeague": 7,
+        "totalAvailable": 7,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 00:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Vitória",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/10/2026 23:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Internacional",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 00:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Chapecoense",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Santos",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 22:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Flamengo",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 02:30:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Coritiba",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 21:00:00",
+            "league": "Campeonato Brasileiro Série A",
+            "season": "Brasileiro Serie A 2026",
+            "opponent": "Corinthians",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17517448,
+      "date": "20/11/2026 01:30",
+      "league": "MLS, Playoffs",
+      "season": {
+        "name": "MLS 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Orlando City SC",
+      "homeId": 52237,
+      "awayTeam": "FC Cincinnati",
+      "awayId": 215167,
+      "home": {
+        "teamId": 52237,
+        "teamName": "Orlando City SC",
+        "historyLeague": "MLS",
+        "totalInLeague": 108,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 22:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New England Revolution",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 18:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Charlotte FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Chicago Fire",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York City FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "DC United",
+            "hasPenalty": true
+          },
+          {
+            "date": "15/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Toronto FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Columbus Crew",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New England Revolution",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Toronto FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Atlanta United",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Minnesota United",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Real Salt Lake",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Chicago Fire",
+            "hasPenalty": true
+          },
+          {
+            "date": "16/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Cincinnati",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York Red Bulls",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 02:46:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Nashville SC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/07/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Jose Earthquakes",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Cincinnati",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Atlanta United",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/05/2026 22:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "CF Montréal",
+            "hasPenalty": true
+          },
+          {
+            "date": "03/05/2026 01:15:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Inter Miami CF",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "DC United",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Charlotte FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/04/2026 01:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Columbus Crew",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/04/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Los Angeles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/03/2026 23:15:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Nashville SC",
+            "hasPenalty": true
+          }
+        ]
+      },
+      "away": {
+        "teamId": 215167,
+        "teamName": "FC Cincinnati",
+        "historyLeague": "MLS",
+        "totalInLeague": 109,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 22:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Nashville SC",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 19:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 00:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Inter Miami CF",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "DC United",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/10/2026 01:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "DC United",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 23:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Columbus Crew",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New England Revolution",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Atlanta United",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "CF Montréal",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/09/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Charlotte FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/09/2026 01:45:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/08/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Nashville SC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Seattle Sounders FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York City FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Orlando City SC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 03:45:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Jose Earthquakes",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 01:15:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Columbus Crew",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/07/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Vancouver Whitecaps",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Orlando City SC",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/05/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Inter Miami CF",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/05/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Charlotte FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Chicago Fire",
+            "hasPenalty": true
+          },
+          {
+            "date": "26/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York Red Bulls",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York City FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Chicago Fire",
+            "hasPenalty": true
+          },
+          {
+            "date": "11/04/2026 19:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Toronto FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/04/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York Red Bulls",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/03/2026 18:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "CF Montréal",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 17517449,
+      "date": "20/11/2026 04:00",
+      "league": "MLS, Playoffs",
+      "season": {
+        "name": "MLS 2026",
+        "year": "2026"
+      },
+      "homeTeam": "Seattle Sounders FC",
+      "homeId": 22009,
+      "awayTeam": "Real Salt Lake",
+      "awayId": 5133,
+      "home": {
+        "teamId": 22009,
+        "teamName": "Seattle Sounders FC",
+        "historyLeague": "MLS",
+        "totalInLeague": 109,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 01:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Los Angeles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2026 21:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Vancouver Whitecaps",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "CF Montréal",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Dallas",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New England Revolution",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/10/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Sporting Kansas City",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Minnesota United",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Real Salt Lake",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Colorado Rapids",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "LA Galaxy",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York Red Bulls",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/08/2026 22:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Chicago Fire",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Cincinnati",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/08/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Austin FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/08/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Vancouver Whitecaps",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 04:45:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Portland Timbers",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/07/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Austin FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/07/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Portland Timbers",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/05/2026 03:25:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Los Angeles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/05/2026 03:15:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "LA Galaxy",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Jose Earthquakes",
+            "hasPenalty": true
+          },
+          {
+            "date": "10/05/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 20:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Sporting Kansas City",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/04/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Dallas",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/04/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "St.Louis City",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/04/2026 03:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/03/2026 19:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Minnesota United",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 5133,
+        "teamName": "Real Salt Lake",
+        "historyLeague": "MLS",
+        "totalInLeague": 105,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 01:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "LA Galaxy",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 22:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Jose Earthquakes",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Austin FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "St.Louis City",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Sporting Kansas City",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/10/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Jose Earthquakes",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Philadelphia Union",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New England Revolution",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Seattle Sounders FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Vancouver Whitecaps",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "New York City FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/09/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Los Angeles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Colorado Rapids",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2026 01:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Orlando City SC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/08/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Dallas",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Minnesota United",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/08/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "St.Louis City",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/07/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Portland Timbers",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/07/2026 04:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Los Angeles FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/05/2026 22:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Minnesota United",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/05/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Colorado Rapids",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/05/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Houston Dynamo",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/05/2026 02:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "FC Dallas",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 22:45:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Portland Timbers",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2026 01:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "LA Galaxy",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/04/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Inter Miami CF",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2026 03:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/04/2026 22:30:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "Sporting Kansas City",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/03/2026 00:00:00",
+            "league": "MLS",
+            "season": "MLS 2026",
+            "opponent": "San Diego FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16541544,
+      "date": "20/11/2026 09:40",
+      "league": "A-League Men",
+      "season": {
+        "name": "A-League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Western Sydney Wanderers",
+      "homeId": 72926,
+      "awayTeam": "Adelaide United",
+      "awayId": 2946,
+      "home": {
+        "teamId": 72926,
+        "teamName": "Western Sydney Wanderers",
+        "historyLeague": "A-League Men",
+        "totalInLeague": 57,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 09:40:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 09:40:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 08:00:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/10/2026 11:00:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 11:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/04/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Wellington Phoenix",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/04/2026 11:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/04/2026 10:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Adelaide United",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/03/2026 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Brisbane Roar",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/03/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Newcastle Jets",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Central Coast Mariners",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Wellington Phoenix",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/01/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/01/2026 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Perth Glory",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/01/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Newcastle Jets",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/01/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/01/2026 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/12/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Adelaide United",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/12/2025 10:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/12/2025 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Brisbane Roar",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/12/2025 11:45:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Perth Glory",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/11/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/11/2025 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Central Coast Mariners",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/11/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Adelaide United",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2025 06:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2025 08:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 2946,
+        "teamName": "Adelaide United",
+        "historyLeague": "A-League Men",
+        "totalInLeague": 58,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2026 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Perth Glory",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 05:00:00",
+            "league": "A-League Men",
+            "season": "A-League 26/27",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/05/2026 11:35:00",
+            "league": "A-League Men, Playoffs",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/05/2026 08:00:00",
+            "league": "A-League Men, Playoffs",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/04/2026 09:30:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/04/2026 07:30:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/04/2026 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Newcastle Jets",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/04/2026 10:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Western Sydney Wanderers",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 05:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Central Coast Mariners",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/03/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Wellington Phoenix",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Perth Glory",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/02/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Sydney FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/02/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Newcastle Jets",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/01/2026 10:05:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/01/2026 07:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Brisbane Roar",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/01/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/01/2026 03:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Wellington Phoenix",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/01/2026 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Central Coast Mariners",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/12/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Western Sydney Wanderers",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/12/2025 11:45:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Perth Glory",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/12/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne Victory",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/12/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Brisbane Roar",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/11/2025 05:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Wellington Phoenix",
+            "hasPenalty": true
+          },
+          {
+            "date": "21/11/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Melbourne City",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/11/2025 09:35:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Western Sydney Wanderers",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2025 05:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Auckland FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/10/2025 09:00:00",
+            "league": "A-League Men",
+            "season": "A-League 25/26",
+            "opponent": "Macarthur FC",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16341880,
+      "date": "20/11/2026 11:00",
+      "league": "J1 League",
+      "season": {
+        "name": "J1 League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Vissel Kobe",
+      "homeId": 3146,
+      "awayTeam": "Mito Hollyhock",
+      "awayId": 21901,
+      "home": {
+        "teamId": 3146,
+        "teamName": "Vissel Kobe",
+        "historyLeague": "J1 League",
+        "totalInLeague": 52,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 06:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2026 06:55:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 10:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "V-Varen Nagasaki",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/08/2026 12:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/12/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/11/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "26/10/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Albirex Niigata",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/10/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": false
+          },
+          {
+            "date": "04/10/2025 10:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shimizu S-Pulse",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": true
+          },
+          {
+            "date": "12/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/07/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/07/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shonan Bellmare",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 21901,
+        "teamName": "Mito Hollyhock",
+        "historyLeague": "J1 League",
+        "totalInLeague": 14,
+        "totalAvailable": 14,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 09:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "JEF United Chiba",
+            "hasPenalty": true
+          },
+          {
+            "date": "31/10/2026 06:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 09:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Shimizu S-Pulse",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 12:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/08/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16348659,
+      "date": "20/11/2026 11:00",
+      "league": "J1 League",
+      "season": {
+        "name": "J1 League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Kashima Antlers",
+      "homeId": 3134,
+      "awayTeam": "Shimizu S-Pulse",
+      "awayId": 3133,
+      "home": {
+        "teamId": 3134,
+        "teamName": "Kashima Antlers",
+        "historyLeague": "J1 League",
+        "totalInLeague": 52,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "V-Varen Nagasaki",
+            "hasPenalty": true
+          },
+          {
+            "date": "09/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Vissel Kobe",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/09/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Mito Hollyhock",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/08/2026 12:25:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/12/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Vissel Kobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/10/2025 08:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": true
+          },
+          {
+            "date": "27/09/2025 10:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": true
+          },
+          {
+            "date": "20/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shonan Bellmare",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/08/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shimizu S-Pulse",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Albirex Niigata",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/07/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/07/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 3133,
+        "teamName": "Shimizu S-Pulse",
+        "historyLeague": "J1 League",
+        "totalInLeague": 52,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 05:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 06:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 06:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Mito Hollyhock",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "JEF United Chiba",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": true
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/08/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashiwa Reysol",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/12/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shonan Bellmare",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/11/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/10/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Vissel Kobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/09/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": true
+          },
+          {
+            "date": "13/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Albirex Niigata",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/08/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/08/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/08/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/07/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/07/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": true
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16348663,
+      "date": "20/11/2026 11:00",
+      "league": "J1 League",
+      "season": {
+        "name": "J1 League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "Kashiwa Reysol",
+      "homeId": 3140,
+      "awayTeam": "JEF United Chiba",
+      "awayId": 3144,
+      "home": {
+        "teamId": 3140,
+        "teamName": "Kashiwa Reysol",
+        "historyLeague": "J1 League",
+        "totalInLeague": 52,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/10/2026 08:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/10/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Vissel Kobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2026 10:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kyoto Sanga FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/08/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Shimizu S-Pulse",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "V-Varen Nagasaki",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Mito Hollyhock",
+            "hasPenalty": true
+          },
+          {
+            "date": "06/12/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/11/2025 06:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Albirex Niigata",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/11/2025 08:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Nagoya Grampus",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama FC",
+            "hasPenalty": false
+          },
+          {
+            "date": "18/10/2025 07:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/10/2025 10:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "28/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": true
+          },
+          {
+            "date": "23/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/09/2025 11:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/09/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Vissel Kobe",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": true
+          },
+          {
+            "date": "22/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/08/2025 12:30:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/08/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Shonan Bellmare",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/07/2025 11:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "Kashima Antlers",
+            "hasPenalty": true
+          },
+          {
+            "date": "05/07/2025 12:00:00",
+            "league": "J1 League",
+            "season": "J.League 2025",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 3144,
+        "teamName": "JEF United Chiba",
+        "historyLeague": "J1 League",
+        "totalInLeague": 14,
+        "totalAvailable": 14,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 09:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Mito Hollyhock",
+            "hasPenalty": true
+          },
+          {
+            "date": "01/11/2026 06:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Avispa Fukuoka",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Cerezo Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/10/2026 12:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Urawa Red Diamonds",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Yokohama F. Marinos",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 07:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "V-Varen Nagasaki",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 11:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Shimizu S-Pulse",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Tokyo Verdy",
+            "hasPenalty": false
+          },
+          {
+            "date": "06/09/2026 11:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Gamba Osaka",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/09/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Fagiano Okayama",
+            "hasPenalty": false
+          },
+          {
+            "date": "29/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Kawasaki Frontale",
+            "hasPenalty": false
+          },
+          {
+            "date": "21/08/2026 12:30:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "FC Tokyo",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 12:00:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Machida Zelvia",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/08/2026 12:15:00",
+            "league": "J1 League",
+            "season": "J1 League 26/27",
+            "opponent": "Sanfrecce Hiroshima",
+            "hasPenalty": false
+          }
+        ]
+      }
+    },
+    {
+      "matchId": 16712721,
+      "date": "20/11/2026 11:30",
+      "league": "Premier League",
+      "season": {
+        "name": "Premier League 26/27",
+        "year": "26/27"
+      },
+      "homeTeam": "İmişli FK",
+      "homeId": 452296,
+      "awayTeam": "Zirə FK",
+      "awayId": 173406,
+      "home": {
+        "teamId": 452296,
+        "teamName": "İmişli FK",
+        "historyLeague": "Premier League",
+        "totalInLeague": 44,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "08/11/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Sumqayıt FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/11/2026 14:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Kəpəz PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/10/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 13:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/10/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Qarabağ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 17:45:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Sabah FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/09/2026 14:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Neftçi PFK",
+            "hasPenalty": true
+          },
+          {
+            "date": "04/09/2026 16:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Qəbələ FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "29/08/2026 18:15:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Şəfa FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 18:45:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Zirə FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/08/2026 16:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": false
+          },
+          {
+            "date": "24/05/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "FK Karvan Yevlax",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/05/2026 15:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qarabağ FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/05/2026 14:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Zirə FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "02/05/2026 16:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": false
+          },
+          {
+            "date": "25/04/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sumqayıt FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/04/2026 13:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Kəpəz PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "12/04/2026 13:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qəbələ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "07/04/2026 13:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/03/2026 16:15:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Neftçi PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sabah FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/03/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "01/03/2026 13:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/02/2026 11:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/02/2026 11:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qarabağ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/02/2026 11:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Kəpəz PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "30/01/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qəbələ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/01/2026 11:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/12/2025 13:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Zirə FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "15/12/2025 11:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "FK Karvan Yevlax",
+            "hasPenalty": false
+          }
+        ]
+      },
+      "away": {
+        "teamId": 173406,
+        "teamName": "Zirə FK",
+        "historyLeague": "Premier League",
+        "totalInLeague": 80,
+        "totalAvailable": 30,
+        "fallback": false,
+        "history": [
+          {
+            "date": "07/11/2026 15:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Qəbələ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/10/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/10/2026 17:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Sumqayıt FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "18/10/2026 16:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Kəpəz PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "10/10/2026 15:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "19/09/2026 15:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/09/2026 17:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Qarabağ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "05/09/2026 16:30:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Sabah FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "30/08/2026 18:15:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Neftçi PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "22/08/2026 18:45:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "İmişli FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "16/08/2026 19:00:00",
+            "league": "Premier League",
+            "season": "Premier League 26/27",
+            "opponent": "Şəfa FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/05/2026 17:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": true
+          },
+          {
+            "date": "17/05/2026 16:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sumqayıt FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "08/05/2026 14:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "İmişli FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "03/05/2026 16:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qəbələ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/04/2026 16:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "17/04/2026 17:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Neftçi PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "11/04/2026 16:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sabah FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "07/04/2026 15:15:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": true
+          },
+          {
+            "date": "19/03/2026 12:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "FK Karvan Yevlax",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/03/2026 16:15:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Qarabağ FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "09/03/2026 15:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Kəpəz PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "27/02/2026 15:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Araz Naxçıvan",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/02/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Turan Tovuz",
+            "hasPenalty": false
+          },
+          {
+            "date": "14/02/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "FK Karvan Yevlax",
+            "hasPenalty": false
+          },
+          {
+            "date": "08/02/2026 15:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sumqayıt FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "31/01/2026 14:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Sabah FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "23/01/2026 16:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Neftçi Baku PFK",
+            "hasPenalty": false
+          },
+          {
+            "date": "20/12/2025 13:30:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "İmişli FK",
+            "hasPenalty": false
+          },
+          {
+            "date": "13/12/2025 11:00:00",
+            "league": "Premier League",
+            "season": "Premier League 25/26",
+            "opponent": "Şamaxı FK",
+            "hasPenalty": true
           }
         ]
       }
