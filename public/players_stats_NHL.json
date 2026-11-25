@@ -83,19 +83,19 @@
     "assistScore": 0.37,
     "maxNoPointStreak": 12
   },
-  "Danila Moiseyev_111039": {
+  "Yegor Chezganov_111039": {
     "sports": [
       "NHL"
     ],
-    "name": "Danila Moiseyev",
+    "name": "Yegor Chezganov",
     "teams": [
       "Admiral Vladivostok"
     ],
-    "totalGoals": 3,
-    "totalAssists": 1,
+    "totalGoals": 12,
+    "totalAssists": 15,
     "goalScore": 0.25,
-    "assistScore": 0,
-    "maxNoPointStreak": 76
+    "assistScore": 0.25,
+    "maxNoPointStreak": 46
   },
   "Borna Rendulic_111039": {
     "sports": [
@@ -107,9 +107,23 @@
     ],
     "totalGoals": 3,
     "totalAssists": 3,
-    "goalScore": 0.166667,
-    "assistScore": 0.333333,
+    "goalScore": 0,
+    "assistScore": 0.25,
     "maxNoPointStreak": 90
+  },
+  "Anthony Camara_111039": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Anthony Camara",
+    "teams": [
+      "Admiral Vladivostok"
+    ],
+    "totalGoals": 8,
+    "totalAssists": 4,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 77
   },
   "Mikhail Grass_111039": {
     "sports": [
@@ -385,10 +399,38 @@
     "teams": [
       "Barys Astana"
     ],
-    "totalGoals": 17,
+    "totalGoals": 18,
     "totalAssists": 12,
     "goalScore": 0.44,
     "assistScore": 0,
+    "maxNoPointStreak": 73
+  },
+  "Mason Morelli_24985": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Mason Morelli",
+    "teams": [
+      "Barys Astana"
+    ],
+    "totalGoals": 19,
+    "totalAssists": 41,
+    "goalScore": 0.2,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 10
+  },
+  "Chase Priskie_24985": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Chase Priskie",
+    "teams": [
+      "Barys Astana"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 18,
+    "goalScore": 0.1,
+    "assistScore": 0.3,
     "maxNoPointStreak": 73
   },
   "Garrett Pilon_24985": {
@@ -404,34 +446,6 @@
     "goalScore": 0,
     "assistScore": 0.37,
     "maxNoPointStreak": 73
-  },
-  "Chase Priskie_24985": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Chase Priskie",
-    "teams": [
-      "Barys Astana"
-    ],
-    "totalGoals": 5,
-    "totalAssists": 17,
-    "goalScore": 0.1,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 73
-  },
-  "Tyce Thompson_24985": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tyce Thompson",
-    "teams": [
-      "Barys Astana"
-    ],
-    "totalGoals": 26,
-    "totalAssists": 15,
-    "goalScore": 0,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 14
   },
   "Trevor Connelly_257523": {
     "sports": [
@@ -713,6 +727,34 @@
     "assistScore": 0.42,
     "maxNoPointStreak": 44
   },
+  "Cutter Gauthier_3675": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Cutter Gauthier",
+    "teams": [
+      "Anaheim Ducks"
+    ],
+    "totalGoals": 89,
+    "totalAssists": 71,
+    "goalScore": 0.44,
+    "assistScore": 0.564,
+    "maxNoPointStreak": 6
+  },
+  "Sam Colangelo_3675": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Sam Colangelo",
+    "teams": [
+      "Anaheim Ducks"
+    ],
+    "totalGoals": 14,
+    "totalAssists": 7,
+    "goalScore": 0.25,
+    "assistScore": 0,
+    "maxNoPointStreak": 94
+  },
   "Ian Moore_3675": {
     "sports": [
       "NHL"
@@ -738,50 +780,8 @@
     "totalGoals": 7,
     "totalAssists": 31,
     "goalScore": 0,
-    "assistScore": 0.455,
+    "assistScore": 0.355,
     "maxNoPointStreak": 31
-  },
-  "Leo Carlsson_3675": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Leo Carlsson",
-    "teams": [
-      "Anaheim Ducks"
-    ],
-    "totalGoals": 63,
-    "totalAssists": 97,
-    "goalScore": 0.41,
-    "assistScore": 0.58,
-    "maxNoPointStreak": 11
-  },
-  "Cutter Gauthier_3675": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Cutter Gauthier",
-    "teams": [
-      "Anaheim Ducks"
-    ],
-    "totalGoals": 88,
-    "totalAssists": 71,
-    "goalScore": 0.44,
-    "assistScore": 0.564,
-    "maxNoPointStreak": 6
-  },
-  "Tristan Luneau_3675": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tristan Luneau",
-    "teams": [
-      "Anaheim Ducks"
-    ],
-    "totalGoals": 6,
-    "totalAssists": 12,
-    "goalScore": 0.1,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 170
   },
   "Tim Washe_3675": {
     "sports": [
@@ -862,10 +862,24 @@
       "Anaheim Ducks"
     ],
     "totalGoals": 27,
-    "totalAssists": 118,
+    "totalAssists": 119,
     "goalScore": 0.1,
-    "assistScore": 0.58,
+    "assistScore": 0.68,
     "maxNoPointStreak": 9
+  },
+  "Leo Carlsson_3675": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Leo Carlsson",
+    "teams": [
+      "Anaheim Ducks"
+    ],
+    "totalGoals": 63,
+    "totalAssists": 97,
+    "goalScore": 0.41,
+    "assistScore": 0.58,
+    "maxNoPointStreak": 11
   },
   "Beckett Sennecke_3675": {
     "sports": [
@@ -877,8 +891,8 @@
     ],
     "totalGoals": 46,
     "totalAssists": 52,
-    "goalScore": 0.783333,
-    "assistScore": 0.206667,
+    "goalScore": 0.925,
+    "assistScore": 0.29,
     "maxNoPointStreak": 83
   },
   "Tyson Hinds_3675": {
@@ -892,8 +906,92 @@
     "totalGoals": 0,
     "totalAssists": 6,
     "goalScore": 0,
-    "assistScore": 0.283333,
+    "assistScore": 0.425,
     "maxNoPointStreak": 85
+  },
+  "Elias Salomonsson_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Elias Salomonsson",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 1,
+    "totalAssists": 6,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 95
+  },
+  "Cole Perfetti_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Cole Perfetti",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 43,
+    "totalAssists": 66,
+    "goalScore": 0.3,
+    "assistScore": 0.14,
+    "maxNoPointStreak": 15
+  },
+  "Mark Scheifele_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Mark Scheifele",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 88,
+    "totalAssists": 143,
+    "goalScore": 0.28,
+    "assistScore": 0.76,
+    "maxNoPointStreak": 6
+  },
+  "Josh Morrissey_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Josh Morrissey",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 29,
+    "totalAssists": 105,
+    "goalScore": 0.1,
+    "assistScore": 0.59,
+    "maxNoPointStreak": 16
+  },
+  "Kyle Connor_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Kyle Connor",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 102,
+    "totalAssists": 133,
+    "goalScore": 0.34,
+    "assistScore": 0.618,
+    "maxNoPointStreak": 6
+  },
+  "Gabriel Vilardi_3676": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Gabriel Vilardi",
+    "teams": [
+      "Winnipeg Jets"
+    ],
+    "totalGoals": 65,
+    "totalAssists": 88,
+    "goalScore": 0.48,
+    "assistScore": 0.45,
+    "maxNoPointStreak": 22
   },
   "Dylan Samberg_3676": {
     "sports": [
@@ -904,8 +1002,8 @@
       "Winnipeg Jets"
     ],
     "totalGoals": 9,
-    "totalAssists": 37,
-    "goalScore": 0.1,
+    "totalAssists": 38,
+    "goalScore": 0,
     "assistScore": 0.3,
     "maxNoPointStreak": 27
   },
@@ -917,10 +1015,10 @@
     "teams": [
       "Winnipeg Jets"
     ],
-    "totalGoals": 24,
+    "totalGoals": 25,
     "totalAssists": 29,
-    "goalScore": 0.1,
-    "assistScore": 0.37,
+    "goalScore": 0.2,
+    "assistScore": 0.27,
     "maxNoPointStreak": 17
   },
   "Neal Pionk_3676": {
@@ -937,117 +1035,19 @@
     "assistScore": 0.368,
     "maxNoPointStreak": 23
   },
-  "Gabriel Vilardi_3676": {
+  "Connor Clifton_3677": {
     "sports": [
       "NHL"
     ],
-    "name": "Gabriel Vilardi",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 62,
-    "totalAssists": 88,
-    "goalScore": 0.34,
-    "assistScore": 0.62,
-    "maxNoPointStreak": 22
-  },
-  "Cole Perfetti_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Cole Perfetti",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 43,
-    "totalAssists": 66,
-    "goalScore": 0.3,
-    "assistScore": 0.31,
-    "maxNoPointStreak": 15
-  },
-  "Elias Salomonsson_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Elias Salomonsson",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 1,
-    "totalAssists": 6,
-    "goalScore": 0,
-    "assistScore": 0.5,
-    "maxNoPointStreak": 95
-  },
-  "Brayden Yager_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Brayden Yager",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 1,
-    "totalAssists": 3,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 98
-  },
-  "Mark Scheifele_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Mark Scheifele",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 88,
-    "totalAssists": 142,
-    "goalScore": 0.45,
-    "assistScore": 0.76,
-    "maxNoPointStreak": 6
-  },
-  "Josh Morrissey_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Josh Morrissey",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 29,
-    "totalAssists": 104,
-    "goalScore": 0.1,
-    "assistScore": 0.59,
-    "maxNoPointStreak": 16
-  },
-  "Kyle Connor_3676": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Kyle Connor",
-    "teams": [
-      "Winnipeg Jets"
-    ],
-    "totalGoals": 102,
-    "totalAssists": 131,
-    "goalScore": 0.44,
-    "assistScore": 0.618,
-    "maxNoPointStreak": 6
-  },
-  "Fraser Minten_3677": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Fraser Minten",
+    "name": "Connor Clifton",
     "teams": [
       "Boston Bruins"
     ],
-    "totalGoals": 25,
-    "totalAssists": 27,
-    "goalScore": 0.1,
-    "assistScore": 0.37,
-    "maxNoPointStreak": 78
+    "totalGoals": 0,
+    "totalAssists": 3,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 179
   },
   "Matthew Poitras_3677": {
     "sports": [
@@ -1063,19 +1063,19 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 88
   },
-  "Elias Lindholm_3677": {
+  "Pavel Zacha_3677": {
     "sports": [
       "NHL"
     ],
-    "name": "Elias Lindholm",
+    "name": "Pavel Zacha",
     "teams": [
       "Boston Bruins"
     ],
-    "totalGoals": 45,
-    "totalAssists": 77,
-    "goalScore": 0.34,
-    "assistScore": 0.17,
-    "maxNoPointStreak": 13
+    "totalGoals": 52,
+    "totalAssists": 86,
+    "goalScore": 0.24,
+    "assistScore": 0.51,
+    "maxNoPointStreak": 6
   },
   "Nikita Zadorov_3677": {
     "sports": [
@@ -1091,62 +1091,6 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 10
   },
-  "Charlie McAvoy_3677": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Charlie McAvoy",
-    "teams": [
-      "Boston Bruins"
-    ],
-    "totalGoals": 20,
-    "totalAssists": 78,
-    "goalScore": 0.1,
-    "assistScore": 0.28,
-    "maxNoPointStreak": 31
-  },
-  "Morgan Geekie_3677": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Morgan Geekie",
-    "teams": [
-      "Boston Bruins"
-    ],
-    "totalGoals": 83,
-    "totalAssists": 68,
-    "goalScore": 0.34,
-    "assistScore": 0.37,
-    "maxNoPointStreak": 7
-  },
-  "David Pastrnak_3677": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "David Pastrnak",
-    "teams": [
-      "Boston Bruins"
-    ],
-    "totalGoals": 86,
-    "totalAssists": 160,
-    "goalScore": 0.38,
-    "assistScore": 0.638,
-    "maxNoPointStreak": 6
-  },
-  "Pavel Zacha_3677": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Pavel Zacha",
-    "teams": [
-      "Boston Bruins"
-    ],
-    "totalGoals": 52,
-    "totalAssists": 86,
-    "goalScore": 0.24,
-    "assistScore": 0.68,
-    "maxNoPointStreak": 6
-  },
   "Casey Mittelstadt_3677": {
     "sports": [
       "NHL"
@@ -1158,22 +1102,78 @@
     "totalGoals": 27,
     "totalAssists": 42,
     "goalScore": 0.27,
-    "assistScore": 0.368,
+    "assistScore": 0.268,
     "maxNoPointStreak": 64
   },
-  "Michael Eyssimont_3677": {
+  "Morgan Geekie_3677": {
     "sports": [
       "NHL"
     ],
-    "name": "Michael Eyssimont",
+    "name": "Morgan Geekie",
     "teams": [
       "Boston Bruins"
     ],
-    "totalGoals": 13,
-    "totalAssists": 11,
-    "goalScore": 0.27,
-    "assistScore": 0,
-    "maxNoPointStreak": 83
+    "totalGoals": 83,
+    "totalAssists": 71,
+    "goalScore": 0.24,
+    "assistScore": 0.61,
+    "maxNoPointStreak": 7
+  },
+  "Elias Lindholm_3677": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Elias Lindholm",
+    "teams": [
+      "Boston Bruins"
+    ],
+    "totalGoals": 49,
+    "totalAssists": 78,
+    "goalScore": 0.55,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 13
+  },
+  "David Pastrnak_3677": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "David Pastrnak",
+    "teams": [
+      "Boston Bruins"
+    ],
+    "totalGoals": 87,
+    "totalAssists": 162,
+    "goalScore": 0.48,
+    "assistScore": 0.638,
+    "maxNoPointStreak": 6
+  },
+  "Charlie McAvoy_3677": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Charlie McAvoy",
+    "teams": [
+      "Boston Bruins"
+    ],
+    "totalGoals": 20,
+    "totalAssists": 81,
+    "goalScore": 0.1,
+    "assistScore": 0.42,
+    "maxNoPointStreak": 31
+  },
+  "Peyton Krebs_3678": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Peyton Krebs",
+    "teams": [
+      "Buffalo Sabres"
+    ],
+    "totalGoals": 24,
+    "totalAssists": 64,
+    "goalScore": 0,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 14
   },
   "Owen Power_3678": {
     "sports": [
@@ -1184,38 +1184,10 @@
       "Buffalo Sabres"
     ],
     "totalGoals": 18,
-    "totalAssists": 79,
-    "goalScore": 0.1,
-    "assistScore": 0.76,
+    "totalAssists": 80,
+    "goalScore": 0,
+    "assistScore": 0.86,
     "maxNoPointStreak": 11
-  },
-  "Josh Norris_3678": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Josh Norris",
-    "teams": [
-      "Buffalo Sabres"
-    ],
-    "totalGoals": 23,
-    "totalAssists": 31,
-    "goalScore": 0.1,
-    "assistScore": 0.28,
-    "maxNoPointStreak": 62
-  },
-  "Jack Quinn_3678": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jack Quinn",
-    "teams": [
-      "Buffalo Sabres"
-    ],
-    "totalGoals": 50,
-    "totalAssists": 74,
-    "goalScore": 0.338,
-    "assistScore": 0.45,
-    "maxNoPointStreak": 13
   },
   "Jiri Kulich_3678": {
     "sports": [
@@ -1225,10 +1197,10 @@
     "teams": [
       "Buffalo Sabres"
     ],
-    "totalGoals": 24,
-    "totalAssists": 14,
-    "goalScore": 0.362,
-    "assistScore": 0,
+    "totalGoals": 25,
+    "totalAssists": 15,
+    "goalScore": 0.462,
+    "assistScore": 0.1,
     "maxNoPointStreak": 88
   },
   "Josh Doan_3678": {
@@ -1245,20 +1217,6 @@
     "assistScore": 0.408,
     "maxNoPointStreak": 82
   },
-  "Noah Ostlund_3678": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Noah Ostlund",
-    "teams": [
-      "Buffalo Sabres"
-    ],
-    "totalGoals": 19,
-    "totalAssists": 28,
-    "goalScore": 0.17,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 84
-  },
   "Zach Benson_3678": {
     "sports": [
       "NHL"
@@ -1267,10 +1225,10 @@
     "teams": [
       "Buffalo Sabres"
     ],
-    "totalGoals": 31,
-    "totalAssists": 74,
-    "goalScore": 0.18,
-    "assistScore": 0.495,
+    "totalGoals": 32,
+    "totalAssists": 76,
+    "goalScore": 0.28,
+    "assistScore": 0.665,
     "maxNoPointStreak": 13
   },
   "Jason Zucker_3678": {
@@ -1287,34 +1245,6 @@
     "assistScore": 0.04,
     "maxNoPointStreak": 14
   },
-  "Sam Carrick_3678": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Sam Carrick",
-    "teams": [
-      "Buffalo Sabres"
-    ],
-    "totalGoals": 5,
-    "totalAssists": 3,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 151
-  },
-  "Tage Thompson_3678": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tage Thompson",
-    "teams": [
-      "Buffalo Sabres"
-    ],
-    "totalGoals": 109,
-    "totalAssists": 96,
-    "goalScore": 0.72,
-    "assistScore": 0.576,
-    "maxNoPointStreak": 8
-  },
   "Rasmus Dahlin_3678": {
     "sports": [
       "NHL"
@@ -1324,10 +1254,66 @@
       "Buffalo Sabres"
     ],
     "totalGoals": 46,
-    "totalAssists": 129,
+    "totalAssists": 130,
     "goalScore": 0.22,
     "assistScore": 0.544,
     "maxNoPointStreak": 13
+  },
+  "Jack Quinn_3678": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jack Quinn",
+    "teams": [
+      "Buffalo Sabres"
+    ],
+    "totalGoals": 51,
+    "totalAssists": 74,
+    "goalScore": 0.438,
+    "assistScore": 0.28,
+    "maxNoPointStreak": 13
+  },
+  "Noah Ostlund_3678": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Noah Ostlund",
+    "teams": [
+      "Buffalo Sabres"
+    ],
+    "totalGoals": 20,
+    "totalAssists": 29,
+    "goalScore": 0.27,
+    "assistScore": 0.4,
+    "maxNoPointStreak": 84
+  },
+  "Tage Thompson_3678": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Tage Thompson",
+    "teams": [
+      "Buffalo Sabres"
+    ],
+    "totalGoals": 111,
+    "totalAssists": 96,
+    "goalScore": 0.79,
+    "assistScore": 0.576,
+    "maxNoPointStreak": 8
+  },
+  "Matt Coronato_3679": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Matt Coronato",
+    "teams": [
+      "Calgary Flames"
+    ],
+    "totalGoals": 51,
+    "totalAssists": 63,
+    "goalScore": 0.32,
+    "assistScore": 0,
+    "maxNoPointStreak": 9
   },
   "Jonathan Castagna_3679": {
     "sports": [
@@ -1381,9 +1367,23 @@
     ],
     "totalGoals": 15,
     "totalAssists": 25,
-    "goalScore": 0.16,
+    "goalScore": 0.06,
     "assistScore": 0.362,
     "maxNoPointStreak": 87
+  },
+  "Morgan Frost_3679": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Morgan Frost",
+    "teams": [
+      "Calgary Flames"
+    ],
+    "totalGoals": 32,
+    "totalAssists": 46,
+    "goalScore": 0,
+    "assistScore": 0.28,
+    "maxNoPointStreak": 52
   },
   "Ryan Strome_3679": {
     "sports": [
@@ -1399,34 +1399,6 @@
     "assistScore": 0.37,
     "maxNoPointStreak": 152
   },
-  "Morgan Frost_3679": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Morgan Frost",
-    "teams": [
-      "Calgary Flames"
-    ],
-    "totalGoals": 32,
-    "totalAssists": 46,
-    "goalScore": 0.1,
-    "assistScore": 0.28,
-    "maxNoPointStreak": 52
-  },
-  "Maxim Tsyplakov_3679": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Maxim Tsyplakov",
-    "teams": [
-      "Calgary Flames"
-    ],
-    "totalGoals": 0,
-    "totalAssists": 3,
-    "goalScore": 0,
-    "assistScore": 0.333333,
-    "maxNoPointStreak": 181
-  },
   "Joel Farabee_3679": {
     "sports": [
       "NHL"
@@ -1436,9 +1408,9 @@
       "Calgary Flames"
     ],
     "totalGoals": 33,
-    "totalAssists": 37,
+    "totalAssists": 38,
     "goalScore": 0.12,
-    "assistScore": 0.28,
+    "assistScore": 0.38,
     "maxNoPointStreak": 53
   },
   "Adam Klapka_3679": {
@@ -1465,23 +1437,9 @@
     ],
     "totalGoals": 79,
     "totalAssists": 89,
-    "goalScore": 0.768,
+    "goalScore": 0.598,
     "assistScore": 0.14,
     "maxNoPointStreak": 12
-  },
-  "K'Andre Miller_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "K'Andre Miller",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 9,
-    "totalAssists": 45,
-    "goalScore": 0,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 104
   },
   "Alexander Nikishin_3680": {
     "sports": [
@@ -1491,10 +1449,10 @@
     "teams": [
       "Carolina Hurricanes"
     ],
-    "totalGoals": 14,
+    "totalGoals": 15,
     "totalAssists": 28,
-    "goalScore": 0.35,
-    "assistScore": 0.45,
+    "goalScore": 0.45,
+    "assistScore": 0.35,
     "maxNoPointStreak": 96
   },
   "Seth Jarvis_3680": {
@@ -1506,9 +1464,9 @@
       "Carolina Hurricanes"
     ],
     "totalGoals": 77,
-    "totalAssists": 95,
-    "goalScore": 0.44,
-    "assistScore": 0.18,
+    "totalAssists": 96,
+    "goalScore": 0.34,
+    "assistScore": 0.28,
     "maxNoPointStreak": 15
   },
   "Logan Stankoven_3680": {
@@ -1520,38 +1478,10 @@
       "Carolina Hurricanes"
     ],
     "totalGoals": 55,
-    "totalAssists": 50,
+    "totalAssists": 51,
     "goalScore": 0.23,
     "assistScore": 0.62,
     "maxNoPointStreak": 64
-  },
-  "Jackson Blake_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jackson Blake",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 56,
-    "totalAssists": 85,
-    "goalScore": 0.43,
-    "assistScore": 0.575,
-    "maxNoPointStreak": 11
-  },
-  "Shayne Gostisbehere_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Shayne Gostisbehere",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 29,
-    "totalAssists": 106,
-    "goalScore": 0.1,
-    "assistScore": 0.766,
-    "maxNoPointStreak": 13
   },
   "Taylor Hall_3680": {
     "sports": [
@@ -1562,24 +1492,10 @@
       "Carolina Hurricanes"
     ],
     "totalGoals": 40,
-    "totalAssists": 61,
+    "totalAssists": 62,
     "goalScore": 0.18,
     "assistScore": 0.49,
     "maxNoPointStreak": 51
-  },
-  "Nikolaj Ehlers_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Nikolaj Ehlers",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 41,
-    "totalAssists": 73,
-    "goalScore": 0.43,
-    "assistScore": 0.854,
-    "maxNoPointStreak": 109
   },
   "Sebastian Aho_3680": {
     "sports": [
@@ -1590,9 +1506,9 @@
       "Carolina Hurricanes"
     ],
     "totalGoals": 81,
-    "totalAssists": 135,
-    "goalScore": 0.41,
-    "assistScore": 0.993,
+    "totalAssists": 136,
+    "goalScore": 0.31,
+    "assistScore": 0.923,
     "maxNoPointStreak": 5
   },
   "Jordan Martinook_3680": {
@@ -1603,11 +1519,25 @@
     "teams": [
       "Carolina Hurricanes"
     ],
-    "totalGoals": 36,
+    "totalGoals": 37,
     "totalAssists": 58,
-    "goalScore": 0.51,
+    "goalScore": 0.44,
     "assistScore": 0.14,
     "maxNoPointStreak": 10
+  },
+  "Shayne Gostisbehere_3680": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Shayne Gostisbehere",
+    "teams": [
+      "Carolina Hurricanes"
+    ],
+    "totalGoals": 29,
+    "totalAssists": 107,
+    "goalScore": 0,
+    "assistScore": 0.766,
+    "maxNoPointStreak": 13
   },
   "Jordan Staal_3680": {
     "sports": [
@@ -1618,38 +1548,10 @@
       "Carolina Hurricanes"
     ],
     "totalGoals": 43,
-    "totalAssists": 48,
+    "totalAssists": 49,
     "goalScore": 0.188,
-    "assistScore": 0.506667,
+    "assistScore": 0.54,
     "maxNoPointStreak": 22
-  },
-  "William Carrier_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "William Carrier",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 12,
-    "totalAssists": 35,
-    "goalScore": 0,
-    "assistScore": 0.31,
-    "maxNoPointStreak": 44
-  },
-  "Eric Robinson_3680": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Eric Robinson",
-    "teams": [
-      "Carolina Hurricanes"
-    ],
-    "totalGoals": 32,
-    "totalAssists": 42,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 14
   },
   "Mark Jankowski_3680": {
     "sports": [
@@ -1665,19 +1567,47 @@
     "assistScore": 0.1,
     "maxNoPointStreak": 64
   },
-  "Jesperi Kotkaniemi_3680": {
+  "Jackson Blake_3680": {
     "sports": [
       "NHL"
     ],
-    "name": "Jesperi Kotkaniemi",
+    "name": "Jackson Blake",
     "teams": [
       "Carolina Hurricanes"
     ],
-    "totalGoals": 21,
-    "totalAssists": 39,
-    "goalScore": 0,
-    "assistScore": 0.45,
-    "maxNoPointStreak": 54
+    "totalGoals": 57,
+    "totalAssists": 85,
+    "goalScore": 0.43,
+    "assistScore": 0.575,
+    "maxNoPointStreak": 11
+  },
+  "Eric Robinson_3680": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Eric Robinson",
+    "teams": [
+      "Carolina Hurricanes"
+    ],
+    "totalGoals": 33,
+    "totalAssists": 43,
+    "goalScore": 0.1,
+    "assistScore": 0.35,
+    "maxNoPointStreak": 14
+  },
+  "Nikolaj Ehlers_3680": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Nikolaj Ehlers",
+    "teams": [
+      "Carolina Hurricanes"
+    ],
+    "totalGoals": 41,
+    "totalAssists": 73,
+    "goalScore": 0.43,
+    "assistScore": 0.854,
+    "maxNoPointStreak": 109
   },
   "Juuso Valimaki_3680": {
     "sports": [
@@ -1704,8 +1634,64 @@
     "totalGoals": 6,
     "totalAssists": 34,
     "goalScore": 0.1,
-    "assistScore": 1.02,
+    "assistScore": 0.85,
     "maxNoPointStreak": 76
+  },
+  "Patrick Kane_3681": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Patrick Kane",
+    "teams": [
+      "Chicago Blackhawks"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 15,
+    "goalScore": 0.1,
+    "assistScore": 0.64,
+    "maxNoPointStreak": 174
+  },
+  "Jordan Greenway_3681": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jordan Greenway",
+    "teams": [
+      "Chicago Blackhawks"
+    ],
+    "totalGoals": 1,
+    "totalAssists": 1,
+    "goalScore": 0,
+    "assistScore": 0.5,
+    "maxNoPointStreak": 174
+  },
+  "Dominic Toninato_3681": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Dominic Toninato",
+    "teams": [
+      "Chicago Blackhawks"
+    ],
+    "totalGoals": 3,
+    "totalAssists": 2,
+    "goalScore": 0.6,
+    "assistScore": 0,
+    "maxNoPointStreak": 83
+  },
+  "Alex Vlasic_3681": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Alex Vlasic",
+    "teams": [
+      "Chicago Blackhawks"
+    ],
+    "totalGoals": 6,
+    "totalAssists": 52,
+    "goalScore": 0,
+    "assistScore": 0.35,
+    "maxNoPointStreak": 14
   },
   "Frank Nazar_3681": {
     "sports": [
@@ -1715,10 +1701,10 @@
     "teams": [
       "Chicago Blackhawks"
     ],
-    "totalGoals": 42,
-    "totalAssists": 45,
-    "goalScore": 0.54,
-    "assistScore": 0.1,
+    "totalGoals": 43,
+    "totalAssists": 46,
+    "goalScore": 0.47,
+    "assistScore": 0.2,
     "maxNoPointStreak": 34
   },
   "Roman Kantserov_3681": {
@@ -1729,11 +1715,25 @@
     "teams": [
       "Chicago Blackhawks"
     ],
-    "totalGoals": 11,
-    "totalAssists": 6,
-    "goalScore": 0.2,
+    "totalGoals": 14,
+    "totalAssists": 7,
+    "goalScore": 0.44,
     "assistScore": 0.3,
     "maxNoPointStreak": 171
+  },
+  "Tyler Bertuzzi_3681": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Tyler Bertuzzi",
+    "teams": [
+      "Chicago Blackhawks"
+    ],
+    "totalGoals": 61,
+    "totalAssists": 62,
+    "goalScore": 0.37,
+    "assistScore": 0.625,
+    "maxNoPointStreak": 7
   },
   "Anton Frondell_3681": {
     "sports": [
@@ -1749,48 +1749,6 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 158
   },
-  "Tyler Bertuzzi_3681": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tyler Bertuzzi",
-    "teams": [
-      "Chicago Blackhawks"
-    ],
-    "totalGoals": 60,
-    "totalAssists": 60,
-    "goalScore": 0.27,
-    "assistScore": 0.455,
-    "maxNoPointStreak": 7
-  },
-  "Patrick Kane_3681": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Patrick Kane",
-    "teams": [
-      "Chicago Blackhawks"
-    ],
-    "totalGoals": 2,
-    "totalAssists": 13,
-    "goalScore": 0.1,
-    "assistScore": 0.47,
-    "maxNoPointStreak": 174
-  },
-  "Alex Vlasic_3681": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Alex Vlasic",
-    "teams": [
-      "Chicago Blackhawks"
-    ],
-    "totalGoals": 6,
-    "totalAssists": 51,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 14
-  },
   "Connor Bedard_3681": {
     "sports": [
       "NHL"
@@ -1801,8 +1759,8 @@
     ],
     "totalGoals": 61,
     "totalAssists": 101,
-    "goalScore": 0.333333,
-    "assistScore": 0.333333,
+    "goalScore": 0.5,
+    "assistScore": 0.25,
     "maxNoPointStreak": 13
   },
   "T.J. Hughes_3682": {
@@ -1814,7 +1772,7 @@
       "Colorado Avalanche"
     ],
     "totalGoals": 5,
-    "totalAssists": 10,
+    "totalAssists": 11,
     "goalScore": 0.24,
     "assistScore": 0.6,
     "maxNoPointStreak": 190
@@ -1828,9 +1786,9 @@
       "Colorado Avalanche"
     ],
     "totalGoals": 11,
-    "totalAssists": 27,
+    "totalAssists": 28,
     "goalScore": 0.04,
-    "assistScore": 0.785,
+    "assistScore": 0.885,
     "maxNoPointStreak": 156
   },
   "Gabriel Landeskog_3682": {
@@ -1842,9 +1800,9 @@
       "Colorado Avalanche"
     ],
     "totalGoals": 30,
-    "totalAssists": 34,
+    "totalAssists": 35,
     "goalScore": 0.39,
-    "assistScore": 0,
+    "assistScore": 0.1,
     "maxNoPointStreak": 85
   },
   "Artturi Lehkonen_3682": {
@@ -1875,20 +1833,6 @@
     "assistScore": 0.455,
     "maxNoPointStreak": 192
   },
-  "Brock Nelson_3682": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Brock Nelson",
-    "teams": [
-      "Colorado Avalanche"
-    ],
-    "totalGoals": 49,
-    "totalAssists": 51,
-    "goalScore": 0.35,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 63
-  },
   "Brett Kulak_3682": {
     "sports": [
       "NHL"
@@ -1903,20 +1847,6 @@
     "assistScore": 0.44,
     "maxNoPointStreak": 154
   },
-  "Devon Toews_3682": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Devon Toews",
-    "teams": [
-      "Colorado Avalanche"
-    ],
-    "totalGoals": 22,
-    "totalAssists": 83,
-    "goalScore": 0.1,
-    "assistScore": 0.748,
-    "maxNoPointStreak": 18
-  },
   "Martin Necas_3682": {
     "sports": [
       "NHL"
@@ -1926,10 +1856,38 @@
       "Colorado Avalanche"
     ],
     "totalGoals": 62,
-    "totalAssists": 113,
-    "goalScore": 0.27,
+    "totalAssists": 115,
+    "goalScore": 0.1,
     "assistScore": 0.468,
     "maxNoPointStreak": 50
+  },
+  "Brock Nelson_3682": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Brock Nelson",
+    "teams": [
+      "Colorado Avalanche"
+    ],
+    "totalGoals": 51,
+    "totalAssists": 52,
+    "goalScore": 0.52,
+    "assistScore": 0.2,
+    "maxNoPointStreak": 63
+  },
+  "Devon Toews_3682": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Devon Toews",
+    "teams": [
+      "Colorado Avalanche"
+    ],
+    "totalGoals": 23,
+    "totalAssists": 84,
+    "goalScore": 0.2,
+    "assistScore": 0.748,
+    "maxNoPointStreak": 18
   },
   "Cale Makar_3682": {
     "sports": [
@@ -1941,8 +1899,8 @@
     ],
     "totalGoals": 61,
     "totalAssists": 146,
-    "goalScore": 0.466667,
-    "assistScore": 0.566667,
+    "goalScore": 0.3,
+    "assistScore": 0.425,
     "maxNoPointStreak": 10
   },
   "Nathan MacKinnon_3682": {
@@ -1955,23 +1913,23 @@
     ],
     "totalGoals": 108,
     "totalAssists": 191,
-    "goalScore": 0.206667,
-    "assistScore": 0.663333,
-    "maxNoPointStreak": 4
+    "goalScore": 0.04,
+    "assistScore": 0.38,
+    "maxNoPointStreak": 5
   },
-  "Dmitri Voronkov_3683": {
+  "Mikael Pyyhtia_3683": {
     "sports": [
       "NHL"
     ],
-    "name": "Dmitri Voronkov",
+    "name": "Mikael Pyyhtia",
     "teams": [
       "Columbus Blue Jackets"
     ],
-    "totalGoals": 42,
-    "totalAssists": 49,
-    "goalScore": 0.1,
-    "assistScore": 0.37,
-    "maxNoPointStreak": 28
+    "totalGoals": 6,
+    "totalAssists": 4,
+    "goalScore": 0.5,
+    "assistScore": 0,
+    "maxNoPointStreak": 80
   },
   "Kent Johnson_3683": {
     "sports": [
@@ -1984,7 +1942,7 @@
     "totalGoals": 41,
     "totalAssists": 66,
     "goalScore": 0.1,
-    "assistScore": 0.6,
+    "assistScore": 0.5,
     "maxNoPointStreak": 14
   },
   "Matthew Knies_3683": {
@@ -1997,7 +1955,7 @@
     ],
     "totalGoals": 6,
     "totalAssists": 8,
-    "goalScore": 0.4,
+    "goalScore": 0.3,
     "assistScore": 0.27,
     "maxNoPointStreak": 175
   },
@@ -2051,11 +2009,25 @@
     "teams": [
       "Columbus Blue Jackets"
     ],
-    "totalGoals": 24,
+    "totalGoals": 25,
     "totalAssists": 53,
-    "goalScore": 0.1,
+    "goalScore": 0.2,
     "assistScore": 0.3,
     "maxNoPointStreak": 85
+  },
+  "Damon Severson_3683": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Damon Severson",
+    "teams": [
+      "Columbus Blue Jackets"
+    ],
+    "totalGoals": 17,
+    "totalAssists": 51,
+    "goalScore": 0.1,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 18
   },
   "Zach Werenski_3683": {
     "sports": [
@@ -2066,24 +2038,108 @@
       "Columbus Blue Jackets"
     ],
     "totalGoals": 51,
-    "totalAssists": 141,
+    "totalAssists": 142,
     "goalScore": 0.45,
-    "assistScore": 0.45,
+    "assistScore": 0.55,
     "maxNoPointStreak": 6
   },
-  "Sean Monahan_3683": {
+  "Dmitri Voronkov_3683": {
     "sports": [
       "NHL"
     ],
-    "name": "Sean Monahan",
+    "name": "Dmitri Voronkov",
     "teams": [
       "Columbus Blue Jackets"
     ],
-    "totalGoals": 33,
-    "totalAssists": 69,
-    "goalScore": 0,
-    "assistScore": 0.65,
+    "totalGoals": 42,
+    "totalAssists": 49,
+    "goalScore": 0.166667,
+    "assistScore": 0.27,
     "maxNoPointStreak": 28
+  },
+  "Jason Robertson_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jason Robertson",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 102,
+    "totalAssists": 120,
+    "goalScore": 0.36,
+    "assistScore": 0.748,
+    "maxNoPointStreak": 12
+  },
+  "Nils Lundkvist_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Nils Lundkvist",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 22,
+    "goalScore": 0.2,
+    "assistScore": 0.313333,
+    "maxNoPointStreak": 66
+  },
+  "Thomas Harley_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Thomas Harley",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 31,
+    "totalAssists": 88,
+    "goalScore": 0.3,
+    "assistScore": 0.1,
+    "maxNoPointStreak": 15
+  },
+  "Wyatt Johnston_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Wyatt Johnston",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 96,
+    "totalAssists": 106,
+    "goalScore": 0.548,
+    "assistScore": 0.31,
+    "maxNoPointStreak": 7
+  },
+  "Mikko Rantanen_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Mikko Rantanen",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 48,
+    "totalAssists": 107,
+    "goalScore": 0.14,
+    "assistScore": 1.068,
+    "maxNoPointStreak": 62
+  },
+  "Roope Hintz_3684": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Roope Hintz",
+    "teams": [
+      "Dallas Stars"
+    ],
+    "totalGoals": 57,
+    "totalAssists": 88,
+    "goalScore": 0,
+    "assistScore": 0.37,
+    "maxNoPointStreak": 37
   },
   "Miro Heiskanen_3684": {
     "sports": [
@@ -2095,7 +2151,7 @@
     ],
     "totalGoals": 22,
     "totalAssists": 90,
-    "goalScore": 0.58,
+    "goalScore": 0.413333,
     "assistScore": 0.12,
     "maxNoPointStreak": 42
   },
@@ -2112,90 +2168,6 @@
     "goalScore": 0,
     "assistScore": 0.3,
     "maxNoPointStreak": 82
-  },
-  "Nils Lundkvist_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Nils Lundkvist",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 5,
-    "totalAssists": 22,
-    "goalScore": 0.2,
-    "assistScore": 0.483333,
-    "maxNoPointStreak": 66
-  },
-  "Thomas Harley_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Thomas Harley",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 31,
-    "totalAssists": 88,
-    "goalScore": 0.3,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 15
-  },
-  "Wyatt Johnston_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Wyatt Johnston",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 96,
-    "totalAssists": 105,
-    "goalScore": 0.548,
-    "assistScore": 0.21,
-    "maxNoPointStreak": 7
-  },
-  "Mikko Rantanen_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Mikko Rantanen",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 48,
-    "totalAssists": 106,
-    "goalScore": 0.14,
-    "assistScore": 0.968,
-    "maxNoPointStreak": 62
-  },
-  "Roope Hintz_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Roope Hintz",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 57,
-    "totalAssists": 88,
-    "goalScore": 0.1,
-    "assistScore": 0.47,
-    "maxNoPointStreak": 37
-  },
-  "Jason Robertson_3684": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jason Robertson",
-    "teams": [
-      "Dallas Stars"
-    ],
-    "totalGoals": 102,
-    "totalAssists": 120,
-    "goalScore": 0.36,
-    "assistScore": 0.848,
-    "maxNoPointStreak": 12
   },
   "Colin Blackwell_3684": {
     "sports": [
@@ -2253,6 +2225,20 @@
     "assistScore": 0.27,
     "maxNoPointStreak": 6
   },
+  "Albert Johansson_3685": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Albert Johansson",
+    "teams": [
+      "Detroit Red Wings"
+    ],
+    "totalGoals": 7,
+    "totalAssists": 17,
+    "goalScore": 0.1,
+    "assistScore": 0.5,
+    "maxNoPointStreak": 20
+  },
   "Marco Kasper_3685": {
     "sports": [
       "NHL"
@@ -2262,9 +2248,9 @@
       "Detroit Red Wings"
     ],
     "totalGoals": 30,
-    "totalAssists": 32,
+    "totalAssists": 33,
     "goalScore": 0.1,
-    "assistScore": 0.27,
+    "assistScore": 0.37,
     "maxNoPointStreak": 19
   },
   "Anton Johansson_3685": {
@@ -2276,9 +2262,9 @@
       "Detroit Red Wings"
     ],
     "totalGoals": 2,
-    "totalAssists": 8,
+    "totalAssists": 9,
     "goalScore": 0,
-    "assistScore": 0.3075,
+    "assistScore": 0.4075,
     "maxNoPointStreak": 173
   },
   "Michael Brandsegg-Nygard_3685": {
@@ -2323,6 +2309,20 @@
     "assistScore": 0.4,
     "maxNoPointStreak": 27
   },
+  "William Wallinder_3685": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "William Wallinder",
+    "teams": [
+      "Detroit Red Wings"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 6,
+    "goalScore": 0,
+    "assistScore": 0.333333,
+    "maxNoPointStreak": 93
+  },
   "Dylan Larkin_3685": {
     "sports": [
       "NHL"
@@ -2335,7 +2335,7 @@
     "totalAssists": 79,
     "goalScore": 0.51,
     "assistScore": 0,
-    "maxNoPointStreak": 10
+    "maxNoPointStreak": 11
   },
   "Ryan Shea_3686": {
     "sports": [
@@ -2491,34 +2491,6 @@
     "assistScore": 0.378,
     "maxNoPointStreak": 10
   },
-  "Eetu Luostarinen_3687": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Eetu Luostarinen",
-    "teams": [
-      "Florida Panthers"
-    ],
-    "totalGoals": 28,
-    "totalAssists": 60,
-    "goalScore": 0.04,
-    "assistScore": 0.698,
-    "maxNoPointStreak": 11
-  },
-  "Uvis Balinskis_3687": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Uvis Balinskis",
-    "teams": [
-      "Florida Panthers"
-    ],
-    "totalGoals": 10,
-    "totalAssists": 28,
-    "goalScore": 0,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 23
-  },
   "Brady Tkachuk_3687": {
     "sports": [
       "NHL"
@@ -2533,19 +2505,19 @@
     "assistScore": 0.5,
     "maxNoPointStreak": 194
   },
-  "Anton Lundell_3687": {
+  "Radko Gudas_3687": {
     "sports": [
       "NHL"
     ],
-    "name": "Anton Lundell",
+    "name": "Radko Gudas",
     "teams": [
       "Florida Panthers"
     ],
-    "totalGoals": 47,
-    "totalAssists": 71,
-    "goalScore": 0.21,
-    "assistScore": 0.358,
-    "maxNoPointStreak": 19
+    "totalGoals": 0,
+    "totalAssists": 2,
+    "goalScore": 0,
+    "assistScore": 0.316667,
+    "maxNoPointStreak": 194
   },
   "Seth Jones_3687": {
     "sports": [
@@ -2556,9 +2528,9 @@
       "Florida Panthers"
     ],
     "totalGoals": 17,
-    "totalAssists": 61,
+    "totalAssists": 63,
     "goalScore": 0.04,
-    "assistScore": 0.44,
+    "assistScore": 0.51,
     "maxNoPointStreak": 64
   },
   "Niko Mikkola_3687": {
@@ -2575,6 +2547,20 @@
     "assistScore": 0.41,
     "maxNoPointStreak": 18
   },
+  "Sam Reinhart_3687": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Sam Reinhart",
+    "teams": [
+      "Florida Panthers"
+    ],
+    "totalGoals": 90,
+    "totalAssists": 98,
+    "goalScore": 0.344,
+    "assistScore": 0.558,
+    "maxNoPointStreak": 18
+  },
   "Lars Eller_3687": {
     "sports": [
       "NHL"
@@ -2585,51 +2571,9 @@
     ],
     "totalGoals": 3,
     "totalAssists": 9,
-    "goalScore": 0.2,
+    "goalScore": 0.1,
     "assistScore": 0.3,
     "maxNoPointStreak": 196
-  },
-  "Sam Bennett_3687": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Sam Bennett",
-    "teams": [
-      "Florida Panthers"
-    ],
-    "totalGoals": 73,
-    "totalAssists": 72,
-    "goalScore": 0.29,
-    "assistScore": 0.24,
-    "maxNoPointStreak": 11
-  },
-  "Sam Reinhart_3687": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Sam Reinhart",
-    "teams": [
-      "Florida Panthers"
-    ],
-    "totalGoals": 90,
-    "totalAssists": 97,
-    "goalScore": 0.444,
-    "assistScore": 0.458,
-    "maxNoPointStreak": 18
-  },
-  "Aaron Ekblad_3687": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Aaron Ekblad",
-    "teams": [
-      "Florida Panthers"
-    ],
-    "totalGoals": 12,
-    "totalAssists": 69,
-    "goalScore": 0.04,
-    "assistScore": 0.31,
-    "maxNoPointStreak": 21
   },
   "Carter Verhaeghe_3687": {
     "sports": [
@@ -2642,7 +2586,7 @@
     "totalGoals": 62,
     "totalAssists": 92,
     "goalScore": 0.04,
-    "assistScore": 0.656,
+    "assistScore": 0.556,
     "maxNoPointStreak": 8
   },
   "Matthew Tkachuk_3687": {
@@ -2656,8 +2600,64 @@
     "totalGoals": 50,
     "totalAssists": 99,
     "goalScore": 0.378,
-    "assistScore": 0.57,
+    "assistScore": 0.47,
     "maxNoPointStreak": 55
+  },
+  "Eetu Luostarinen_3687": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Eetu Luostarinen",
+    "teams": [
+      "Florida Panthers"
+    ],
+    "totalGoals": 28,
+    "totalAssists": 61,
+    "goalScore": 0.04,
+    "assistScore": 0.698,
+    "maxNoPointStreak": 11
+  },
+  "Sandis Vilmanis_3687": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Sandis Vilmanis",
+    "teams": [
+      "Florida Panthers"
+    ],
+    "totalGoals": 10,
+    "totalAssists": 10,
+    "goalScore": 0.22,
+    "assistScore": 0.26,
+    "maxNoPointStreak": 108
+  },
+  "Sam Bennett_3687": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Sam Bennett",
+    "teams": [
+      "Florida Panthers"
+    ],
+    "totalGoals": 76,
+    "totalAssists": 73,
+    "goalScore": 0.36,
+    "assistScore": 0.34,
+    "maxNoPointStreak": 11
+  },
+  "Uvis Balinskis_3687": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Uvis Balinskis",
+    "teams": [
+      "Florida Panthers"
+    ],
+    "totalGoals": 10,
+    "totalAssists": 28,
+    "goalScore": 0,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 23
   },
   "Alex Turcotte_3688": {
     "sports": [
@@ -2869,6 +2869,20 @@
     "assistScore": 0.255,
     "maxNoPointStreak": 183
   },
+  "Maxim Shabanov_3689": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Maxim Shabanov",
+    "teams": [
+      "Minnesota Wild"
+    ],
+    "totalGoals": 10,
+    "totalAssists": 5,
+    "goalScore": 0.25,
+    "assistScore": 0,
+    "maxNoPointStreak": 188
+  },
   "Matt Boldy_3689": {
     "sports": [
       "NHL"
@@ -2878,9 +2892,9 @@
       "Minnesota Wild"
     ],
     "totalGoals": 96,
-    "totalAssists": 119,
-    "goalScore": 0.65,
-    "assistScore": 0.883,
+    "totalAssists": 122,
+    "goalScore": 0.41,
+    "assistScore": 1.123,
     "maxNoPointStreak": 5
   },
   "Bobby Brink_3689": {
@@ -2897,34 +2911,6 @@
     "assistScore": 0.1,
     "maxNoPointStreak": 158
   },
-  "Danila Yurov_3689": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Danila Yurov",
-    "teams": [
-      "Minnesota Wild"
-    ],
-    "totalGoals": 22,
-    "totalAssists": 22,
-    "goalScore": 0.31,
-    "assistScore": 0.18,
-    "maxNoPointStreak": 88
-  },
-  "Maxim Shabanov_3689": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Maxim Shabanov",
-    "teams": [
-      "Minnesota Wild"
-    ],
-    "totalGoals": 10,
-    "totalAssists": 5,
-    "goalScore": 0.25,
-    "assistScore": 0,
-    "maxNoPointStreak": 188
-  },
   "David Spacek_3689": {
     "sports": [
       "NHL"
@@ -2936,22 +2922,8 @@
     "totalGoals": 0,
     "totalAssists": 5,
     "goalScore": 0,
-    "assistScore": 0.6,
+    "assistScore": 0.35,
     "maxNoPointStreak": 99
-  },
-  "Joel Eriksson Ek_3689": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Joel Eriksson Ek",
-    "teams": [
-      "Minnesota Wild"
-    ],
-    "totalGoals": 46,
-    "totalAssists": 66,
-    "goalScore": 0.5,
-    "assistScore": 0.34,
-    "maxNoPointStreak": 21
   },
   "Jared Spurgeon_3689": {
     "sports": [
@@ -2962,9 +2934,9 @@
       "Minnesota Wild"
     ],
     "totalGoals": 16,
-    "totalAssists": 48,
+    "totalAssists": 49,
     "goalScore": 0.1,
-    "assistScore": 0.27,
+    "assistScore": 0.37,
     "maxNoPointStreak": 17
   },
   "Ryan Hartman_3689": {
@@ -2978,7 +2950,7 @@
     "totalGoals": 43,
     "totalAssists": 48,
     "goalScore": 0.4,
-    "assistScore": 0.24,
+    "assistScore": 0.14,
     "maxNoPointStreak": 18
   },
   "Kirill Kaprizov_3689": {
@@ -2989,11 +2961,25 @@
     "teams": [
       "Minnesota Wild"
     ],
-    "totalGoals": 98,
-    "totalAssists": 120,
-    "goalScore": 0.18,
+    "totalGoals": 99,
+    "totalAssists": 123,
+    "goalScore": 0.28,
     "assistScore": 1.288,
     "maxNoPointStreak": 28
+  },
+  "Joel Eriksson Ek_3689": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Joel Eriksson Ek",
+    "teams": [
+      "Minnesota Wild"
+    ],
+    "totalGoals": 48,
+    "totalAssists": 67,
+    "goalScore": 0.67,
+    "assistScore": 0.44,
+    "maxNoPointStreak": 21
   },
   "Blake Coleman_3689": {
     "sports": [
@@ -3003,10 +2989,10 @@
     "teams": [
       "Minnesota Wild"
     ],
-    "totalGoals": 7,
+    "totalGoals": 8,
     "totalAssists": 7,
-    "goalScore": 0.2,
-    "assistScore": 0.57,
+    "goalScore": 0.3,
+    "assistScore": 0.47,
     "maxNoPointStreak": 190
   },
   "Yakov Trenin_3689": {
@@ -3033,8 +3019,8 @@
     ],
     "totalGoals": 17,
     "totalAssists": 88,
-    "goalScore": 0.28,
-    "assistScore": 0.786,
+    "goalScore": 0.413333,
+    "assistScore": 0.832667,
     "maxNoPointStreak": 126
   },
   "Olli Maatta_3689": {
@@ -3048,8 +3034,36 @@
     "totalGoals": 1,
     "totalAssists": 6,
     "goalScore": 0,
-    "assistScore": 0.4,
+    "assistScore": 0.65,
     "maxNoPointStreak": 187
+  },
+  "Alex Newhook_3690": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Alex Newhook",
+    "teams": [
+      "Montréal Canadiens"
+    ],
+    "totalGoals": 44,
+    "totalAssists": 36,
+    "goalScore": 0.2,
+    "assistScore": 0.29,
+    "maxNoPointStreak": 42
+  },
+  "Cole Caufield_3690": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Cole Caufield",
+    "teams": [
+      "Montréal Canadiens"
+    ],
+    "totalGoals": 111,
+    "totalAssists": 87,
+    "goalScore": 0.28,
+    "assistScore": 0.18,
+    "maxNoPointStreak": 5
   },
   "Lane Hutson_3690": {
     "sports": [
@@ -3063,48 +3077,6 @@
     "totalAssists": 166,
     "goalScore": 0.31,
     "assistScore": 0.55,
-    "maxNoPointStreak": 5
-  },
-  "Juraj Slafkovsky_3690": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Juraj Slafkovsky",
-    "teams": [
-      "Montréal Canadiens"
-    ],
-    "totalGoals": 59,
-    "totalAssists": 94,
-    "goalScore": 0.168,
-    "assistScore": 0.34,
-    "maxNoPointStreak": 6
-  },
-  "Zachary Bolduc_3690": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Zachary Bolduc",
-    "teams": [
-      "Montréal Canadiens"
-    ],
-    "totalGoals": 16,
-    "totalAssists": 18,
-    "goalScore": 0.1,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 123
-  },
-  "Cole Caufield_3690": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Cole Caufield",
-    "teams": [
-      "Montréal Canadiens"
-    ],
-    "totalGoals": 111,
-    "totalAssists": 87,
-    "goalScore": 0.28,
-    "assistScore": 0.28,
     "maxNoPointStreak": 5
   },
   "Phillip Danault_3690": {
@@ -3121,6 +3093,20 @@
     "assistScore": 0.208,
     "maxNoPointStreak": 134
   },
+  "Dylan Larkin_3690": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Dylan Larkin",
+    "teams": [
+      "Montréal Canadiens"
+    ],
+    "totalGoals": 0,
+    "totalAssists": 1,
+    "goalScore": 0,
+    "assistScore": 0.5,
+    "maxNoPointStreak": 221
+  },
   "Nick Suzuki_3690": {
     "sports": [
       "NHL"
@@ -3131,7 +3117,7 @@
     ],
     "totalGoals": 75,
     "totalAssists": 156,
-    "goalScore": 0.2,
+    "goalScore": 0.1,
     "assistScore": 0.366,
     "maxNoPointStreak": 8
   },
@@ -3144,24 +3130,10 @@
       "Montréal Canadiens"
     ],
     "totalGoals": 14,
-    "totalAssists": 20,
+    "totalAssists": 21,
     "goalScore": 0.04,
-    "assistScore": 0.3,
+    "assistScore": 0.4,
     "maxNoPointStreak": 115
-  },
-  "Alex Newhook_3690": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Alex Newhook",
-    "teams": [
-      "Montréal Canadiens"
-    ],
-    "totalGoals": 43,
-    "totalAssists": 36,
-    "goalScore": 0.1,
-    "assistScore": 0.29,
-    "maxNoPointStreak": 42
   },
   "Aliaksei Protas_3691": {
     "sports": [
@@ -3174,7 +3146,7 @@
     "totalGoals": 58,
     "totalAssists": 73,
     "goalScore": 0.04,
-    "assistScore": 0.54,
+    "assistScore": 0.44,
     "maxNoPointStreak": 13
   },
   "Ryan Leonard_3691": {
@@ -3186,9 +3158,9 @@
       "Washington Capitals"
     ],
     "totalGoals": 32,
-    "totalAssists": 34,
+    "totalAssists": 35,
     "goalScore": 0.4,
-    "assistScore": 0.25,
+    "assistScore": 0.35,
     "maxNoPointStreak": 75
   },
   "Cole Hutson_3691": {
@@ -3201,8 +3173,8 @@
     ],
     "totalGoals": 8,
     "totalAssists": 17,
-    "goalScore": 0.1,
-    "assistScore": 0.44,
+    "goalScore": 0,
+    "assistScore": 0.34,
     "maxNoPointStreak": 166
   },
   "Tom Wilson_3691": {
@@ -3213,10 +3185,10 @@
     "teams": [
       "Washington Capitals"
     ],
-    "totalGoals": 70,
+    "totalGoals": 71,
     "totalAssists": 76,
-    "goalScore": 0.14,
-    "assistScore": 0.44,
+    "goalScore": 0.24,
+    "assistScore": 0.34,
     "maxNoPointStreak": 11
   },
   "Dylan Strome_3691": {
@@ -3227,11 +3199,25 @@
     "teams": [
       "Washington Capitals"
     ],
-    "totalGoals": 54,
-    "totalAssists": 112,
-    "goalScore": 0.15,
+    "totalGoals": 55,
+    "totalAssists": 113,
+    "goalScore": 0.25,
     "assistScore": 0.43,
     "maxNoPointStreak": 10
+  },
+  "Alex Tuch_3691": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Alex Tuch",
+    "teams": [
+      "Washington Capitals"
+    ],
+    "totalGoals": 13,
+    "totalAssists": 3,
+    "goalScore": 0.3,
+    "assistScore": 0.1,
+    "maxNoPointStreak": 184
   },
   "Jordan Kyrou_3691": {
     "sports": [
@@ -3255,7 +3241,7 @@
     "teams": [
       "Washington Capitals"
     ],
-    "totalGoals": 30,
+    "totalGoals": 31,
     "totalAssists": 69,
     "goalScore": 0.4,
     "assistScore": 0.21,
@@ -3269,25 +3255,11 @@
     "teams": [
       "Washington Capitals"
     ],
-    "totalGoals": 51,
-    "totalAssists": 78,
-    "goalScore": 0.04,
+    "totalGoals": 52,
+    "totalAssists": 79,
+    "goalScore": 0.14,
     "assistScore": 0.39,
     "maxNoPointStreak": 9
-  },
-  "Linus Karlsson_3692": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Linus Karlsson",
-    "teams": [
-      "Vancouver Canucks"
-    ],
-    "totalGoals": 25,
-    "totalAssists": 31,
-    "goalScore": 0.32,
-    "assistScore": 0.15,
-    "maxNoPointStreak": 49
   },
   "Jonathan Lekkerimaki_3692": {
     "sports": [
@@ -3303,19 +3275,33 @@
     "assistScore": 0.492,
     "maxNoPointStreak": 28
   },
-  "Elias Pettersson_3692": {
+  "Jacob Quillan_3692": {
     "sports": [
       "NHL"
     ],
-    "name": "Elias Pettersson",
+    "name": "Jacob Quillan",
     "teams": [
       "Vancouver Canucks"
     ],
-    "totalGoals": 45,
-    "totalAssists": 93,
-    "goalScore": 0.32,
-    "assistScore": 0.22,
-    "maxNoPointStreak": 10
+    "totalGoals": 0,
+    "totalAssists": 2,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 191
+  },
+  "Arshdeep Bains_3692": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Arshdeep Bains",
+    "teams": [
+      "Vancouver Canucks"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 10,
+    "goalScore": 0.12,
+    "assistScore": 0.412,
+    "maxNoPointStreak": 79
   },
   "Zeev Buium_3692": {
     "sports": [
@@ -3325,11 +3311,25 @@
     "teams": [
       "Vancouver Canucks"
     ],
-    "totalGoals": 5,
+    "totalGoals": 6,
     "totalAssists": 14,
-    "goalScore": 0.25,
-    "assistScore": 0.25,
+    "goalScore": 0.35,
+    "assistScore": 0.15,
     "maxNoPointStreak": 119
+  },
+  "Filip Hronek_3692": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Filip Hronek",
+    "teams": [
+      "Vancouver Canucks"
+    ],
+    "totalGoals": 14,
+    "totalAssists": 90,
+    "goalScore": 0,
+    "assistScore": 0.6,
+    "maxNoPointStreak": 22
   },
   "Jake DeBrusk_3692": {
     "sports": [
@@ -3339,9 +3339,9 @@
     "teams": [
       "Vancouver Canucks"
     ],
-    "totalGoals": 60,
+    "totalGoals": 61,
     "totalAssists": 49,
-    "goalScore": 0.3,
+    "goalScore": 0.4,
     "assistScore": 0.27,
     "maxNoPointStreak": 9
   },
@@ -3354,24 +3354,10 @@
       "Vancouver Canucks"
     ],
     "totalGoals": 57,
-    "totalAssists": 72,
+    "totalAssists": 73,
     "goalScore": 0.2,
     "assistScore": 0.88,
     "maxNoPointStreak": 10
-  },
-  "Filip Hronek_3692": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Filip Hronek",
-    "teams": [
-      "Vancouver Canucks"
-    ],
-    "totalGoals": 14,
-    "totalAssists": 89,
-    "goalScore": 0,
-    "assistScore": 0.5,
-    "maxNoPointStreak": 22
   },
   "Filip Chytil_3692": {
     "sports": [
@@ -3381,11 +3367,25 @@
     "teams": [
       "Vancouver Canucks"
     ],
-    "totalGoals": 8,
+    "totalGoals": 9,
     "totalAssists": 8,
-    "goalScore": 0.27,
+    "goalScore": 0.37,
     "assistScore": 0.1,
     "maxNoPointStreak": 90
+  },
+  "Linus Karlsson_3692": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Linus Karlsson",
+    "teams": [
+      "Vancouver Canucks"
+    ],
+    "totalGoals": 25,
+    "totalAssists": 31,
+    "goalScore": 0.32,
+    "assistScore": 0.15,
+    "maxNoPointStreak": 49
   },
   "Darren Raddysh_3693": {
     "sports": [
@@ -3541,33 +3541,19 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 14
   },
-  "Jeffrey Viel_3694": {
+  "Erik Cernak_3694": {
     "sports": [
       "NHL"
     ],
-    "name": "Jeffrey Viel",
+    "name": "Erik Cernak",
     "teams": [
       "Tampa Bay Lightning"
     ],
-    "totalGoals": 2,
-    "totalAssists": 4,
-    "goalScore": 0.255,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 185
-  },
-  "Charle-Edouard D'Astous_3694": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Charle-Edouard D'Astous",
-    "teams": [
-      "Tampa Bay Lightning"
-    ],
-    "totalGoals": 10,
-    "totalAssists": 34,
-    "goalScore": 0.1,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 104
+    "totalGoals": 7,
+    "totalAssists": 36,
+    "goalScore": 0,
+    "assistScore": 0.333333,
+    "maxNoPointStreak": 22
   },
   "John Carlson_3694": {
     "sports": [
@@ -3578,9 +3564,9 @@
       "Tampa Bay Lightning"
     ],
     "totalGoals": 7,
-    "totalAssists": 14,
-    "goalScore": 0.2,
-    "assistScore": 0.8,
+    "totalAssists": 15,
+    "goalScore": 0.1,
+    "assistScore": 0.59,
     "maxNoPointStreak": 184
   },
   "Ryan McDonagh_3694": {
@@ -3605,11 +3591,25 @@
     "teams": [
       "Tampa Bay Lightning"
     ],
-    "totalGoals": 91,
+    "totalGoals": 92,
     "totalAssists": 207,
-    "goalScore": 0.34,
-    "assistScore": 0.548,
+    "goalScore": 0.2,
+    "assistScore": 0.448,
     "maxNoPointStreak": 7
+  },
+  "Ilya Mikheyev_3694": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Ilya Mikheyev",
+    "teams": [
+      "Tampa Bay Lightning"
+    ],
+    "totalGoals": 6,
+    "totalAssists": 4,
+    "goalScore": 0.25,
+    "assistScore": 0.15,
+    "maxNoPointStreak": 184
   },
   "Jansen Harkins_3694": {
     "sports": [
@@ -3636,7 +3636,7 @@
     "totalGoals": 69,
     "totalAssists": 89,
     "goalScore": 0.04,
-    "assistScore": 0.65,
+    "assistScore": 0.483333,
     "maxNoPointStreak": 11
   },
   "Jake Guentzel_3694": {
@@ -3648,38 +3648,24 @@
       "Tampa Bay Lightning"
     ],
     "totalGoals": 99,
-    "totalAssists": 113,
+    "totalAssists": 114,
     "goalScore": 0.35,
-    "assistScore": 0.59,
+    "assistScore": 0.38,
     "maxNoPointStreak": 7
   },
-  "Ilya Mikheyev_3694": {
+  "Jeffrey Viel_3694": {
     "sports": [
       "NHL"
     ],
-    "name": "Ilya Mikheyev",
+    "name": "Jeffrey Viel",
     "teams": [
       "Tampa Bay Lightning"
     ],
-    "totalGoals": 6,
+    "totalGoals": 2,
     "totalAssists": 4,
-    "goalScore": 0.25,
-    "assistScore": 0.15,
-    "maxNoPointStreak": 184
-  },
-  "Anthony Cirelli_3694": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Anthony Cirelli",
-    "teams": [
-      "Tampa Bay Lightning"
-    ],
-    "totalGoals": 58,
-    "totalAssists": 74,
-    "goalScore": 0.166667,
-    "assistScore": 0.4,
-    "maxNoPointStreak": 12
+    "goalScore": 0.255,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 185
   },
   "Brandon Hagel_3694": {
     "sports": [
@@ -3691,23 +3677,23 @@
     ],
     "totalGoals": 91,
     "totalAssists": 108,
-    "goalScore": 0.674667,
-    "assistScore": 0.373333,
+    "goalScore": 0.533,
+    "assistScore": 0.29,
     "maxNoPointStreak": 10
   },
-  "Jake Neighbours_3695": {
+  "Justin Barron_3695": {
     "sports": [
       "NHL"
     ],
-    "name": "Jake Neighbours",
+    "name": "Justin Barron",
     "teams": [
       "St. Louis Blues"
     ],
-    "totalGoals": 43,
-    "totalAssists": 63,
-    "goalScore": 0.14,
-    "assistScore": 0.798,
-    "maxNoPointStreak": 12
+    "totalGoals": 4,
+    "totalAssists": 12,
+    "goalScore": 0.1,
+    "assistScore": 0.37,
+    "maxNoPointStreak": 185
   },
   "Jonatan Berggren_3695": {
     "sports": [
@@ -3718,9 +3704,9 @@
       "St. Louis Blues"
     ],
     "totalGoals": 13,
-    "totalAssists": 14,
+    "totalAssists": 15,
     "goalScore": 0.57,
-    "assistScore": 0.1,
+    "assistScore": 0.2,
     "maxNoPointStreak": 130
   },
   "Dylan Holloway_3695": {
@@ -3737,33 +3723,19 @@
     "assistScore": 0.2,
     "maxNoPointStreak": 27
   },
-  "Justin Barron_3695": {
+  "Jake Neighbours_3695": {
     "sports": [
       "NHL"
     ],
-    "name": "Justin Barron",
+    "name": "Jake Neighbours",
     "teams": [
       "St. Louis Blues"
     ],
-    "totalGoals": 4,
-    "totalAssists": 11,
-    "goalScore": 0.1,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 185
-  },
-  "Robert Thomas_3695": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Robert Thomas",
-    "teams": [
-      "St. Louis Blues"
-    ],
-    "totalGoals": 55,
-    "totalAssists": 130,
-    "goalScore": 0.34,
-    "assistScore": 0.984,
-    "maxNoPointStreak": 13
+    "totalGoals": 43,
+    "totalAssists": 63,
+    "goalScore": 0.14,
+    "assistScore": 0.798,
+    "maxNoPointStreak": 12
   },
   "Logan Mailloux_3695": {
     "sports": [
@@ -3774,38 +3746,10 @@
       "St. Louis Blues"
     ],
     "totalGoals": 7,
-    "totalAssists": 17,
+    "totalAssists": 18,
     "goalScore": 0.2,
-    "assistScore": 0.61,
+    "assistScore": 0.71,
     "maxNoPointStreak": 89
-  },
-  "Jimmy Snuggerud_3695": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jimmy Snuggerud",
-    "teams": [
-      "St. Louis Blues"
-    ],
-    "totalGoals": 37,
-    "totalAssists": 44,
-    "goalScore": 0.31,
-    "assistScore": 0.28,
-    "maxNoPointStreak": 76
-  },
-  "Pavel Buchnevich_3695": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Pavel Buchnevich",
-    "teams": [
-      "St. Louis Blues"
-    ],
-    "totalGoals": 49,
-    "totalAssists": 79,
-    "goalScore": 0.296,
-    "assistScore": 0.37,
-    "maxNoPointStreak": 7
   },
   "Cam Fowler_3695": {
     "sports": [
@@ -3821,6 +3765,20 @@
     "assistScore": 0.404,
     "maxNoPointStreak": 33
   },
+  "Pavel Buchnevich_3695": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Pavel Buchnevich",
+    "teams": [
+      "St. Louis Blues"
+    ],
+    "totalGoals": 50,
+    "totalAssists": 79,
+    "goalScore": 0.396,
+    "assistScore": 0.37,
+    "maxNoPointStreak": 7
+  },
   "Colton Parayko_3695": {
     "sports": [
       "NHL"
@@ -3835,6 +3793,48 @@
     "assistScore": 0.288,
     "maxNoPointStreak": 17
   },
+  "Robert Thomas_3695": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Robert Thomas",
+    "teams": [
+      "St. Louis Blues"
+    ],
+    "totalGoals": 55,
+    "totalAssists": 131,
+    "goalScore": 0.34,
+    "assistScore": 1.084,
+    "maxNoPointStreak": 13
+  },
+  "Jimmy Snuggerud_3695": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jimmy Snuggerud",
+    "teams": [
+      "St. Louis Blues"
+    ],
+    "totalGoals": 38,
+    "totalAssists": 45,
+    "goalScore": 0.41,
+    "assistScore": 0.38,
+    "maxNoPointStreak": 76
+  },
+  "Philip Broberg_3695": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Philip Broberg",
+    "teams": [
+      "St. Louis Blues"
+    ],
+    "totalGoals": 25,
+    "totalAssists": 61,
+    "goalScore": 0.34,
+    "assistScore": 0.21,
+    "maxNoPointStreak": 14
+  },
   "Connor McMichael_3695": {
     "sports": [
       "NHL"
@@ -3845,8 +3845,8 @@
     ],
     "totalGoals": 3,
     "totalAssists": 9,
-    "goalScore": 0.1,
-    "assistScore": 0.25,
+    "goalScore": 0.166667,
+    "assistScore": 0.316667,
     "maxNoPointStreak": 179
   },
   "Brett Leason_3696": {
@@ -3873,7 +3873,7 @@
     ],
     "totalGoals": 3,
     "totalAssists": 1,
-    "goalScore": 0.5,
+    "goalScore": 0.25,
     "assistScore": 0,
     "maxNoPointStreak": 174
   },
@@ -3888,7 +3888,7 @@
     "totalGoals": 51,
     "totalAssists": 77,
     "goalScore": 0.2,
-    "assistScore": 0.57,
+    "assistScore": 0.47,
     "maxNoPointStreak": 15
   },
   "Eric Pohlkamp_3696": {
@@ -3914,9 +3914,9 @@
       "San Jose Sharks"
     ],
     "totalGoals": 81,
-    "totalAssists": 130,
-    "goalScore": 0.45,
-    "assistScore": 0.77,
+    "totalAssists": 132,
+    "goalScore": 0.35,
+    "assistScore": 0.84,
     "maxNoPointStreak": 13
   },
   "Ivar Stenberg_3696": {
@@ -3942,10 +3942,24 @@
       "San Jose Sharks"
     ],
     "totalGoals": 16,
-    "totalAssists": 21,
+    "totalAssists": 22,
     "goalScore": 0.3,
-    "assistScore": 0.2,
+    "assistScore": 0.3,
     "maxNoPointStreak": 82
+  },
+  "Dmitry Orlov_3696": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Dmitry Orlov",
+    "teams": [
+      "San Jose Sharks"
+    ],
+    "totalGoals": 8,
+    "totalAssists": 51,
+    "goalScore": 0.25,
+    "assistScore": 0.63,
+    "maxNoPointStreak": 83
   },
   "Tyler Toffoli_3696": {
     "sports": [
@@ -3955,9 +3969,9 @@
     "teams": [
       "San Jose Sharks"
     ],
-    "totalGoals": 57,
+    "totalGoals": 58,
     "totalAssists": 68,
-    "goalScore": 0.2,
+    "goalScore": 0.3,
     "assistScore": 0.4,
     "maxNoPointStreak": 7
   },
@@ -3975,20 +3989,6 @@
     "assistScore": 0.4,
     "maxNoPointStreak": 172
   },
-  "Dmitry Orlov_3696": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Dmitry Orlov",
-    "teams": [
-      "San Jose Sharks"
-    ],
-    "totalGoals": 8,
-    "totalAssists": 51,
-    "goalScore": 0.25,
-    "assistScore": 0.63,
-    "maxNoPointStreak": 83
-  },
   "Mason Marchment_3696": {
     "sports": [
       "NHL"
@@ -3998,9 +3998,9 @@
       "San Jose Sharks"
     ],
     "totalGoals": 7,
-    "totalAssists": 7,
-    "goalScore": 0.5,
-    "assistScore": 0.6,
+    "totalAssists": 8,
+    "goalScore": 0.4,
+    "assistScore": 0.7,
     "maxNoPointStreak": 172
   },
   "Adam Gaudette_3696": {
@@ -4017,34 +4017,6 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 84
   },
-  "Kaedan Korczak_3697": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Kaedan Korczak",
-    "teams": [
-      "Pittsburgh Penguins"
-    ],
-    "totalGoals": 1,
-    "totalAssists": 12,
-    "goalScore": 0.15,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 178
-  },
-  "Declan Carlile_3697": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Declan Carlile",
-    "teams": [
-      "Pittsburgh Penguins"
-    ],
-    "totalGoals": 3,
-    "totalAssists": 4,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 180
-  },
   "Hendrix Lapierre_3697": {
     "sports": [
       "NHL"
@@ -4058,6 +4030,20 @@
     "goalScore": 0.1,
     "assistScore": 0.3,
     "maxNoPointStreak": 177
+  },
+  "Kaedan Korczak_3697": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Kaedan Korczak",
+    "teams": [
+      "Pittsburgh Penguins"
+    ],
+    "totalGoals": 1,
+    "totalAssists": 12,
+    "goalScore": 0.15,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 178
   },
   "Ben Kindel_3697": {
     "sports": [
@@ -4073,19 +4059,19 @@
     "assistScore": 0.35,
     "maxNoPointStreak": 86
   },
-  "Andrei Kuzmenko_3697": {
+  "Sidney Crosby_3697": {
     "sports": [
       "NHL"
     ],
-    "name": "Andrei Kuzmenko",
+    "name": "Sidney Crosby",
     "teams": [
       "Pittsburgh Penguins"
     ],
-    "totalGoals": 1,
-    "totalAssists": 2,
-    "goalScore": 0.25,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 177
+    "totalGoals": 72,
+    "totalAssists": 117,
+    "goalScore": 0.31,
+    "assistScore": 0.348,
+    "maxNoPointStreak": 12
   },
   "Kris Letang_3697": {
     "sports": [
@@ -4097,7 +4083,7 @@
     ],
     "totalGoals": 15,
     "totalAssists": 67,
-    "goalScore": 0.18,
+    "goalScore": 0.08,
     "assistScore": 0.47,
     "maxNoPointStreak": 11
   },
@@ -4112,7 +4098,7 @@
     "totalGoals": 30,
     "totalAssists": 113,
     "goalScore": 0.04,
-    "assistScore": 0.495,
+    "assistScore": 0.395,
     "maxNoPointStreak": 12
   },
   "Rickard Rakell_3697": {
@@ -4125,7 +4111,7 @@
     ],
     "totalGoals": 70,
     "totalAssists": 70,
-    "goalScore": 0.51,
+    "goalScore": 0.41,
     "assistScore": 0.38,
     "maxNoPointStreak": 22
   },
@@ -4140,22 +4126,22 @@
     "totalGoals": 0,
     "totalAssists": 2,
     "goalScore": 0,
-    "assistScore": 0.4,
+    "assistScore": 0.316667,
     "maxNoPointStreak": 180
   },
-  "Sidney Crosby_3697": {
+  "Andrei Kuzmenko_3697": {
     "sports": [
       "NHL"
     ],
-    "name": "Sidney Crosby",
+    "name": "Andrei Kuzmenko",
     "teams": [
       "Pittsburgh Penguins"
     ],
-    "totalGoals": 72,
-    "totalAssists": 117,
-    "goalScore": 0.31,
-    "assistScore": 0.448,
-    "maxNoPointStreak": 12
+    "totalGoals": 1,
+    "totalAssists": 2,
+    "goalScore": 0.5,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 177
   },
   "Evgeni Malkin_3697": {
     "sports": [
@@ -4168,7 +4154,7 @@
     "totalGoals": 43,
     "totalAssists": 89,
     "goalScore": 0.04,
-    "assistScore": 0.71,
+    "assistScore": 0.433333,
     "maxNoPointStreak": 15
   },
   "Nick Robertson_3697": {
@@ -4185,20 +4171,6 @@
     "assistScore": 0.15,
     "maxNoPointStreak": 178
   },
-  "Tyson Foerster_3699": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tyson Foerster",
-    "teams": [
-      "Philadelphia Flyers"
-    ],
-    "totalGoals": 45,
-    "totalAssists": 29,
-    "goalScore": 0.24,
-    "assistScore": 0.46,
-    "maxNoPointStreak": 49
-  },
   "Jamie Drysdale_3699": {
     "sports": [
       "NHL"
@@ -4213,6 +4185,20 @@
     "assistScore": 0.44,
     "maxNoPointStreak": 24
   },
+  "Tyson Foerster_3699": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Tyson Foerster",
+    "teams": [
+      "Philadelphia Flyers"
+    ],
+    "totalGoals": 45,
+    "totalAssists": 29,
+    "goalScore": 0.14,
+    "assistScore": 0.46,
+    "maxNoPointStreak": 49
+  },
   "Matvei Michkov_3699": {
     "sports": [
       "NHL"
@@ -4222,7 +4208,7 @@
       "Philadelphia Flyers"
     ],
     "totalGoals": 57,
-    "totalAssists": 80,
+    "totalAssists": 81,
     "goalScore": 0.1,
     "assistScore": 0.51,
     "maxNoPointStreak": 7
@@ -4237,51 +4223,9 @@
     ],
     "totalGoals": 5,
     "totalAssists": 1,
-    "goalScore": 0.316667,
-    "assistScore": 0.166667,
-    "maxNoPointStreak": 183
-  },
-  "Travis Sanheim_3699": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Travis Sanheim",
-    "teams": [
-      "Philadelphia Flyers"
-    ],
-    "totalGoals": 28,
-    "totalAssists": 59,
-    "goalScore": 0.3,
+    "goalScore": 0.25,
     "assistScore": 0.1,
-    "maxNoPointStreak": 14
-  },
-  "Christian Dvorak_3699": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Christian Dvorak",
-    "teams": [
-      "Philadelphia Flyers"
-    ],
-    "totalGoals": 22,
-    "totalAssists": 50,
-    "goalScore": 0.1,
-    "assistScore": 0.34,
-    "maxNoPointStreak": 83
-  },
-  "Noah Cates_3699": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Noah Cates",
-    "teams": [
-      "Philadelphia Flyers"
-    ],
-    "totalGoals": 39,
-    "totalAssists": 58,
-    "goalScore": 0.1,
-    "assistScore": 0.266667,
-    "maxNoPointStreak": 18
+    "maxNoPointStreak": 183
   },
   "Travis Konecny_3699": {
     "sports": [
@@ -4292,38 +4236,38 @@
       "Philadelphia Flyers"
     ],
     "totalGoals": 57,
-    "totalAssists": 106,
+    "totalAssists": 107,
     "goalScore": 0.27,
-    "assistScore": 0.38,
+    "assistScore": 0.48,
     "maxNoPointStreak": 10
   },
-  "Tim Stutzle_3700": {
+  "Owen Tippett_3699": {
     "sports": [
       "NHL"
     ],
-    "name": "Tim Stutzle",
+    "name": "Owen Tippett",
     "teams": [
-      "Ottawa Senators"
+      "Philadelphia Flyers"
     ],
-    "totalGoals": 73,
-    "totalAssists": 126,
-    "goalScore": 0.52,
-    "assistScore": 0.56,
-    "maxNoPointStreak": 7
+    "totalGoals": 53,
+    "totalAssists": 53,
+    "goalScore": 0.2,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 12
   },
-  "Drake Batherson_3700": {
+  "Noah Cates_3699": {
     "sports": [
       "NHL"
     ],
-    "name": "Drake Batherson",
+    "name": "Noah Cates",
     "teams": [
-      "Ottawa Senators"
+      "Philadelphia Flyers"
     ],
-    "totalGoals": 76,
-    "totalAssists": 93,
-    "goalScore": 0.57,
-    "assistScore": 0.14,
-    "maxNoPointStreak": 9
+    "totalGoals": 40,
+    "totalAssists": 58,
+    "goalScore": 0.2,
+    "assistScore": 0.266667,
+    "maxNoPointStreak": 18
   },
   "Dylan Cozens_3700": {
     "sports": [
@@ -4336,7 +4280,7 @@
     "totalGoals": 44,
     "totalAssists": 52,
     "goalScore": 0.35,
-    "assistScore": 0.47,
+    "assistScore": 0.37,
     "maxNoPointStreak": 61
   },
   "Shane Pinto_3700": {
@@ -4347,25 +4291,25 @@
     "teams": [
       "Ottawa Senators"
     ],
-    "totalGoals": 55,
+    "totalGoals": 56,
     "totalAssists": 48,
-    "goalScore": 0.32,
-    "assistScore": 0.1,
+    "goalScore": 0.25,
+    "assistScore": 0,
     "maxNoPointStreak": 23
   },
-  "Fabian Zetterlund_3700": {
+  "Tim Stutzle_3700": {
     "sports": [
       "NHL"
     ],
-    "name": "Fabian Zetterlund",
+    "name": "Tim Stutzle",
     "teams": [
       "Ottawa Senators"
     ],
-    "totalGoals": 23,
-    "totalAssists": 28,
-    "goalScore": 0,
-    "assistScore": 0.4,
-    "maxNoPointStreak": 70
+    "totalGoals": 73,
+    "totalAssists": 126,
+    "goalScore": 0.42,
+    "assistScore": 0.56,
+    "maxNoPointStreak": 7
   },
   "Jake Sanderson_3700": {
     "sports": [
@@ -4381,19 +4325,19 @@
     "assistScore": 0.638,
     "maxNoPointStreak": 17
   },
-  "Claude Giroux_3700": {
+  "Stephen Halliday_3700": {
     "sports": [
       "NHL"
     ],
-    "name": "Claude Giroux",
+    "name": "Stephen Halliday",
     "teams": [
       "Ottawa Senators"
     ],
-    "totalGoals": 35,
-    "totalAssists": 84,
-    "goalScore": 0.3,
-    "assistScore": 0.31,
-    "maxNoPointStreak": 8
+    "totalGoals": 6,
+    "totalAssists": 14,
+    "goalScore": 0.1,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 113
   },
   "Nick Cousins_3700": {
     "sports": [
@@ -4405,7 +4349,7 @@
     ],
     "totalGoals": 18,
     "totalAssists": 25,
-    "goalScore": 0.5,
+    "goalScore": 0.25,
     "assistScore": 0.04,
     "maxNoPointStreak": 38
   },
@@ -4436,6 +4380,48 @@
     "goalScore": 0.1,
     "assistScore": 0.468,
     "maxNoPointStreak": 20
+  },
+  "Fabian Zetterlund_3700": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Fabian Zetterlund",
+    "teams": [
+      "Ottawa Senators"
+    ],
+    "totalGoals": 23,
+    "totalAssists": 28,
+    "goalScore": 0,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 70
+  },
+  "Claude Giroux_3700": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Claude Giroux",
+    "teams": [
+      "Ottawa Senators"
+    ],
+    "totalGoals": 35,
+    "totalAssists": 84,
+    "goalScore": 0.3,
+    "assistScore": 0.31,
+    "maxNoPointStreak": 8
+  },
+  "Drake Batherson_3700": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Drake Batherson",
+    "teams": [
+      "Ottawa Senators"
+    ],
+    "totalGoals": 76,
+    "totalAssists": 93,
+    "goalScore": 0.47,
+    "assistScore": 0.14,
+    "maxNoPointStreak": 9
   },
   "Tyler Boucher_3700": {
     "sports": [
@@ -4479,117 +4465,33 @@
     "assistScore": 0.405,
     "maxNoPointStreak": 182
   },
-  "Tye Kartye_3701": {
+  "Sean Durzi_3701": {
     "sports": [
       "NHL"
     ],
-    "name": "Tye Kartye",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 13,
-    "totalAssists": 16,
-    "goalScore": 0.35,
-    "assistScore": 0,
-    "maxNoPointStreak": 149
-  },
-  "Noah Laba_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Noah Laba",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 11,
-    "totalAssists": 26,
-    "goalScore": 0.1,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 82
-  },
-  "Gabe Perreault_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Gabe Perreault",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 22,
-    "totalAssists": 23,
-    "goalScore": 0.3,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 82
-  },
-  "J.T. Miller_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "J.T. Miller",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 36,
-    "totalAssists": 72,
-    "goalScore": 0.15,
-    "assistScore": 0.67,
-    "maxNoPointStreak": 50
-  },
-  "Marcus Pettersson_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Marcus Pettersson",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 0,
-    "totalAssists": 5,
-    "goalScore": 0,
-    "assistScore": 0.35,
-    "maxNoPointStreak": 173
-  },
-  "Oliver Bjorkstrand_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Oliver Bjorkstrand",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 8,
-    "totalAssists": 5,
-    "goalScore": 0.25,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 171
-  },
-  "Glenn Gawdin_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Glenn Gawdin",
+    "name": "Sean Durzi",
     "teams": [
       "New York Rangers"
     ],
     "totalGoals": 2,
-    "totalAssists": 1,
-    "goalScore": 0.283333,
+    "totalAssists": 4,
+    "goalScore": 0,
     "assistScore": 0.3,
-    "maxNoPointStreak": 172
+    "maxNoPointStreak": 171
   },
-  "Adam Fox_3701": {
+  "Alexis Lafreniere_3701": {
     "sports": [
       "NHL"
     ],
-    "name": "Adam Fox",
+    "name": "Alexis Lafreniere",
     "teams": [
       "New York Rangers"
     ],
-    "totalGoals": 21,
-    "totalAssists": 122,
-    "goalScore": 0,
-    "assistScore": 0.64,
-    "maxNoPointStreak": 18
+    "totalGoals": 49,
+    "totalAssists": 74,
+    "goalScore": 0.1,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 8
   },
   "Will Cuylle_3701": {
     "sports": [
@@ -4619,6 +4521,34 @@
     "assistScore": 0,
     "maxNoPointStreak": 82
   },
+  "Tye Kartye_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Tye Kartye",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 13,
+    "totalAssists": 16,
+    "goalScore": 0.25,
+    "assistScore": 0,
+    "maxNoPointStreak": 149
+  },
+  "Gabe Perreault_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Gabe Perreault",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 22,
+    "totalAssists": 23,
+    "goalScore": 0.2,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 82
+  },
   "Mika Zibanejad_3701": {
     "sports": [
       "NHL"
@@ -4627,11 +4557,81 @@
     "teams": [
       "New York Rangers"
     ],
-    "totalGoals": 60,
+    "totalGoals": 61,
     "totalAssists": 103,
-    "goalScore": 0.27,
-    "assistScore": 0.57,
+    "goalScore": 0.37,
+    "assistScore": 0.4,
     "maxNoPointStreak": 8
+  },
+  "Marcus Pettersson_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Marcus Pettersson",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 0,
+    "totalAssists": 5,
+    "goalScore": 0,
+    "assistScore": 0.35,
+    "maxNoPointStreak": 173
+  },
+  "Glenn Gawdin_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Glenn Gawdin",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 1,
+    "goalScore": 0.2125,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 172
+  },
+  "Adam Fox_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Adam Fox",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 21,
+    "totalAssists": 124,
+    "goalScore": 0,
+    "assistScore": 0.71,
+    "maxNoPointStreak": 18
+  },
+  "J.T. Miller_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "J.T. Miller",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 37,
+    "totalAssists": 73,
+    "goalScore": 0.25,
+    "assistScore": 0.77,
+    "maxNoPointStreak": 50
+  },
+  "Oliver Bjorkstrand_3701": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Oliver Bjorkstrand",
+    "teams": [
+      "New York Rangers"
+    ],
+    "totalGoals": 8,
+    "totalAssists": 5,
+    "goalScore": 0.25,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 171
   },
   "Matthew Robertson_3701": {
     "sports": [
@@ -4647,20 +4647,6 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 94
   },
-  "Alexis Lafreniere_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Alexis Lafreniere",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 49,
-    "totalAssists": 74,
-    "goalScore": 0.1,
-    "assistScore": 0.44,
-    "maxNoPointStreak": 8
-  },
   "Pavel Dorofeyev_3701": {
     "sports": [
       "NHL"
@@ -4671,37 +4657,9 @@
     ],
     "totalGoals": 7,
     "totalAssists": 8,
-    "goalScore": 0.35,
-    "assistScore": 0.355,
+    "goalScore": 0.15,
+    "assistScore": 0.421667,
     "maxNoPointStreak": 171
-  },
-  "Sean Durzi_3701": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Sean Durzi",
-    "teams": [
-      "New York Rangers"
-    ],
-    "totalGoals": 2,
-    "totalAssists": 4,
-    "goalScore": 0,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 171
-  },
-  "Simon Holmstrom_3703": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Simon Holmstrom",
-    "teams": [
-      "New York Islanders"
-    ],
-    "totalGoals": 50,
-    "totalAssists": 56,
-    "goalScore": 0.54,
-    "assistScore": 0.4,
-    "maxNoPointStreak": 15
   },
   "Matias Maccelli_3703": {
     "sports": [
@@ -4714,8 +4672,22 @@
     "totalGoals": 4,
     "totalAssists": 10,
     "goalScore": 0.255,
-    "assistScore": 0.62,
+    "assistScore": 0.52,
     "maxNoPointStreak": 171
+  },
+  "Simon Holmstrom_3703": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Simon Holmstrom",
+    "teams": [
+      "New York Islanders"
+    ],
+    "totalGoals": 50,
+    "totalAssists": 56,
+    "goalScore": 0.44,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 15
   },
   "Matthew Schaefer_3703": {
     "sports": [
@@ -4727,9 +4699,23 @@
     ],
     "totalGoals": 34,
     "totalAssists": 56,
-    "goalScore": 0.49,
+    "goalScore": 0.39,
     "assistScore": 0.665,
     "maxNoPointStreak": 82
+  },
+  "Bo Horvat_3703": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Bo Horvat",
+    "teams": [
+      "New York Islanders"
+    ],
+    "totalGoals": 68,
+    "totalAssists": 70,
+    "goalScore": 0.1,
+    "assistScore": 0.5,
+    "maxNoPointStreak": 12
   },
   "Brayden Schenn_3703": {
     "sports": [
@@ -4740,9 +4726,9 @@
       "New York Islanders"
     ],
     "totalGoals": 12,
-    "totalAssists": 15,
-    "goalScore": 0.1,
-    "assistScore": 0.47,
+    "totalAssists": 16,
+    "goalScore": 0,
+    "assistScore": 0.4,
     "maxNoPointStreak": 152
   },
   "Kyle Palmieri_3703": {
@@ -4773,19 +4759,19 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 23
   },
-  "Bo Horvat_3703": {
+  "Anthony Duclair_3703": {
     "sports": [
       "NHL"
     ],
-    "name": "Bo Horvat",
+    "name": "Anthony Duclair",
     "teams": [
       "New York Islanders"
     ],
-    "totalGoals": 68,
-    "totalAssists": 70,
-    "goalScore": 0.2,
-    "assistScore": 0.5,
-    "maxNoPointStreak": 12
+    "totalGoals": 28,
+    "totalAssists": 24,
+    "goalScore": 0.3,
+    "assistScore": 0.2,
+    "maxNoPointStreak": 30
   },
   "Mathew Barzal_3703": {
     "sports": [
@@ -4795,10 +4781,10 @@
     "teams": [
       "New York Islanders"
     ],
-    "totalGoals": 25,
+    "totalGoals": 26,
     "totalAssists": 75,
-    "goalScore": 0,
-    "assistScore": 0.67,
+    "goalScore": 0.1,
+    "assistScore": 0.57,
     "maxNoPointStreak": 31
   },
   "Ryan Pulock_3703": {
@@ -4812,7 +4798,7 @@
     "totalGoals": 8,
     "totalAssists": 47,
     "goalScore": 0,
-    "assistScore": 0.37,
+    "assistScore": 0.266667,
     "maxNoPointStreak": 15
   },
   "Mitchell Chaffee_3703": {
@@ -4825,9 +4811,51 @@
     ],
     "totalGoals": 2,
     "totalAssists": 2,
-    "goalScore": 0.166667,
-    "assistScore": 0.316667,
+    "goalScore": 0.25,
+    "assistScore": 0.15,
     "maxNoPointStreak": 171
+  },
+  "Luke Hughes_3704": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Luke Hughes",
+    "teams": [
+      "New Jersey Devils"
+    ],
+    "totalGoals": 19,
+    "totalAssists": 75,
+    "goalScore": 0.1,
+    "assistScore": 0.54,
+    "maxNoPointStreak": 13
+  },
+  "Nico Hischier_3704": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Nico Hischier",
+    "teams": [
+      "New Jersey Devils"
+    ],
+    "totalGoals": 78,
+    "totalAssists": 82,
+    "goalScore": 0.41,
+    "assistScore": 0.35,
+    "maxNoPointStreak": 7
+  },
+  "Cody Glass_3704": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Cody Glass",
+    "teams": [
+      "New Jersey Devils"
+    ],
+    "totalGoals": 23,
+    "totalAssists": 17,
+    "goalScore": 0,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 64
   },
   "Jack Hughes_3704": {
     "sports": [
@@ -4838,7 +4866,7 @@
       "New Jersey Devils"
     ],
     "totalGoals": 63,
-    "totalAssists": 116,
+    "totalAssists": 117,
     "goalScore": 0.25,
     "assistScore": 0.42,
     "maxNoPointStreak": 27
@@ -4854,7 +4882,7 @@
     "totalGoals": 23,
     "totalAssists": 29,
     "goalScore": 0.15,
-    "assistScore": 0.52,
+    "assistScore": 0.42,
     "maxNoPointStreak": 87
   },
   "Luke Evangelista_3704": {
@@ -4871,20 +4899,6 @@
     "assistScore": 0.25,
     "maxNoPointStreak": 177
   },
-  "Luke Hughes_3704": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Luke Hughes",
-    "teams": [
-      "New Jersey Devils"
-    ],
-    "totalGoals": 19,
-    "totalAssists": 75,
-    "goalScore": 0.1,
-    "assistScore": 0.54,
-    "maxNoPointStreak": 13
-  },
   "Amadeus Lombardi_3704": {
     "sports": [
       "NHL"
@@ -4894,24 +4908,52 @@
       "New Jersey Devils"
     ],
     "totalGoals": 1,
-    "totalAssists": 6,
+    "totalAssists": 7,
     "goalScore": 0.15,
-    "assistScore": 0.425,
+    "assistScore": 0.675,
     "maxNoPointStreak": 178
   },
-  "Lenni Hameenaho_3704": {
+  "Dougie Hamilton_3704": {
     "sports": [
       "NHL"
     ],
-    "name": "Lenni Hameenaho",
+    "name": "Dougie Hamilton",
     "teams": [
       "New Jersey Devils"
     ],
-    "totalGoals": 5,
-    "totalAssists": 10,
-    "goalScore": 0.35,
-    "assistScore": 0.42,
-    "maxNoPointStreak": 93
+    "totalGoals": 25,
+    "totalAssists": 71,
+    "goalScore": 0.3,
+    "assistScore": 0.28,
+    "maxNoPointStreak": 24
+  },
+  "Stefan Noesen_3704": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Stefan Noesen",
+    "teams": [
+      "New Jersey Devils"
+    ],
+    "totalGoals": 29,
+    "totalAssists": 26,
+    "goalScore": 0.44,
+    "assistScore": 0.14,
+    "maxNoPointStreak": 46
+  },
+  "Jonas Siegenthaler_3704": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jonas Siegenthaler",
+    "teams": [
+      "New Jersey Devils"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 30,
+    "goalScore": 0,
+    "assistScore": 0.71,
+    "maxNoPointStreak": 60
   },
   "Jesper Bratt_3704": {
     "sports": [
@@ -4923,65 +4965,9 @@
     ],
     "totalGoals": 48,
     "totalAssists": 139,
-    "goalScore": 0.14,
+    "goalScore": 0.04,
     "assistScore": 0.53,
     "maxNoPointStreak": 5
-  },
-  "Dougie Hamilton_3704": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Dougie Hamilton",
-    "teams": [
-      "New Jersey Devils"
-    ],
-    "totalGoals": 25,
-    "totalAssists": 70,
-    "goalScore": 0.3,
-    "assistScore": 0.18,
-    "maxNoPointStreak": 24
-  },
-  "Jonas Siegenthaler_3704": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jonas Siegenthaler",
-    "teams": [
-      "New Jersey Devils"
-    ],
-    "totalGoals": 2,
-    "totalAssists": 29,
-    "goalScore": 0,
-    "assistScore": 0.61,
-    "maxNoPointStreak": 60
-  },
-  "Connor Brown_3704": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Connor Brown",
-    "teams": [
-      "New Jersey Devils"
-    ],
-    "totalGoals": 26,
-    "totalAssists": 30,
-    "goalScore": 0.35,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 88
-  },
-  "Timo Meier_3704": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Timo Meier",
-    "teams": [
-      "New Jersey Devils"
-    ],
-    "totalGoals": 59,
-    "totalAssists": 57,
-    "goalScore": 0.53,
-    "assistScore": 0.43,
-    "maxNoPointStreak": 10
   },
   "Evan Rodrigues_3704": {
     "sports": [
@@ -5025,47 +5011,47 @@
     "assistScore": 0.57,
     "maxNoPointStreak": 178
   },
-  "Nico Hischier_3704": {
+  "Connor Brown_3704": {
     "sports": [
       "NHL"
     ],
-    "name": "Nico Hischier",
+    "name": "Connor Brown",
     "teams": [
       "New Jersey Devils"
     ],
-    "totalGoals": 78,
-    "totalAssists": 82,
-    "goalScore": 0.41,
-    "assistScore": 0.35,
-    "maxNoPointStreak": 7
+    "totalGoals": 27,
+    "totalAssists": 31,
+    "goalScore": 0.45,
+    "assistScore": 0.37,
+    "maxNoPointStreak": 88
   },
-  "Cody Glass_3704": {
+  "Timo Meier_3704": {
     "sports": [
       "NHL"
     ],
-    "name": "Cody Glass",
+    "name": "Timo Meier",
     "teams": [
       "New Jersey Devils"
     ],
-    "totalGoals": 23,
-    "totalAssists": 17,
-    "goalScore": 0.1,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 64
+    "totalGoals": 60,
+    "totalAssists": 57,
+    "goalScore": 0.63,
+    "assistScore": 0.43,
+    "maxNoPointStreak": 10
   },
-  "Stefan Noesen_3704": {
+  "Lenni Hameenaho_3704": {
     "sports": [
       "NHL"
     ],
-    "name": "Stefan Noesen",
+    "name": "Lenni Hameenaho",
     "teams": [
       "New Jersey Devils"
     ],
-    "totalGoals": 29,
-    "totalAssists": 26,
-    "goalScore": 0.506667,
-    "assistScore": 0.04,
-    "maxNoPointStreak": 46
+    "totalGoals": 5,
+    "totalAssists": 10,
+    "goalScore": 0.35,
+    "assistScore": 0.42,
+    "maxNoPointStreak": 93
   },
   "Vladislav Kolyachonok_3704": {
     "sports": [
@@ -5081,19 +5067,19 @@
     "assistScore": 0,
     "maxNoPointStreak": 199
   },
-  "Johnathan Kovacevic_3704": {
+  "Steven Stamkos_3705": {
     "sports": [
       "NHL"
     ],
-    "name": "Johnathan Kovacevic",
+    "name": "Steven Stamkos",
     "teams": [
-      "New Jersey Devils"
+      "Nashville Predators"
     ],
-    "totalGoals": 1,
-    "totalAssists": 26,
-    "goalScore": 0,
-    "assistScore": 0.5,
-    "maxNoPointStreak": 68
+    "totalGoals": 82,
+    "totalAssists": 62,
+    "goalScore": 0.2,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 13
   },
   "Roman Josi_3705": {
     "sports": [
@@ -5109,48 +5095,6 @@
     "assistScore": 0.47,
     "maxNoPointStreak": 32
   },
-  "Filip Forsberg_3705": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Filip Forsberg",
-    "teams": [
-      "Nashville Predators"
-    ],
-    "totalGoals": 80,
-    "totalAssists": 98,
-    "goalScore": 0.27,
-    "assistScore": 0.2,
-    "maxNoPointStreak": 6
-  },
-  "Jonathan Marchessault_3705": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Jonathan Marchessault",
-    "teams": [
-      "Nashville Predators"
-    ],
-    "totalGoals": 37,
-    "totalAssists": 60,
-    "goalScore": 0.65,
-    "assistScore": 0,
-    "maxNoPointStreak": 18
-  },
-  "Nils Hoglander_3705": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Nils Hoglander",
-    "teams": [
-      "Nashville Predators"
-    ],
-    "totalGoals": 5,
-    "totalAssists": 5,
-    "goalScore": 0.2,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 174
-  },
   "Nicolas Hague_3705": {
     "sports": [
       "NHL"
@@ -5160,10 +5104,38 @@
       "Nashville Predators"
     ],
     "totalGoals": 4,
-    "totalAssists": 15,
-    "goalScore": 0.5,
+    "totalAssists": 16,
+    "goalScore": 0.25,
     "assistScore": 0.5,
     "maxNoPointStreak": 83
+  },
+  "Jonathan Marchessault_3705": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Jonathan Marchessault",
+    "teams": [
+      "Nashville Predators"
+    ],
+    "totalGoals": 38,
+    "totalAssists": 61,
+    "goalScore": 0.65,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 18
+  },
+  "Brady Skjei_3705": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Brady Skjei",
+    "teams": [
+      "Nashville Predators"
+    ],
+    "totalGoals": 13,
+    "totalAssists": 58,
+    "goalScore": 0,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 9
   },
   "Matthew Wood_3705": {
     "sports": [
@@ -6156,7 +6128,7 @@
     "totalGoals": 47,
     "totalAssists": 64,
     "goalScore": 0.3,
-    "assistScore": 0.5,
+    "assistScore": 0.4,
     "maxNoPointStreak": 7
   },
   "Mackie Samoskevich_381707": {
@@ -6168,9 +6140,9 @@
       "Seattle Kraken"
     ],
     "totalGoals": 6,
-    "totalAssists": 9,
+    "totalAssists": 10,
     "goalScore": 0,
-    "assistScore": 0.3,
+    "assistScore": 0.4,
     "maxNoPointStreak": 175
   },
   "Jacob Melanson_381707": {
@@ -6184,7 +6156,7 @@
     "totalGoals": 2,
     "totalAssists": 7,
     "goalScore": 0,
-    "assistScore": 0.505,
+    "assistScore": 0.421667,
     "maxNoPointStreak": 124
   },
   "Matthew Wood_381707": {
@@ -6196,7 +6168,7 @@
       "Seattle Kraken"
     ],
     "totalGoals": 0,
-    "totalAssists": 3,
+    "totalAssists": 4,
     "goalScore": 0,
     "assistScore": 0.3,
     "maxNoPointStreak": 188
@@ -6212,7 +6184,7 @@
     "totalGoals": 17,
     "totalAssists": 20,
     "goalScore": 0.44,
-    "assistScore": 0.17,
+    "assistScore": 0,
     "maxNoPointStreak": 86
   },
   "Brandon Montour_381707": {
@@ -6224,7 +6196,7 @@
       "Seattle Kraken"
     ],
     "totalGoals": 33,
-    "totalAssists": 57,
+    "totalAssists": 58,
     "goalScore": 0.3,
     "assistScore": 0.67,
     "maxNoPointStreak": 16
@@ -6238,9 +6210,9 @@
       "Seattle Kraken"
     ],
     "totalGoals": 14,
-    "totalAssists": 7,
+    "totalAssists": 8,
     "goalScore": 0.3,
-    "assistScore": 0.1,
+    "assistScore": 0.2,
     "maxNoPointStreak": 152
   },
   "Kaapo Kakko_381707": {
@@ -6251,25 +6223,53 @@
     "teams": [
       "Seattle Kraken"
     ],
-    "totalGoals": 27,
+    "totalGoals": 28,
     "totalAssists": 64,
     "goalScore": 0.2,
     "assistScore": 0.4,
     "maxNoPointStreak": 35
   },
-  "Alexander Ruuttu_3822": {
+  "Robert Rooba_3822": {
     "sports": [
       "NHL"
     ],
-    "name": "Alexander Ruuttu",
+    "name": "Robert Rooba",
     "teams": [
       "KooKoo Kouvola"
     ],
-    "totalGoals": 0,
-    "totalAssists": 1,
+    "totalGoals": 42,
+    "totalAssists": 56,
+    "goalScore": 0.2,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 12
+  },
+  "Miska Siikonen_3822": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Miska Siikonen",
+    "teams": [
+      "KooKoo Kouvola"
+    ],
+    "totalGoals": 30,
+    "totalAssists": 49,
+    "goalScore": 0.28,
+    "assistScore": 0.1,
+    "maxNoPointStreak": 71
+  },
+  "Vilmos Gallo_3822": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Vilmos Gallo",
+    "teams": [
+      "KooKoo Kouvola"
+    ],
+    "totalGoals": 35,
+    "totalAssists": 65,
     "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 176
+    "assistScore": 0.27,
+    "maxNoPointStreak": 13
   },
   "Marcus Davidsson_3822": {
     "sports": [
@@ -6280,9 +6280,9 @@
       "KooKoo Kouvola"
     ],
     "totalGoals": 35,
-    "totalAssists": 59,
-    "goalScore": 0.5,
-    "assistScore": 0.08,
+    "totalAssists": 60,
+    "goalScore": 0,
+    "assistScore": 0.58,
     "maxNoPointStreak": 9
   },
   "Viljami Nieminen_3823": {
@@ -6327,20 +6327,6 @@
     "assistScore": 0.27,
     "maxNoPointStreak": 150
   },
-  "Linus Sjodin_3824": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Linus Sjodin",
-    "teams": [
-      "Mikkelin Jukurit"
-    ],
-    "totalGoals": 2,
-    "totalAssists": 5,
-    "goalScore": 0.1,
-    "assistScore": 0.34,
-    "maxNoPointStreak": 147
-  },
   "Jeremi Tammela_3824": {
     "sports": [
       "NHL"
@@ -6355,19 +6341,33 @@
     "assistScore": 0.37,
     "maxNoPointStreak": 44
   },
-  "Jiro Frilander_3824": {
+  "Thomas Olsen_3824": {
     "sports": [
       "NHL"
     ],
-    "name": "Jiro Frilander",
+    "name": "Thomas Olsen",
     "teams": [
       "Mikkelin Jukurit"
     ],
-    "totalGoals": 9,
-    "totalAssists": 10,
-    "goalScore": 0.3,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 83
+    "totalGoals": 23,
+    "totalAssists": 18,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 25
+  },
+  "Andrej Sustr_3824": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Andrej Sustr",
+    "teams": [
+      "Mikkelin Jukurit"
+    ],
+    "totalGoals": 1,
+    "totalAssists": 24,
+    "goalScore": 0,
+    "assistScore": 0.54,
+    "maxNoPointStreak": 134
   },
   "Alex Lintuniemi_3824": {
     "sports": [
@@ -6380,22 +6380,8 @@
     "totalGoals": 6,
     "totalAssists": 7,
     "goalScore": 0.27,
-    "assistScore": 0.27,
+    "assistScore": 0.17,
     "maxNoPointStreak": 139
-  },
-  "Andrej Sustr_3824": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Andrej Sustr",
-    "teams": [
-      "Mikkelin Jukurit"
-    ],
-    "totalGoals": 1,
-    "totalAssists": 23,
-    "goalScore": 0,
-    "assistScore": 0.54,
-    "maxNoPointStreak": 134
   },
   "Jacob Hayhurst_3824": {
     "sports": [
@@ -6408,8 +6394,22 @@
     "totalGoals": 6,
     "totalAssists": 15,
     "goalScore": 0.1,
-    "assistScore": 0.37,
+    "assistScore": 0.27,
     "maxNoPointStreak": 137
+  },
+  "Linus Sjodin_3824": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Linus Sjodin",
+    "teams": [
+      "Mikkelin Jukurit"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 5,
+    "goalScore": 0,
+    "assistScore": 0.34,
+    "maxNoPointStreak": 147
   },
   "Benjamin Rautiainen_3834": {
     "sports": [
@@ -6425,33 +6425,19 @@
     "assistScore": 0.28,
     "maxNoPointStreak": 14
   },
-  "Jyrki Jokipakka_3834": {
+  "Vilho Vanhatalo_3834": {
     "sports": [
       "NHL"
     ],
-    "name": "Jyrki Jokipakka",
+    "name": "Vilho Vanhatalo",
     "teams": [
       "Tappara Tampere"
     ],
-    "totalGoals": 16,
-    "totalAssists": 40,
-    "goalScore": 0.04,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 85
-  },
-  "Joachim Blichfeld_3834": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Joachim Blichfeld",
-    "teams": [
-      "Tappara Tampere"
-    ],
-    "totalGoals": 47,
-    "totalAssists": 53,
-    "goalScore": 0.16,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 85
+    "totalGoals": 4,
+    "totalAssists": 3,
+    "goalScore": 0,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 115
   },
   "Eemil Erholtz_3835": {
     "sports": [
@@ -6463,7 +6449,7 @@
     ],
     "totalGoals": 25,
     "totalAssists": 37,
-    "goalScore": 0.4,
+    "goalScore": 0.3,
     "assistScore": 0,
     "maxNoPointStreak": 31
   },
@@ -6492,22 +6478,22 @@
     "totalGoals": 15,
     "totalAssists": 34,
     "goalScore": 0,
-    "assistScore": 0.61,
+    "assistScore": 0.51,
     "maxNoPointStreak": 31
   },
-  "Aleksi Antti-Roiko_3835": {
+  "Tommi Tikka_3835": {
     "sports": [
       "NHL"
     ],
-    "name": "Aleksi Antti-Roiko",
+    "name": "Tommi Tikka",
     "teams": [
       "Oulun Kärpät"
     ],
-    "totalGoals": 7,
-    "totalAssists": 12,
-    "goalScore": 0.25,
-    "assistScore": 0,
-    "maxNoPointStreak": 28
+    "totalGoals": 6,
+    "totalAssists": 15,
+    "goalScore": 0.1,
+    "assistScore": 0.34,
+    "maxNoPointStreak": 42
   },
   "Matyas Kantner_3835": {
     "sports": [
@@ -6523,6 +6509,20 @@
     "assistScore": 0.51,
     "maxNoPointStreak": 31
   },
+  "Tuukka Tieksola_3835": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Tuukka Tieksola",
+    "teams": [
+      "Oulun Kärpät"
+    ],
+    "totalGoals": 7,
+    "totalAssists": 11,
+    "goalScore": 0.333333,
+    "assistScore": 0.166667,
+    "maxNoPointStreak": 31
+  },
   "Vili Munkki_3836": {
     "sports": [
       "NHL"
@@ -6532,9 +6532,9 @@
       "TPS Turku"
     ],
     "totalGoals": 7,
-    "totalAssists": 12,
+    "totalAssists": 13,
     "goalScore": 0.27,
-    "assistScore": 0.17,
+    "assistScore": 0.27,
     "maxNoPointStreak": 47
   },
   "Arttu Tuhkala_3836": {
@@ -6565,19 +6565,33 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 127
   },
-  "Petteri Lindbohm_3836": {
+  "Lukas Wernblom_3836": {
     "sports": [
       "NHL"
     ],
-    "name": "Petteri Lindbohm",
+    "name": "Lukas Wernblom",
     "teams": [
       "TPS Turku"
     ],
-    "totalGoals": 0,
-    "totalAssists": 3,
-    "goalScore": 0,
-    "assistScore": 0.5,
-    "maxNoPointStreak": 140
+    "totalGoals": 58,
+    "totalAssists": 55,
+    "goalScore": 0.566667,
+    "assistScore": 0,
+    "maxNoPointStreak": 9
+  },
+  "Otto Salin_3836": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Otto Salin",
+    "teams": [
+      "TPS Turku"
+    ],
+    "totalGoals": 11,
+    "totalAssists": 22,
+    "goalScore": 0.268,
+    "assistScore": 0.338,
+    "maxNoPointStreak": 92
   },
   "Hugo Gabrielson_3837": {
     "sports": [
@@ -6635,20 +6649,6 @@
     "assistScore": 0.04,
     "maxNoPointStreak": 8
   },
-  "Vincent Marleau_3839": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Vincent Marleau",
-    "teams": [
-      "HIFK Helsinki"
-    ],
-    "totalGoals": 48,
-    "totalAssists": 47,
-    "goalScore": 0.401333,
-    "assistScore": 0.08,
-    "maxNoPointStreak": 10
-  },
   "Niko Huuhtanen_3839": {
     "sports": [
       "NHL"
@@ -6660,7 +6660,7 @@
     "totalGoals": 6,
     "totalAssists": 10,
     "goalScore": 0.1,
-    "assistScore": 0.44,
+    "assistScore": 0.27,
     "maxNoPointStreak": 145
   },
   "Daniel Makiaho_3839": {
@@ -6671,25 +6671,25 @@
     "teams": [
       "HIFK Helsinki"
     ],
-    "totalGoals": 40,
-    "totalAssists": 47,
-    "goalScore": 0.3,
-    "assistScore": 0.2,
+    "totalGoals": 41,
+    "totalAssists": 48,
+    "goalScore": 0.4,
+    "assistScore": 0.3,
     "maxNoPointStreak": 21
   },
-  "Aron Kiviharju_3839": {
+  "Vincent Marleau_3839": {
     "sports": [
       "NHL"
     ],
-    "name": "Aron Kiviharju",
+    "name": "Vincent Marleau",
     "teams": [
       "HIFK Helsinki"
     ],
-    "totalGoals": 10,
-    "totalAssists": 34,
-    "goalScore": 0,
-    "assistScore": 0.28,
-    "maxNoPointStreak": 14
+    "totalGoals": 49,
+    "totalAssists": 48,
+    "goalScore": 0.368,
+    "assistScore": 0.18,
+    "maxNoPointStreak": 10
   },
   "Iiro Pakarinen_3839": {
     "sports": [
@@ -6700,38 +6700,80 @@
       "HIFK Helsinki"
     ],
     "totalGoals": 46,
-    "totalAssists": 32,
-    "goalScore": 0.3,
-    "assistScore": 0.3,
+    "totalAssists": 34,
+    "goalScore": 0.2,
+    "assistScore": 0.37,
     "maxNoPointStreak": 46
   },
-  "Saku Salmela_3839": {
+  "Lukas Pilo_3839": {
     "sports": [
       "NHL"
     ],
-    "name": "Saku Salmela",
+    "name": "Lukas Pilo",
     "teams": [
       "HIFK Helsinki"
     ],
     "totalGoals": 1,
-    "totalAssists": 9,
+    "totalAssists": 6,
     "goalScore": 0,
     "assistScore": 0.25,
-    "maxNoPointStreak": 90
+    "maxNoPointStreak": 144
   },
-  "Andrew Lucas_3840": {
+  "Henri Nikkanen_3840": {
     "sports": [
       "NHL"
     ],
-    "name": "Andrew Lucas",
+    "name": "Henri Nikkanen",
     "teams": [
       "Jokerit Helsinki"
     ],
-    "totalGoals": 0,
-    "totalAssists": 3,
+    "totalGoals": 7,
+    "totalAssists": 5,
+    "goalScore": 0.27,
+    "assistScore": 0.1,
+    "maxNoPointStreak": 68
+  },
+  "Patrick Curry_3840": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Patrick Curry",
+    "teams": [
+      "Jokerit Helsinki"
+    ],
+    "totalGoals": 3,
+    "totalAssists": 12,
     "goalScore": 0,
+    "assistScore": 0.34,
+    "maxNoPointStreak": 68
+  },
+  "Alexander Forslund_3840": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Alexander Forslund",
+    "teams": [
+      "Jokerit Helsinki"
+    ],
+    "totalGoals": 9,
+    "totalAssists": 11,
+    "goalScore": 0.2,
     "assistScore": 0.27,
-    "maxNoPointStreak": 86
+    "maxNoPointStreak": 73
+  },
+  "Eetu Tuulola_3840": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Eetu Tuulola",
+    "teams": [
+      "Jokerit Helsinki"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 6,
+    "goalScore": 0.1,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 68
   },
   "Matic Torok_3841": {
     "sports": [
@@ -7066,22 +7108,8 @@
     "totalGoals": 0,
     "totalAssists": 3,
     "goalScore": 0,
-    "assistScore": 0.675,
+    "assistScore": 0.45,
     "maxNoPointStreak": 175
-  },
-  "Markus Nutivaara_3844": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Markus Nutivaara",
-    "teams": [
-      "Lahti Pelicans"
-    ],
-    "totalGoals": 6,
-    "totalAssists": 5,
-    "goalScore": 0.3,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 156
   },
   "Liam Hawel_3844": {
     "sports": [
@@ -7093,8 +7121,8 @@
     ],
     "totalGoals": 1,
     "totalAssists": 10,
-    "goalScore": 0.25,
-    "assistScore": 0.85,
+    "goalScore": 0.166667,
+    "assistScore": 0.566667,
     "maxNoPointStreak": 155
   },
   "Gabriel Fortier_3844": {
@@ -7811,6 +7839,20 @@
     "assistScore": 0.5,
     "maxNoPointStreak": 178
   },
+  "Austin Ortega_3857": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Austin Ortega",
+    "teams": [
+      "Schwenningen Wild Wings"
+    ],
+    "totalGoals": 2,
+    "totalAssists": 3,
+    "goalScore": 0.5,
+    "assistScore": 0.5,
+    "maxNoPointStreak": 124
+  },
   "Philip Feist_3857": {
     "sports": [
       "NHL"
@@ -7822,22 +7864,8 @@
     "totalGoals": 20,
     "totalAssists": 19,
     "goalScore": 0.34,
-    "assistScore": 0.3,
+    "assistScore": 0.2,
     "maxNoPointStreak": 36
-  },
-  "Reed Lebster_3857": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Reed Lebster",
-    "teams": [
-      "Schwenningen Wild Wings"
-    ],
-    "totalGoals": 3,
-    "totalAssists": 0,
-    "goalScore": 0.283333,
-    "assistScore": 0,
-    "maxNoPointStreak": 127
   },
   "Alexander Karachun_3857": {
     "sports": [
@@ -7848,10 +7876,24 @@
       "Schwenningen Wild Wings"
     ],
     "totalGoals": 45,
-    "totalAssists": 39,
+    "totalAssists": 40,
     "goalScore": 0.278,
     "assistScore": 0.14,
     "maxNoPointStreak": 14
+  },
+  "Kyle Platzer_3857": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Kyle Platzer",
+    "teams": [
+      "Schwenningen Wild Wings"
+    ],
+    "totalGoals": 22,
+    "totalAssists": 56,
+    "goalScore": 0.18,
+    "assistScore": 0.27,
+    "maxNoPointStreak": 7
   },
   "Alex Trivellato_3857": {
     "sports": [
@@ -7923,33 +7965,33 @@
     "assistScore": 0.4,
     "maxNoPointStreak": 8
   },
-  "Justin Scott_3860": {
+  "Julian Napravnik_3860": {
     "sports": [
       "NHL"
     ],
-    "name": "Justin Scott",
+    "name": "Julian Napravnik",
     "teams": [
       "Iserlohn Roosters"
     ],
-    "totalGoals": 7,
-    "totalAssists": 3,
-    "goalScore": 0.37,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 113
+    "totalGoals": 16,
+    "totalAssists": 25,
+    "goalScore": 0.3,
+    "assistScore": 0.2,
+    "maxNoPointStreak": 58
   },
-  "Christian Thomas_3860": {
+  "Johannes Krauss_3860": {
     "sports": [
       "NHL"
     ],
-    "name": "Christian Thomas",
+    "name": "Johannes Krauss",
     "teams": [
       "Iserlohn Roosters"
     ],
-    "totalGoals": 31,
-    "totalAssists": 26,
+    "totalGoals": 2,
+    "totalAssists": 9,
     "goalScore": 0.2,
-    "assistScore": 0.44,
-    "maxNoPointStreak": 38
+    "assistScore": 0.34,
+    "maxNoPointStreak": 119
   },
   "Emil Johansson_3860": {
     "sports": [
@@ -7959,39 +8001,11 @@
     "teams": [
       "Iserlohn Roosters"
     ],
-    "totalGoals": 1,
-    "totalAssists": 5,
-    "goalScore": 0,
-    "assistScore": 0.3,
-    "maxNoPointStreak": 118
-  },
-  "Mac Hollowell_3860": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Mac Hollowell",
-    "teams": [
-      "Iserlohn Roosters"
-    ],
-    "totalGoals": 1,
-    "totalAssists": 9,
-    "goalScore": 0,
-    "assistScore": 0.41,
-    "maxNoPointStreak": 119
-  },
-  "Tyler Boland_3860": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Tyler Boland",
-    "teams": [
-      "Iserlohn Roosters"
-    ],
-    "totalGoals": 32,
-    "totalAssists": 27,
+    "totalGoals": 2,
+    "totalAssists": 6,
     "goalScore": 0.1,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 10
+    "assistScore": 0.4,
+    "maxNoPointStreak": 118
   },
   "Myles Powell_3863": {
     "sports": [
@@ -8469,6 +8483,34 @@
     "assistScore": 0.62,
     "maxNoPointStreak": 6
   },
+  "Sergei Popov_3939": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Sergei Popov",
+    "teams": [
+      "Sibir Novosibirsk"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 5,
+    "goalScore": 0,
+    "assistScore": 0.3,
+    "maxNoPointStreak": 82
+  },
+  "Semyon Koshelev_3939": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Semyon Koshelev",
+    "teams": [
+      "Sibir Novosibirsk"
+    ],
+    "totalGoals": 16,
+    "totalAssists": 14,
+    "goalScore": 0.04,
+    "assistScore": 0.29,
+    "maxNoPointStreak": 31
+  },
   "Vladislav Romanov_3941": {
     "sports": [
       "NHL"
@@ -8478,38 +8520,24 @@
       "SKA St. Petersburg"
     ],
     "totalGoals": 3,
-    "totalAssists": 10,
+    "totalAssists": 12,
     "goalScore": 0,
-    "assistScore": 0.25,
+    "assistScore": 0.32,
     "maxNoPointStreak": 49
   },
-  "Nikita Nedopekin_3941": {
+  "Vasily Glotov_3941": {
     "sports": [
       "NHL"
     ],
-    "name": "Nikita Nedopekin",
+    "name": "Vasily Glotov",
     "teams": [
       "SKA St. Petersburg"
     ],
-    "totalGoals": 6,
-    "totalAssists": 8,
-    "goalScore": 0.27,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 20
-  },
-  "Sergei Sapego_3941": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Sergei Sapego",
-    "teams": [
-      "SKA St. Petersburg"
-    ],
-    "totalGoals": 10,
-    "totalAssists": 21,
-    "goalScore": 0.28,
-    "assistScore": 0,
-    "maxNoPointStreak": 18
+    "totalGoals": 8,
+    "totalAssists": 11,
+    "goalScore": 0.3,
+    "assistScore": 0.17,
+    "maxNoPointStreak": 77
   },
   "Ignat Lutfullin_3941": {
     "sports": [
@@ -8525,34 +8553,6 @@
     "assistScore": 0.6,
     "maxNoPointStreak": 34
   },
-  "Rocco Grimaldi_3941": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Rocco Grimaldi",
-    "teams": [
-      "SKA St. Petersburg"
-    ],
-    "totalGoals": 21,
-    "totalAssists": 23,
-    "goalScore": 0.3,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 16
-  },
-  "Vasily Glotov_3941": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Vasily Glotov",
-    "teams": [
-      "SKA St. Petersburg"
-    ],
-    "totalGoals": 7,
-    "totalAssists": 11,
-    "goalScore": 0.2,
-    "assistScore": 0.27,
-    "maxNoPointStreak": 77
-  },
   "Sergei Plotnikov_3941": {
     "sports": [
       "NHL"
@@ -8564,8 +8564,22 @@
     "totalGoals": 27,
     "totalAssists": 39,
     "goalScore": 0,
-    "assistScore": 0.286667,
+    "assistScore": 0.37,
     "maxNoPointStreak": 11
+  },
+  "Vladimir Grudinin_3943": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Vladimir Grudinin",
+    "teams": [
+      "Severstal Cherepovets"
+    ],
+    "totalGoals": 6,
+    "totalAssists": 17,
+    "goalScore": 0,
+    "assistScore": 0.42,
+    "maxNoPointStreak": 16
   },
   "Ioannis Kaldis_3943": {
     "sports": [
@@ -8595,19 +8609,19 @@
     "assistScore": 0.285,
     "maxNoPointStreak": 20
   },
-  "Vladimir Grudinin_3943": {
+  "Ruslan Abrosimov_3943": {
     "sports": [
       "NHL"
     ],
-    "name": "Vladimir Grudinin",
+    "name": "Ruslan Abrosimov",
     "teams": [
       "Severstal Cherepovets"
     ],
-    "totalGoals": 6,
-    "totalAssists": 17,
-    "goalScore": 0,
-    "assistScore": 0.42,
-    "maxNoPointStreak": 16
+    "totalGoals": 31,
+    "totalAssists": 35,
+    "goalScore": 0.3,
+    "assistScore": 0.14,
+    "maxNoPointStreak": 13
   },
   "Ivan Podshivalov_3943": {
     "sports": [
@@ -8617,10 +8631,10 @@
     "teams": [
       "Severstal Cherepovets"
     ],
-    "totalGoals": 14,
+    "totalGoals": 15,
     "totalAssists": 19,
     "goalScore": 0.34,
-    "assistScore": 0.1,
+    "assistScore": 0,
     "maxNoPointStreak": 16
   },
   "Adam Liska_3943": {
@@ -8631,9 +8645,9 @@
     "teams": [
       "Severstal Cherepovets"
     ],
-    "totalGoals": 25,
+    "totalGoals": 26,
     "totalAssists": 21,
-    "goalScore": 0.39,
+    "goalScore": 0.49,
     "assistScore": 0.2,
     "maxNoPointStreak": 23
   },
@@ -8645,10 +8659,10 @@
     "teams": [
       "Severstal Cherepovets"
     ],
-    "totalGoals": 2,
-    "totalAssists": 1,
-    "goalScore": 0.25,
-    "assistScore": 0.125,
+    "totalGoals": 3,
+    "totalAssists": 2,
+    "goalScore": 0.3,
+    "assistScore": 0.2,
     "maxNoPointStreak": 104
   },
   "Alexander Skorenov_3943": {
@@ -8664,6 +8678,20 @@
     "goalScore": 0,
     "assistScore": 0.49,
     "maxNoPointStreak": 9
+  },
+  "David Dumbadze_3943": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "David Dumbadze",
+    "teams": [
+      "Severstal Cherepovets"
+    ],
+    "totalGoals": 17,
+    "totalAssists": 21,
+    "goalScore": 0,
+    "assistScore": 0.32,
+    "maxNoPointStreak": 18
   },
   "Artyom Zhukov_3943": {
     "sports": [
@@ -8814,7 +8842,7 @@
       "Avangard Omsk"
     ],
     "totalGoals": 11,
-    "totalAssists": 12,
+    "totalAssists": 13,
     "goalScore": 0.27,
     "assistScore": 0.4,
     "maxNoPointStreak": 90
@@ -8827,25 +8855,25 @@
     "teams": [
       "Avangard Omsk"
     ],
-    "totalGoals": 37,
-    "totalAssists": 70,
-    "goalScore": 0.18,
+    "totalGoals": 39,
+    "totalAssists": 71,
+    "goalScore": 0.35,
     "assistScore": 0.44,
     "maxNoPointStreak": 6
   },
-  "Andrew Poturalski_3945": {
+  "Damir Sharipzyanov_3945": {
     "sports": [
       "NHL"
     ],
-    "name": "Andrew Poturalski",
+    "name": "Damir Sharipzyanov",
     "teams": [
       "Avangard Omsk"
     ],
-    "totalGoals": 39,
-    "totalAssists": 56,
-    "goalScore": 0.3,
+    "totalGoals": 27,
+    "totalAssists": 57,
+    "goalScore": 0.14,
     "assistScore": 0.28,
-    "maxNoPointStreak": 6
+    "maxNoPointStreak": 18
   },
   "Maxime Lajoie_3945": {
     "sports": [
@@ -8858,22 +8886,8 @@
     "totalGoals": 16,
     "totalAssists": 38,
     "goalScore": 0.04,
-    "assistScore": 0.4,
+    "assistScore": 0.3,
     "maxNoPointStreak": 20
-  },
-  "Nikolai Prokhorkin_3945": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Nikolai Prokhorkin",
-    "teams": [
-      "Avangard Omsk"
-    ],
-    "totalGoals": 23,
-    "totalAssists": 24,
-    "goalScore": 0,
-    "assistScore": 0.32,
-    "maxNoPointStreak": 25
   },
   "Alexander Volkov_3945": {
     "sports": [
@@ -8883,10 +8897,10 @@
     "teams": [
       "Avangard Omsk"
     ],
-    "totalGoals": 14,
-    "totalAssists": 20,
-    "goalScore": 0.14,
-    "assistScore": 0.28,
+    "totalGoals": 15,
+    "totalAssists": 21,
+    "goalScore": 0.24,
+    "assistScore": 0.38,
     "maxNoPointStreak": 27
   },
   "Vasily Ponomarev_3945": {
@@ -9043,20 +9057,6 @@
     "assistScore": 0.12,
     "maxNoPointStreak": 7
   },
-  "Alexei Byvaltsev_3947": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Alexei Byvaltsev",
-    "teams": [
-      "Ak Bars Kazan"
-    ],
-    "totalGoals": 3,
-    "totalAssists": 4,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 97
-  },
   "Maxim Beryozkin_3948": {
     "sports": [
       "NHL"
@@ -9065,9 +9065,9 @@
     "teams": [
       "Lokomotiv Yaroslavl"
     ],
-    "totalGoals": 13,
+    "totalGoals": 14,
     "totalAssists": 32,
-    "goalScore": 0.04,
+    "goalScore": 0.14,
     "assistScore": 0.3,
     "maxNoPointStreak": 23
   },
@@ -9085,6 +9085,20 @@
     "assistScore": 0.3,
     "maxNoPointStreak": 11
   },
+  "Andrei Pustovoi_3948": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Andrei Pustovoi",
+    "teams": [
+      "Lokomotiv Yaroslavl"
+    ],
+    "totalGoals": 4,
+    "totalAssists": 3,
+    "goalScore": 0.27,
+    "assistScore": 0.1,
+    "maxNoPointStreak": 106
+  },
   "Rushan Rafikov_3948": {
     "sports": [
       "NHL"
@@ -9094,9 +9108,9 @@
       "Lokomotiv Yaroslavl"
     ],
     "totalGoals": 15,
-    "totalAssists": 37,
+    "totalAssists": 38,
     "goalScore": 0.2,
-    "assistScore": 0.41,
+    "assistScore": 0.51,
     "maxNoPointStreak": 13
   },
   "Maxim Shalunov_3948": {
@@ -9108,9 +9122,9 @@
       "Lokomotiv Yaroslavl"
     ],
     "totalGoals": 43,
-    "totalAssists": 25,
+    "totalAssists": 26,
     "goalScore": 0.24,
-    "assistScore": 0.3,
+    "assistScore": 0.4,
     "maxNoPointStreak": 7
   },
   "Artur Kayumov_3948": {
@@ -9127,19 +9141,19 @@
     "assistScore": 0.28,
     "maxNoPointStreak": 17
   },
-  "Danila Galenyuk_3950": {
+  "Alexei Kruchinin_3950": {
     "sports": [
       "NHL"
     ],
-    "name": "Danila Galenyuk",
+    "name": "Alexei Kruchinin",
     "teams": [
       "Amur Khabarovsk"
     ],
-    "totalGoals": 0,
-    "totalAssists": 1,
-    "goalScore": 0,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 99
+    "totalGoals": 5,
+    "totalAssists": 0,
+    "goalScore": 0.3,
+    "assistScore": 0,
+    "maxNoPointStreak": 85
   },
   "Maxim Fedotov_3951": {
     "sports": [
@@ -9393,19 +9407,19 @@
     "assistScore": 0.25,
     "maxNoPointStreak": 114
   },
-  "Logan Cooley_530472": {
+  "Barrett Hayton_530472": {
     "sports": [
       "NHL"
     ],
-    "name": "Logan Cooley",
+    "name": "Barrett Hayton",
     "teams": [
       "Utah Mammoth"
     ],
-    "totalGoals": 64,
-    "totalAssists": 74,
-    "goalScore": 0.356667,
-    "assistScore": 0.69,
-    "maxNoPointStreak": 32
+    "totalGoals": 35,
+    "totalAssists": 54,
+    "goalScore": 0.2,
+    "assistScore": 0.25,
+    "maxNoPointStreak": 22
   },
   "Zac Jones_530472": {
     "sports": [
@@ -9421,6 +9435,48 @@
     "assistScore": 0.15,
     "maxNoPointStreak": 179
   },
+  "Dylan Guenther_530472": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Dylan Guenther",
+    "teams": [
+      "Utah Mammoth"
+    ],
+    "totalGoals": 79,
+    "totalAssists": 78,
+    "goalScore": 0.22,
+    "assistScore": 0.38,
+    "maxNoPointStreak": 14
+  },
+  "Logan Cooley_530472": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Logan Cooley",
+    "teams": [
+      "Utah Mammoth"
+    ],
+    "totalGoals": 64,
+    "totalAssists": 75,
+    "goalScore": 0.29,
+    "assistScore": 0.59,
+    "maxNoPointStreak": 32
+  },
+  "Daniil But_530472": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Daniil But",
+    "teams": [
+      "Utah Mammoth"
+    ],
+    "totalGoals": 7,
+    "totalAssists": 8,
+    "goalScore": 0.06,
+    "assistScore": 0.26,
+    "maxNoPointStreak": 83
+  },
   "Anders Lee_530472": {
     "sports": [
       "NHL"
@@ -9434,6 +9490,20 @@
     "goalScore": 0.255,
     "assistScore": 0.2,
     "maxNoPointStreak": 178
+  },
+  "Vincent Trocheck_530472": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Vincent Trocheck",
+    "teams": [
+      "Utah Mammoth"
+    ],
+    "totalGoals": 6,
+    "totalAssists": 9,
+    "goalScore": 0.3,
+    "assistScore": 0.2,
+    "maxNoPointStreak": 181
   },
   "MacKenzie Weegar_530472": {
     "sports": [
@@ -9472,10 +9542,24 @@
       "Utah Mammoth"
     ],
     "totalGoals": 22,
-    "totalAssists": 36,
+    "totalAssists": 37,
     "goalScore": 0.1,
-    "assistScore": 0.34,
+    "assistScore": 0.44,
     "maxNoPointStreak": 12
+  },
+  "Clayton Keller_530472": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Clayton Keller",
+    "teams": [
+      "Utah Mammoth"
+    ],
+    "totalGoals": 64,
+    "totalAssists": 153,
+    "goalScore": 0.24,
+    "assistScore": 0.806,
+    "maxNoPointStreak": 6
   },
   "Mikhail Sergachev_530472": {
     "sports": [
@@ -9505,62 +9589,6 @@
     "assistScore": 0.688,
     "maxNoPointStreak": 73
   },
-  "Barrett Hayton_530472": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Barrett Hayton",
-    "teams": [
-      "Utah Mammoth"
-    ],
-    "totalGoals": 35,
-    "totalAssists": 54,
-    "goalScore": 0.2,
-    "assistScore": 0.25,
-    "maxNoPointStreak": 22
-  },
-  "Vincent Trocheck_530472": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Vincent Trocheck",
-    "teams": [
-      "Utah Mammoth"
-    ],
-    "totalGoals": 6,
-    "totalAssists": 8,
-    "goalScore": 0.3,
-    "assistScore": 0.1,
-    "maxNoPointStreak": 181
-  },
-  "Clayton Keller_530472": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Clayton Keller",
-    "teams": [
-      "Utah Mammoth"
-    ],
-    "totalGoals": 64,
-    "totalAssists": 153,
-    "goalScore": 0.24,
-    "assistScore": 0.906,
-    "maxNoPointStreak": 6
-  },
-  "Dylan Guenther_530472": {
-    "sports": [
-      "NHL"
-    ],
-    "name": "Dylan Guenther",
-    "teams": [
-      "Utah Mammoth"
-    ],
-    "totalGoals": 79,
-    "totalAssists": 78,
-    "goalScore": 0.22,
-    "assistScore": 0.38,
-    "maxNoPointStreak": 14
-  },
   "Nate Schmidt_530472": {
     "sports": [
       "NHL"
@@ -9583,10 +9611,10 @@
     "teams": [
       "EHC Red Bull München"
     ],
-    "totalGoals": 45,
-    "totalAssists": 32,
+    "totalGoals": 46,
+    "totalAssists": 34,
     "goalScore": 0.28,
-    "assistScore": 0.31,
+    "assistScore": 0.38,
     "maxNoPointStreak": 17
   },
   "Taro Hirose_5426": {
@@ -9597,10 +9625,10 @@
     "teams": [
       "EHC Red Bull München"
     ],
-    "totalGoals": 31,
-    "totalAssists": 90,
-    "goalScore": 0.04,
-    "assistScore": 0.38,
+    "totalGoals": 33,
+    "totalAssists": 91,
+    "goalScore": 0.21,
+    "assistScore": 0.48,
     "maxNoPointStreak": 9
   },
   "Yasin Ehliz_5426": {
@@ -9611,10 +9639,10 @@
     "teams": [
       "EHC Red Bull München"
     ],
-    "totalGoals": 40,
-    "totalAssists": 55,
-    "goalScore": 0.22,
-    "assistScore": 0.408,
+    "totalGoals": 42,
+    "totalAssists": 57,
+    "goalScore": 0.39,
+    "assistScore": 0.478,
     "maxNoPointStreak": 10
   },
   "Patrick Hager_5426": {
@@ -9625,9 +9653,9 @@
     "teams": [
       "EHC Red Bull München"
     ],
-    "totalGoals": 27,
+    "totalGoals": 28,
     "totalAssists": 42,
-    "goalScore": 0.34,
+    "goalScore": 0.44,
     "assistScore": 0.17,
     "maxNoPointStreak": 11
   },
@@ -9641,8 +9669,8 @@
     ],
     "totalGoals": 7,
     "totalAssists": 11,
-    "goalScore": 0.283333,
-    "assistScore": 0.49,
+    "goalScore": 0.17,
+    "assistScore": 0.41,
     "maxNoPointStreak": 63
   },
   "Lukas Klok_5426": {
@@ -9667,10 +9695,10 @@
     "teams": [
       "EHC Red Bull München"
     ],
-    "totalGoals": 7,
-    "totalAssists": 30,
-    "goalScore": 0,
-    "assistScore": 0.308,
+    "totalGoals": 8,
+    "totalAssists": 32,
+    "goalScore": 0.1,
+    "assistScore": 0.478,
     "maxNoPointStreak": 63
   },
   "Bobby Lynch_5430": {
@@ -9684,7 +9712,7 @@
     "totalGoals": 17,
     "totalAssists": 24,
     "goalScore": 0.1,
-    "assistScore": 0.47,
+    "assistScore": 0.37,
     "maxNoPointStreak": 61
   },
   "Tyler Gaudet_5430": {
@@ -9725,8 +9753,8 @@
     ],
     "totalGoals": 6,
     "totalAssists": 3,
-    "goalScore": 0.283333,
-    "assistScore": 0,
+    "goalScore": 0.27,
+    "assistScore": 0.1,
     "maxNoPointStreak": 115
   },
   "Spencer Machacek_5430": {
@@ -9754,7 +9782,7 @@
     "totalGoals": 12,
     "totalAssists": 38,
     "goalScore": 0,
-    "assistScore": 0.7,
+    "assistScore": 0.473333,
     "maxNoPointStreak": 19
   },
   "Matt Choupani_5430": {
@@ -9781,7 +9809,7 @@
     ],
     "totalGoals": 12,
     "totalAssists": 16,
-    "goalScore": 0.27,
+    "goalScore": 0.17,
     "assistScore": 0.27,
     "maxNoPointStreak": 58
   },
@@ -10187,8 +10215,8 @@
     ],
     "totalGoals": 4,
     "totalAssists": 16,
-    "goalScore": 0.14,
-    "assistScore": 0.44,
+    "goalScore": 0.04,
+    "assistScore": 0.34,
     "maxNoPointStreak": 52
   },
   "Bogdan Konyushkov_7857": {
@@ -10204,5 +10232,47 @@
     "goalScore": 0,
     "assistScore": 0.274667,
     "maxNoPointStreak": 9
+  },
+  "Matvei Polyakov_7857": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Matvei Polyakov",
+    "teams": [
+      "Torpedo Nizhny Novgorod"
+    ],
+    "totalGoals": 5,
+    "totalAssists": 7,
+    "goalScore": 0.333333,
+    "assistScore": 0.166667,
+    "maxNoPointStreak": 91
+  },
+  "Vladimir Tkachyov_7857": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Vladimir Tkachyov",
+    "teams": [
+      "Torpedo Nizhny Novgorod"
+    ],
+    "totalGoals": 20,
+    "totalAssists": 32,
+    "goalScore": 0,
+    "assistScore": 0.28,
+    "maxNoPointStreak": 33
+  },
+  "Nikita Shavin_7857": {
+    "sports": [
+      "NHL"
+    ],
+    "name": "Nikita Shavin",
+    "teams": [
+      "Torpedo Nizhny Novgorod"
+    ],
+    "totalGoals": 12,
+    "totalAssists": 7,
+    "goalScore": 0.25,
+    "assistScore": 0.04,
+    "maxNoPointStreak": 17
   }
 }
